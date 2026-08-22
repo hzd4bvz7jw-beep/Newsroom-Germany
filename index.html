@@ -1,144 +1,82 @@
-const Parser = require('rss-parser');
-const fs = require('fs');
-
-// Parser mit vollwertigem User-Agent (verhindert Blockaden durch Google/Simracing-Feeds)
-const parser = new Parser({
-  headers: { 
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
-  }
-});
-
-// Definition aller Feed-Quellen
-const FEEDS = {
-  de: [
-    'https://www.gamestar.de/news/rss/news.rss',
-    'https://www.computerbase.de/rss/news.xml',
-    'https://www.pcgameshardware.de/feed.cfm'
-  ],
-  sim: [
-    'https://news.google.com/rss/search?q=Simracing+OR+iRacing+OR+%22Assetto+Corsa%22&hl=de&gl=DE&ceid=DE:de',
-    'https://www.speedweek.com/rss/news/1',
-    'https://www.motorsport-total.com/rss/news.xml'
-  ],
-  int: [
-    'https://feeds.feedburner.com/ign/all',
-    'https://www.eurogamer.net/feed/news'
-  ]
-};
-
-// Hilfsfunktion: Entfernt HTML-Tags aus Beschreibungen
-function stripHtml(html) {
-  if (!html) return '';
-  let text = html.replace(/<[^>]*>?/gm, '');
-  return text.length > 150 ? text.substring(0, 150) + '...' : text;
-}
-
-// Lädt einen einzelnen RSS-Feed
-async function loadFeed(url) {
-  try {
-    const feed = await parser.parseURL(url);
-    const source = url.includes('google.com') ? 'Simracing DE' : (feed.title || 'News').replace(/ Feed| RSS/g, '');
-    return feed.items.map(item => ({
-      title: item.title,
-      link: item.link,
-      pubDate: item.pubDate ? new Date(item.pubDate) : new Date(),
-      snippet: stripHtml(item.contentSnippet || item.content || item.summary),
-      source: source
-    }));
-  } catch (err) {
-    console.error(`Fehler bei ${url}:`, err.message);
-    return [];
-  }
-}
-
-// Hauptfunktion: Feeds verarbeiten und index.html generieren
-async function build() {
-  const categories = {};
-
-  for (const [key, urls] of Object.entries(FEEDS)) {
-    let items = [];
-    for (const url of urls) {
-      const fetched = await loadFeed(url);
-      items = items.concat(fetched);
-    }
-    
-    // Duplikate filtern & nach Datum sortieren
-    const unique = Array.from(new Map(items.map(item => [item.title.toLowerCase().trim(), item])).values());
-    unique.sort((a, b) => b.pubDate - a.pubDate);
-    categories[key] = unique.slice(0, 12);
-  }
-
-  function renderCards(items) {
-    if (!items || items.length === 0) return '<div class="loading">Keine News verfügbar.</div>';
-    return items.map(item => `
-      <div class="news-card">
-        <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
-        <div class="news-meta">
-          <span>📅 ${item.pubDate.toLocaleDateString('de-DE', {day: '2-digit', month:'2-digit'})} ${item.pubDate.toLocaleTimeString('de-DE', {hour: '2-digit', minute:'2-digit'})} Uhr</span>
-          <span>📌 ${item.source}</span>
-        </div>
-        <div class="news-summary">${item.snippet}</div>
-      </div>
-    `).join('');
-  }
-
-  // Generiert das vollständige HTML-Dokument
-  const htmlContent = `<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Gaming & Simracing News Dashboard</title>
+  <title>Gaming & Simracing News</title>
   <style>
     :root {
-      --bg-color: #0f172a;
+      --bg: #0f172a;
       --card-bg: #1e293b;
-      --text-color: #f8fafc;
+      --text: #f8fafc;
       --accent-de: #3b82f6;
       --accent-sim: #ef4444;
       --accent-int: #a855f7;
-      --muted: #94a3b8;
     }
-    body { font-family: system-ui, -apple-system, sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 20px; }
-    h1 { text-align: center; margin-bottom: 10px; font-size: 2rem; }
-    .updated { text-align: center; color: var(--muted); font-size: 0.85rem; margin-bottom: 30px; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; max-width: 1600px; margin: 0 auto; }
-    .column { background: rgba(255, 255, 255, 0.03); border-radius: 12px; padding: 16px; border: 1px solid rgba(255, 255, 255, 0.1); }
-    .column-title { font-size: 1.25rem; padding-bottom: 10px; margin-bottom: 15px; border-bottom: 3px solid; display: flex; justify-content: space-between; align-items: center; }
-    .de-head { border-color: var(--accent-de); color: var(--accent-de); }
-    .sim-head { border-color: var(--accent-sim); color: var(--accent-sim); }
-    .int-head { border-color: var(--accent-int); color: var(--accent-int); }
-    .news-card { background: var(--card-bg); border-radius: 8px; padding: 14px; margin-bottom: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3); }
-    .news-card h3 { margin: 0 0 8px 0; font-size: 1rem; line-height: 1.3; }
-    .news-card h3 a { color: var(--text-color); text-decoration: none; }
-    .news-card h3 a:hover { text-decoration: underline; }
-    .news-meta { font-size: 0.75rem; color: var(--muted); margin-bottom: 8px; display: flex; gap: 10px; flex-wrap: wrap; }
-    .news-summary { font-size: 0.85rem; color: #cbd5e1; line-height: 1.4; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 20px;
+    }
+    h1 { text-align: center; margin-bottom: 30px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    .column {
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 12px;
+      padding: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .title {
+      font-size: 1.2rem;
+      padding-bottom: 8px;
+      margin-bottom: 15px;
+      border-bottom: 3px solid;
+    }
+    .de { border-color: var(--accent-de); color: var(--accent-de); }
+    .sim { border-color: var(--accent-sim); color: var(--accent-sim); }
+    .int { border-color: var(--accent-int); color: var(--accent-int); }
+
+    /* RSS Widget Design Anpassen */
+    iframe {
+      width: 100%;
+      height: 700px;
+      border: none;
+      border-radius: 8px;
+      background: var(--card-bg);
+    }
   </style>
 </head>
 <body>
-  <h1>🎮 Gaming & Simracing Live Dashboard</h1>
-  <div class="updated">Zuletzt aktualisiert: ${new Date().toLocaleString('de-DE', { timeZone: 'Europe/Berlin' })} Uhr</div>
+
+  <h1>🎮 Gaming & Simracing Dashboard</h1>
+
   <div class="grid">
+    <!-- DEUTSCH GAMING -->
     <div class="column">
-      <div class="column-title de-head"><span>🇩🇪 Gaming (DACH)</span></div>
-      ${renderCards(categories.de)}
+      <div class="title de">🇩🇪 Gaming (DACH)</div>
+      <iframe src="https://www.rssfeedwidget.com/widget/index/html/feed_url=https%3A%2F%2Fwww.gamestar.de%2Fnews%2Frss%2Fnews.rss/show_title=0/show_desc=1/desc_len=120/max_items=8/bg_color=1e293b/text_color=f8fafc/link_color=3b82f6/"></iframe>
     </div>
+
+    <!-- SIMRACING DEUTSCH -->
     <div class="column">
-      <div class="column-title sim-head"><span>🏎️ Simracing (DE)</span></div>
-      ${renderCards(categories.sim)}
+      <div class="title sim">🏎️ Simracing (DE)</div>
+      <iframe src="https://www.rssfeedwidget.com/widget/index/html/feed_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3DSimracing%2BOR%2BiRacing%2BOR%2B%2522Assetto%2BCorsa%2522%26hl%3Dde%26gl%3DDE%26ceid%3DDE%3Ade/show_title=0/show_desc=1/desc_len=120/max_items=8/bg_color=1e293b/text_color=f8fafc/link_color=ef4444/"></iframe>
     </div>
+
+    <!-- INTERNATIONAL GAMING -->
     <div class="column">
-      <div class="column-title int-head"><span>🌐 Gaming (International)</span></div>
-      ${renderCards(categories.int)}
+      <div class="title int">🌐 Gaming (International)</div>
+      <iframe src="https://www.rssfeedwidget.com/widget/index/html/feed_url=https%3A%2F%2Fwww.eurogamer.net%2Ffeed%2Fnews/show_title=0/show_desc=1/desc_len=120/max_items=8/bg_color=1e293b/text_color=f8fafc/link_color=a855f7/"></iframe>
     </div>
   </div>
+
 </body>
-</html>`;
-
-  fs.writeFileSync('index.html', htmlContent);
-  console.log('index.html wurde erfolgreich neu generiert!');
-}
-
-build();
+</html>
