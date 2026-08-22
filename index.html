@@ -7,11 +7,12 @@
   <style>
     :root {
       --bg: #0f172a;
-      --card-bg: #1e293b;
+      --card: #1e293b;
       --text: #f8fafc;
       --accent-de: #3b82f6;
       --accent-sim: #ef4444;
       --accent-int: #a855f7;
+      --muted: #94a3b8;
     }
     body {
       font-family: system-ui, -apple-system, sans-serif;
@@ -20,12 +21,12 @@
       margin: 0;
       padding: 20px;
     }
-    h1 { text-align: center; margin-bottom: 30px; }
+    h1 { text-align: center; margin-bottom: 25px; }
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       gap: 20px;
-      max-width: 1400px;
+      max-width: 1600px;
       margin: 0 auto;
     }
     .column {
@@ -34,8 +35,9 @@
       padding: 16px;
       border: 1px solid rgba(255, 255, 255, 0.1);
     }
-    .title {
+    .col-title {
       font-size: 1.2rem;
+      font-weight: bold;
       padding-bottom: 8px;
       margin-bottom: 15px;
       border-bottom: 3px solid;
@@ -44,39 +46,153 @@
     .sim { border-color: var(--accent-sim); color: var(--accent-sim); }
     .int { border-color: var(--accent-int); color: var(--accent-int); }
 
-    /* RSS Widget Design Anpassen */
-    iframe {
-      width: 100%;
-      height: 700px;
-      border: none;
+    .card {
+      background: var(--card);
       border-radius: 8px;
-      background: var(--card-bg);
+      padding: 12px;
+      margin-bottom: 12px;
+    }
+    .card h3 {
+      margin: 0 0 6px 0;
+      font-size: 0.95rem;
+      line-height: 1.3;
+    }
+    .card h3 a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .card h3 a:hover { text-decoration: underline; }
+    .meta {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-bottom: 6px;
+      display: flex;
+      gap: 8px;
+    }
+    .desc {
+      font-size: 0.82rem;
+      color: #cbd5e1;
+      line-height: 1.35;
+    }
+    .status {
+      color: var(--muted);
+      font-style: italic;
     }
   </style>
 </head>
 <body>
 
-  <h1>🎮 Gaming & Simracing Dashboard</h1>
+  <h1>🎮 Gaming & Simracing Live Dashboard</h1>
 
   <div class="grid">
-    <!-- DEUTSCH GAMING -->
     <div class="column">
-      <div class="title de">🇩🇪 Gaming (DACH)</div>
-      <iframe src="https://www.rssfeedwidget.com/widget/index/html/feed_url=https%3A%2F%2Fwww.gamestar.de%2Fnews%2Frss%2Fnews.rss/show_title=0/show_desc=1/desc_len=120/max_items=8/bg_color=1e293b/text_color=f8fafc/link_color=3b82f6/"></iframe>
+      <div class="col-title de">🇩🇪 Gaming (DACH)</div>
+      <div id="feed-de" class="status">Lade News...</div>
     </div>
 
-    <!-- SIMRACING DEUTSCH -->
     <div class="column">
-      <div class="title sim">🏎️ Simracing (DE)</div>
-      <iframe src="https://www.rssfeedwidget.com/widget/index/html/feed_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3DSimracing%2BOR%2BiRacing%2BOR%2B%2522Assetto%2BCorsa%2522%26hl%3Dde%26gl%3DDE%26ceid%3DDE%3Ade/show_title=0/show_desc=1/desc_len=120/max_items=8/bg_color=1e293b/text_color=f8fafc/link_color=ef4444/"></iframe>
+      <div class="col-title sim">🏎️ Simracing (DE)</div>
+      <div id="feed-sim" class="status">Lade Simracing-News...</div>
     </div>
 
-    <!-- INTERNATIONAL GAMING -->
     <div class="column">
-      <div class="title int">🌐 Gaming (International)</div>
-      <iframe src="https://www.rssfeedwidget.com/widget/index/html/feed_url=https%3A%2F%2Fwww.eurogamer.net%2Ffeed%2Fnews/show_title=0/show_desc=1/desc_len=120/max_items=8/bg_color=1e293b/text_color=f8fafc/link_color=a855f7/"></iframe>
+      <div class="col-title int">🌐 Gaming (International)</div>
+      <div id="feed-int" class="status">Lade News...</div>
     </div>
   </div>
 
+  <script>
+    const FEEDS = {
+      de: [
+        { name: 'GameStar', url: 'https://www.gamestar.de/news/rss/news.rss' },
+        { name: 'PC Games Hardware', url: 'https://www.pcgameshardware.de/feed.cfm' }
+      ],
+      sim: [
+        { name: 'Motorsport-Total', url: 'https://www.motorsport-total.com/rss/news.xml' },
+        { name: 'Google News Simracing', url: 'https://news.google.com/rss/search?q=Simracing+OR+iRacing+OR+%22Assetto+Corsa%22&hl=de&gl=DE&ceid=DE:de' }
+      ],
+      int: [
+        { name: 'Eurogamer', url: 'https://www.eurogamer.net/feed/news' },
+        { name: 'IGN', url: 'https://feeds.feedburner.com/ign/all' }
+      ]
+    };
+
+    function cleanText(html) {
+      if (!html) return '';
+      let doc = new DOMParser().parseFromString(html, 'text/html');
+      let txt = doc.body.textContent || "";
+      return txt.length > 140 ? txt.substring(0, 140) + '...' : txt;
+    }
+
+    async function loadXml(url) {
+      const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+      try {
+        const res = await fetch(proxyUrl);
+        if (!res.ok) return [];
+        const str = await res.text();
+        const xml = new DOMParser().parseFromString(str, "text/xml");
+        const items = Array.from(xml.querySelectorAll("item"));
+        
+        return items.map(item => {
+          const title = item.querySelector("title")?.textContent || "";
+          const link = item.querySelector("link")?.textContent || "";
+          const pubDate = item.querySelector("pubDate")?.textContent || "";
+          const desc = item.querySelector("description")?.textContent || item.querySelector("encoded")?.textContent || "";
+          return { title, link, pubDate: new Date(pubDate), desc };
+        });
+      } catch (e) {
+        return [];
+      }
+    }
+
+    async function renderCategory(catKey, elementId) {
+      const container = document.getElementById(elementId);
+      let allArticles = [];
+
+      for (let source of FEEDS[catKey]) {
+        const articles = await loadXml(source.url);
+        articles.forEach(a => {
+          if (a.title) {
+            allArticles.push({ ...a, sourceName: source.name });
+          }
+        });
+      }
+
+      // Sortieren nach Datum
+      allArticles.sort((a, b) => b.pubDate - a.pubDate);
+
+      // Duplikate entfernen
+      const unique = [];
+      const titles = new Set();
+      for (let art of allArticles) {
+        if (!titles.has(art.title.toLowerCase().trim())) {
+          titles.add(art.title.toLowerCase().trim());
+          unique.push(art);
+        }
+      }
+
+      const top = unique.slice(0, 10);
+
+      if (top.length === 0) {
+        container.innerHTML = "Keine News geladen.";
+        return;
+      }
+
+      container.innerHTML = top.map(item => `
+        <div class="card">
+          <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
+          <div class="meta">
+            <span>📅 ${isNaN(item.pubDate) ? '' : item.pubDate.toLocaleDateString('de-DE', {day:'2-digit', month:'2-digit'}) + ' ' + item.pubDate.toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'}) + ' Uhr'}</span>
+            <span>📌 ${item.sourceName}</span>
+          </div>
+          <div class="desc">${cleanText(item.desc)}</div>
+        </div>
+      `).join('');
+    }
+
+    renderCategory('de', 'feed-de');
+    renderCategory('sim', 'feed-sim');
+    renderCategory('int', 'feed-int');
+  </script>
 </body>
 </html>
