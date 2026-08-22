@@ -123,7 +123,7 @@
     <!-- SIMRACING DEUTSCH -->
     <div class="column">
       <div class="column-title sim-head">
-        <span>🏎️ Simracing & Motorsport (DE)</span>
+        <span>🏎️ Simracing (DE)</span>
       </div>
       <div id="feed-sim" class="loading">Lade deutsche Simracing-News...</div>
     </div>
@@ -146,8 +146,9 @@
         'https://www.pcgameshardware.de/feed.cfm'
       ],
       sim: [
-        'https://www.motorsport-magazin.com/rss/editorial.xml',
-        'https://www.kicker.de/news/aktuell/rss'
+        // Google News RSS Bridge ausschließlich für deutsche Simracing-Inhalte
+        'https://news.google.com/rss/search?q=Simracing+OR+iRacing+OR+"Assetto+Corsa"+when:7d&hl=de&gl=DE&ceid=DE:de',
+        'https://www.motorsport-total.com/rss/news.xml'
       ],
       int: [
         'https://feeds.feedburner.com/ign/all',
@@ -155,7 +156,7 @@
       ]
     };
 
-    // Hilfsfunktion zum Bereinigen von HTML-Tags in der Zusammenfassung
+    // Hilfsfunktion zum Bereinigen von HTML-Tags
     function stripHtml(html) {
       if (!html) return "";
       let tmp = document.createElement("DIV");
@@ -164,21 +165,22 @@
       return text.length > 150 ? text.substring(0, 150) + "..." : text;
     }
 
-    // Robuste Fetch-Funktion mit Fallback-Proxies
+    // Robuste Fetch-Funktion
     async function fetchFeed(url) {
       // 1. Versuch: rss2json API
       try {
         const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
         const data = await res.json();
         if (data.status === 'ok' && data.items && data.items.length > 0) {
-          const sourceName = data.feed.title ? data.feed.title.replace(" Feed", "").replace(" RSS", "") : "News";
+          const defaultSource = url.includes('google.com') ? 'Simracing DE' : 'News';
+          const sourceName = data.feed.title ? data.feed.title.replace(" Feed", "").replace(" RSS", "") : defaultSource;
           return data.items.map(item => ({ ...item, source: sourceName }));
         }
       } catch (e) {
         console.warn("rss2json fehlgeschlagen für:", url);
       }
 
-      // 2. Versuch (Fallback): AllOrigins Proxy (falls CORS blockiert)
+      // 2. Versuch (Fallback): AllOrigins Proxy
       try {
         const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
         const data = await res.json();
@@ -195,7 +197,7 @@
               link,
               pubDate,
               description,
-              source: new URL(url).hostname.replace("www.", "")
+              source: url.includes('google.com') ? 'Simracing DE' : 'Motorsport'
             };
           });
           return items;
@@ -219,11 +221,22 @@
         allItems = allItems.concat(items);
       });
 
+      // Duplikate filtern (falls Google News gleiche Artikel aggregiert)
+      const uniqueItems = [];
+      const titles = new Set();
+      for (const item of allItems) {
+        const cleanTitle = item.title.trim().toLowerCase();
+        if (!titles.has(cleanTitle)) {
+          titles.add(cleanTitle);
+          uniqueItems.push(item);
+        }
+      }
+
       // Nach Datum sortieren (neueste zuerst)
-      allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+      uniqueItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
       // Top 12 Artikel anzeigen
-      const topItems = allItems.slice(0, 12);
+      const topItems = uniqueItems.slice(0, 12);
 
       if (topItems.length === 0) {
         container.innerHTML = "<div style='color: #ef4444;'>Keine News geladen. Feeds temporär nicht erreichbar.</div>";
