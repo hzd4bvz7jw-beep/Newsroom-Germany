@@ -67,24 +67,11 @@
       box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);
     }
 
-    .news-card:hover {
-      transform: translateY(-2px);
-    }
+    .news-card:hover { transform: translateY(-2px); }
 
-    .news-card h3 {
-      margin: 0 0 8px 0;
-      font-size: 1rem;
-      line-height: 1.3;
-    }
-
-    .news-card h3 a {
-      color: var(--text-color);
-      text-decoration: none;
-    }
-
-    .news-card h3 a:hover {
-      text-decoration: underline;
-    }
+    .news-card h3 { margin: 0 0 8px 0; font-size: 1rem; line-height: 1.3; }
+    .news-card h3 a { color: var(--text-color); text-decoration: none; }
+    .news-card h3 a:hover { text-decoration: underline; }
 
     .news-meta {
       font-size: 0.75rem;
@@ -95,16 +82,8 @@
       flex-wrap: wrap;
     }
 
-    .news-summary {
-      font-size: 0.85rem;
-      color: #cbd5e1;
-      line-height: 1.4;
-    }
-
-    .loading {
-      color: var(--muted);
-      font-style: italic;
-    }
+    .news-summary { font-size: 0.85rem; color: #cbd5e1; line-height: 1.4; }
+    .loading { color: var(--muted); font-style: italic; }
   </style>
 </head>
 <body>
@@ -112,143 +91,60 @@
   <h1>🎮 Gaming & Simracing Live Dashboard</h1>
 
   <div class="grid">
-    <!-- DEUTSCH -->
     <div class="column">
-      <div class="column-title de-head">
-        <span>🇩🇪 DACH Gaming</span>
-      </div>
+      <div class="column-title de-head"><span>🇩🇪 DACH Gaming</span></div>
       <div id="feed-de" class="loading">Lade News...</div>
     </div>
 
-    <!-- INTERNATIONAL -->
     <div class="column">
-      <div class="column-title int-head">
-        <span>🌐 International</span>
-      </div>
+      <div class="column-title int-head"><span>🌐 International</span></div>
       <div id="feed-int" class="loading">Lade News...</div>
     </div>
 
-    <!-- SIMRACING -->
     <div class="column">
-      <div class="column-title sim-head">
-        <span>🏎️ Simracing & Esports</span>
-      </div>
+      <div class="column-title sim-head"><span>🏎️ Simracing & Esports</span></div>
       <div id="feed-sim" class="loading">Lade News...</div>
     </div>
   </div>
 
   <script>
-    const FEEDS = {
-      de: [
-        'https://www.gamestar.de/news/rss/gamestar.rss',
-        'https://www.pcgames.de/rss/pcgames-news.xml'
-      ],
-      int: [
-        'https://feeds.feedburner.com/ign/all',
-        'https://www.eurogamer.net/feed/news'
-      ],
-      sim: [
-        'https://www.gtplanet.net/feed/',
-        'https://www.traxion.gg/feed/',
-        'https://www.overtake.gg/news/index.rss',
-        'https://www.motorsport.com/rss/esports/news/',
-        'https://www.iracing.com/feed/'
-      ]
-    };
-
-    function stripHtml(html) {
-      if (!html) return "";
-      let tmp = document.createElement("DIV");
-      tmp.innerHTML = html;
-      let text = tmp.textContent || tmp.innerText || "";
-      return text.length > 150 ? text.substring(0, 150) + "..." : text;
-    }
-
-    function formatDate(dateString) {
-      if (!dateString) return "Datum unbekannt";
-      const date = new Date(dateString);
-      if (isNaN(date.getTime())) return "Datum unbekannt";
-      
-      return date.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit' }) + ' ' + 
-             date.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) + ' Uhr';
-    }
-
-    // Neuer Fetch via corsproxy.io
-    async function fetchFeed(url) {
+    async function loadDashboard() {
       try {
-        const res = await fetch(`https://corsproxy.io/?${encodeURIComponent(url)}`);
-        const xmlText = await res.text();
+        // Lädt die auf GitHub erstellte statische Datei (kein Proxy nötig!)
+        const res = await fetch(`./news.json?cachebust=${Date.now()}`);
+        if (!res.ok) throw new Error("news.json noch nicht erstellt");
         
-        if (!xmlText || xmlText.includes("403 Forbidden")) return [];
+        const data = await res.json();
 
-        // XML direkt im Browser parsen
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(xmlText, "text/xml");
-        const items = Array.from(xml.querySelectorAll("item"));
+        ['de', 'int', 'sim'].forEach(cat => {
+          const container = document.getElementById(`feed-${cat}`);
+          const items = data[cat] || [];
 
-        const channelTitle = xml.querySelector("channel > title")?.textContent || "News";
-        const sourceName = channelTitle.replace(" Feed", "").replace(" RSS", "").trim();
+          if (items.length === 0) {
+            container.innerHTML = "Keine News verfügbar.";
+            return;
+          }
 
-        return items.map(item => ({
-          title: item.querySelector("title")?.textContent || "Kein Titel",
-          link: item.querySelector("link")?.textContent || "#",
-          pubDate: item.querySelector("pubDate")?.textContent || "",
-          description: item.querySelector("description")?.textContent || "",
-          source: sourceName
-        }));
-      } catch (err) {
-        console.error("Fehler beim Laden von:", url, err);
-        return [];
-      }
-    }
-
-    async function loadCategory(categoryKey, containerId) {
-      const container = document.getElementById(containerId);
-      
-      try {
-        const fetchPromises = FEEDS[categoryKey].map(url => fetchFeed(url));
-        const results = await Promise.all(fetchPromises);
-        
-        let allItems = [];
-        results.forEach(items => {
-          allItems = allItems.concat(items);
-        });
-
-        allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-        const topItems = allItems.slice(0, 12);
-
-        if (topItems.length === 0) {
-          container.innerHTML = "Keine News gefunden oder Feeds temporär nicht erreichbar.";
-          return;
-        }
-
-        container.innerHTML = topItems.map(item => `
-          <div class="news-card">
-            <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
-            <div class="news-meta">
-              <span>📅 ${formatDate(item.pubDate)}</span>
-              <span>📌 ${item.source}</span>
+          container.innerHTML = items.map(item => `
+            <div class="news-card">
+              <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+              <div class="news-meta">
+                <span>📌 ${item.source}</span>
+              </div>
+              <div class="news-summary">${item.summary}</div>
             </div>
-            <div class="news-summary">${stripHtml(item.description)}</div>
-          </div>
-        `).join('');
+          `).join('');
+        });
       } catch (err) {
-        container.innerHTML = "Fehler beim Laden der News.";
+        console.error(err);
+        document.getElementById('feed-de').innerHTML = "Warte auf die erste Generierung der News...";
+        document.getElementById('feed-int').innerHTML = "Warte auf die erste Generierung der News...";
+        document.getElementById('feed-sim').innerHTML = "Warte auf die erste Generierung der News...";
       }
     }
 
-    // Erstmaliges Laden
-    loadCategory('de', 'feed-de');
-    loadCategory('int', 'feed-int');
-    loadCategory('sim', 'feed-sim');
-
-    // Alle 30 Minuten aktualisieren
-    setInterval(() => {
-      loadCategory('de', 'feed-de');
-      loadCategory('int', 'feed-int');
-      loadCategory('sim', 'feed-sim');
-    }, 30 * 60 * 1000);
+    loadDashboard();
+    setInterval(loadDashboard, 5 * 60 * 1000); // Alle 5 Min neu prüfen
   </script>
 </body>
 </html>
