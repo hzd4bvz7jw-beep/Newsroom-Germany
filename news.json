@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Mit Schwert und Termin: Path of Exile 2 verlässt Early Access",
+      "link": "https://www.computerbase.de/news/gaming/mit-schwert-und-termin-path-of-exile-2-verlaesst-early-access.99055/",
+      "pubDate": "2026-08-26T13:49:00+02:00",
+      "timestamp": 1787744940.0,
+      "source": "ComputerBase",
+      "summary": "Path of Exile 2 steht kurz vor dem Ende seiner langen Testphase. Am 11. Dezember 2026 soll Version 1.0 erscheinen und den seit Dezember 2024 laufenden..."
+    },
+    {
+      "title": "PowerToys 0.101: Werkzeugkasten erhält Win­dow Hopper und lokale KI-Verarbeitung",
+      "link": "https://www.computerbase.de/news/apps/powertoys-0-101-werkzeugkasten-erhaelt-window-hopper-und-lokale-ki-verarbeitung.99054/",
+      "pubDate": "2026-08-26T13:13:00+02:00",
+      "timestamp": 1787742780.0,
+      "source": "ComputerBase",
+      "summary": "Microsoft hat PowerToys in Version 0.101 veröffentlicht und stattet seinen virtuellen Werkzeugkasten für Windows mit zahlreichen Neuerungen aus. Dazu ..."
+    },
+    {
+      "title": "Massiver NAND-Ausbau: YMTC will Samsung und SK Hynix bereits Ende 2027 überholen",
+      "link": "https://www.computerbase.de/news/wirtschaft/massiver-nand-ausbau-ymtc-will-samsung-und-sk-hynix-bereits-ende-2027-ueberholen.99051/",
+      "pubDate": "2026-08-26T12:32:00+02:00",
+      "timestamp": 1787740320.0,
+      "source": "ComputerBase",
+      "summary": "Der chinesische NAND-Hersteller YMTC will durch massiven Ausbau und den Börsengang bereits Ende 2027 die etablierten Branchenriesen aus Südkorea überh..."
+    },
+    {
       "title": "Unity-Chef hält Konsolen-Krise für vorübergehend: GTA 6 wird zeigen, wie stark der Markt noch ist",
       "link": "https://www.eurogamer.de/unity-chef-konsolen-kosten-gta-6-zukunft",
       "pubDate": "Wed, 26 Aug 2026 10:09:07 +0000",
@@ -95,33 +119,105 @@
       "timestamp": 1787724769.0,
       "source": "Eurogamer.de News",
       "summary": "Wer im Original von Final Fantasy 7 irgendwann glaubte, f&uuml;r wirklich jeden Kampf gewappnet zu sein, bekam von Ruby und Emerald Weapon ziemlich sc..."
-    },
-    {
-      "title": "Kein Multiplayer-Shooter: Rainbow Six Tactics geht neue Wege",
-      "link": "https://www.computerbase.de/news/gaming/rainbow-six-tactics-ubisoft-setzt-diesmal-auf-rundenbasierte-gefechte.99047/",
-      "pubDate": "2026-08-26T08:00:00+02:00",
-      "timestamp": 1787724000.0,
-      "source": "ComputerBase",
-      "summary": "Die Spielreihe Tom Clancy's Rainbow Six wird fortgesetzt. Das zur Gamescom 2026 enthüllte Rainbow Six Tactics ist allerdings diesmal kein Multiplayer-..."
-    },
-    {
-      "title": "Hitman World of Assassination: Snoop Dogg als Celebrity Elusive Target",
-      "link": "https://www.computerbase.de/news/gaming/hitman-world-of-assassination-snoop-dogg-als-celebrity-elusive-target.99046/",
-      "pubDate": "2026-08-26T07:30:00+02:00",
-      "timestamp": 1787722200.0,
-      "source": "ComputerBase",
-      "summary": "Auf der Gamescom 2026 Opening Night Live wurde für Hitman World of Assassination eine neue Mission gezeigt. Snoop Dogg spielt in dieser Mission den Ch..."
-    },
-    {
-      "title": "Landwirtschafts-Simulator 25: Addon bringt Kaffee, Bananen, Fungizide und Alpakas",
-      "link": "https://www.computerbase.de/news/gaming/landwirtschafts-simulator-25-addon-bringt-kaffee-bananen-fungizide-und-alpakas.99043/",
-      "pubDate": "2026-08-26T07:00:00+02:00",
-      "timestamp": 1787720400.0,
-      "source": "ComputerBase",
-      "summary": "Das Addon Beans & Alpacas für den Landwirtschafts-Simulator 25 ergänzt Bananen und Kaffee sowie eine neue Rinderrasse und Alpakas. Letztere müssen spa..."
     }
   ],
   "int": [
+    {
+      "title": "Rockstar issues statement on GTA 6 gameplay leaks, says they may include some spoilers",
+      "link": "https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers",
+      "pubDate": "Wed, 26 Aug 2026 11:54:55 +0000",
+      "timestamp": 1787745295.0,
+      "source": "Eurogamer.net News",
+      "summary": "Rockstar has officially addressed the Grand Theft Auto 6 leaks, which have been pouring in online for over a week. The developer said the gameplay lea..."
+    },
+    {
+      "title": "Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls It ‘Heartbreaking’",
+      "link": "https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341",
+      "pubDate": "Wed, 26 Aug 2026 11:38:14 +0000",
+      "timestamp": 1787744294.0,
+      "source": "Kotaku",
+      "summary": "The company also uncharacteristically apologizes for the lack of official information"
+    },
+    {
+      "title": "What's Up with the Logan Trailer? The History of X-23",
+      "link": "https://www.polygon.com/video/what-s-up-with-the-logan-trailer-the-history-of-x-23/",
+      "pubDate": "Wed, 26 Aug 2026 11:32:46 GMT",
+      "timestamp": 1787743966.0,
+      "source": "Polygon.com",
+      "summary": "In this episode of Issue At Hand, Susana answers your biggest questions about the final Wolverine movie. She also delves into the backstory of X-23, o..."
+    },
+    {
+      "title": "The Weird History of Supergirl & Power Girl",
+      "link": "https://www.polygon.com/video/the-weird-history-of-supergirl-power-girl/",
+      "pubDate": "Wed, 26 Aug 2026 11:28:02 GMT",
+      "timestamp": 1787743682.0,
+      "source": "Polygon.com",
+      "summary": "In the 2nd episode of our new comic explainer show, Issue At Hand, Susana explores the post-Crisis patch history of the DC Universe through two of DC ..."
+    },
+    {
+      "title": "Making Sense of the DC Multiverse",
+      "link": "https://www.polygon.com/video/making-sense-of-the-dc-multiverse/",
+      "pubDate": "Wed, 26 Aug 2026 11:20:38 GMT",
+      "timestamp": 1787743238.0,
+      "source": "Polygon.com",
+      "summary": "Why are there so many dimensions in DC comics universe? How did they all get started? And how are they connected?  Susana Polo, Polygon's Entertainmen..."
+    },
+    {
+      "title": "Crimson Desert Enhanced is a free upgrade that's out now and revamps the story, adds new skills and comes with all previously-released updates",
+      "link": "https://www.eurogamer.net/crimson-desert-enhanced-patch-2-00-details",
+      "pubDate": "Wed, 26 Aug 2026 11:19:44 +0000",
+      "timestamp": 1787743184.0,
+      "source": "Eurogamer.net News",
+      "summary": "Crimson Desert Enhanced was among the more surprising reveals of Gamescom Opening Night Live. Not because it was a trailer for a game that's already a..."
+    },
+    {
+      "title": "Path of Exile 2 finally has its 1.0 release date and it's coming this year",
+      "link": "https://www.eurogamer.net/path-of-exile-2-version-1-0-free-to-play-date",
+      "pubDate": "Wed, 26 Aug 2026 11:03:14 +0000",
+      "timestamp": 1787742194.0,
+      "source": "Eurogamer.net News",
+      "summary": "Grinding Gear Games made a surprise Path of Exile 2 announcement at Gamescom Opening Night Live yesterday. The developer confirmed when the game's lon..."
+    },
+    {
+      "title": "Mega Man: Dual Override Feels Like Everything You Hope And Fear It Will Be",
+      "link": "https://kotaku.com/mega-man-dual-override-preview-gamescom-capcom-boss-2000727940",
+      "pubDate": "Wed, 26 Aug 2026 11:00:47 +0000",
+      "timestamp": 1787742047.0,
+      "source": "Kotaku",
+      "summary": "Capcom’s return to the Blue Bomber isn’t pulling punches"
+    },
+    {
+      "title": "'Mega Man: Dual Override' Is Capcom Kicking It Old-School",
+      "link": "https://www.polygon.com/mega-man-dual-override-hands-on/",
+      "pubDate": "Wed, 26 Aug 2026 11:00:14 GMT",
+      "timestamp": 1787742014.0,
+      "source": "Polygon.com",
+      "summary": "We went hands-on with Mega Man: Dual Override and found that Capcom’s latest isn’t straying from the series’ retro design."
+    },
+    {
+      "title": "Dark Sun Original Creators Reunite for New D&D Book That You Can Play Like in the 1990s",
+      "link": "https://www.polygon.com/dnd-dark-sun-original-creators-reunite-dragon-kings/",
+      "pubDate": "Wed, 26 Aug 2026 10:47:06 GMT",
+      "timestamp": 1787741226.0,
+      "source": "Polygon.com",
+      "summary": "D&amp;D players who are unsure about Wizards of the Coast's new take on Dark Sun have another option coming from the setting's original creators."
+    },
+    {
+      "title": "It sure seems like The Witcher 3: Songs of the Past is introducing at least one new romanceable character for Geralt to woo",
+      "link": "https://www.eurogamer.net/witcher-3-songs-of-the-past-romance-geralt",
+      "pubDate": "Wed, 26 Aug 2026 10:38:38 +0000",
+      "timestamp": 1787740718.0,
+      "source": "Eurogamer.net News",
+      "summary": "Who was your first choice for romance in The Witcher 3? Sure, everyone knows about Triss and Yen, but there's also Keira, Sasha, Jutta an Dimun, Shani..."
+    },
+    {
+      "title": "The story for Witcher 3: Songs of the Past was actually written  \"years ago\", according to Fool's Theory CEO",
+      "link": "https://www.eurogamer.net/witcher-3-songs-of-the-past-story-written-years-ago-interview",
+      "pubDate": "Wed, 26 Aug 2026 10:27:37 +0000",
+      "timestamp": 1787740057.0,
+      "source": "Eurogamer.net News",
+      "summary": "Last night, CD Projekt Red showed off the first footage we've seen for The Witcher 3 expansion, Songs of the Past - new content for the game launching..."
+    },
     {
       "title": "The legendary Heroes of Might and Magic 3 is being remade by Ubisoft, and while it's visually redone, it's reportedly like-for-like in terms of gameplay",
       "link": "https://www.eurogamer.net/heroes-of-might-and-magic-3-remade-ubisoft",
@@ -145,102 +241,6 @@
       "timestamp": 1787735223.0,
       "source": "IGN All",
       "summary": "LEGO has finally revealed its Super Mario range that will include minifigures for the first time, including playsets for Bowser's Castle and numerous ..."
-    },
-    {
-      "title": "I’m Not Sure Whatever Point Stranger Than Heaven Is Trying To Prove Is Worth The Headache",
-      "link": "https://kotaku.com/stranger-than-heaven-preview-yakuza-like-dragon-controls-2000727560",
-      "pubDate": "Wed, 26 Aug 2026 09:00:52 +0000",
-      "timestamp": 1787734852.0,
-      "source": "Kotaku",
-      "summary": "The Yakuza prequel’s obtuse control scheme feels at odds with how its fights flow"
-    },
-    {
-      "title": "After Playing Persona 4 Revival, It’s Nice To Know Some Parts Of The RPG Classic Are Still Timeless",
-      "link": "https://kotaku.com/persona-4-revival-preview-gamescom-atlus-p-studio-boss-2000727581",
-      "pubDate": "Wed, 26 Aug 2026 09:00:33 +0000",
-      "timestamp": 1787734833.0,
-      "source": "Kotaku",
-      "summary": "The early sections of the remake still hit like they did in 2008"
-    },
-    {
-      "title": "Persona 4 Revival: The Good and the Bad of Our First Hands-On – Gamescom 2026",
-      "link": "https://www.ign.com/articles/persona-4-revival-the-good-and-the-bad-of-our-first-hands-on-gamescom-2026",
-      "pubDate": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "timestamp": 1787734800.0,
-      "source": "IGN All",
-      "summary": "In the pantheon of the Persona series, its fourth entry is held in high regard, and time will tell if Persona 4 Revival will prove to be the best of t..."
-    },
-    {
-      "title": "Total War: Warhammer 40k – The First Hands-On Preview - Gamescom 2026",
-      "link": "https://www.ign.com/articles/total-war-warhammer-40k-the-first-hands-on-preview-gamescom-2026",
-      "pubDate": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "timestamp": 1787734800.0,
-      "source": "IGN All",
-      "summary": "The core of Total War’s DNA appears intact so far in Total War: Warhammer 40K, but we will have to wait and see if the heavier focus on ranged combat ..."
-    },
-    {
-      "title": "The Witcher 3 Songs of the Past’s First Gameplay Demo Showcases Geralt’s New Weapon and Deadly Enemies",
-      "link": "https://www.polygon.com/witcher-3-songs-past-preview-gameplay-gamescom/",
-      "pubDate": "Wed, 26 Aug 2026 08:57:36 GMT",
-      "timestamp": 1787734656.0,
-      "source": "Polygon.com",
-      "summary": "I watched an hour-long gameplay demo of The Witcher 3: Songs of the Past, and it shows Geralt back at his best."
-    },
-    {
-      "title": "No, the Humankind 2 announcement trailer wasn't made with gen-AI, despite it sharing a similar kind of look",
-      "link": "https://www.eurogamer.net/humankind-2-announcement-trailer-gamescom-ai-studio-response",
-      "pubDate": "Wed, 26 Aug 2026 08:51:30 +0000",
-      "timestamp": 1787734290.0,
-      "source": "Eurogamer.net News",
-      "summary": "One of the bigger Gamescom Opening Night Live pre-show reveals was Humankind 2, the sequel to Amplitude's Civilization-like 4X game from 2021. The tra..."
-    },
-    {
-      "title": "Atari Is Re-Releasing 39 Atari 2600 Games on Working, Physical Cartridges",
-      "link": "https://www.ign.com/articles/atari-is-re-releasing-39-atari-2600-games-on-working-physical-cartridges",
-      "pubDate": "Wed, 26 Aug 2026 08:05:51 +0000",
-      "timestamp": 1787731551.0,
-      "source": "IGN All",
-      "summary": "Atari has today announced a new physical game collaboration with Activision called the Atari x Activision Collection, reuniting Activision with Atari ..."
-    },
-    {
-      "title": "10 Years Ago, Anime’s Most Powerful Quote Is Still an All Time Classic",
-      "link": "https://www.polygon.com/mob-psycho-100-best-quote-anime/",
-      "pubDate": "Wed, 26 Aug 2026 08:00:15 GMT",
-      "timestamp": 1787731215.0,
-      "source": "Polygon.com",
-      "summary": "One of the best lines from Mob Psycho 100 runs counter to the chosen archetype, providing a poignant lesson on the power of identity."
-    },
-    {
-      "title": "Alien Geoguessr Meets Sherlock Holmes in This Captivating Steam Mystery",
-      "link": "https://www.polygon.com/locator-search-for-abigail-lidari-preview-gamescom/",
-      "pubDate": "Wed, 26 Aug 2026 08:00:15 GMT",
-      "timestamp": 1787731215.0,
-      "source": "Polygon.com",
-      "summary": "Locator: The Search for Abigail Lidari is a geography-themed puzzler set on an alien planet all about black holes and a missing astronaut."
-    },
-    {
-      "title": "Heroes of Might and Magic 3 Remake Preview: Hands-On with Ubisoft’s Reborn Strategy Classic - Gamescom 2026",
-      "link": "https://www.ign.com/articles/heroes-of-might-and-magic-3-remake-preview-hands-on-with-ubisofts-reborn-strategy-classic-gamescom-2026",
-      "pubDate": "Wed, 26 Aug 2026 08:00:00 +0000",
-      "timestamp": 1787731200.0,
-      "source": "IGN All",
-      "summary": "In a year where Ubisoft announced and shipped the Assassin’s Creed: Black Flag remake, a revival of Heroes of Might and Magic 3 might not be the highe..."
-    },
-    {
-      "title": "Wilderings: The Lost Spring Gameplay Trailer Reveals Volcanic Biome, a Moth Boss, and a Version 1.0 Release Window",
-      "link": "https://www.ign.com/articles/wilderings-the-lost-spring-gameplay-trailer-reveals-volcanic-biome-a-moth-boss-and-a-version-10-release-window",
-      "pubDate": "Wed, 26 Aug 2026 07:30:00 +0000",
-      "timestamp": 1787729400.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Metro 2039 Developers on How Russia's Invasion of Ukraine Changed Their Plans",
-      "link": "https://www.ign.com/articles/metro-2039-developers-on-how-russias-invasion-of-ukraine-changed-their-plans",
-      "pubDate": "Wed, 26 Aug 2026 07:02:00 +0000",
-      "timestamp": 1787727720.0,
-      "source": "IGN All",
-      "summary": "After finishing the four-or-so-hour preview build of Metro 2039, the upcoming first-person shooter sequel from Ukrainian developer 4A Games and fallin..."
     }
   ],
   "sim": [
