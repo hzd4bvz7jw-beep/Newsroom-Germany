@@ -1,0 +1,89 @@
+name: Fetch News RSS
+
+on:
+  schedule:
+    # Liefere alle 30 Minuten frische News
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Erlaubt manuelles Starten per Klick
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and Process RSS Feeds
+        run: |
+          pip install feedparser
+          python - << 'EOF'
+          import feedparser
+          import json
+          import re
+          from datetime import datetime
+
+          FEEDS = {
+              "de": [
+                  "https://www.gamestar.de/news/rss/gamestar.rss",
+                  "https://www.pcgames.de/rss/pcgames-news.xml"
+              ],
+              "int": [
+                  "https://feeds.feedburner.com/ign/all",
+                  "https://www.eurogamer.net/feed/news"
+              ],
+              "sim": [
+                  "https://www.gtplanet.net/feed/",
+                  "https://www.traxion.gg/feed/",
+                  "https://www.overtake.gg/news/index.rss",
+                  "https://www.motorsport.com/rss/esports/news/",
+                  "https://www.iracing.com/feed/"
+              ]
+          }
+
+          def clean_html(text):
+              if not text: return ""
+              text = re.sub(r'<[^>]+>', '', text)
+              text = text.replace('\n', ' ').strip()
+              return text[:150] + "..." if len(text) > 150 else text
+
+          output_data = {}
+
+          for cat, urls in FEEDS.items():
+              category_items = []
+              for url in urls:
+                  try:
+                      feed = feedparser.parse(url)
+                      source_name = feed.feed.get('title', 'News').replace(" Feed", "").replace(" RSS", "").strip()
+                      
+                      for entry in feed.entries[:10]:
+                          summary = entry.get('summary', entry.get('description', ''))
+                          category_items.append({
+                              'title': entry.get('title', 'Kein Titel'),
+                              'link': entry.get('link', '#'),
+                              'pubDate': entry.get('published', entry.get('updated', '')),
+                              'source': source_name,
+                              'summary': clean_html(summary)
+                          })
+                  except Exception as e:
+                      print(f"Fehler bei {url}: {e}")
+
+              # Sortieren & Top 12 speichern
+              output_data[cat] = category_items[:12]
+
+          with open('news.json', 'w', encoding='utf-8') as f:
+              json.dump(output_data, f, ensure_ascii=False, indent=2)
+          EOF
+
+      - name: Commit and Push news.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news feed" && git push)
