@@ -3,25 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Gaming & Simracing News</title>
+  <title>Gaming & Simracing News Dashboard</title>
   <style>
     :root {
-      --bg: #0f172a;
-      --card: #1e293b;
-      --text: #f8fafc;
+      --bg-color: #0f172a;
+      --card-bg: #1e293b;
+      --text-color: #f8fafc;
       --accent-de: #3b82f6;
-      --accent-sim: #ef4444;
       --accent-int: #a855f7;
+      --accent-sim: #ef4444;
       --muted: #94a3b8;
     }
+
     body {
       font-family: system-ui, -apple-system, sans-serif;
-      background-color: var(--bg);
-      color: var(--text);
+      background-color: var(--bg-color);
+      color: var(--text-color);
       margin: 0;
       padding: 20px;
     }
-    h1 { text-align: center; margin-bottom: 25px; }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      font-size: 2rem;
+    }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -29,52 +36,72 @@
       max-width: 1600px;
       margin: 0 auto;
     }
+
     .column {
       background: rgba(255, 255, 255, 0.03);
       border-radius: 12px;
       padding: 16px;
       border: 1px solid rgba(255, 255, 255, 0.1);
     }
-    .col-title {
-      font-size: 1.2rem;
-      font-weight: bold;
-      padding-bottom: 8px;
+
+    .column-title {
+      font-size: 1.25rem;
+      padding-bottom: 10px;
       margin-bottom: 15px;
       border-bottom: 3px solid;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
-    .de { border-color: var(--accent-de); color: var(--accent-de); }
-    .sim { border-color: var(--accent-sim); color: var(--accent-sim); }
-    .int { border-color: var(--accent-int); color: var(--accent-int); }
 
-    .card {
-      background: var(--card);
+    .de-head { border-color: var(--accent-de); color: var(--accent-de); }
+    .int-head { border-color: var(--accent-int); color: var(--accent-int); }
+    .sim-head { border-color: var(--accent-sim); color: var(--accent-sim); }
+
+    .news-card {
+      background: var(--card-bg);
       border-radius: 8px;
-      padding: 12px;
+      padding: 14px;
       margin-bottom: 12px;
+      transition: transform 0.2s ease;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3);
     }
-    .card h3 {
-      margin: 0 0 6px 0;
-      font-size: 0.95rem;
+
+    .news-card:hover {
+      transform: translateY(-2px);
+    }
+
+    .news-card h3 {
+      margin: 0 0 8px 0;
+      font-size: 1rem;
       line-height: 1.3;
     }
-    .card h3 a {
-      color: var(--text);
+
+    .news-card h3 a {
+      color: var(--text-color);
       text-decoration: none;
     }
-    .card h3 a:hover { text-decoration: underline; }
-    .meta {
+
+    .news-card h3 a:hover {
+      text-decoration: underline;
+    }
+
+    .news-meta {
       font-size: 0.75rem;
       color: var(--muted);
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       display: flex;
-      gap: 8px;
+      gap: 10px;
+      flex-wrap: wrap;
     }
-    .desc {
-      font-size: 0.82rem;
+
+    .news-summary {
+      font-size: 0.85rem;
       color: #cbd5e1;
-      line-height: 1.35;
+      line-height: 1.4;
     }
-    .status {
+
+    .loading {
       color: var(--muted);
       font-style: italic;
     }
@@ -85,117 +112,145 @@
   <h1>🎮 Gaming & Simracing Live Dashboard</h1>
 
   <div class="grid">
+    <!-- DEUTSCH -->
     <div class="column">
-      <div class="col-title de">🇩🇪 Gaming (DACH)</div>
-      <div id="feed-de" class="status">Lade News...</div>
+      <div class="column-title de-head">
+        <span>🇩🇪 DACH Gaming</span>
+      </div>
+      <div id="feed-de" class="loading">Lade News...</div>
     </div>
 
+    <!-- INTERNATIONAL -->
     <div class="column">
-      <div class="col-title sim">🏎️ Simracing (DE & Spezifisch)</div>
-      <div id="feed-sim" class="status">Lade Simracing-News...</div>
+      <div class="column-title int-head">
+        <span>🌐 International</span>
+      </div>
+      <div id="feed-int" class="loading">Lade News...</div>
     </div>
 
+    <!-- SIMRACING -->
     <div class="column">
-      <div class="col-title int">🌐 Gaming (International)</div>
-      <div id="feed-int" class="status">Lade News...</div>
+      <div class="column-title sim-head">
+        <span>🏎️ Simracing & Esports</span>
+      </div>
+      <div id="feed-sim" class="loading">Lade News...</div>
     </div>
   </div>
 
   <script>
     const FEEDS = {
       de: [
-        { name: 'GameStar', url: 'https://www.gamestar.de/news/rss/news.rss' },
-        { name: 'PC Games Hardware', url: 'https://www.pcgameshardware.de/feed.cfm' }
-      ],
-      sim: [
-        { name: 'Motorsport-Total', url: 'https://www.motorsport-total.com/rss/news.xml' },
-        { name: 'Speedweek', url: 'https://www.speedweek.com/rss/news/1' },
-        { name: 'Virtual Racing DE', url: 'https://www.virtualracing.org/feed/' },
-        { name: 'GTPlanet', url: 'https://www.gtplanet.net/feed/' },
-        { name: 'Traxion.gg', url: 'https://traxion.gg/feed/' }
+        'https://www.gamestar.de/news/rss/gamestar.rss',
+        'https://www.pcgames.de/rss/pcgames-news.xml'
       ],
       int: [
-        { name: 'Eurogamer', url: 'https://www.eurogamer.net/feed/news' },
-        { name: 'IGN', url: 'https://feeds.feedburner.com/ign/all' }
+        'https://feeds.feedburner.com/ign/all',
+        'https://www.eurogamer.net/feed/news'
+      ],
+      sim: [
+        'https://www.gtplanet.net/feed/',
+        'https://www.traxion.gg/feed/',
+        'https://www.overtake.gg/news/index.rss',
+        'https://www.motorsport.com/rss/esports/news/',
+        'https://www.iracing.com/feed/'
       ]
     };
 
-    function cleanText(html) {
-      if (!html) return '';
-      let doc = new DOMParser().parseFromString(html, 'text/html');
-      let txt = doc.body.textContent || "";
-      return txt.length > 140 ? txt.substring(0, 140) + '...' : txt;
+    function stripHtml(html) {
+      if (!html) return "";
+      let tmp = document.createElement("DIV");
+      tmp.innerHTML = html;
+      let text = tmp.textContent || tmp.innerText || "";
+      return text.length > 150 ? text.substring(0, 150) + "..." : text;
     }
 
-    async function loadXml(url) {
-      const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+    function formatDate(dateString) {
+      if (!dateString) return "Datum unbekannt";
+      const date = new Date(dateString);
+      if (isNaN(date.getTime())) return "Datum unbekannt";
+      
+      return date.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit' }) + ' ' + 
+             date.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) + ' Uhr';
+    }
+
+    // Neuer Fetch-Mechanismus ohne api.rss2json.com
+    async function fetchFeed(url) {
       try {
-        const res = await fetch(proxyUrl);
-        if (!res.ok) return [];
-        const str = await res.text();
-        const xml = new DOMParser().parseFromString(str, "text/xml");
-        const items = Array.from(xml.querySelectorAll("item"));
+        const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
+        const data = await res.json();
         
-        return items.map(item => {
-          const title = item.querySelector("title")?.textContent || "";
-          const link = item.querySelector("link")?.textContent || "";
-          const pubDate = item.querySelector("pubDate")?.textContent || "";
-          const desc = item.querySelector("description")?.textContent || item.querySelector("encoded")?.textContent || "";
-          return { title, link, pubDate: new Date(pubDate), desc };
-        });
-      } catch (e) {
+        if (!data.contents) return [];
+
+        // XML im Browser parsen
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(data.contents, "text/xml");
+        const items = Array.from(xml.querySelectorAll("item"));
+
+        // Namen der News-Quelle automatisch ermitteln
+        const channelTitle = xml.querySelector("channel > title")?.textContent || "News";
+        const sourceName = channelTitle.replace(" Feed", "").replace(" RSS", "").trim();
+
+        return items.map(item => ({
+          title: item.querySelector("title")?.textContent || "Kein Titel",
+          link: item.querySelector("link")?.textContent || "#",
+          pubDate: item.querySelector("pubDate")?.textContent || "",
+          description: item.querySelector("description")?.textContent || "",
+          source: sourceName
+        }));
+      } catch (err) {
+        console.error("Fehler beim Laden von:", url, err);
         return [];
       }
     }
 
-    async function renderCategory(catKey, elementId) {
-      const container = document.getElementById(elementId);
-      let allArticles = [];
-
-      for (let source of FEEDS[catKey]) {
-        const articles = await loadXml(source.url);
-        articles.forEach(a => {
-          if (a.title) {
-            allArticles.push({ ...a, sourceName: source.name });
-          }
+    async function loadCategory(categoryKey, containerId) {
+      const container = document.getElementById(containerId);
+      
+      try {
+        const fetchPromises = FEEDS[categoryKey].map(url => fetchFeed(url));
+        const results = await Promise.all(fetchPromises);
+        
+        // Alle Feeds zusammenführen und nach Datum sortieren
+        let allItems = [];
+        results.forEach(items => {
+          allItems = allItems.concat(items);
         });
-      }
 
-      // Sortieren nach Datum
-      allArticles.sort((a, b) => b.pubDate - a.pubDate);
+        allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-      // Duplikate entfernen
-      const unique = [];
-      const titles = new Set();
-      for (let art of allArticles) {
-        if (!titles.has(art.title.toLowerCase().trim())) {
-          titles.add(art.title.toLowerCase().trim());
-          unique.push(art);
+        const topItems = allItems.slice(0, 12);
+
+        if (topItems.length === 0) {
+          container.innerHTML = "Keine News gefunden oder Feeds temporär nicht erreichbar.";
+          return;
         }
-      }
 
-      const top = unique.slice(0, 10);
-
-      if (top.length === 0) {
-        container.innerHTML = "Keine News geladen.";
-        return;
-      }
-
-      container.innerHTML = top.map(item => `
-        <div class="card">
-          <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
-          <div class="meta">
-            <span>📅 ${isNaN(item.pubDate) ? '' : item.pubDate.toLocaleDateString('de-DE', {day:'2-digit', month:'2-digit'}) + ' ' + item.pubDate.toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'}) + ' Uhr'}</span>
-            <span>📌 ${item.sourceName}</span>
+        container.innerHTML = topItems.map(item => `
+          <div class="news-card">
+            <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+            <div class="news-meta">
+              <span>📅 ${formatDate(item.pubDate)}</span>
+              <span>📌 ${item.source}</span>
+            </div>
+            <div class="news-summary">${stripHtml(item.description)}</div>
           </div>
-          <div class="desc">${cleanText(item.desc)}</div>
-        </div>
-      `).join('');
+        `).join('');
+      } catch (err) {
+        container.innerHTML = "Fehler beim Laden der News.";
+      }
     }
 
-    renderCategory('de', 'feed-de');
-    renderCategory('sim', 'feed-sim');
-    renderCategory('int', 'feed-int');
+    // Erstmaliges Laden
+    loadCategory('de', 'feed-de');
+    loadCategory('int', 'feed-int');
+    loadCategory('sim', 'feed-sim');
+
+    // Alle 30 Minuten aktualisieren
+    setInterval(() => {
+      loadCategory('de', 'feed-de');
+      loadCategory('int', 'feed-int');
+      loadCategory('sim', 'feed-sim');
+    }, 30 * 60 * 1000);
   </script>
 </body>
 </html>
