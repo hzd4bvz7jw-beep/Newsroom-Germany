@@ -2,9 +2,8 @@ name: Fetch News RSS
 
 on:
   schedule:
-    # Liefere alle 30 Minuten frische News
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Erlaubt manuelles Starten per Klick
+  workflow_dispatch:
 
 jobs:
   build:
@@ -22,28 +21,37 @@ jobs:
 
       - name: Fetch and Process RSS Feeds
         run: |
-          pip install feedparser
+          pip install feedparser urllib3 python-dateutil
           python - << 'EOF'
           import feedparser
           import json
           import re
+          from dateutil import parser as date_parser
           from datetime import datetime
 
           FEEDS = {
               "de": [
                   "https://www.gamestar.de/news/rss/gamestar.rss",
-                  "https://www.pcgames.de/rss/pcgames-news.xml"
+                  "https://www.gamepro.de/rss/gamepro.rss",
+                  "https://www.pcgames.de/rss/pcgames-news.xml",
+                  "https://www.pcgameshardware.de/rss/pcgh-news.xml",
+                  "https://www.computerbase.de/rss/news.xml",
+                  "https://www.eurogamer.de/feed/news"
               ],
               "int": [
                   "https://feeds.feedburner.com/ign/all",
-                  "https://www.eurogamer.net/feed/news"
+                  "https://www.eurogamer.net/feed/news",
+                  "https://www.polygon.com/rss/index.xml",
+                  "https://www.kotaku.com/rss",
+                  "https://www.rockpapershotgun.com/feed/news"
               ],
               "sim": [
                   "https://www.gtplanet.net/feed/",
                   "https://www.traxion.gg/feed/",
                   "https://www.overtake.gg/news/index.rss",
                   "https://www.motorsport.com/rss/esports/news/",
-                  "https://www.iracing.com/feed/"
+                  "https://www.iracing.com/feed/",
+                  "https://www.simracing.gp/blog/rss.xml"
               ]
           }
 
@@ -53,29 +61,49 @@ jobs:
               text = text.replace('\n', ' ').strip()
               return text[:150] + "..." if len(text) > 150 else text
 
+          def parse_date(entry):
+              raw_date = entry.get('published', entry.get('updated', ''))
+              if not raw_date:
+                  return datetime.min
+              try:
+                  return date_parser.parse(raw_date)
+              except Exception:
+                  return datetime.min
+
           output_data = {}
 
           for cat, urls in FEEDS.items():
               category_items = []
               for url in urls:
                   try:
-                      feed = feedparser.parse(url)
-                      source_name = feed.feed.get('title', 'News').replace(" Feed", "").replace(" RSS", "").strip()
+                      feed = feedparser.parse(url, agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
+                      
+                      if hasattr(feed, 'feed') and 'title' in feed.feed:
+                          source_name = feed.feed.title.replace(" Feed", "").replace(" RSS", "").strip()
+                      else:
+                          source_name = "News"
                       
                       for entry in feed.entries[:10]:
                           summary = entry.get('summary', entry.get('description', ''))
+                          dt = parse_date(entry)
+                          
                           category_items.append({
                               'title': entry.get('title', 'Kein Titel'),
                               'link': entry.get('link', '#'),
                               'pubDate': entry.get('published', entry.get('updated', '')),
+                              'timestamp': dt.timestamp(),
                               'source': source_name,
                               'summary': clean_html(summary)
                           })
                   except Exception as e:
-                      print(f"Fehler bei {url}: {e}")
+                      print(f"Fehler bei Feed {url}: {e}")
+                      continue
 
-              # Sortieren & Top 12 speichern
-              output_data[cat] = category_items[:12]
+              # Nach Datum sortieren (neueste zuerst)
+              category_items.sort(key=lambda x: x['timestamp'], reverse=True)
+
+              # Top 15 Artikel für die Anzeige auswählen
+              output_data[cat] = category_items[:15]
 
           with open('news.json', 'w', encoding='utf-8') as f:
               json.dump(output_data, f, ensure_ascii=False, indent=2)
