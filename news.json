@@ -1,10 +1,148 @@
 {
-  "de": [],
+  "de": [
+    {
+      "title": "The Witcher 3: Songs of the Past und großes Gratis-Remaster enthüllt",
+      "link": "https://www.eurogamer.de/the-witcher-3-songs-of-the-past-und-groes-gratis-remaster-enthullt",
+      "pubDate": "Tue, 25 Aug 2026 20:35:01 +0000",
+      "timestamp": 1787690101.0,
+      "source": "Eurogamer.de News",
+      "summary": "Mit dem Trailer zur neuen Erweiterung f&uuml;r The Witcher 3 hatten wir ja auf der gamescom schon gerechnet. Dann aber gab es auf der Opening Night Li..."
+    },
+    {
+      "title": "Gears of War: E-Day: Die Kampagne mit Bombast-Grafik frisst Hardware wie nichts",
+      "link": "https://www.computerbase.de/artikel/gaming/gears-of-war-e-day-kampagne.98965/",
+      "pubDate": "2026-08-25T22:00:00+02:00",
+      "timestamp": 1787688000.0,
+      "source": "ComputerBase",
+      "summary": "ComputerBase hatte die Gelegenheit, die Kampagne von Gears of War: E-Day anzuspielen. Optisch ist diese absolut beeindruckend, die Präsentation gehört..."
+    },
+    {
+      "title": "Path of Exile 2: Release von Version 1.0 angekündigt – dann wird das Spiel Free-to-Play",
+      "link": "https://www.eurogamer.de/path-of-exile-2-release-free-to-play",
+      "pubDate": "Tue, 25 Aug 2026 19:59:43 +0000",
+      "timestamp": 1787687983.0,
+      "source": "Eurogamer.de News",
+      "summary": "Bereits seit dem 6. Dezember 2024 befindet sich das beliebte Action-RPG Path of Exile 2 im Early Access und nun haben die Entwickler endlich den Termi..."
+    },
+    {
+      "title": "Lego Skylines sieht zu gut aus, um wahr zu sein",
+      "link": "https://www.eurogamer.de/lego-skylines-ankuendigung-trailer-release",
+      "pubDate": "Tue, 25 Aug 2026 19:46:03 +0000",
+      "timestamp": 1787687163.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nachdem Paradox&rsquo; Afterworld vorab geleakt war, hatte man auf einem anderen Titel etwas besser den Deckel drauf: Cities Skylines bekommt n&auml;m..."
+    },
+    {
+      "title": "Exodus: Release-Datum für 2027 und ein Oktopus im Kampf-Mech als Begleiter enthüllt",
+      "link": "https://www.eurogamer.de/exodus-release-datum-fur-2027-und-ein-oktopus-im-kampf-mech-als-begleiter-enthullt",
+      "pubDate": "Tue, 25 Aug 2026 19:20:31 +0000",
+      "timestamp": 1787685631.0,
+      "source": "Eurogamer.de News",
+      "summary": "Bei der gamescom Opening Night Live wurden endlich neue Infos zum kommenden AAA-Science-Fiction-Action-Rollenspiel f&uuml;r Einzelspieler verraten. Ge..."
+    },
+    {
+      "title": "Warlock: Erstes Gameplay zum D&D-Action-RPG katapultiert den Titel auf meine Hitliste",
+      "link": "https://www.eurogamer.de/warlock-dungeons-dragons-gameplay-trailer-reveal",
+      "pubDate": "Tue, 25 Aug 2026 19:17:40 +0000",
+      "timestamp": 1787685460.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wizards of the Cost hat Invoke Studios&rsquo; neues Dungeons & Dragons Action-Rollenspiel mit einem fantastischen neuen Gameplay-Ausschnitt auf der Op..."
+    },
+    {
+      "title": "Game of Thrones: War for Westeros zeigt frisches Gameplay auf der gamescom",
+      "link": "https://www.eurogamer.de/game-of-thrones-war-for-westeros-zeigt-frisches-gameplay-auf-der-gamescom",
+      "pubDate": "Tue, 25 Aug 2026 18:55:15 +0000",
+      "timestamp": 1787684115.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nachdem k&uuml;rzlich ein erster Teaser-Trailer mit feuerspeienden Drachen und Lannister-Truppen ver&ouml;ffentlicht wurde, haben die Entwickler des k..."
+    },
+    {
+      "title": "Tides of Annihilation bekommt Verstärkung von Resident Evils “Grace”",
+      "link": "https://www.eurogamer.de/tides-of-annihilation-resident-evil-stimme",
+      "pubDate": "Tue, 25 Aug 2026 18:53:16 +0000",
+      "timestamp": 1787683996.0,
+      "source": "Eurogamer.de News",
+      "summary": "Das chinesische Fantasy-Action-Adventure Tides of Annihilation hat einen neuen Trailer bekommen und zugleich die neue Sprecherin f&uuml;r Hauptcharakt..."
+    },
+    {
+      "title": "Ananta: Das Anime-GTA von Naked Rain hat einen Release-Termin",
+      "link": "https://www.eurogamer.de/ananta-das-anime-gta-von-naked-rain-hat-einen-release-termin",
+      "pubDate": "Tue, 25 Aug 2026 18:35:07 +0000",
+      "timestamp": 1787682907.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Entwickler bei Naked Rain arbeiten bekanntlich an einem kostenlosen Urban-Open-World-RPG namens Ananta (fr&uuml;her unter dem Arbeitstitel Project..."
+    },
+    {
+      "title": "Nodus' Fall: Hoyoverse wandelt in Unreal Engine 5 auf Monster-Hunter-Pfaden",
+      "link": "https://www.eurogamer.de/nodus-fall-hoyoverse-monster-hunter-ue5",
+      "pubDate": "Tue, 25 Aug 2026 18:29:14 +0000",
+      "timestamp": 1787682554.0,
+      "source": "Eurogamer.de News",
+      "summary": "Hoyoverse hat zu meiner &Uuml;berraschung heute seinen neuen Titel auf der Opening Night Live angek&uuml;ndigt. Nodus' Fall hei&szlig;t das Spiel, das..."
+    },
+    {
+      "title": "Eingabegeräte im Retro-Look: Zum 25. Geburtstag gibt es altes Xbox-Grün",
+      "link": "https://www.computerbase.de/news/tastaturen/eingabegeraete-im-retro-look-zum-25-geburtstag-gibt-es-altes-xbox-gruen.99041/",
+      "pubDate": "2026-08-25T19:50:00+02:00",
+      "timestamp": 1787680200.0,
+      "source": "ComputerBase",
+      "summary": "Zum 25. Geburtstag von Xbox verkauft Microsoft jede Menge Eingabegeräte im klassischen, halbtransparenten Grün der ersten Konsole. Das Angebot von Pro..."
+    },
+    {
+      "title": "Neuer Mac mini: M6 debütiert im kleinsten Mac für 1.049 Euro",
+      "link": "https://www.computerbase.de/news/pc-systeme/neuer-mac-mini-m6-debuetiert-im-kleinsten-mac-fuer-1-049-euro.99040/",
+      "pubDate": "2026-08-25T19:00:00+02:00",
+      "timestamp": 1787677200.0,
+      "source": "ComputerBase",
+      "summary": "Apple hat den Mac mini überraschend mit dem M6 und M5 Pro neu aufgelegt. Damit erhält der sonst so stiefmütterlich behandelte Mac als erster die nächs..."
+    },
+    {
+      "title": "Landwirtschafts-Simulator 25 feiert 5 Millionen Verkäufe und kündigt Bananen-Anbau an",
+      "link": "https://www.eurogamer.de/landwirtschafts-simulator-25-beans-alpacas-dlc",
+      "pubDate": "Tue, 25 Aug 2026 16:30:00 +0000",
+      "timestamp": 1787675400.0,
+      "source": "Eurogamer.de News",
+      "summary": "Kurz vor dem Start der gamescom 2026 in K&ouml;ln hat Publisher und Entwickler GIANTS Software einen bedeutenden Erfolg bekannt gegeben: Seit der Ver&..."
+    },
+    {
+      "title": "Onimusha Way of the Sword: Asus hüllt die Radeon RX 9070 XT in Blau und Gold",
+      "link": "https://www.computerbase.de/news/grafikkarten/onimusha-way-of-the-sword-asus-spendiert-auch-der-rx-9070-xt-eine-sonderedition.99037/",
+      "pubDate": "2026-08-25T18:25:00+02:00",
+      "timestamp": 1787675100.0,
+      "source": "ComputerBase",
+      "summary": "Zur Gamescom 2026 spendiert Asus nach zahlreichen Varianten der GeForce RTX 5090 diesmal der Radeon RX 9070 XT eine Sonderedition. Anlass ist der Anfa..."
+    },
+    {
+      "title": "SNES-Klassiker mit Neuauflage: Terranigma feiert Comeback auf PC und Konsolen",
+      "link": "https://www.computerbase.de/news/gaming/snes-klassiker-mit-neuauflage-terranigma-feiert-comeback-auf-pc-und-konsolen.99036/",
+      "pubDate": "2026-08-25T18:08:00+02:00",
+      "timestamp": 1787674080.0,
+      "source": "ComputerBase",
+      "summary": "Terranigma aus dem Jahr 1995 entwickelte sich zu einem Action-RPG-Geheimtipp. Eine Neuauflage des Super-Nintendo-Klassikers mit leichten Anpassungen s..."
+    }
+  ],
   "int": [
+    {
+      "title": "Taylor Sheridan and Jon Bernthal's 121-minute 10/10 Action Western Remains a Streaming Smash Hit",
+      "link": "https://www.polygon.com/taylor-sheridan-jon-bernthal-sicario-streaming-hbo-max-august-2026/",
+      "pubDate": "Wed, 26 Aug 2026 02:00:24 GMT",
+      "timestamp": 1787709624.0,
+      "source": "Polygon.com",
+      "summary": "Bernthal's blockbuster summer has fans revisiting a modern thriller classic."
+    },
+    {
+      "title": "Say Goodbye to DC's 4-Part Sci-Fi Action Series Leaving Netflix Next Week",
+      "link": "https://www.polygon.com/black-lightning-leaving-netflix-superhero-sci-fi-action-series/",
+      "pubDate": "Wed, 26 Aug 2026 01:00:15 GMT",
+      "timestamp": 1787706015.0,
+      "source": "Polygon.com",
+      "summary": "Nine years since Black Lightning retired; eight years since it ended"
+    },
     {
       "title": "Showa American Story: The First Hands-On Preview",
       "link": "https://www.ign.com/articles/showa-american-story-the-first-hands-on-preview",
       "pubDate": "Wed, 26 Aug 2026 01:00:00 +0000",
+      "timestamp": 1787706000.0,
       "source": "IGN All",
       "summary": "Showa American Story succeeds in crafting an unforgettable, eccentric B-movie world. However, its deliberate jank and niche style mean its general pol..."
     },
@@ -12,20 +150,47 @@
       "title": "The Baseus 25,000mAh 140W Laptop Power Bank With Dual USB-C Cables Drops to Just $45.29",
       "link": "https://www.ign.com/articles/baseus-25000mah-140w-power-bank-deal-august-2026",
       "pubDate": "Wed, 26 Aug 2026 00:35:00 +0000",
+      "timestamp": 1787704500.0,
       "source": "IGN All",
       "summary": "Even better, you do not need to be an Amazon Prime member to apply this discount."
+    },
+    {
+      "title": "'The Dog Stars Review: Ridley Scott's New Sci-Fi Odyssey Is an Action Movie Like No Other",
+      "link": "https://www.polygon.com/the-dog-stars-review-ridley-scott/",
+      "pubDate": "Wed, 26 Aug 2026 00:00:14 GMT",
+      "timestamp": 1787702414.0,
+      "source": "Polygon.com",
+      "summary": "Ridley Scott's first sci-fi movie in almost a decade is a triumphant spectacle with emotional stakes and epic action set pieces."
     },
     {
       "title": "The Dog Stars Review",
       "link": "https://www.ign.com/articles/the-dog-stars-review",
       "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000",
+      "timestamp": 1787702400.0,
       "source": "IGN All",
       "summary": "Ridley Scott's post-apocalyptic survivor drama keeps its feelings about grieving in a triple layer of emotional bubble wrap."
+    },
+    {
+      "title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
+      "link": "https://www.polygon.com/the-longing-steam/",
+      "pubDate": "Tue, 25 Aug 2026 23:00:14 GMT",
+      "timestamp": 1787698814.0,
+      "source": "Polygon.com",
+      "summary": "The Longing counts down 400 real-world days whether you're playing or not…as you decorate a cave, read Moby Dick cover to cover, and more."
+    },
+    {
+      "title": "The 5 Most Unforgettable Moments of Critical Role Campaign 4 So Far",
+      "link": "https://www.polygon.com/critical-role-campaign-4-5-best-moments/",
+      "pubDate": "Tue, 25 Aug 2026 23:00:14 GMT",
+      "timestamp": 1787698814.0,
+      "source": "Polygon.com",
+      "summary": "The second arc of Critical Role Campaign 4 is just around the corner. Here's a recap of the 5 wildest moments so far."
     },
     {
       "title": "Konami Partners With Celebrity Kitty to Release Metal Gear Cat Toys at CatCon 2026",
       "link": "https://www.ign.com/articles/konami-partners-with-celebrity-kitty-to-release-metal-gear-cat-toys-at-catcon-2026",
       "pubDate": "Tue, 25 Aug 2026 22:48:58 +0000",
+      "timestamp": 1787698138.0,
       "source": "IGN All",
       "summary": "Konami is partnering up with a celebrity kitty named ‘one-eared Uno’ to debut a special Metal Gear cat toy collection available at CatCon 2026."
     },
@@ -33,64 +198,65 @@
       "title": "The First New Magic Puzzle of 2026 Is Now Available at Retailers",
       "link": "https://www.ign.com/articles/the-first-series-6-magic-puzzle-company-jigsaw-puzzle-is-now-available",
       "pubDate": "Tue, 25 Aug 2026 22:45:00 +0000",
+      "timestamp": 1787697900.0,
       "source": "IGN All",
       "summary": ""
+    },
+    {
+      "title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
+      "link": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
+      "pubDate": "Tue, 25 Aug 2026 22:25:01 +0000",
+      "timestamp": 1787696701.0,
+      "source": "Kotaku",
+      "summary": "Cyberleek or someone closely associated with the group or leaker might have made a mistake"
+    },
+    {
+      "title": "After 25 Years, Sci-fi Cult Classic Donnie Darko is Officially Getting a Proper Sequel",
+      "link": "https://www.polygon.com/donnie-darko-sequel-book-richard-kelly/",
+      "pubDate": "Tue, 25 Aug 2026 22:11:38 GMT",
+      "timestamp": 1787695898.0,
+      "source": "Polygon.com",
+      "summary": "Richard Kelly is releasing a sequel book to Donnie Darko 25 years after the cult classic first confused audiences."
     },
     {
       "title": "For Today Only, Best Buy Has a 5TB Seagate Portable Hard Drive for $169.99",
       "link": "https://www.ign.com/articles/5tb-seagate-portable-hard-drive-deal-august-2026",
       "pubDate": "Tue, 25 Aug 2026 22:10:00 +0000",
+      "timestamp": 1787695800.0,
       "source": "IGN All",
       "summary": "The best price for 5TB of portable storage in today's overpriced market."
     },
     {
-      "title": "This LEGO Gift Card Deal Can Save You $65 on the Massive Minas Tirith Set",
-      "link": "https://www.ign.com/articles/lego-gift-card-deal-lord-of-the-rings-minas-tirith-2026",
-      "pubDate": "Tue, 25 Aug 2026 21:35:16 +0000",
-      "source": "IGN All",
-      "summary": ""
+      "title": "I Tried To Play Steam’s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
+      "link": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
+      "pubDate": "Tue, 25 Aug 2026 22:00:15 +0000",
+      "timestamp": 1787695215.0,
+      "source": "Kotaku",
+      "summary": "I probably should have, you know, brought friends"
     },
     {
-      "title": "Apple's 2nd Generation AirTags Drop to a New Price Low",
-      "link": "https://www.ign.com/articles/apples-2nd-generation-airtags-drop-to-a-new-price-low",
-      "pubDate": "Tue, 25 Aug 2026 21:30:00 +0000",
-      "source": "IGN All",
-      "summary": "A practical accessory for iPhone owners who tend to lose wallets, keys, remotes."
-    },
-    {
-      "title": "Save Over 50% Off the Ultra Premium LG G5 Gallery Series 4K TV With Tandem OLED Technology",
-      "link": "https://www.ign.com/articles/lg-g5-gallery-series-4k-oled-tv-deal-august-2026",
-      "pubDate": "Tue, 25 Aug 2026 21:30:00 +0000",
-      "source": "IGN All",
-      "summary": "This was LG's highest-end OLED TV in 2025 which normally retailed for $2,400."
-    },
-    {
-      "title": "The Witcher 3 Songs of the Past Expansion: Everything Revealed at gamescom ONL 2026",
-      "link": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-everything-revealed-at-gamescom-onl-2026",
-      "pubDate": "Tue, 25 Aug 2026 21:25:10 +0000",
-      "source": "IGN All",
-      "summary": "The Witcher 3: Wild Hunt Songs of the Past expansion got a proper reveal trailer at gamescom Opening Night Live 2026, and developer CD Projekt Red sho..."
-    },
-    {
-      "title": "Paradox's latest grand strategy Afterworld wants you to survive and thrive in the post-apocalypse",
-      "link": "https://www.eurogamer.net/paradox-grand-strategy-afterworld-announcement",
-      "pubDate": "Tue, 25 Aug 2026 20:11:49 +0000",
-      "source": "Eurogamer.net News",
-      "summary": "After a succession of grand strategy sequels - including Crusader Kings 3, Victoria 4, and Europa Universalis 5 - Paradox has unveiled Afterworld, its..."
-    },
-    {
-      "title": "The Witcher 3 Remastered announced, an overhaul free for existing owners, while expansion Songs of the Past finally shown",
-      "link": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-trailer",
-      "pubDate": "Tue, 25 Aug 2026 20:02:35 +0000",
-      "source": "Eurogamer.net News",
-      "summary": "The Witcher 3 expansion Songs of the Past - which is due to arrive 12 years after the base game was released - has finally been detailed in a debut tr..."
+      "title": "33 Years Later, Magic’s Head Designer Reveals One of His Biggest Regrets",
+      "link": "https://www.polygon.com/mtg-secret-regrets-magic-artifacts-enchantments-card-type-mark-rosewater-blog/",
+      "pubDate": "Tue, 25 Aug 2026 22:00:14 GMT",
+      "timestamp": 1787695214.0,
+      "source": "Polygon.com",
+      "summary": "After 33 years, Magic head designer Mark Rosewater explains why artifacts and enchantments perhaps should have been one card type."
     }
   ],
   "sim": [
     {
+      "title": "‘The Alien’ who has ‘Been Everywhere’ | iRacing Community Spotlight: Karl Samson",
+      "link": "https://www.iracing.com/the-alien-who-has-been-everywhere-iracing-community-spotlight-karl-samson/",
+      "pubDate": "Tue, 25 Aug 2026 21:00:53 +0000",
+      "timestamp": 1787691653.0,
+      "source": "iRacing.com",
+      "summary": "As of iRacing&#8217;s 2026 Season 3 build, there are so many different pieces of content available to license, with more than 150 tracks across the wo..."
+    },
+    {
       "title": "LEGO PlayStation Set Rumored to Include Gran Turismo Diorama",
       "link": "https://www.gtplanet.net/lego-playstation-set-rumored-to-include-gran-turismo-diorama-20260825/",
       "pubDate": "Tue, 25 Aug 2026 19:22:47 +0000",
+      "timestamp": 1787685767.0,
       "source": "GTPlanet",
       "summary": "The LEGO rumor mill says the upcoming 72306 PlayStation set hides a Gran Turismo diorama inside its near 1:1 scale build of Sony's original console..."
     },
@@ -98,20 +264,39 @@
       "title": "Super GT Winner Yusuke Tomibayashi Praises Gran Turismo 7’s New Physics",
       "link": "https://www.gtplanet.net/super-gt-winner-yusuke-tomibayashi-praises-gran-turismo-7s-new-physics-20260825/",
       "pubDate": "Tue, 25 Aug 2026 18:29:56 +0000",
+      "timestamp": 1787682596.0,
       "source": "GTPlanet",
       "summary": "Fresh from a pole-to-win maiden Super GT victory at Suzuka, sim-racer-turned-pro Yusuke Tomibayashi says GT7's new update 1..."
+    },
+    {
+      "title": "This Week in iRacing | August 25th to August 31st, 2026",
+      "link": "https://www.iracing.com/this-week-in-iracing-august-25th-to-august-31st-2026/",
+      "pubDate": "Mon, 24 Aug 2026 21:00:44 +0000",
+      "timestamp": 1787605244.0,
+      "source": "iRacing.com",
+      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
     },
     {
       "title": "Gran Turismo 7 Daily Races: Cruising the M4",
       "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-cruising-the-m4-20260824/",
       "pubDate": "Mon, 24 Aug 2026 16:48:47 +0000",
+      "timestamp": 1787590127.0,
       "source": "GTPlanet",
       "summary": "This week's Gran Turismo 7 Daily Races mark the first online test of Update 1..."
+    },
+    {
+      "title": "THIS WEEK: 2026 Crandon Championship presented by Trak Racer | Special Event",
+      "link": "https://www.iracing.com/this-week-2026-crandon-championship-presented-by-trak-racer-special-event/",
+      "pubDate": "Mon, 24 Aug 2026 14:00:57 +0000",
+      "timestamp": 1787580057.0,
+      "source": "iRacing.com",
+      "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
     },
     {
       "title": "Kazunori Yamauchi Says Tire Physics Remain One of Gran Turismo’s Biggest Challenges",
       "link": "https://www.gtplanet.net/kazunori-yamauchi-says-tire-physics-remain-gran-turismos-biggest-challenge-20260822/",
       "pubDate": "Sat, 22 Aug 2026 23:07:34 +0000",
+      "timestamp": 1787440054.0,
       "source": "GTPlanet",
       "summary": "In a new evo magazine interview, Kazunori Yamauchi discusses why tires remain Gran Turismo's toughest simulation challenge and reveals that Sony's pre..."
     },
@@ -119,6 +304,7 @@
       "title": "Gran Turismo 7 Players Have Big Feelings About New Physics",
       "link": "https://www.gtplanet.net/gran-turismo-7-players-have-big-feelings-about-new-physics-20260822/",
       "pubDate": "Sat, 22 Aug 2026 20:23:53 +0000",
+      "timestamp": 1787430233.0,
       "source": "GTPlanet",
       "summary": "GT7's 1..."
     },
@@ -126,6 +312,7 @@
       "title": "Gran Turismo 7 Weekly Challenges: Eiger King",
       "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-eiger-king-20260820/",
       "pubDate": "Thu, 20 Aug 2026 20:45:00 +0000",
+      "timestamp": 1787258700.0,
       "source": "GTPlanet",
       "summary": "The latest set of Gran Turismo 7 Weekly Challenges is becoming available to players around the world, replacing the previous quintet as your console t..."
     },
@@ -133,6 +320,7 @@
       "title": "Gran Turismo 7 Online Time Trial: 6 Seven",
       "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-6-seven-20260820/",
       "pubDate": "Thu, 20 Aug 2026 17:00:50 +0000",
+      "timestamp": 1787245250.0,
       "source": "GTPlanet",
       "summary": "With all three of the Gran Turismo 7 Online Time Trial events expiring all at the same time this morning, due to the game update that brought a raft o..."
     },
@@ -140,36 +328,41 @@
       "title": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support",
       "link": "https://www.gtplanet.net/gran-turismo-7-update-1-71-arrives-with-major-physics-changes-fanatec-fullforce-support-20260820/",
       "pubDate": "Thu, 20 Aug 2026 11:12:14 +0000",
+      "timestamp": 1787224334.0,
       "source": "GTPlanet",
       "summary": "Almost two weeks after first being teased, the fifth update this calendar year for Gran Turismo 7 is now upon us and it brings some significant under-..."
+    },
+    {
+      "title": "iRacing Weekly Tune-in | eSports & Community Events | August 19th to August 26th, 2026",
+      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-august-19th-to-august-26th-2026/",
+      "pubDate": "Wed, 19 Aug 2026 21:00:16 +0000",
+      "timestamp": 1787173216.0,
+      "source": "iRacing.com",
+      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
     },
     {
       "title": "Gran Turismo 7’s Stealth Car Giveaway Is Back Online: Enter by August 31",
       "link": "https://www.gtplanet.net/gran-turismo-7s-stealth-car-giveaway-is-back-online-enter-by-august-31-20260819/",
       "pubDate": "Wed, 19 Aug 2026 18:17:18 +0000",
+      "timestamp": 1787163438.0,
       "source": "GTPlanet",
       "summary": "Entries for GT7's Round 2 Viewers Gift Campaign are working again after last weekend's outage, and players have until August 31 to claim the free Toyo..."
+    },
+    {
+      "title": "Garrett Manes breaks through for elusive eNASCAR Coca-Cola iRacing Championship Series victory at Daytona",
+      "link": "https://www.iracing.com/garrett-manes-breaks-through-for-elusive-enascar-coca-cola-iracing-championship-series-victory-at-daytona/",
+      "pubDate": "Wed, 19 Aug 2026 14:00:34 +0000",
+      "timestamp": 1787148034.0,
+      "source": "iRacing.com",
+      "summary": "10-driver Playoff field set after Triple eNASCAR Overtime ends in pandemonium These wild nights at Daytona International Speedway usually kick off the..."
     },
     {
       "title": "Gran Turismo 7 Update Confirmed for August 20: Three Performance Sedans, Caterham Returns",
       "link": "https://www.gtplanet.net/gran-turismo-7-update-confirmed-20260819/",
       "pubDate": "Wed, 19 Aug 2026 09:46:15 +0000",
+      "timestamp": 1787132775.0,
       "source": "GTPlanet",
       "summary": "After an unexpectedly longer wait for more information, we&#8217;ve now got confirmation that the next content update for Gran Turismo 7 lands on Thur..."
-    },
-    {
-      "title": "‘The Alien’ who has ‘Been Everywhere’ | iRacing Community Spotlight: Karl Samson",
-      "link": "https://www.iracing.com/the-alien-who-has-been-everywhere-iracing-community-spotlight-karl-samson/",
-      "pubDate": "Tue, 25 Aug 2026 21:00:53 +0000",
-      "source": "iRacing.com",
-      "summary": "As of iRacing&#8217;s 2026 Season 3 build, there are so many different pieces of content available to license, with more than 150 tracks across the wo..."
-    },
-    {
-      "title": "This Week in iRacing | August 25th to August 31st, 2026",
-      "link": "https://www.iracing.com/this-week-in-iracing-august-25th-to-august-31st-2026/",
-      "pubDate": "Mon, 24 Aug 2026 21:00:44 +0000",
-      "source": "iRacing.com",
-      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
     }
   ]
 }
