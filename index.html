@@ -173,20 +173,19 @@
              date.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) + ' Uhr';
     }
 
-    // Neuer Fetch-Mechanismus ohne api.rss2json.com
+    // Neuer Fetch via corsproxy.io
     async function fetchFeed(url) {
       try {
-        const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
-        const data = await res.json();
+        const res = await fetch(`https://corsproxy.io/?${encodeURIComponent(url)}`);
+        const xmlText = await res.text();
         
-        if (!data.contents) return [];
+        if (!xmlText || xmlText.includes("403 Forbidden")) return [];
 
-        // XML im Browser parsen
+        // XML direkt im Browser parsen
         const parser = new DOMParser();
-        const xml = parser.parseFromString(data.contents, "text/xml");
+        const xml = parser.parseFromString(xmlText, "text/xml");
         const items = Array.from(xml.querySelectorAll("item"));
 
-        // Namen der News-Quelle automatisch ermitteln
         const channelTitle = xml.querySelector("channel > title")?.textContent || "News";
         const sourceName = channelTitle.replace(" Feed", "").replace(" RSS", "").trim();
 
@@ -210,7 +209,6 @@
         const fetchPromises = FEEDS[categoryKey].map(url => fetchFeed(url));
         const results = await Promise.all(fetchPromises);
         
-        // Alle Feeds zusammenführen und nach Datum sortieren
         let allItems = [];
         results.forEach(items => {
           allItems = allItems.concat(items);
