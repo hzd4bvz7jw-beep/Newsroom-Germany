@@ -78,8 +78,13 @@
       color: var(--muted);
       margin-bottom: 8px;
       display: flex;
-      gap: 10px;
+      gap: 12px;
       flex-wrap: wrap;
+    }
+
+    .news-date {
+      color: #60a5fa;
+      font-weight: 600;
     }
 
     .news-summary { font-size: 0.85rem; color: #cbd5e1; line-height: 1.4; }
@@ -110,9 +115,8 @@
   <script>
     async function loadDashboard() {
       try {
-        // Lädt die auf GitHub erstellte statische Datei (kein Proxy nötig!)
         const res = await fetch(`./news.json?cachebust=${Date.now()}`);
-        if (!res.ok) throw new Error("news.json noch nicht erstellt");
+        if (!res.ok) throw new Error("news.json noch nicht bereit");
         
         const data = await res.json();
 
@@ -129,6 +133,7 @@
             <div class="news-card">
               <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
               <div class="news-meta">
+                <span class="news-date">📅 ${item.pubDate || 'Neu'}</span>
                 <span>📌 ${item.source}</span>
               </div>
               <div class="news-summary">${item.summary}</div>
@@ -137,14 +142,11 @@
         });
       } catch (err) {
         console.error(err);
-        document.getElementById('feed-de').innerHTML = "Warte auf die erste Generierung der News...";
-        document.getElementById('feed-int').innerHTML = "Warte auf die erste Generierung der News...";
-        document.getElementById('feed-sim').innerHTML = "Warte auf die erste Generierung der News...";
       }
     }
 
     loadDashboard();
-    setInterval(loadDashboard, 5 * 60 * 1000); // Alle 5 Min neu prüfen
+    setInterval(loadDashboard, 5 * 60 * 1000); // Alle 5 Minuten im Browser aktualisieren
   </script>
 </body>
 </html>
