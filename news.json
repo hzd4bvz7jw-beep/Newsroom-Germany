@@ -1,249 +1,281 @@
 {
   "de": [
     {
-      "title": "Nur 23 Kilobyte: Ubisoft liefert Heroes of Might and Magic 3 leer aus",
-      "link": "https://www.computerbase.de/news/gaming/nur-23-kilobyte-ubisoft-liefert-heroes-of-might-and-magic-3-leer-aus.99062/",
-      "pubDate": "2026-08-26T16:00:00+02:00",
-      "timestamp": 1787752800.0,
-      "source": "ComputerBase",
-      "summary": "Mit der Veröffentlichung der Originalversion von Heroes of Might and Magic 3 wollte Ubisoft Fans der Reihe eigentlich auf das Remake im kommenden Jahr..."
-    },
-    {
-      "title": "Neuer Gamescom-Trailer: Final Fantasy 7 Revelation überrascht mit Weapons",
-      "link": "https://www.computerbase.de/news/gaming/neuer-gamescom-trailer-final-fantasy-7-revelation-ueberrascht-mit-weapons.99061/",
-      "pubDate": "2026-08-26T15:31:00+02:00",
-      "timestamp": 1787751060.0,
-      "source": "ComputerBase",
-      "summary": "Final Fantasy VII Revelation ist der dritte und letzte Teil von Square Enix' Remake-Trilogie des ikonischen JRPGs aus dem Jahr 1997. In einem neuen ga..."
-    },
-    {
-      "title": "Ring: Neue Verschlüsselung kombiniert E2EE und KI-Analyse",
-      "link": "https://www.computerbase.de/news/smart-home/ring-neue-verschluesselung-kombiniert-e2ee-und-ki-analyse.99064/",
-      "pubDate": "2026-08-26T15:10:00+02:00",
-      "timestamp": 1787749800.0,
-      "source": "ComputerBase",
-      "summary": "Eine Verschlüsselung ohne externen Zugriff und smarte Funktionen zur Videoanalyse per Cloud sind nicht so leicht zu kombinieren. Ring ändert nun das V..."
-    },
-    {
-      "title": "Mit Schwert und Termin: Path of Exile 2 verlässt Early Access",
-      "link": "https://www.computerbase.de/news/gaming/mit-schwert-und-termin-path-of-exile-2-verlaesst-early-access.99055/",
-      "pubDate": "2026-08-26T13:49:00+02:00",
-      "timestamp": 1787744940.0,
-      "source": "ComputerBase",
-      "summary": "Path of Exile 2 steht kurz vor dem Ende seiner langen Testphase. Am 11. Dezember 2026 soll Version 1.0 erscheinen und den seit Dezember 2024 laufenden..."
-    },
-    {
-      "title": "PowerToys 0.101: Werkzeugkasten erhält Win­dow Hopper und lokale KI-Verarbeitung",
-      "link": "https://www.computerbase.de/news/apps/powertoys-0-101-werkzeugkasten-erhaelt-window-hopper-und-lokale-ki-verarbeitung.99054/",
-      "pubDate": "2026-08-26T13:13:00+02:00",
-      "timestamp": 1787742780.0,
-      "source": "ComputerBase",
-      "summary": "Microsoft hat PowerToys in Version 0.101 veröffentlicht und stattet seinen virtuellen Werkzeugkasten für Windows mit zahlreichen Neuerungen aus. Dazu ..."
-    },
-    {
-      "title": "Massiver NAND-Ausbau: YMTC will Samsung und SK Hynix bereits Ende 2027 überholen",
-      "link": "https://www.computerbase.de/news/wirtschaft/massiver-nand-ausbau-ymtc-will-samsung-und-sk-hynix-bereits-ende-2027-ueberholen.99051/",
-      "pubDate": "2026-08-26T12:32:00+02:00",
-      "timestamp": 1787740320.0,
-      "source": "ComputerBase",
-      "summary": "Der chinesische NAND-Hersteller YMTC will durch massiven Ausbau und den Börsengang bereits Ende 2027 die etablierten Branchenriesen aus Südkorea überh..."
-    },
-    {
-      "title": "Unity-Chef hält Konsolen-Krise für vorübergehend: GTA 6 wird zeigen, wie stark der Markt noch ist",
-      "link": "https://www.eurogamer.de/unity-chef-konsolen-kosten-gta-6-zukunft",
-      "pubDate": "Wed, 26 Aug 2026 10:09:07 +0000",
-      "timestamp": 1787738947.0,
+      "title": "GTA 6 führt ein Beziehungs-System ein, das über Jasons und Lucias Romanze entscheidet",
+      "link": "https://www.eurogamer.de/gta-6-beziehungs-system-romanze-jason-lucia",
+      "pubDate": "Thu, 27 Aug 2026 21:25:00 +0000",
+      "timestamp": 1787865900.0,
       "source": "Eurogamer.de News",
-      "summary": "Wer in den vergangenen Jahren eine neue Konsole kaufen wollte, musste sich an einen ungew&ouml;hnlichen Anblick gew&ouml;hnen: Statt mit zunehmendem A..."
+      "summary": "Rockstar hat f&uuml;r Grand Theft Auto 6 ein Beziehungs-System enth&uuml;llt. Es bildet das Fundament f&uuml;r die Bindung zwischen dem Protagonisten-..."
     },
     {
-      "title": "1666 Amsterdam: Historisches Action-Adventure mit düsterer Magie erschienen",
-      "link": "https://www.computerbase.de/news/gaming/1666-amsterdam-historisches-action-adventure-mit-duesterer-magie-erschienen.99048/",
-      "pubDate": "2026-08-26T12:08:00+02:00",
-      "timestamp": 1787738880.0,
-      "source": "ComputerBase",
-      "summary": "Das zum Summer Game Fest angekündigte 1666: Amsterdam ist zum Start der Gamescom auf dem PC im Early Access erschienen. Das von ehemaligen Assassin's-..."
-    },
-    {
-      "title": "The Blood of Dawnwalker zeigt neuen Story-Trailer und bestätigt 60 FPS für Konsolen",
-      "link": "https://www.eurogamer.de/the-blood-of-dawnwalker-zeigt-neuen-story-trailer-und-bestatigt-60-fps-fur-konsolen",
-      "pubDate": "Wed, 26 Aug 2026 09:40:29 +0000",
-      "timestamp": 1787737229.0,
+      "title": "GTA 6 macht das Autofahren und Autoknacken deutlich realistischer und schwerer",
+      "link": "https://www.eurogamer.de/gta-6-autodiebstahl-fahren-realismus",
+      "pubDate": "Thu, 27 Aug 2026 21:15:00 +0000",
+      "timestamp": 1787865300.0,
       "source": "Eurogamer.de News",
-      "summary": "In wenigen Tagen erscheint das Action-Rollenspiel &bdquo;The Blood of Dawnwalker&ldquo; aus dem Hause Rebel Wolves f&uuml;r PlayStation 5, Xbox Series..."
+      "summary": "Zwei der wichtigsten Kernmechaniken von Grand Theft Auto greifen nahtlos ineinander: Autos stehlen und damit durch die Stadt brettern. Doch genau hier..."
     },
     {
-      "title": "PocketBook Q: Kompakter E-Reader mit 5,84 Zoll startet für 199 Euro",
-      "link": "https://www.computerbase.de/news/tablets/pocketbook-q-kompakter-e-reader-mit-5-84-zoll-startet-fuer-199-euro.99052/",
-      "pubDate": "2026-08-26T11:31:00+02:00",
-      "timestamp": 1787736660.0,
-      "source": "ComputerBase",
-      "summary": "PocketBook hat im Vorfeld der IFA 2026 erstmals den PocketBook Q einer breiten Öffentlichkeit vorgestellt. Der kompakte E-Book-Reader soll hohe Mobili..."
-    },
-    {
-      "title": "Switch 2 + Sports Resort Bundle: Nintendo schnürt für den Winter ein sportliches Paket",
-      "link": "https://www.computerbase.de/news/gaming/switch-2-plus-sports-resort-bundle-nintendo-schnuert-fuer-den-winter-ein-sportliches-paket.99053/",
-      "pubDate": "2026-08-26T11:06:00+02:00",
-      "timestamp": 1787735160.0,
-      "source": "ComputerBase",
-      "summary": "Für den Winter respektive das Weihnachtsgeschäft schnürt Nintendo ein neues Bundle für die Switch 2 (Test). Wie der Konzern zur Gamescom bekanntgegebe..."
-    },
-    {
-      "title": "Atari bringt 39 Activision-Klassiker zurück – als echte Module für Atari 2600",
-      "link": "https://www.eurogamer.de/atari-activision-39-klassiker-module-atari-2600",
-      "pubDate": "Wed, 26 Aug 2026 08:48:13 +0000",
-      "timestamp": 1787734093.0,
+      "title": "GTA 6: Alle bisher bekannten Nebenaktivitäten und Minispiele im Überblick",
+      "link": "https://www.eurogamer.de/gta-6-nebenaktivitaeten-minispiele-liste",
+      "pubDate": "Thu, 27 Aug 2026 21:05:00 +0000",
+      "timestamp": 1787864700.0,
       "source": "Eurogamer.de News",
-      "summary": "Wer seine Spiele lieber ins Regal stellt, statt sie aus irgendeiner digitalen Bibliothek herunterzuladen, bekommt demn&auml;chst Nachschub aus einer Z..."
+      "summary": "Wer schon mal ein Grand Theft Auto gespielt hat, wei&szlig; genau: Der gr&ouml;&szlig;te Spa&szlig; entsteht oft abseits der geskripteten Story-Missio..."
     },
     {
-      "title": "Exterminauts: Behaviour Interactive enthüllt neuen Sci-Fi-Koop-PvE-Shooter",
-      "link": "https://www.eurogamer.de/exterminauts-koop-shooter-reveal",
-      "pubDate": "Wed, 26 Aug 2026 08:24:14 +0000",
-      "timestamp": 1787732654.0,
-      "source": "Eurogamer.de News",
-      "summary": "Im Rahmen der gamescom Opening Night Live haben die Macher von Dead by Daylight, Dead by Daylight und Warhammer 40.000: Eternal Crusade ihr bislang eh..."
-    },
-    {
-      "title": "OpenAI Jalapeño: Der erste AI-Chip wirft Nvidia GB300 aus dem P/W-Rennen",
-      "link": "https://www.computerbase.de/news/prozessoren/openai-jalapeno-der-erste-ai-chip-wirft-nvidia-gb300-aus-dem-p-w-rennen.99050/",
-      "pubDate": "2026-08-26T10:05:00+02:00",
-      "timestamp": 1787731500.0,
+      "title": "GTA 6: 26 Minuten Gameplay zeigen schicke Grafik und den sechsten Stern",
+      "link": "https://www.computerbase.de/news/gaming/gta-6-26-minuten-gameplay-zeigen-schicke-grafik-und-den-sechsten-stern.99094/",
+      "pubDate": "2026-08-27T23:00:00+02:00",
+      "timestamp": 1787864400.0,
       "source": "ComputerBase",
-      "summary": "OpenAI hat am letzten Tag von Hot Chips 2026 Jalapeño detaillierter vorgestellt. Der Chip ist nicht nur schnell, sondern auch sehr effizient, da er „n..."
+      "summary": "Rockstar hat erstes Gameplay zum im November erscheinenden GTA 6 gezeigt. Zu sehen sind Vice City in schicker Grafik, zahlreiche Nebenaktivitäten im B..."
     },
     {
-      "title": "Humankind 2 kommt 2027 und macht den Klimawandel zum Teil eurer Strategie",
-      "link": "https://www.eurogamer.de/humankind-2-release-2027-klimawandel",
-      "pubDate": "Wed, 26 Aug 2026 07:36:09 +0000",
-      "timestamp": 1787729769.0,
+      "title": "GTA 6 ändert das Fahndungssystem radikal und führt ein kriminelles Profil ein",
+      "link": "https://www.eurogamer.de/gta-6-wanted-system-criminal-profile",
+      "pubDate": "Thu, 27 Aug 2026 20:42:40 +0000",
+      "timestamp": 1787863360.0,
       "source": "Eurogamer.de News",
-      "summary": "Amplitude Studios schickt seinen Civilization-Konkurrenten in die n&auml;chste Runde. Im Rahmen der Gamescom Opening Night Live k&uuml;ndigte das fran..."
+      "summary": "Wohl kein anderes Gameplay-Feature steht so sehr f&uuml;r Grand Theft Auto wie das Wanted-System. Aber wie so viele grundlegende Mechaniken der Serie ..."
+    },
+    {
+      "title": "5,6 Milliarden Euro: Lidl-Mutter plant Rechenzentrum mit 1 Gigawatt",
+      "link": "https://www.computerbase.de/news/wirtschaft/5-6-milliarden-euro-lidl-mutter-plant-rechenzentrum-mit-1-gigawatt.99088/",
+      "pubDate": "2026-08-27T20:45:00+02:00",
+      "timestamp": 1787856300.0,
+      "source": "ComputerBase",
+      "summary": "Die Unternehmen der Schwarz-Gruppe wollen in Dummerstorf bei Rostock ein weiteres Großrechenzentrum errichten. Die zunächst vorgesehenen 240 MW sollen..."
+    },
+    {
+      "title": "Neue Monitore: Samsung setzt auf DQHD, 1.100 Hz und Triple-Mode",
+      "link": "https://www.computerbase.de/news/monitore/neue-monitore-samsung-setzt-auf-dqhd-1-100-hz-und-triple-mode.99089/",
+      "pubDate": "2026-08-27T20:13:00+02:00",
+      "timestamp": 1787854380.0,
+      "source": "ComputerBase",
+      "summary": "Eine Reihe neuer Gaming-Monitore stellt Samsung auf der Gamescom vor. Besonders breit ist der Odyssey OLED G9 (G95SJ) mit 5.120 × 1.440 Pixeln auf 49 ..."
+    },
+    {
+      "title": "Tomb Raider: Legacy of Atlantis: Rätsel, Raptoren und Bullet-Time im Gamescom-Video",
+      "link": "https://www.computerbase.de/news/gaming/tomb-raider-legacy-of-atlantis-raetsel-raptoren-und-bullet-time-im-gamescom-video.99092/",
+      "pubDate": "2026-08-27T19:02:00+02:00",
+      "timestamp": 1787850120.0,
+      "source": "ComputerBase",
+      "summary": "Entwickler Crystal Dynamics gibt einen umfangreichen Einblick in das Gameplay von Tomb Raider: Legacy of Atlantis. Die Neuinterpretation des ersten La..."
+    },
+    {
+      "title": "Elden Ring bekommt einen überraschend großen Patch mit Waffen-Buffs und besserer Beute",
+      "link": "https://www.eurogamer.de/elden-ring-patch-1-17-waffen-buffs-bessere-beute",
+      "pubDate": "Thu, 27 Aug 2026 16:29:40 +0000",
+      "timestamp": 1787848180.0,
+      "source": "Eurogamer.de News",
+      "summary": "Mehr als vier Jahre nach dem Release ist FromSoftware mit Elden Ring offenbar noch lange nicht fertig. Patch 1.17 ist heute erschienen und f&auml;llt ..."
+    },
+    {
+      "title": "Fable Reboot: Fast 20 Minuten Gameplay zeigen Hauptstadt & Kampfsystem",
+      "link": "https://www.computerbase.de/news/gaming/fable-reboot-fast-20-minuten-gameplay-zeigen-hauptstadt-und-kampfsystem.99087/",
+      "pubDate": "2026-08-27T18:01:00+02:00",
+      "timestamp": 1787846460.0,
+      "source": "ComputerBase",
+      "summary": "Ein 18-minütiges Gameplay-Video zu Fable zeigt erstmals ausführlich die Hauptstadt Bowerstone, eine Story-Quest, das Kampfsystem und den Talentbaum. D..."
+    },
+    {
+      "title": "Externe SSDs: Samsung springt mit P9 und P7 spät auf den USB4-Zug auf",
+      "link": "https://www.computerbase.de/news/storage/externe-ssds-samsung-springt-mit-p9-und-p7-spaet-auf-den-usb4-zug-auf.99085/",
+      "pubDate": "2026-08-27T16:32:00+02:00",
+      "timestamp": 1787841120.0,
+      "source": "ComputerBase",
+      "summary": "Samsung nutzt die Gamescom 2026, um zwei neue SSDs der externen Sorte vorzustellen. Die Portable SSD P9 und die Portable SSD P7 sind die bisher schnel..."
+    },
+    {
+      "title": "Exodus: Euer neuer Begleiter ist ein Oktopus im Kampfmech",
+      "link": "https://www.eurogamer.de/exodus-oktopus-begleiter-salt-kampfmech",
+      "pubDate": "Thu, 27 Aug 2026 14:07:49 +0000",
+      "timestamp": 1787839669.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wer bei Rollenspiel-Gef&auml;hrten bislang an Menschen, Aliens oder h&ouml;chstens einen besonders talentierten Vierbeiner dachte, darf seine Vorstell..."
+    },
+    {
+      "title": "Ab 4,99 Euro oder gratis: Vier Wege zum ersten Gameplay von GTA 6 (Update)",
+      "link": "https://www.computerbase.de/news/gaming/ab-4-99-euro-oder-gratis-vier-wege-zum-ersten-gameplay-von-gta-6.99056/",
+      "pubDate": "2026-08-27T16:00:00+02:00",
+      "timestamp": 1787839200.0,
+      "source": "ComputerBase",
+      "summary": "Die lange Durststrecke endet heute: Rockstar Games zeigt um 21 Uhr den „Extended Look\" zu GTA 6, zuerst hinter der Paywall von Netflix. Erwartet wird ..."
+    },
+    {
+      "title": "The Witcher 3: Songs of the Past – Entwickler verraten, wo die neue Region Letten auf der Karte liegt",
+      "link": "https://www.eurogamer.de/witcher-3-dlc-region-letten-karte",
+      "pubDate": "Thu, 27 Aug 2026 14:00:00 +0000",
+      "timestamp": 1787839200.0,
+      "source": "Eurogamer.de News",
+      "summary": "CD Projekt Red hat w&auml;hrend der Opening Night Live die neue Witcher-3-Erweiterung Songs of the Past offiziell vorgestellt. Dabei best&auml;tigten ..."
+    },
+    {
+      "title": "Forza Horizon 6: PS5-Version kommt offenbar doch nicht mehr 2026",
+      "link": "https://www.eurogamer.de/forza-horizon-6-ps5-offenbar-auf-2027-verschoben",
+      "pubDate": "Thu, 27 Aug 2026 13:29:10 +0000",
+      "timestamp": 1787837350.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wer Forza Horizon 6 auf der PlayStation 5 spielen m&ouml;chte, muss sich offenbar l&auml;nger gedulden als urspr&uuml;nglich angek&uuml;ndigt. Microso..."
     }
   ],
   "int": [
     {
-      "title": "Star Wars: Zero Company Is One of the Best Reviewed Star Wars Games of All-Time",
-      "link": "https://www.polygon.com/star-wars-zero-company-review-roundup/",
-      "pubDate": "Wed, 26 Aug 2026 14:28:05 GMT",
-      "timestamp": 1787754485.0,
-      "source": "Polygon.com",
-      "summary": "Star Wars: Zero Company is a big hit with critics, who are praising the tactics game for its XCOM-like action."
-    },
-    {
-      "title": "The Joker Just Became the New Lead of 2026’s Near-Perfect Batman Game",
-      "link": "https://www.polygon.com/lego-batman-legacy-of-the-dark-knight-mayhem-collection-joker-harley-quinn-dlc-trailer/",
-      "pubDate": "Wed, 26 Aug 2026 14:17:12 GMT",
-      "timestamp": 1787753832.0,
-      "source": "Polygon.com",
-      "summary": "Lego Batman: Legacy of the Dark Knight's Joker & Harley Quinn DLC, the Mayhem Collection, looks incredible in the latest trailer"
-    },
-    {
-      "title": "\"Tweety's sadistic\": The Filmmakers Behind 'Coyote vs. ACME' Dissect Its Looniest Scene",
-      "link": "https://www.polygon.com/coyote-vs-acme-john-cena-tweety-scene/",
-      "pubDate": "Wed, 26 Aug 2026 14:00:14 GMT",
-      "timestamp": 1787752814.0,
-      "source": "Polygon.com",
-      "summary": "In Coyote vs. ACME, John Cena shareas a memorable, hilarious exchange with Tweety Bird. Here, the film's director and screenwriter discuss the scene."
-    },
-    {
-      "title": "I Tested Elden Ring On Switch 2 In A Cozy Cafe And It Ran Just Fine, Which Is Great News For A Remarkable Game",
-      "link": "https://kotaku.com/elden-ring-tarnished-edition-nintendo-switch-2-review-2000727880",
-      "pubDate": "Wed, 26 Aug 2026 14:00:10 +0000",
-      "timestamp": 1787752810.0,
+      "title": "GTA 6′s Big Gameplay Reveal Contains A Mission First Seen In The 2022 Leak, So Let’s Compare Them",
+      "link": "https://kotaku.com/gta-6s-big-gameplay-reveal-contains-a-mission-first-seen-in-the-2022-leak-so-lets-compare-them-2000729084",
+      "pubDate": "Fri, 28 Aug 2026 00:41:48 +0000",
+      "timestamp": 1787877708.0,
       "source": "Kotaku",
-      "summary": "You shouldn't play it in the rain/but you can play it on a train"
+      "summary": "Our new look at that infamous diner robbery shows just how far GTA 6 has come in four years"
     },
     {
-      "title": "Roblox Cracks Down On ‘Doomscrolling Games’ Like Steal An Egg That Force Players To Watch Reels While Running On A Treadmill",
-      "link": "https://kotaku.com/roblox-cracks-down-on-doomscrolling-games-like-steal-an-egg-that-forces-players-to-watch-reels-while-running-on-a-treadmill-2000727952",
-      "pubDate": "Wed, 26 Aug 2026 13:48:00 +0000",
-      "timestamp": 1787752080.0,
+      "title": "4 Major GTA 6 Questions the Previews Haven't Answered",
+      "link": "https://www.polygon.com/gta-6-major-questions/",
+      "pubDate": "Fri, 28 Aug 2026 00:00:14 GMT",
+      "timestamp": 1787875214.0,
+      "source": "Polygon.com",
+      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look."
+    },
+    {
+      "title": "The Biggest Action Thriller Epic of the Year Officially Arrives in 3 Weeks",
+      "link": "https://www.polygon.com/zach-cregger-resident-evil-preview/",
+      "pubDate": "Fri, 28 Aug 2026 00:00:14 GMT",
+      "timestamp": 1787875214.0,
+      "source": "Polygon.com",
+      "summary": "Fresh horrors are coming from the director of Weapons and Barbarian"
+    },
+    {
+      "title": "Every Cool Detail We Spotted In The Massive 26-Minute GTA 6 Gameplay Trailer",
+      "link": "https://kotaku.com/15-cool-detail-we-spotted-in-gta-6s-big-netflix-gameplay-reveal-2000729042",
+      "pubDate": "Thu, 27 Aug 2026 23:55:00 +0000",
+      "timestamp": 1787874900.0,
       "source": "Kotaku",
-      "summary": "It can't get more dystopian than this"
+      "summary": "A 3D mini-map, holding hands, manatees, and backflips are just some of the things we spotted"
     },
     {
-      "title": "Fool's Theory explains where The Witcher 3's expansion region Letten actually is, and it's close to the setting of The Witcher 4",
-      "link": "https://www.eurogamer.net/witcher-3-songs-of-past-letten-location-map",
-      "pubDate": "Wed, 26 Aug 2026 13:31:06 +0000",
-      "timestamp": 1787751066.0,
-      "source": "Eurogamer.net News",
-      "summary": "CD Projekt Red properly revealed new Witcher 3 expansion Songs of the Past yesterday during Opening Night Live, confirming the new playable location a..."
-    },
-    {
-      "title": "The Sims' Biggest Rival Gets First Major Update Later This Year",
-      "link": "https://www.polygon.com/paralives-free-expansion-release-late-2026/",
-      "pubDate": "Wed, 26 Aug 2026 13:26:51 GMT",
-      "timestamp": 1787750811.0,
-      "source": "Polygon.com",
-      "summary": "Paralives' August patch notes provide information on the game's highly anticipated expansion, and it remains free as promised."
-    },
-    {
-      "title": "Chinese Pokémon-like Open-World Game With 15 million Players Is Set to Launch Globally",
-      "link": "https://www.polygon.com/roco-kingdom-closed-beta-global-launch/",
-      "pubDate": "Wed, 26 Aug 2026 13:19:23 GMT",
-      "timestamp": 1787750363.0,
-      "source": "Polygon.com",
-      "summary": "After a successful launch in China in March, the cozy game Roco Kingdom is coming to players worldwide in a closed beta this October."
-    },
-    {
-      "title": "Ubisoft Charges Steam Players $10 For ’90s Classic Heroes Of Might And Magic 3 And Forgets To Actually Give Them The Game",
-      "link": "https://kotaku.com/ubisoft-charges-steam-players-10-for-90s-classic-heroes-of-might-and-magic-3-and-forgets-to-actually-give-them-the-game-2000728357",
-      "pubDate": "Wed, 26 Aug 2026 13:00:42 +0000",
-      "timestamp": 1787749242.0,
+      "title": "Will GTA 6 Make Fun Of Trump? ‘Very Specific Political Issues Or Memes Will Date Us’",
+      "link": "https://kotaku.com/will-gta-6-make-fun-of-trump-very-specific-political-issues-or-memes-will-date-us-2000729031",
+      "pubDate": "Thu, 27 Aug 2026 23:46:26 +0000",
+      "timestamp": 1787874386.0,
       "source": "Kotaku",
-      "summary": "How does that happen?"
+      "summary": "Rockstar explains its approach to satire"
     },
     {
-      "title": "'Star Wars Zero Company' does something the prequels never could",
-      "link": "https://www.polygon.com/star-wars-zero-company-review/",
-      "pubDate": "Wed, 26 Aug 2026 13:00:14 GMT",
-      "timestamp": 1787749214.0,
-      "source": "Polygon.com",
-      "summary": "Star Wars Zero Company is an engaging tactics game that delivers compelling political undercurrents in a way the prequels couldn't."
+      "title": "Why Even Consider a Projector When Costco Has an Excellent 100\" Hisense 4K TV for Just $1,500?",
+      "link": "https://www.ign.com/articles/100-inch-hisense-qd7-4k-tv-deal-labor-day",
+      "pubDate": "Thu, 27 Aug 2026 23:05:00 +0000",
+      "timestamp": 1787871900.0,
+      "source": "IGN All",
+      "summary": "This massive TV even comes with an extended 5 year warranty."
     },
     {
-      "title": "'Buffy the Vampire Slayer' Star Breaks Silence on Canceled Hulu Sequel",
-      "link": "https://www.polygon.com/buffy-new-sunnydale-seth-green-interview/",
-      "pubDate": "Wed, 26 Aug 2026 12:51:27 GMT",
-      "timestamp": 1787748687.0,
-      "source": "Polygon.com",
-      "summary": "\"There's still plenty of stories to tell,\" Buffy actor Seth Green tells Polygon"
+      "title": "Pokémon Responds After Hacker Compromises Its X Account to Hawk MemeCoin",
+      "link": "https://www.ign.com/articles/pokemon-responds-after-hacker-compromises-its-x-account-to-hawk-memecoin",
+      "pubDate": "Thu, 27 Aug 2026 22:33:49 +0000",
+      "timestamp": 1787870029.0,
+      "source": "IGN All",
+      "summary": "The official Pokémon profile on X has responded after its account was hacked by an unknown party who shared a post linking out to a memecoin."
     },
     {
-      "title": "State of Decay 3 lives on after studio's separation from Xbox, with a closed beta promised for this year",
-      "link": "https://www.eurogamer.net/state-of-decay-3-lives-on-after-studios-separation-from-xbox-with-a-closed-beta-promised-for-this-year",
-      "pubDate": "Wed, 26 Aug 2026 12:45:30 +0000",
-      "timestamp": 1787748330.0,
-      "source": "Eurogamer.net News",
-      "summary": "Undead Labs has announced that a closed State of Decay 3 beta is coming sometime in 2026, weeks after the studio separated from Xbox. Read more"
-    },
-    {
-      "title": "Hugely anticipated anime RPG Ananta gets a January release date, as pre-registrations hit a whopping 17m sign-ups",
-      "link": "https://www.eurogamer.net/anime-rpg-ananta-release-date-january-pre-registrations",
-      "pubDate": "Wed, 26 Aug 2026 12:40:06 +0000",
-      "timestamp": 1787748006.0,
-      "source": "Eurogamer.net News",
-      "summary": "Ananta, the free-to-play open-world game that looks a whole lot like Grand Theft Auto's urban sandbox got an anime makeover, finally has a release dat..."
-    },
-    {
-      "title": "As Rockstar Apologizes Yet More Leaked GTA 6 Footage Appears, This Time Featuring Lucia",
-      "link": "https://kotaku.com/rockstar-gta6-leaks-cyberleek-grand-theft-auto-vi-lucia-footage-netflix-2000728355",
-      "pubDate": "Wed, 26 Aug 2026 12:35:59 +0000",
-      "timestamp": 1787747759.0,
+      "title": "Jason And Lucia’s Fridge Is Full Of Little Details That Are Driving Me Crazy",
+      "link": "https://kotaku.com/jason-and-lucias-fridge-is-full-of-little-details-that-are-driving-me-crazy-2000729008",
+      "pubDate": "Thu, 27 Aug 2026 22:30:57 +0000",
+      "timestamp": 1787869857.0,
       "source": "Kotaku",
-      "summary": "A police chase is cut short to show the briefest glimpse of a cutscene"
+      "summary": "Please, I am begging you both to eat a vegetable"
     },
     {
-      "title": "Rockstar finally break silence on \"heartbreaking\" GTA 6 leak, say it's \"unfortunate that the intended game experience may now be impacted by some spoilers\"",
-      "link": "https://www.rockpapershotgun.com/rockstar-finally-break-silence-on-heartbreaking-gta-6-leak-say-its-unfortunate-that-the-intended-game-experience-may-now-be-impacted-by-some-spoilers",
-      "pubDate": "Wed, 26 Aug 2026 12:21:00 +0000",
-      "timestamp": 1787746860.0,
+      "title": "The Grand Theft Auto 6 Gameplay Just Makes Me Want a PC Version Even More",
+      "link": "https://www.ign.com/articles/the-grand-theft-auto-6-gameplay-just-makes-me-want-a-pc-version-even-more",
+      "pubDate": "Thu, 27 Aug 2026 22:30:00 +0000",
+      "timestamp": 1787869800.0,
+      "source": "IGN All",
+      "summary": "After watching the Grand Theft Auto 6 Extended Look on Netflix, I came away awed by how good it looks on the base consoles. But more than anything, it..."
+    },
+    {
+      "title": "GTA 6 Devs at Rockstar Celebrate as Extended Look Finally Reveals Gameplay After Years of Development",
+      "link": "https://www.ign.com/articles/gta-6-devs-at-rockstar-celebrate-as-extended-look-finally-reveals-gameplay-after-years-of-development",
+      "pubDate": "Thu, 27 Aug 2026 22:28:24 +0000",
+      "timestamp": 1787869704.0,
+      "source": "IGN All",
+      "summary": "Rockstar Games has finally revealed an official look at GTA 6 gameplay, and members of the development team couldn't be happier to finally see fans' r..."
+    },
+    {
+      "title": "Pokémon Promotes Memecoin Ahead Of World Championships After Hack: ‘Those Posts Were Not Created Or Approved By Pokémon’",
+      "link": "https://kotaku.com/pokemon-memecoin-world-championships-hack-twitter-2000729053",
+      "pubDate": "Thu, 27 Aug 2026 22:20:43 +0000",
+      "timestamp": 1787869243.0,
+      "source": "Kotaku",
+      "summary": "That's either a hack or Pikachu is looking into new ventures"
+    },
+    {
+      "title": "Star Citizen Spinoff Squadron 42 Delayed to 2027, Dev Insists It's Because of GTA 6",
+      "link": "https://www.ign.com/articles/star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6",
+      "pubDate": "Thu, 27 Aug 2026 22:05:05 +0000",
+      "timestamp": 1787868305.0,
+      "source": "IGN All",
+      "summary": "Star Citizen single-player spinoff Squadron 42 has been delayed to 2027, with developer Chris Roberts insisting it wouldn't get the attention it deser..."
+    },
+    {
+      "title": "Say goodbye to stealing any car you like with a single button in GTA 6, and hello to whatever the hell the WAINK scanner is",
+      "link": "https://www.rockpapershotgun.com/say-goodbye-to-stealing-any-car-you-like-with-a-single-button-in-gta-6-and-hello-to-whatever-the-hell-the-waink-scanner-is",
+      "pubDate": "Thu, 27 Aug 2026 22:02:56 +0000",
+      "timestamp": 1787868176.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Rockstar Games have put out a statement publicly acknowledging the ongoing GTA 6 leaks for the first time. Though they and parent company Take-Two hav..."
+      "summary": "It's finally here! The preview for that extended look at a crime sim currently without a PC release date! GTA 6, or in the immortal words of Jack Nanc..."
+    },
+    {
+      "title": "GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode",
+      "link": "https://kotaku.com/gta-6-will-be-30fps-at-launch-rockstar-reportedly-not-sure-about-60fps-performance-mode-2000729032",
+      "pubDate": "Thu, 27 Aug 2026 22:01:10 +0000",
+      "timestamp": 1787868070.0,
+      "source": "Kotaku",
+      "summary": "Higher frame rates could get patched in later"
+    },
+    {
+      "title": "GTA 6 Just Blew Me Away; I'm So Glad I Avoided the Leaks",
+      "link": "https://www.ign.com/articles/gta-6-just-blew-me-away-im-so-glad-i-avoided-the-leaks",
+      "pubDate": "Thu, 27 Aug 2026 22:00:00 +0000",
+      "timestamp": 1787868000.0,
+      "source": "IGN All",
+      "summary": "There were a ton of GTA 6 leaks before the Netflix Extended Look, and I'm glad I avoided them, because it looks absolutely incredible."
     }
   ],
   "sim": [
+    {
+      "title": "Gran Turismo 7 Online Time Trial: Seca and You Shall Find",
+      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-seca-and-you-shall-find-20260827/",
+      "pubDate": "Thu, 27 Aug 2026 19:43:59 +0000",
+      "timestamp": 1787859839.0,
+      "source": "GTPlanet",
+      "summary": "Honda's Vision Gran Turismo concept heads to Laguna Seca in this week's new GT7 Online Time Trial, while the Ioniq 6N continues at the Nurburgring 24h..."
+    },
+    {
+      "title": "Gran Turismo 7 Weekly Challenges: Seventh Heaven",
+      "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-seventh-heaven-20260827/",
+      "pubDate": "Thu, 27 Aug 2026 18:23:18 +0000",
+      "timestamp": 1787854998.0,
+      "source": "GTPlanet",
+      "summary": "A new set of Gran Turismo 7 Weekly Challenges arrives Friday, August 28, headlined by a Caterham Seven one-make Special Event at Brands Hatch and a 20..."
+    },
+    {
+      "title": "iRacing Weekly Tune-in | eSports & Community Events | August 26th to September 1st, 2026",
+      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-august-26th-to-september-1st-2026/",
+      "pubDate": "Wed, 26 Aug 2026 21:00:28 +0000",
+      "timestamp": 1787778028.0,
+      "source": "iRacing.com",
+      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
+    },
+    {
+      "title": "Gran Turismo Movie’s NISMO Race Suit Heads to Auction in September",
+      "link": "https://www.gtplanet.net/gran-turismo-movies-nismo-race-suit-heads-to-auction-in-september-20260826/",
+      "pubDate": "Wed, 26 Aug 2026 17:45:54 +0000",
+      "timestamp": 1787766354.0,
+      "source": "GTPlanet",
+      "summary": "The Nissan NISMO racing suit worn by Archie Madekwe as Jann Mardenborough in the Gran Turismo movie heads to auction, with bidding opening at just $15..."
+    },
     {
       "title": "‘The Alien’ who has ‘Been Everywhere’ | iRacing Community Spotlight: Karl Samson",
       "link": "https://www.iracing.com/the-alien-who-has-been-everywhere-iracing-community-spotlight-karl-samson/",
@@ -325,44 +357,12 @@
       "summary": "With all three of the Gran Turismo 7 Online Time Trial events expiring all at the same time this morning, due to the game update that brought a raft o..."
     },
     {
-      "title": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support",
-      "link": "https://www.gtplanet.net/gran-turismo-7-update-1-71-arrives-with-major-physics-changes-fanatec-fullforce-support-20260820/",
-      "pubDate": "Thu, 20 Aug 2026 11:12:14 +0000",
-      "timestamp": 1787224334.0,
-      "source": "GTPlanet",
-      "summary": "Almost two weeks after first being teased, the fifth update this calendar year for Gran Turismo 7 is now upon us and it brings some significant under-..."
-    },
-    {
       "title": "iRacing Weekly Tune-in | eSports & Community Events | August 19th to August 26th, 2026",
       "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-august-19th-to-august-26th-2026/",
       "pubDate": "Wed, 19 Aug 2026 21:00:16 +0000",
       "timestamp": 1787173216.0,
       "source": "iRacing.com",
       "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
-    },
-    {
-      "title": "Gran Turismo 7’s Stealth Car Giveaway Is Back Online: Enter by August 31",
-      "link": "https://www.gtplanet.net/gran-turismo-7s-stealth-car-giveaway-is-back-online-enter-by-august-31-20260819/",
-      "pubDate": "Wed, 19 Aug 2026 18:17:18 +0000",
-      "timestamp": 1787163438.0,
-      "source": "GTPlanet",
-      "summary": "Entries for GT7's Round 2 Viewers Gift Campaign are working again after last weekend's outage, and players have until August 31 to claim the free Toyo..."
-    },
-    {
-      "title": "Garrett Manes breaks through for elusive eNASCAR Coca-Cola iRacing Championship Series victory at Daytona",
-      "link": "https://www.iracing.com/garrett-manes-breaks-through-for-elusive-enascar-coca-cola-iracing-championship-series-victory-at-daytona/",
-      "pubDate": "Wed, 19 Aug 2026 14:00:34 +0000",
-      "timestamp": 1787148034.0,
-      "source": "iRacing.com",
-      "summary": "10-driver Playoff field set after Triple eNASCAR Overtime ends in pandemonium These wild nights at Daytona International Speedway usually kick off the..."
-    },
-    {
-      "title": "Gran Turismo 7 Update Confirmed for August 20: Three Performance Sedans, Caterham Returns",
-      "link": "https://www.gtplanet.net/gran-turismo-7-update-confirmed-20260819/",
-      "pubDate": "Wed, 19 Aug 2026 09:46:15 +0000",
-      "timestamp": 1787132775.0,
-      "source": "GTPlanet",
-      "summary": "After an unexpectedly longer wait for more information, we&#8217;ve now got confirmation that the next content update for Gran Turismo 7 lands on Thur..."
     }
   ]
 }
