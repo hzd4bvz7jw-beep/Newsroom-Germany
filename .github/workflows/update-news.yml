@@ -2,7 +2,7 @@ name: Fetch News RSS
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -36,14 +36,18 @@ jobs:
                   "https://www.pcgames.de/rss/pcgames-news.xml",
                   "https://www.pcgameshardware.de/rss/pcgh-news.xml",
                   "https://www.computerbase.de/rss/news.xml",
-                  "https://www.eurogamer.de/feed/news"
+                  "https://www.eurogamer.de/feed/news",
+                  "https://mein-mmo.de/feed/",
+                  "https://www.playcentral.de/feed/"
               ],
               "int": [
                   "https://feeds.feedburner.com/ign/all",
                   "https://www.eurogamer.net/feed/news",
                   "https://www.polygon.com/rss/index.xml",
                   "https://www.kotaku.com/rss",
-                  "https://www.rockpapershotgun.com/feed/news"
+                  "https://www.rockpapershotgun.com/feed/news",
+                  "https://www.gamesradar.com/rss/",
+                  "https://www.pcgamer.com/rss/"
               ],
               "sim": [
                   "https://www.gtplanet.net/feed/",
@@ -64,11 +68,13 @@ jobs:
           def parse_date(entry):
               raw_date = entry.get('published', entry.get('updated', ''))
               if not raw_date:
-                  return datetime.min
+                  return datetime.min, ""
               try:
-                  return date_parser.parse(raw_date)
+                  dt = date_parser.parse(raw_date)
+                  formatted_date = dt.strftime("%d.%m. %H:%M Uhr")
+                  return dt, formatted_date
               except Exception:
-                  return datetime.min
+                  return datetime.min, raw_date
 
           output_data = {}
 
@@ -83,14 +89,14 @@ jobs:
                       else:
                           source_name = "News"
                       
-                      for entry in feed.entries[:10]:
+                      for entry in feed.entries[:8]:
                           summary = entry.get('summary', entry.get('description', ''))
-                          dt = parse_date(entry)
+                          dt, formatted_date = parse_date(entry)
                           
                           category_items.append({
                               'title': entry.get('title', 'Kein Titel'),
                               'link': entry.get('link', '#'),
-                              'pubDate': entry.get('published', entry.get('updated', '')),
+                              'pubDate': formatted_date if formatted_date else entry.get('published', ''),
                               'timestamp': dt.timestamp(),
                               'source': source_name,
                               'summary': clean_html(summary)
@@ -99,11 +105,8 @@ jobs:
                       print(f"Fehler bei Feed {url}: {e}")
                       continue
 
-              # Nach Datum sortieren (neueste zuerst)
               category_items.sort(key=lambda x: x['timestamp'], reverse=True)
-
-              # Top 15 Artikel für die Anzeige auswählen
-              output_data[cat] = category_items[:15]
+              output_data[cat] = category_items[:18]
 
           with open('news.json', 'w', encoding='utf-8') as f:
               json.dump(output_data, f, ensure_ascii=False, indent=2)
