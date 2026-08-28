@@ -71,11 +71,12 @@ jobs:
                   return datetime.min, ""
               try:
                   dt = date_parser.parse(raw_date)
-                  formatted_date = dt.strftime("%d.%m. %H:%M Uhr")
+                  # Sauberes deutsches Format: 28.08.2026 um 14:30 Uhr
+                  formatted_date = dt.strftime("%d.%m.%Y um %H:%M Uhr")
                   return dt, formatted_date
               except Exception:
                   return datetime.min, raw_date
-
+              
           output_data = {}
 
           for cat, urls in FEEDS.items():
