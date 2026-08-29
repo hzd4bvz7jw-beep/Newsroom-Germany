@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Dark Souls bekommt neuen Comic-Sammelband Mother of Mourning erscheint 2026",
+      "link": "https://www.playcentral.de/dark-souls-bekommt-neuen-comic-sammelband-mother-of-mourning-erscheint-2026/",
+      "pubDate": "29.08.2026 um 12:31 Uhr",
+      "timestamp": 1788006673.0,
+      "source": "PlayCentral",
+      "summary": "Nach langer Flaute erhält Dark Souls am 29. September 2026 eine neue offizielle Veröffentlichung. Wer dabei auf ein weiteres Videospiel von FromSoftwa..."
+    },
+    {
       "title": "Pokémon Tales: Erster Trailer zur neuen Stop-Motion-Serie von Aardman und Disney+",
       "link": "https://www.eurogamer.de/pokemon-tales-erster-trailer-zur-neuen-stop-motion-serie-von-aardman-und-disney",
       "pubDate": "29.08.2026 um 11:58 Uhr",
@@ -105,14 +113,6 @@
       "summary": "In Red Dead Redemption 2 entscheiden gute und schlechte Taten darüber, wie ehrenhaft Arthur Morgan von seiner Umwelt wahrgenommen wird. GTA 6 soll ebe..."
     },
     {
-      "title": "GTA 6 ohne Mikrotransaktionen: Rockstar erteilt Echtgeldkäufen im Story-Modus eine Absage",
-      "link": "https://www.playcentral.de/gta-6-keine-mikrotransaktionen-story-modus/",
-      "pubDate": "29.08.2026 um 08:54 Uhr",
-      "timestamp": 1787993658.0,
-      "source": "PlayCentral",
-      "summary": "Rockstar Games verzichtet im Einzelspieler-Modus von „GTA 6“ offenbar vollständig auf Mikrotransaktionen. Spieler sollen weder kosmetische Gegenstände..."
-    },
-    {
       "title": "LPDDR6 ist fertig: CXMT bringt neuen Speicher für Xiaomi 18 Fold schon im September",
       "link": "https://www.computerbase.de/news/arbeitsspeicher/lpddr6-ist-fertig-cxmt-bringt-neuen-speicher-fuer-xiaomi-18-fold-schon-im-september.99123/",
       "pubDate": "29.08.2026 um 10:42 Uhr",
@@ -147,12 +147,76 @@
   ],
   "int": [
     {
+      "title": "This Driving Survival Roguelike is one of the Great Video Game Mash-ups",
+      "link": "https://www.polygon.com/pacific-drive-what-to-play-xbox-game-pass-playstation-plus/",
+      "pubDate": "29.08.2026 um 13:01 Uhr",
+      "timestamp": 1788008473.0,
+      "source": "Polygon.com",
+      "summary": "Pacific Drive is one of the best hidden gems on Xbox Game Pass and PlayStation Plus"
+    },
+    {
+      "title": "People don't understand Steam player numbers, Palworld lead says: \"Poor Marathon and stuff are getting dragged through the mud ... I'm sure our day's coming\"",
+      "link": "https://www.gamesradar.com/games/survival/people-dont-understand-steam-player-numbers-palworld-lead-says-poor-marathon-and-stuff-are-getting-dragged-through-the-mud-im-sure-our-days-coming/",
+      "pubDate": "29.08.2026 um 13:00 Uhr",
+      "timestamp": 1788008400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Not to dog on SteamDB, because I love those guys\""
+    },
+    {
+      "title": "I've checked gaming PC deals every week for two years and I'm not exaggerating when I say there isn't a single well-priced PC left",
+      "link": "https://www.pcgamer.com/hardware/gaming-pcs/ive-checked-gaming-pc-deals-every-week-for-two-years-and-im-not-exaggerating-when-i-say-there-isnt-a-single-well-priced-pc-left/",
+      "pubDate": "29.08.2026 um 13:00 Uhr",
+      "timestamp": 1788008400.0,
+      "source": "PCGamer latest",
+      "summary": "Even AMD builds are now depressing to look at."
+    },
+    {
+      "title": "Arnold Schwarzenegger's 105-Minute One-Man-Army Action Flop Is Officially Free to Watch",
+      "link": "https://www.polygon.com/arnold-schwarzenegger-raw-deal-full-movie-free-to-watch-youtube/",
+      "pubDate": "29.08.2026 um 12:30 Uhr",
+      "timestamp": 1788006614.0,
+      "source": "Polygon.com",
+      "summary": "1986's Raw Deal might not be the best Arnold Schwarzenegger movie, but it still boasts some impressive writing credits."
+    },
+    {
+      "title": "Xbox is preparing a \"family of devices\" for next-gen Project Helix, according to CEO Asha Sharma",
+      "link": "https://www.gamesradar.com/platforms/xbox/xbox-is-preparing-a-family-of-devices-for-next-gen-project-helix-according-to-ceo-asha-sharma/",
+      "pubDate": "29.08.2026 um 12:28 Uhr",
+      "timestamp": 1788006537.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"All of the industry needs to start to innovate on affordability and efficiency\""
+    },
+    {
+      "title": "The Weeknd’s Music Gets A Final Fantasy Makeover By Legendary Artist Yoshitaka Amano",
+      "link": "https://kotaku.com/the-weeknds-music-gets-a-final-fantasy-makeover-by-yoshitaka-amano-2000728638",
+      "pubDate": "29.08.2026 um 12:27 Uhr",
+      "timestamp": 1788006479.0,
+      "source": "Kotaku",
+      "summary": "Turns out, fame and unfiltered posting can manifest beautiful things"
+    },
+    {
+      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
+      "link": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
+      "pubDate": "29.08.2026 um 12:09 Uhr",
+      "timestamp": 1788005389.0,
+      "source": "Eurogamer.net News",
+      "summary": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the ga..."
+    },
+    {
       "title": "Star Wars Zero Company Uses Anakin Skywalker for So Much More than a Cameo",
       "link": "https://www.polygon.com/star-wars-zero-company-anakin-skywalker-mission/",
       "pubDate": "29.08.2026 um 12:00 Uhr",
       "timestamp": 1788004816.0,
       "source": "Polygon.com",
       "summary": "Star Wars Zero Company features great tactical gameplay. During one mission, the game turns into a Jedi power fantasy when Anakin Skywalker pops up."
+    },
+    {
+      "title": "Philips OneBlade vs Standard Razors: A Worthwhile Upgrade?",
+      "link": "https://www.ign.com/articles/philips-oneblade-vs-traditional-razors",
+      "pubDate": "29.08.2026 um 12:00 Uhr",
+      "timestamp": 1788004800.0,
+      "source": "IGN All",
+      "summary": "The Philips OneBlade is available at a discount right now at Amazon - here's why it's ideal for your next shave."
     },
     {
       "title": "The 5 top games you need to play in September 2026",
@@ -225,70 +289,6 @@
       "timestamp": 1787998350.0,
       "source": "PCGamer latest",
       "summary": "Secret Neighbor will remain offline until Hologryph and tinyBuild have addressed the breach."
-    },
-    {
-      "title": "Alan Ritchson's New 103-Minute Action Revenge Thriller Is an Instant Streaming Hit",
-      "link": "https://www.polygon.com/alan-ritchson-motor-city-digital-streaming-success-august-2026/",
-      "pubDate": "29.08.2026 um 10:01 Uhr",
-      "timestamp": 1787997674.0,
-      "source": "Polygon.com",
-      "summary": "Reacher and War Machine star Alan Ritchson's new movie Motor City is now available for rental and digital purchase."
-    },
-    {
-      "title": "Pokémon Tales: The Misadventures of Sirfetch'd & Pichu gets first trailer",
-      "link": "https://www.eurogamer.net/pokemon-tales-sirfetchd-pichu-trailer-disney-plus",
-      "pubDate": "29.08.2026 um 09:55 Uhr",
-      "timestamp": 1787997350.0,
-      "source": "Eurogamer.net News",
-      "summary": "The Pok&eacute;mon Company International and Aardman have released the first teaser trailer for Pok&eacute;mon Tales: The Misadventures of Sirfetch'd ..."
-    },
-    {
-      "title": "Join Us: Watch 11 Minutes of Exclusive Gameplay from the Upcoming Cult Simulator | gamescom 2026",
-      "link": "https://www.ign.com/articles/join-us-gameplay-ps5-release-gamescom",
-      "pubDate": "29.08.2026 um 09:50 Uhr",
-      "timestamp": 1787997027.0,
-      "source": "IGN All",
-      "summary": "Wolf Haus Games revealed 11 minutes of gameplay for Join Us at gamescom 2026, alongside a PS5 announcement and a trailer featuring real-life former cu..."
-    },
-    {
-      "title": "Rachel McAdams' 10/10 Time-Travel Movie Is Officially Coming to Streaming Next Week",
-      "link": "https://www.polygon.com/about-time-movie-streaming-netflix-september-2026/",
-      "pubDate": "29.08.2026 um 08:30 Uhr",
-      "timestamp": 1787992214.0,
-      "source": "Polygon.com",
-      "summary": "Rachel McAdams is weirdly good at falling in love with time travelers"
-    },
-    {
-      "title": "The Dog Stars Release Date Window for Disney Plus Streaming, Blu-ray, and DVD",
-      "link": "https://www.polygon.com/ridley-scott-the-dog-stars-streaming-release-date-vod-disney-plus/",
-      "pubDate": "29.08.2026 um 08:00 Uhr",
-      "timestamp": 1787990415.0,
-      "source": "Polygon.com",
-      "summary": "When will Ridley Scott’s latest film be coming to streaming (Disney Plus), Blu-ray, and DVD? Here's what we know."
-    },
-    {
-      "title": "Marvel Star's Forgotten 100-Minute Action Thriller Is About to Disappear From Streaming",
-      "link": "https://www.polygon.com/legion-2010-netflix/",
-      "pubDate": "29.08.2026 um 08:00 Uhr",
-      "timestamp": 1787990415.0,
-      "source": "Polygon.com",
-      "summary": "Legion departs Netflix on Aug. 31"
-    },
-    {
-      "title": "5 Shonen Anime That Are 10/10 Perfect Masterpieces, No Notes",
-      "link": "https://www.polygon.com/best-shonen-anime-perfect-no-notes/",
-      "pubDate": "29.08.2026 um 08:00 Uhr",
-      "timestamp": 1787990415.0,
-      "source": "Polygon.com",
-      "summary": "From tactical action to dark fantasy, shonen comes in many flavors."
-    },
-    {
-      "title": "5 Huge Pop Culture Characters You Didn't Know Had a Daily Newspaper Comic Strip",
-      "link": "https://www.polygon.com/comic-strip-star-wars-muppets-tmnt-simpsons/",
-      "pubDate": "29.08.2026 um 08:00 Uhr",
-      "timestamp": 1787990415.0,
-      "source": "Polygon.com",
-      "summary": "Franchises like Star Wars, The Simpsons, Teenage Mutant Ninja Turtles, Rugrats, and the Muppets all used to have newspaper comic strips"
     }
   ],
   "sim": [
