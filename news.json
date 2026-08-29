@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Marvel’s Wolverine: Knochenklauen, Wut und Gewaltregler",
+      "link": "https://www.computerbase.de/news/gaming/marvel-s-wolverine-knochenklauen-wut-und-gewaltregler.99121/",
+      "pubDate": "29.08.2026 um 07:00 Uhr",
+      "timestamp": 1787979600.0,
+      "source": "ComputerBase",
+      "summary": "Insomniac Games zeigt kurz vor der Veröffentlichung von Marvel’s Wolverine weitere Einzelheiten zum Kampfsystem und den Nebenbeschäftigungen. Logan ka..."
+    },
+    {
+      "title": "Pokémon Go feiert 10 Jahre: Sichert euch ein exklusives Pikachu beim Jubiläums-Stream",
+      "link": "https://www.eurogamer.de/pokemon-go-jubilaeum-twitch-pikachu",
+      "pubDate": "29.08.2026 um 05:00 Uhr",
+      "timestamp": 1787979600.0,
+      "source": "Eurogamer.de News",
+      "summary": "In diesem Jahr werden zehn Jahre Pok&eacute;mon Go gefeiert. Anl&auml;sslich dessen gibt es w&auml;hrend der Pok&eacute;mon-Weltmeisterschaften 2026 a..."
+    },
+    {
+      "title": "Pokémon Pokopia – Neue Wolkeninsel zur PokémonXP mit Code JW7MXKP2",
+      "link": "https://www.playcentral.de/pokemon-pokopia-neue-wolkeninsel-zur-pokemonxp-mit-code-jw7mxkp2/",
+      "pubDate": "29.08.2026 um 04:31 Uhr",
+      "timestamp": 1787977889.0,
+      "source": "PlayCentral",
+      "summary": "Für Pokémon Pokopia steht ab sofort eine besondere Wolkeninsel bereit. The Pokémon Company hat die virtuelle Umgebung passend zur PokémonXP und den Po..."
+    },
+    {
+      "title": "Gamescom Award 2026: The Witcher 3 und Sega räumen dreifach ab",
+      "link": "https://www.computerbase.de/news/gaming/gamescom-award-2026-the-witcher-3-und-sega-raeumen-dreifach-ab.99120/",
+      "pubDate": "29.08.2026 um 06:30 Uhr",
+      "timestamp": 1787977800.0,
+      "source": "ComputerBase",
+      "summary": "Die Gewinner des Gamescom Awards 2026 stehen fest. Jeweils dreimal erfolgreich waren der Messeauftritt von The Witcher 3 sowie Sega. Als bestes PC-Spi..."
+    },
+    {
       "title": "Star Wars Jedi Survivor – Hot Toys bringt limitierten Jetpack Trooper 2026",
       "link": "https://www.playcentral.de/star-wars-jedi-survivor-hot-toys-bringt-limitierten-jetpack-trooper-2026/",
       "pubDate": "28.08.2026 um 20:31 Uhr",
@@ -111,41 +143,25 @@
       "timestamp": 1787926732.0,
       "source": "Mein-MMO",
       "summary": "Auf der gamescom 2026 zeigen viele Entwickler ihre Spiele. Für einen nimmt das Event jedoch ein unschönes Ende. Der Beitrag Die gamescom endet für ein..."
-    },
-    {
-      "title": "Marvel’s Wolverine: Neuer Trailer erklärt Logans Wut-System und Endgame-Inhalte",
-      "link": "https://www.playcentral.de/marvels-wolverine-wut-system-endgame-mutantenkraefte/",
-      "pubDate": "28.08.2026 um 13:56 Uhr",
-      "timestamp": 1787925401.0,
-      "source": "PlayCentral",
-      "summary": "Wenige Wochen vor der Veröffentlichung von „Marvel’s Wolverine“ gibt Insomniac Games einen ausführlicheren Einblick in die wichtigsten Spielmechaniken..."
-    },
-    {
-      "title": "UltraWide und SuperWide: AOC bringt neue QD-OLED-Monitore für je 999 Euro",
-      "link": "https://www.computerbase.de/news/monitore/ultrawide-und-superwide-aoc-bringt-neue-qd-oled-monitore-fuer-je-999-euro.99073/",
-      "pubDate": "28.08.2026 um 15:47 Uhr",
-      "timestamp": 1787924820.0,
-      "source": "ComputerBase",
-      "summary": "„UltraWide“ und „SuperWide“ sind die Schlagworte beim neuen Monitor-Lineup, das AOC zur Gamescom präsentiert hat. Der Agon Pro AGP497UCZD fällt mit 5...."
-    },
-    {
-      "title": "GTA 6: Rund 80 Stunden Spielzeit – doch die Zahl braucht Kontext",
-      "link": "https://www.playcentral.de/gta-6-spielzeit-80-stunden-story-nebenmissionen/",
-      "pubDate": "28.08.2026 um 13:46 Uhr",
-      "timestamp": 1787924794.0,
-      "source": "PlayCentral",
-      "summary": "Wie viel Spielzeit bietet „GTA 6“? Eine neue Aussage von Rockstar North liefert darauf erstmals eine vorsichtige Antwort. Rob Nelson benötigte für ein..."
-    },
-    {
-      "title": "CXMT-Speicher: 874 Prozent mehr Umsatz und erstmals Milliardengewinn",
-      "link": "https://www.computerbase.de/news/wirtschaft/cxmt-speicher-874-prozent-mehr-umsatz-und-erstmals-milliardengewinn.99113/",
-      "pubDate": "28.08.2026 um 15:30 Uhr",
-      "timestamp": 1787923800.0,
-      "source": "ComputerBase",
-      "summary": "Günstiger Speicher aus China? Der Traum ist ausgeträumt. CXMT profitiert genau wie westliche Hersteller massiv vom Nachfrageboom bei RAM. Dieser setzt..."
     }
   ],
   "int": [
+    {
+      "title": "Hit Survival Game Rust Releases Major Overhaul to 2026 Roadmap",
+      "link": "https://www.polygon.com/rust-roadmap-changes-2026/",
+      "pubDate": "29.08.2026 um 05:00 Uhr",
+      "timestamp": 1787979614.0,
+      "source": "Polygon.com",
+      "summary": "Facepunch has stealth-updated the Rust roadmap, delaying anticipated features and seemingly canceling others, like the controversial Battle Pass."
+    },
+    {
+      "title": "Henry Cavill's New Action Thriller From Guy Ritchie Is Officially a Massive Streaming Hit",
+      "link": "https://www.polygon.com/henry-cavill-guy-ritchie-in-the-grey-streaming-success/",
+      "pubDate": "29.08.2026 um 04:10 Uhr",
+      "timestamp": 1787976615.0,
+      "source": "Polygon.com",
+      "summary": "Guy Ritchie and Henry Cavill have collaborated a few times in their career but their latest film is a streaming success."
+    },
     {
       "title": "You Need to Watch Netflix's 7 Best Original Anime At Least Once",
       "link": "https://www.polygon.com/best-netflix-original-anime-everyone-needs-to-watch-stream/",
@@ -273,22 +289,6 @@
       "timestamp": 1787955027.0,
       "source": "Kotaku",
       "summary": "The former Breitbart columnist is being held as an 'illegal alien' by Trump's immigration goons"
-    },
-    {
-      "title": "Save $170 Off the Lenovo Legion Go S AMD Ryzen Z2 Go Handheld Gaming PC",
-      "link": "https://www.ign.com/articles/lenovo-legion-go-s-handheld-gaming-pc-deal-august-2026",
-      "pubDate": "28.08.2026 um 22:10 Uhr",
-      "timestamp": 1787955000.0,
-      "source": "IGN All",
-      "summary": "As this point we'd recommend getting a Legion Go S over a Steam Deck."
-    },
-    {
-      "title": "Blue Dragon And 8 Other Completely Unhinged RPG Battle Themes You Need To Listen To",
-      "link": "https://kotaku.com/blue-dragon-pc-port-unhinged-rpg-battle-themes-2000729451",
-      "pubDate": "28.08.2026 um 22:00 Uhr",
-      "timestamp": 1787954410.0,
-      "source": "Kotaku",
-      "summary": "I have been informed of the battle theme to Blue Dragon and I have several questions"
     }
   ],
   "sim": [
