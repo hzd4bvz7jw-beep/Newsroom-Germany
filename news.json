@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Die gamescom endet für einen Solo-Entwickler traurig: „Der Kram ist teuer“",
+      "link": "https://mein-mmo.de/solo-dev-laptop-diebstahl-gamescom/",
+      "pubDate": "29.08.2026 um 14:00 Uhr",
+      "timestamp": 1788012054.0,
+      "source": "Mein-MMO",
+      "summary": "Auf der gamescom 2026 zeigen viele Entwickler ihre Spiele. Für einen nimmt das Event jedoch ein unschönes Ende. Der Beitrag Die gamescom endet für ein..."
+    },
+    {
+      "title": "Big Ambitions ist jetzt Version 1.0 – Lebenssim trifft Wirtschaftsimperium",
+      "link": "https://www.playcentral.de/big-ambitions-ist-jetzt-version-1-0-lebenssim-trifft-wirtschaftsimperium/",
+      "pubDate": "29.08.2026 um 13:31 Uhr",
+      "timestamp": 1788010274.0,
+      "source": "PlayCentral",
+      "summary": "Mit Big Ambitions hat eine ungewöhnliche Mischung aus Lebenssimulation und Wirtschaftsspiel den Early Access verlassen. Die Version 1.0 erschien am 28..."
+    },
+    {
+      "title": "Preiserhöhungen: Apple zieht Preis des Mac mini um 50 Prozent an",
+      "link": "https://www.computerbase.de/news/pc-systeme/preiserhoehungen-apple-zieht-preis-des-mac-mini-um-50-prozent-an.99124/",
+      "pubDate": "29.08.2026 um 15:20 Uhr",
+      "timestamp": 1788009600.0,
+      "source": "ComputerBase",
+      "summary": "Im Juni hob Apple die Preise für Macs und iPads transparent an. Diese Woche hat der Konzern mit dem Mac Mini mit M6-Chip und dem Mac Studio mit dem ne..."
+    },
+    {
+      "title": "GTA 6 macht Autodiebstahl anspruchsvoller: Einfach einsteigen reicht nicht mehr",
+      "link": "https://www.playcentral.de/gta-6-autodiebstahl-neues-system/",
+      "pubDate": "29.08.2026 um 13:12 Uhr",
+      "timestamp": 1788009136.0,
+      "source": "PlayCentral",
+      "summary": "Der Autodiebstahl gehört seit jeher zum Kern von Grand Theft Auto. In GTA 6 möchte Rockstar Games die namensgebende Mechanik jedoch deutlich vertiefen..."
+    },
+    {
       "title": "Dark Souls bekommt neuen Comic-Sammelband Mother of Mourning erscheint 2026",
       "link": "https://www.playcentral.de/dark-souls-bekommt-neuen-comic-sammelband-mother-of-mourning-erscheint-2026/",
       "pubDate": "29.08.2026 um 12:31 Uhr",
@@ -97,22 +129,6 @@
       "summary": "The Defiant ist ein neuer Shooter des chinesischen Entwicklers Hoothanes. MeinMMO traf Game Director Kong Yuheng zum Interview. Der Beitrag Einen Welt..."
     },
     {
-      "title": "Gamescom Award 2026: The Witcher 3 und Sega sind die großen Gewinner",
-      "link": "https://www.playcentral.de/gamescom-award-2026-gewinner/",
-      "pubDate": "29.08.2026 um 09:20 Uhr",
-      "timestamp": 1787995254.0,
-      "source": "PlayCentral",
-      "summary": "Die Gewinner des Gamescom Awards 2026 stehen fest. Am Freitag, den 28. August, wurden im Gamescom Studio insgesamt 19 Auszeichnungen vergeben. Besonde..."
-    },
-    {
-      "title": "GTA 6 ersetzt das Ehrensystem durch ein ungewöhnliches Verbrecherprofil",
-      "link": "https://www.playcentral.de/gta-6-verbrecherprofil-ehrensystem/",
-      "pubDate": "29.08.2026 um 09:13 Uhr",
-      "timestamp": 1787994783.0,
-      "source": "PlayCentral",
-      "summary": "In Red Dead Redemption 2 entscheiden gute und schlechte Taten darüber, wie ehrenhaft Arthur Morgan von seiner Umwelt wahrgenommen wird. GTA 6 soll ebe..."
-    },
-    {
       "title": "LPDDR6 ist fertig: CXMT bringt neuen Speicher für Xiaomi 18 Fold schon im September",
       "link": "https://www.computerbase.de/news/arbeitsspeicher/lpddr6-ist-fertig-cxmt-bringt-neuen-speicher-fuer-xiaomi-18-fold-schon-im-september.99123/",
       "pubDate": "29.08.2026 um 10:42 Uhr",
@@ -127,25 +143,57 @@
       "timestamp": 1787992200.0,
       "source": "Mein-MMO",
       "summary": "The Big Bang Theory konnte MeinMMO-Redakteur Niko nie überzeugen, aber eine andere Serie mit Nerds feiert er gerade auf HBO Max. Der Beitrag Eine Come..."
-    },
-    {
-      "title": "Die 5 besten Anime für Leute, die World of Warcraft lieben",
-      "link": "https://mein-mmo.de/die-5-besten-anime-fuer-leute-die-world-of-warcraft-lieben/",
-      "pubDate": "29.08.2026 um 08:30 Uhr",
-      "timestamp": 1787992200.0,
-      "source": "Mein-MMO",
-      "summary": "Auch MMORPG-Spieler sehnen sich mal nach einem guten Anime. Wir haben gleich 5 Serien, die sich für Fans von WoW lohnen. Der Beitrag Die 5 besten Anim..."
-    },
-    {
-      "title": "Wir wissen jetzt, was den Blutigen Baron aus Witcher 3 auch Jahre später so unvergesslich macht",
-      "link": "https://mein-mmo.de/witcher-3-blutiger-baron-hintergrund-interview-ausschnitt/",
-      "pubDate": "29.08.2026 um 07:30 Uhr",
-      "timestamp": 1787988600.0,
-      "source": "Mein-MMO",
-      "summary": "Der Blutige Baron ist eine der denkwürdigsten Figuren von The Witcher 3. Seinen Ursprung hat er nicht in den Büchern, sondern im echten Leben. Der Bei..."
     }
   ],
   "int": [
+    {
+      "title": "How 'Coyote vs. ACME' Broke All the Rules of Live-Action Looney Tunes Movies, and Got Away with It",
+      "link": "https://www.polygon.com/coyote-vs-acme-director-screenwriter-interview/",
+      "pubDate": "29.08.2026 um 14:00 Uhr",
+      "timestamp": 1788012014.0,
+      "source": "Polygon.com",
+      "summary": "Director Dave Green and screenwriter Samy Burch reveal how they threw out the Space Jam playbook to make a perfect Looney Tunes movie"
+    },
+    {
+      "title": "Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive",
+      "link": "https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562",
+      "pubDate": "29.08.2026 um 13:58 Uhr",
+      "timestamp": 1788011932.0,
+      "source": "Kotaku",
+      "summary": "Microsoft's gaming division was tight-lipped at Gamescom"
+    },
+    {
+      "title": "Gamescom Responds To Rampant Reports Of Theft At The Event",
+      "link": "https://www.polygon.com/gamescom-event-theft-response/",
+      "pubDate": "29.08.2026 um 13:48 Uhr",
+      "timestamp": 1788011316.0,
+      "source": "Polygon.com",
+      "summary": "There have been several stolen equipment incidents at Gamescom 2026, and the organization has at last responded to victims' reports."
+    },
+    {
+      "title": "Gamescom Says Stolen Laptops ‘Make Us Very Sad,’ But Says Exhibitors Have To Protect Against Theft: ‘This Is Noted In The Terms And Conditions’",
+      "link": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
+      "pubDate": "29.08.2026 um 13:39 Uhr",
+      "timestamp": 1788010758.0,
+      "source": "Kotaku",
+      "summary": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand the frustration of affected exhibitors,' there's al..."
+    },
+    {
+      "title": "I played just an hour of Total War: Warhammer 40,000 and it was the highlight of my year",
+      "link": "https://www.pcgamer.com/games/strategy/i-played-just-one-hour-of-total-war-warhammer-40-000-and-it-was-the-highlight-of-my-year/",
+      "pubDate": "29.08.2026 um 13:34 Uhr",
+      "timestamp": 1788010443.0,
+      "source": "PCGamer latest",
+      "summary": "Living the grimdark dream."
+    },
+    {
+      "title": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-considered-having-four-protagonists-in-grand-theft-auto-6-but-the-studio-worried-about-diluting-the-amount-of-player-time-with-each-character/",
+      "pubDate": "29.08.2026 um 13:13 Uhr",
+      "timestamp": 1788009238.0,
+      "source": "PCGamer latest",
+      "summary": "\"How do we follow up three characters? Is it four characters now?\""
+    },
     {
       "title": "This Driving Survival Roguelike is one of the Great Video Game Mash-ups",
       "link": "https://www.polygon.com/pacific-drive-what-to-play-xbox-game-pass-playstation-plus/",
@@ -241,54 +289,6 @@
       "timestamp": 1788003959.0,
       "source": "PCGamer latest",
       "summary": "\"But now you know, we've got a lot more to show you.\""
-    },
-    {
-      "title": "The 5 movies you need to watch in September 2026",
-      "link": "https://www.gamesradar.com/entertainment/movies/movies-releasing-in-september-2026/",
-      "pubDate": "29.08.2026 um 11:30 Uhr",
-      "timestamp": 1788003000.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Discover our list of the best new movies coming out in September"
-    },
-    {
-      "title": "New Pokemon series from Wallace and Gromit animation studio Aardman is coming exclusively to Disney Plus, alongside Ash's first anime run",
-      "link": "https://www.gamesradar.com/games/pokemon/new-pokemon-series-from-wallace-and-gromit-animation-studio-aardman-is-coming-exclusively-to-disney-plus-alongside-ashs-first-anime-run/",
-      "pubDate": "29.08.2026 um 11:18 Uhr",
-      "timestamp": 1788002295.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Pokemon Tales: The Misadventures of Sirfetch'd and Pichu streams in 2027"
-    },
-    {
-      "title": "The Switch 2 Is About to Face Its Toughest Challenge Yet",
-      "link": "https://www.polygon.com/switchboard-fromsoftware-elden-ring-the-duskbloods/",
-      "pubDate": "29.08.2026 um 11:00 Uhr",
-      "timestamp": 1788001214.0,
-      "source": "Polygon.com",
-      "summary": "It's been mostly smooth sailing for Nintendo in the Switch 2's first year, but the console is about to face a FromSoftware-sized test."
-    },
-    {
-      "title": "Playdate maker Panic is passing tariff refunds on to customers",
-      "link": "https://www.eurogamer.net/panic-playdate-tariff-refunds-customers",
-      "pubDate": "29.08.2026 um 10:51 Uhr",
-      "timestamp": 1788000693.0,
-      "source": "Eurogamer.net News",
-      "summary": "Panic, maker of the crank-powered handheld Playdate, is forwarding Supreme Court-ordered tariff refunds back to customers. Read more"
-    },
-    {
-      "title": "The Witcher 4 narrative lead also wanted Geralt as the protagonist at first, but he \"will always have an important role\"",
-      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-narrative-lead-also-wanted-geralt-as-the-protagonist-at-first-but-he-will-always-have-an-important-role/",
-      "pubDate": "29.08.2026 um 10:42 Uhr",
-      "timestamp": 1788000154.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "CDPR's Phillipp Weber can \"understand that many people feel like this\""
-    },
-    {
-      "title": "Hello Neighbor's multiplayer spinoff has been 'temporarily shut down' after a hacker wiped player progression and demanded the game's 'removal from sale across all platforms'",
-      "link": "https://www.pcgamer.com/games/horror/hello-neighbors-multiplayer-spinoff-has-been-temporarily-shut-down-after-a-hacker-wiped-player-progression-and-demanded-the-games-removal-from-sale-across-all-platforms/",
-      "pubDate": "29.08.2026 um 10:12 Uhr",
-      "timestamp": 1787998350.0,
-      "source": "PCGamer latest",
-      "summary": "Secret Neighbor will remain offline until Hologryph and tinyBuild have addressed the breach."
     }
   ],
   "sim": [
