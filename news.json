@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "GTA 6: Ihr bestimmt die Beziehung von Jason und Lucia – trennen können sie sich nicht",
+      "link": "https://www.playcentral.de/gta-6-jason-lucia-beziehung/",
+      "pubDate": "29.08.2026 um 10:33 Uhr",
+      "timestamp": 1787999585.0,
+      "source": "PlayCentral",
+      "summary": "Jason und Lucia bilden das zentrale Duo von GTA 6. Wie eng die beiden miteinander verbunden sind, soll allerdings nicht vollständig vorgegeben sein. D..."
+    },
+    {
+      "title": "Für GTA 6 klaut Rockstar bei seinen eigenen Spielen: 13 Details, die wir aus GTA Online und RDR2 kennen",
+      "link": "https://mein-mmo.de/dinge-in-gta-6-aus-anderen-spielen-von-rockstar-games/",
+      "pubDate": "29.08.2026 um 10:30 Uhr",
+      "timestamp": 1787999400.0,
+      "source": "Mein-MMO",
+      "summary": "Im Gameplay-Reveal von GTA 6 gab es einiges zu sehen, das ihr aus anderen Spielen von Rockstar Games kennt. Wir geben euch eine Übersicht. Der Beitrag..."
+    },
+    {
+      "title": "The Witcher 4 läuft bereits auf PS5 und Xbox – CD Projekt RED zieht Lehren aus Cyberpunk 2077",
+      "link": "https://www.playcentral.de/the-witcher-4-ps5-xbox-pc-cyberpunk/",
+      "pubDate": "29.08.2026 um 10:23 Uhr",
+      "timestamp": 1787999033.0,
+      "source": "PlayCentral",
+      "summary": "Der technisch desolate Start von Cyberpunk 2077 hat das Vertrauen vieler Spieler nachhaltig beschädigt. Bei The Witcher 4 möchte CD Projekt RED eine W..."
+    },
+    {
       "title": "JP Kraemer räumt Gewalt gegen Ehefrau ein und kündigt Therapie an",
       "link": "https://www.playcentral.de/jp-kraemer-gewalt-therapie-jp-performance/",
       "pubDate": "29.08.2026 um 09:32 Uhr",
@@ -119,33 +143,41 @@
       "timestamp": 1787982683.0,
       "source": "Mein-MMO",
       "summary": "Seit Monaten spielt der YouTuber Kanon bereits Aion 2. In seinem Erfahrungsbericht zieht er einen spannenden Vergleich. Der Beitrag Einer der größten ..."
-    },
-    {
-      "title": "EVE Online aktualisiert sein Gehirn, muss dafür 2,4 Millionen Zeilen Code anfassen, doch für euch lohnt sich das",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-27-august-2026/",
-      "pubDate": "29.08.2026 um 05:30 Uhr",
-      "timestamp": 1787981400.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit Erfahrungsberichten, großen Updates und schwierigen Starts. Der Beitrag EVE Online aktua..."
-    },
-    {
-      "title": "Marvel’s Wolverine: Knochenklauen, Wut und Gewaltregler",
-      "link": "https://www.computerbase.de/news/gaming/marvel-s-wolverine-knochenklauen-wut-und-gewaltregler.99121/",
-      "pubDate": "29.08.2026 um 07:00 Uhr",
-      "timestamp": 1787979600.0,
-      "source": "ComputerBase",
-      "summary": "Insomniac Games zeigt kurz vor der Veröffentlichung von Marvel’s Wolverine weitere Einzelheiten zum Kampfsystem und den Nebenbeschäftigungen. Logan ka..."
-    },
-    {
-      "title": "Pokémon Go feiert 10 Jahre: Sichert euch ein exklusives Pikachu beim Jubiläums-Stream",
-      "link": "https://www.eurogamer.de/pokemon-go-jubilaeum-twitch-pikachu",
-      "pubDate": "29.08.2026 um 05:00 Uhr",
-      "timestamp": 1787979600.0,
-      "source": "Eurogamer.de News",
-      "summary": "In diesem Jahr werden zehn Jahre Pok&eacute;mon Go gefeiert. Anl&auml;sslich dessen gibt es w&auml;hrend der Pok&eacute;mon-Weltmeisterschaften 2026 a..."
     }
   ],
   "int": [
+    {
+      "title": "The Switch 2 Is About to Face Its Toughest Challenge Yet",
+      "link": "https://www.polygon.com/switchboard-fromsoftware-elden-ring-the-duskbloods/",
+      "pubDate": "29.08.2026 um 11:00 Uhr",
+      "timestamp": 1788001214.0,
+      "source": "Polygon.com",
+      "summary": "It's been mostly smooth sailing for Nintendo in the Switch 2's first year, but the console is about to face a FromSoftware-sized test."
+    },
+    {
+      "title": "Playdate maker Panic is passing tariff refunds on to customers",
+      "link": "https://www.eurogamer.net/panic-playdate-tariff-refunds-customers",
+      "pubDate": "29.08.2026 um 10:51 Uhr",
+      "timestamp": 1788000693.0,
+      "source": "Eurogamer.net News",
+      "summary": "Panic, maker of the crank-powered handheld Playdate, is forwarding Supreme Court-ordered tariff refunds back to customers. Read more"
+    },
+    {
+      "title": "The Witcher 4 narrative lead also wanted Geralt as the protagonist at first, but he \"will always have an important role\"",
+      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-narrative-lead-also-wanted-geralt-as-the-protagonist-at-first-but-he-will-always-have-an-important-role/",
+      "pubDate": "29.08.2026 um 10:42 Uhr",
+      "timestamp": 1788000154.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "CDPR's Phillipp Weber can \"understand that many people feel like this\""
+    },
+    {
+      "title": "Hello Neighbor's multiplayer spinoff has been 'temporarily shut down' after a hacker wiped player progression and demanded the game's 'removal from sale across all platforms'",
+      "link": "https://www.pcgamer.com/games/horror/hello-neighbors-multiplayer-spinoff-has-been-temporarily-shut-down-after-a-hacker-wiped-player-progression-and-demanded-the-games-removal-from-sale-across-all-platforms/",
+      "pubDate": "29.08.2026 um 10:12 Uhr",
+      "timestamp": 1787998350.0,
+      "source": "PCGamer latest",
+      "summary": "Secret Neighbor will remain offline until Hologryph and tinyBuild have addressed the breach."
+    },
     {
       "title": "Alan Ritchson's New 103-Minute Action Revenge Thriller Is an Instant Streaming Hit",
       "link": "https://www.polygon.com/alan-ritchson-motor-city-digital-streaming-success-august-2026/",
@@ -155,12 +187,20 @@
       "summary": "Reacher and War Machine star Alan Ritchson's new movie Motor City is now available for rental and digital purchase."
     },
     {
-      "title": "Pokémon Tales: The Misadventures of Sirfetch'd & Pichu gets first trailer and a Disney+ premiere date",
+      "title": "Pokémon Tales: The Misadventures of Sirfetch'd & Pichu gets first trailer",
       "link": "https://www.eurogamer.net/pokemon-tales-sirfetchd-pichu-trailer-disney-plus",
       "pubDate": "29.08.2026 um 09:55 Uhr",
       "timestamp": 1787997350.0,
       "source": "Eurogamer.net News",
       "summary": "The Pok&eacute;mon Company International and Aardman have released the first teaser trailer for Pok&eacute;mon Tales: The Misadventures of Sirfetch'd ..."
+    },
+    {
+      "title": "Join Us: Watch 11 Minutes of Exclusive Gameplay from the Upcoming Cult Simulator | gamescom 2026",
+      "link": "https://www.ign.com/articles/join-us-gameplay-ps5-release-gamescom",
+      "pubDate": "29.08.2026 um 09:50 Uhr",
+      "timestamp": 1787997027.0,
+      "source": "IGN All",
+      "summary": "Wolf Haus Games revealed 11 minutes of gameplay for Join Us at gamescom 2026, alongside a PS5 announcement and a trailer featuring real-life former cu..."
     },
     {
       "title": "Rachel McAdams' 10/10 Time-Travel Movie Is Officially Coming to Streaming Next Week",
@@ -203,20 +243,20 @@
       "summary": "Franchises like Star Wars, The Simpsons, Teenage Mutant Ninja Turtles, Rugrats, and the Muppets all used to have newspaper comic strips"
     },
     {
+      "title": "Dragon’s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026",
+      "link": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-will-send-you-on-a-chilly-loot-grind-gamescom-2026",
+      "pubDate": "29.08.2026 um 08:00 Uhr",
+      "timestamp": 1787990400.0,
+      "source": "IGN All",
+      "summary": "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and... a dragon that v..."
+    },
+    {
       "title": "10 Greatest WWII Movies of All Time, Ranked",
       "link": "https://www.polygon.com/10-greatest-wwii-movies-ranked/",
       "pubDate": "29.08.2026 um 07:31 Uhr",
       "timestamp": 1787988674.0,
       "source": "Polygon.com",
       "summary": "Steven Spielberg, Quentin Tarantino, and more top this list of iconic WWII films you can't miss"
-    },
-    {
-      "title": "Tom Cruise's 10/10 Action Movie That Saved a Struggling Franchise Is Officially Free on Streaming",
-      "link": "https://www.polygon.com/mission-impossible-3-free-streaming-august-2026/",
-      "pubDate": "29.08.2026 um 07:00 Uhr",
-      "timestamp": 1787986815.0,
-      "source": "Polygon.com",
-      "summary": "The Mission Impossible movie that saved the franchise is free to stream on Tubi"
     },
     {
       "title": "Mayday directors say the Top Gun-homaging action-comedy got Tom Cruise's permission to use footage from the '80s classic",
@@ -249,46 +289,6 @@
       "timestamp": 1787961687.0,
       "source": "IGN All",
       "summary": "Zach Cregger’s Resident Evil movie is on track to have the most profitable opening weekend out of any film adaptation of Capcom’s flagship horror fran..."
-    },
-    {
-      "title": "Will The Elder Scrolls 6 be Xbox exclusive? CEO Asha Sharma won't say, but \"every platform needs some form of exclusive experiences\"",
-      "link": "https://www.gamesradar.com/games/rpg/will-the-elder-scrolls-6-be-xbox-exclusive-ceo-asha-sharma-wont-say-but-every-platform-needs-some-form-of-exclusive-experiences/",
-      "pubDate": "28.08.2026 um 23:55 Uhr",
-      "timestamp": 1787961305.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"It's a beautiful game\""
-    },
-    {
-      "title": "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
-      "link": "https://www.ign.com/articles/xbox-ceo-says-project-helix-includes-a-family-of-devices",
-      "pubDate": "28.08.2026 um 23:40 Uhr",
-      "timestamp": 1787960419.0,
-      "source": "IGN All",
-      "summary": "Xbox CEO Asha Sharma has suggested Project Helix will encompass more than one device, saying that Microsoft has been working on \"a great family of dev..."
-    },
-    {
-      "title": "The Founders of Hooters Are Making a Buddy-Comedy Movie About the Restaurant Chain's Origin Story",
-      "link": "https://www.ign.com/articles/the-founders-of-hooters-are-making-a-buddy-comedy-movie-about-the-restaurant-chains-origin-story",
-      "pubDate": "28.08.2026 um 23:00 Uhr",
-      "timestamp": 1787958013.0,
-      "source": "IGN All",
-      "summary": "Yep, you read that right. Hooters: The Movie is in the early stages of pre-production, and some of the chain’s original founders are directly involved..."
-    },
-    {
-      "title": "Rockstar Is Using One Of Its Old Tricks To Create GTA 6 TV Shows",
-      "link": "https://kotaku.com/rockstar-is-using-one-of-its-old-tricks-to-create-gta-6-tv-shows-2000729503",
-      "pubDate": "28.08.2026 um 23:00 Uhr",
-      "timestamp": 1787958013.0,
-      "source": "Kotaku",
-      "summary": "A commercial in GTA 6's extended look was filmed in Red Dead Redemption II"
-    },
-    {
-      "title": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help",
-      "link": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help",
-      "pubDate": "28.08.2026 um 22:48 Uhr",
-      "timestamp": 1787957318.0,
-      "source": "IGN All",
-      "summary": "Ryan Laley, the solo indie developer behind upcoming asymmetrical horror game Mimic, has shared a video confirming his gamescom was \"cut short\" after ..."
     }
   ],
   "sim": [
