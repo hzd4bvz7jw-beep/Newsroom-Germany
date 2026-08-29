@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Wie gut ist Resonance: A Plague Tale Legacy?: Schuster, bleib nicht bei deinen Leisten",
+      "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-resonance-a-plague-tale-legacy-schuster-bleib-nicht-bei-deinen-leisten.99078/",
+      "pubDate": "29.08.2026 um 19:35 Uhr",
+      "timestamp": 1788024900.0,
+      "source": "ComputerBase",
+      "summary": "Die auf Schleichen und Rätseln ausgelegte Plague-Tale-Serie bekommt einen Action-Ableger. Einfach mal was Neues machen, heißt es also bei Asobo Studio..."
+    },
+    {
+      "title": "PS5 im September 2026 – diese 14 Spiele erscheinen, inklusive Wolverine",
+      "link": "https://www.playcentral.de/ps5-im-september-2026-diese-14-spiele-erscheinen-inklusive-wolverine/",
+      "pubDate": "29.08.2026 um 17:31 Uhr",
+      "timestamp": 1788024695.0,
+      "source": "PlayCentral",
+      "summary": "Für PS5-Besitzer wird der September 2026 zu einer echten Belastungsprobe für Freizeit und Geldbeutel. Innerhalb von weniger als vier Wochen erscheinen..."
+    },
+    {
       "title": "“Akku-Wunder” und “super Klang”: Kabelloses Gaming-Headset mit sehr langer Laufzeit jetzt deutlich reduziert im Angebot",
       "link": "https://mein-mmo.de/akku-wunder-super-klang-kabelloses-gaming-headset-lange-laufzeit-deutlich-reduziert-angebot/",
       "pubDate": "29.08.2026 um 15:55 Uhr",
@@ -121,31 +137,63 @@
       "summary": "Die in NBA 2K27 entdeckte, dort aber noch gar nicht aktive neue DLSSNR.dll ermöglicht DLSS 5 eigentlich nur mit GeForce RTX 5000 „Blackwell“. Doch Mod..."
     },
     {
-      "title": "Steam löscht Stones Keeper King Aurelius im September 2026 – das sind die Gründe",
-      "link": "https://www.playcentral.de/steam-loescht-stones-keeper-king-aurelius-im-september-2026-das-sind-die-gruende/",
-      "pubDate": "29.08.2026 um 11:31 Uhr",
-      "timestamp": 1788003072.0,
-      "source": "PlayCentral",
-      "summary": "Steam-Nutzer haben nur noch wenige Wochen Zeit, sich ein kostenloses Strategie-Rollenspiel dauerhaft für ihre Bibliothek zu sichern. Stones Keeper: Ki..."
-    },
-    {
       "title": "Marvel’s Wolverine: Neuer Trailer zeigt kurz vor dem Release weitere Gameplay-Features",
       "link": "https://www.eurogamer.de/marvels-wolverine-trailer-mehr-gameplay-features",
       "pubDate": "29.08.2026 um 11:10 Uhr",
       "timestamp": 1788001835.0,
       "source": "Eurogamer.de News",
       "summary": "Nur noch knapp zwei Wochen trennen uns vom 15. September und damit dem neuen Wolverine-Spiel von Insomniac Games. Obwohl verschiedene Trailer und Post..."
-    },
-    {
-      "title": "Für GTA 6 klaut Rockstar bei seinen eigenen Spielen: 13 Details, die wir aus GTA Online und RDR2 kennen",
-      "link": "https://mein-mmo.de/dinge-in-gta-6-aus-anderen-spielen-von-rockstar-games/",
-      "pubDate": "29.08.2026 um 10:30 Uhr",
-      "timestamp": 1787999400.0,
-      "source": "Mein-MMO",
-      "summary": "Im Gameplay-Reveal von GTA 6 gab es einiges zu sehen, das ihr aus anderen Spielen von Rockstar Games kennt. Wir geben euch eine Übersicht. Der Beitrag..."
     }
   ],
   "int": [
+    {
+      "title": "Exclusive: D&D's Japanese Rival Creators Talk About Imminent English Launch",
+      "link": "https://www.polygon.com/exclusive-dds-japanese-rival-creators-talk-about-imminent-english-launch/",
+      "pubDate": "29.08.2026 um 18:00 Uhr",
+      "timestamp": 1788026414.0,
+      "source": "Polygon.com",
+      "summary": "Sword World RPG finally has a crowdfunding campaign start date, and the creators of the game talk about its legacy and expectations for the future."
+    },
+    {
+      "title": "All the key details on HoYo's co-op monster slayer Nodusfall",
+      "link": "https://www.pcgamer.com/games/action/nodusfall-guide/",
+      "pubDate": "29.08.2026 um 18:00 Uhr",
+      "timestamp": 1788026400.0,
+      "source": "PCGamer latest",
+      "summary": "Paimon could never."
+    },
+    {
+      "title": "James Pond Co-Creator Calls AI-Rife Remake Disrespectful And Soulless",
+      "link": "https://kotaku.com/james-pond-co-creator-calls-ai-rife-remake-disrespectful-and-soulless-2000729581",
+      "pubDate": "29.08.2026 um 17:50 Uhr",
+      "timestamp": 1788025857.0,
+      "source": "Kotaku",
+      "summary": "'I hope they choke on an AI-generated fishbone' says original developer Chris Sorrell"
+    },
+    {
+      "title": "The Long Dark will get new DLC again as studio shifts devs away from the sequel to survive an 'uncertain' industry: 'We have to adapt to this'",
+      "link": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
+      "pubDate": "29.08.2026 um 17:35 Uhr",
+      "timestamp": 1788024945.0,
+      "source": "PCGamer latest",
+      "summary": "Blackfrost's early access release won't make it this year after all."
+    },
+    {
+      "title": "Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet",
+      "link": "https://www.rockpapershotgun.com/star-citizen-spinoff-squadron-42-has-been-delayed-yet-again-citing-everyone-going-gaga-for-gta-6-even-if-it-isnt-coming-to-pc-yet",
+      "pubDate": "29.08.2026 um 17:31 Uhr",
+      "timestamp": 1788024679.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "There is a big part of me that doesn't really believe any aspect of Star Citizen is real. It's never really a game I've given all that much of my atte..."
+    },
+    {
+      "title": "Call of Duty Touts Anti-Cheat Commitment Ahead Of Modern Warfare 4",
+      "link": "https://www.polygon.com/call-of-duty-modern-warfare-4-ricochet-anti-cheat/",
+      "pubDate": "29.08.2026 um 17:22 Uhr",
+      "timestamp": 1788024131.0,
+      "source": "Polygon.com",
+      "summary": "Call of Duty has served 80 cease-and-desist letters to cheat developers in an attempt to stop them from continuing to distribute their software."
+    },
     {
       "title": "‘Frieren’ Meets ‘The Little Mermaid’ in Crunchyroll’s Near-Perfect 12-Part Fantasy Series",
       "link": "https://www.polygon.com/goodbye-lara-captures-what-makes-old-school-anime-so-special/",
@@ -241,54 +289,6 @@
       "timestamp": 1788015378.0,
       "source": "Eurogamer.net News",
       "summary": "EA has broken its silence on the leaked Iron Man footage that surfaced yesterday, admitting,  \"well, that didn't go as planned\". Read more"
-    },
-    {
-      "title": "EA Officially Reacts Iron Man Leak: \"Well, That Didn't Go As Planned\"",
-      "link": "https://www.polygon.com/ea-acknowledges-iron-man-leak/",
-      "pubDate": "29.08.2026 um 14:27 Uhr",
-      "timestamp": 1788013645.0,
-      "source": "Polygon.com",
-      "summary": "EA also teased that \"we've got a lot more to show you\" after footage of Motive Studios' Iron Man game leaked"
-    },
-    {
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
-      "link": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "pubDate": "29.08.2026 um 14:25 Uhr",
-      "timestamp": 1788013556.0,
-      "source": "Eurogamer.net News",
-      "summary": "Reaction streams to Grand Theft Auto 6's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest..."
-    },
-    {
-      "title": "How 'Coyote vs. ACME' Broke All the Rules of Live-Action Looney Tunes Movies, and Got Away with It",
-      "link": "https://www.polygon.com/coyote-vs-acme-director-screenwriter-interview/",
-      "pubDate": "29.08.2026 um 14:00 Uhr",
-      "timestamp": 1788012014.0,
-      "source": "Polygon.com",
-      "summary": "Director Dave Green and screenwriter Samy Burch reveal how they threw out the Space Jam playbook to make a perfect Looney Tunes movie"
-    },
-    {
-      "title": "Xbox Calls Next-Gen Project Helix A ‘Family Of Devices,’ But Isn’t Ready To Say If Elder Scrolls 6 Will Be Exclusive",
-      "link": "https://kotaku.com/xbox-calls-next-gen-project-helix-a-family-of-devices-but-isnt-ready-to-say-if-elder-scrolls-6-will-be-exclusive-2000729562",
-      "pubDate": "29.08.2026 um 13:58 Uhr",
-      "timestamp": 1788011932.0,
-      "source": "Kotaku",
-      "summary": "Microsoft's gaming division was tight-lipped at Gamescom"
-    },
-    {
-      "title": "Gamescom Responds To Rampant Reports Of Theft At The Event",
-      "link": "https://www.polygon.com/gamescom-event-theft-response/",
-      "pubDate": "29.08.2026 um 13:48 Uhr",
-      "timestamp": 1788011316.0,
-      "source": "Polygon.com",
-      "summary": "There have been several stolen equipment incidents at Gamescom 2026, and the organization has at last responded to victims' reports."
-    },
-    {
-      "title": "Gamescom Says Stolen Laptops ‘Make Us Very Sad,’ But Says Exhibitors Have To Protect Against Theft: ‘This Is Noted In The Terms And Conditions’",
-      "link": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
-      "pubDate": "29.08.2026 um 13:39 Uhr",
-      "timestamp": 1788010758.0,
-      "source": "Kotaku",
-      "summary": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand the frustration of affected exhibitors,' there's al..."
     }
   ],
   "sim": [
