@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "Pokémon Tales: Erster Trailer zur neuen Stop-Motion-Serie von Aardman und Disney+",
+      "link": "https://www.eurogamer.de/pokemon-tales-erster-trailer-zur-neuen-stop-motion-serie-von-aardman-und-disney",
+      "pubDate": "29.08.2026 um 11:58 Uhr",
+      "timestamp": 1788004704.0,
+      "source": "Eurogamer.de News",
+      "summary": "The Pok&eacute;mon Company International und Aardman haben den ersten Teaser-Trailer zu Pok&eacute;mon Tales: The Misadventures of Sirfetch'd & Pichu ..."
+    },
+    {
+      "title": "GTA 6: Waffenrad sorgt für Kritik – Fans vermissen den typischen Rockstar-Stil",
+      "link": "https://www.playcentral.de/gta-6-waffenrad-ui-kritik/",
+      "pubDate": "29.08.2026 um 11:48 Uhr",
+      "timestamp": 1788004133.0,
+      "source": "PlayCentral",
+      "summary": "Der ausführliche Einblick in GTA 6 hat zahlreiche neue Details zur offenen Spielwelt, den Missionen und den beiden Protagonisten offenbart. Ein vergle..."
+    },
+    {
+      "title": "DLSS 5 auf RTX 4000?: Nach Anpassung läuft die DLSSNR.dll auch auf älteren GeForce",
+      "link": "https://www.computerbase.de/news/grafikkarten/dlss-5-auf-rtx-4000-nach-anpassung-laeuft-die-dlssnr-dll-auch-auf-aelteren-geforce.99127/",
+      "pubDate": "29.08.2026 um 13:33 Uhr",
+      "timestamp": 1788003180.0,
+      "source": "ComputerBase",
+      "summary": "Die in NBA 2K27 entdeckte, dort aber noch gar nicht aktive neue DLSSNR.dll ermöglicht DLSS 5 eigentlich nur mit GeForce RTX 5000 „Blackwell“. Doch Mod..."
+    },
+    {
+      "title": "Steam löscht Stones Keeper King Aurelius im September 2026 – das sind die Gründe",
+      "link": "https://www.playcentral.de/steam-loescht-stones-keeper-king-aurelius-im-september-2026-das-sind-die-gruende/",
+      "pubDate": "29.08.2026 um 11:31 Uhr",
+      "timestamp": 1788003072.0,
+      "source": "PlayCentral",
+      "summary": "Steam-Nutzer haben nur noch wenige Wochen Zeit, sich ein kostenloses Strategie-Rollenspiel dauerhaft für ihre Bibliothek zu sichern. Stones Keeper: Ki..."
+    },
+    {
+      "title": "Marvel’s Wolverine: Neuer Trailer zeigt kurz vor dem Release weitere Gameplay-Features",
+      "link": "https://www.eurogamer.de/marvels-wolverine-trailer-mehr-gameplay-features",
+      "pubDate": "29.08.2026 um 11:10 Uhr",
+      "timestamp": 1788001835.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nur noch knapp zwei Wochen trennen uns vom 15. September und damit dem neuen Wolverine-Spiel von Insomniac Games. Obwohl verschiedene Trailer und Post..."
+    },
+    {
       "title": "GTA 6: Ihr bestimmt die Beziehung von Jason und Lucia – trennen können sie sich nicht",
       "link": "https://www.playcentral.de/gta-6-jason-lucia-beziehung/",
       "pubDate": "29.08.2026 um 10:33 Uhr",
@@ -78,7 +118,7 @@
       "pubDate": "29.08.2026 um 10:42 Uhr",
       "timestamp": 1787992920.0,
       "source": "ComputerBase",
-      "summary": "CXMT ist auf der Überholspur. LPDDR6 ist demnach nicht mehr nur als Sample, sondern soll im September bereits im Xiaomi 18 Fold erscheinen. Die Kooper..."
+      "summary": "CXMT ist auf der Überholspur. LPDDR6 ist demnach nicht mehr nur Sample, sondern soll im September bereits im Xiaomi 18 Fold erscheinen. Die Kooperatio..."
     },
     {
       "title": "Eine Comedy-Serie hat die viel besseren Nerds als The Big Bang Theory, vermeidet den größten Fehler der Hit-Show",
@@ -103,49 +143,57 @@
       "timestamp": 1787988600.0,
       "source": "Mein-MMO",
       "summary": "Der Blutige Baron ist eine der denkwürdigsten Figuren von The Witcher 3. Seinen Ursprung hat er nicht in den Büchern, sondern im echten Leben. Der Bei..."
-    },
-    {
-      "title": "Ein Byte kostet 250 GB: Cloudflare spart dank Optimierung 100 TB RAM",
-      "link": "https://www.computerbase.de/news/internet/ein-byte-kostet-250-gb-cloudflare-spart-dank-optimierung-100-tb-ram.99119/",
-      "pubDate": "29.08.2026 um 09:00 Uhr",
-      "timestamp": 1787986800.0,
-      "source": "ComputerBase",
-      "summary": "Bei mehr als 250 Milliarden Einträgen wird selbst ein einzelnes Byte zum Kostenfaktor: Hochgerechnet auf den gesamten DNS-Cache von Cloudflare belegt ..."
-    },
-    {
-      "title": "Wolcen 2: Diablo-Klon aus Frankreich erhält eine Fortsetzung",
-      "link": "https://www.computerbase.de/news/gaming/wolcen-2-diablo-klon-aus-frankreich-erhaelt-eine-fortsetzung.99118/",
-      "pubDate": "29.08.2026 um 08:30 Uhr",
-      "timestamp": 1787985000.0,
-      "source": "ComputerBase",
-      "summary": "Die Macher des Action-RPGs Wolcen: Lords of Mayhem arbeiten nicht nur am Extraction-Ableger „Gods, Death & Reapers“, sondern auch dem direkten Nachfol..."
-    },
-    {
-      "title": "Menschen, die schreiben statt Sprachnachrichten zu senden, haben laut Psychologie 4 auffällige Merkmale",
-      "link": "https://mein-mmo.de/schreiben-versus-sprachnachrichten-psychologie-merkmale/",
-      "pubDate": "29.08.2026 um 06:30 Uhr",
-      "timestamp": 1787985000.0,
-      "source": "Mein-MMO",
-      "summary": "Bevorzugt ihr eher Text- oder Sprachnachrichten? Die Psychologie erklärt, was diese Wahl über eure Persönlichkeit verraten kann. Der Beitrag Menschen,..."
-    },
-    {
-      "title": "Im Test vor 15 Jahren: Das HP TouchPad und der Tod von webOS",
-      "link": "https://www.computerbase.de/news/tablets/im-test-vor-15-jahren-das-hp-touchpad-und-der-tod-von-webos.99110/",
-      "pubDate": "29.08.2026 um 08:00 Uhr",
-      "timestamp": 1787983200.0,
-      "source": "ComputerBase",
-      "summary": "Nachdem HP im Sommer 2010 den Hersteller Palm samt seiner Produktsparte und des Betriebssystems webOS übernahm, folgte im Jahr 2011 die Einstellung de..."
-    },
-    {
-      "title": "Einer der größten YouTuber für MMORPGs hat 1.000 Stunden in Aion 2 … und gute Nachrichten für Casuals",
-      "link": "https://mein-mmo.de/aion-2-kanon-einschaetzung-nach-monaten-vergleich-lost-ark/",
-      "pubDate": "29.08.2026 um 05:51 Uhr",
-      "timestamp": 1787982683.0,
-      "source": "Mein-MMO",
-      "summary": "Seit Monaten spielt der YouTuber Kanon bereits Aion 2. In seinem Erfahrungsbericht zieht er einen spannenden Vergleich. Der Beitrag Einer der größten ..."
     }
   ],
   "int": [
+    {
+      "title": "Star Wars Zero Company Uses Anakin Skywalker for So Much More than a Cameo",
+      "link": "https://www.polygon.com/star-wars-zero-company-anakin-skywalker-mission/",
+      "pubDate": "29.08.2026 um 12:00 Uhr",
+      "timestamp": 1788004816.0,
+      "source": "Polygon.com",
+      "summary": "Star Wars Zero Company features great tactical gameplay. During one mission, the game turns into a Jedi power fantasy when Anakin Skywalker pops up."
+    },
+    {
+      "title": "The 5 top games you need to play in September 2026",
+      "link": "https://www.gamesradar.com/games/games-releasing-september-2026/",
+      "pubDate": "29.08.2026 um 12:00 Uhr",
+      "timestamp": 1788004800.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Looking for a new game to play? Well, these are the best ones releasing in September"
+    },
+    {
+      "title": "Hulu has been quietly releasing one of the year's best TV thrillers, and you still have time to catch up",
+      "link": "https://www.gamesradar.com/entertainment/thriller-shows/hulu-has-been-quietly-releasing-one-of-the-years-best-tv-thrillers-and-you-still-have-time-to-catch-up/",
+      "pubDate": "29.08.2026 um 12:00 Uhr",
+      "timestamp": 1788004800.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Furious should be the next show on your watchlist"
+    },
+    {
+      "title": "'Well, that didn't go as planned' says EA as it footage of its Iron Man game leaks online",
+      "link": "https://www.pcgamer.com/games/action/well-that-didnt-go-as-planned-says-ea-as-it-footage-of-its-iron-man-game-leaks-online/",
+      "pubDate": "29.08.2026 um 11:45 Uhr",
+      "timestamp": 1788003959.0,
+      "source": "PCGamer latest",
+      "summary": "\"But now you know, we've got a lot more to show you.\""
+    },
+    {
+      "title": "The 5 movies you need to watch in September 2026",
+      "link": "https://www.gamesradar.com/entertainment/movies/movies-releasing-in-september-2026/",
+      "pubDate": "29.08.2026 um 11:30 Uhr",
+      "timestamp": 1788003000.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Discover our list of the best new movies coming out in September"
+    },
+    {
+      "title": "New Pokemon series from Wallace and Gromit animation studio Aardman is coming exclusively to Disney Plus, alongside Ash's first anime run",
+      "link": "https://www.gamesradar.com/games/pokemon/new-pokemon-series-from-wallace-and-gromit-animation-studio-aardman-is-coming-exclusively-to-disney-plus-alongside-ashs-first-anime-run/",
+      "pubDate": "29.08.2026 um 11:18 Uhr",
+      "timestamp": 1788002295.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Pokemon Tales: The Misadventures of Sirfetch'd and Pichu streams in 2027"
+    },
     {
       "title": "The Switch 2 Is About to Face Its Toughest Challenge Yet",
       "link": "https://www.polygon.com/switchboard-fromsoftware-elden-ring-the-duskbloods/",
@@ -241,54 +289,6 @@
       "timestamp": 1787990415.0,
       "source": "Polygon.com",
       "summary": "Franchises like Star Wars, The Simpsons, Teenage Mutant Ninja Turtles, Rugrats, and the Muppets all used to have newspaper comic strips"
-    },
-    {
-      "title": "Dragon’s Dogma 2: Dark Arisen Will Send You On a Chilly Loot Grind | gamescom 2026",
-      "link": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-will-send-you-on-a-chilly-loot-grind-gamescom-2026",
-      "pubDate": "29.08.2026 um 08:00 Uhr",
-      "timestamp": 1787990400.0,
-      "source": "IGN All",
-      "summary": "Dragon's Dogma 2's Dark Arisen expansion adds a whole new region with clever winter weather effects, an old-but-new loot grind, and... a dragon that v..."
-    },
-    {
-      "title": "10 Greatest WWII Movies of All Time, Ranked",
-      "link": "https://www.polygon.com/10-greatest-wwii-movies-ranked/",
-      "pubDate": "29.08.2026 um 07:31 Uhr",
-      "timestamp": 1787988674.0,
-      "source": "Polygon.com",
-      "summary": "Steven Spielberg, Quentin Tarantino, and more top this list of iconic WWII films you can't miss"
-    },
-    {
-      "title": "Mayday directors say the Top Gun-homaging action-comedy got Tom Cruise's permission to use footage from the '80s classic",
-      "link": "https://www.gamesradar.com/entertainment/action-movies/mayday-directors-say-the-top-gun-homaging-action-comedy-got-tom-cruises-permission-to-use-footage-from-the-80s-classic/",
-      "pubDate": "29.08.2026 um 02:00 Uhr",
-      "timestamp": 1787968800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Mayday has the Tom Cruise seal of approval"
-    },
-    {
-      "title": "The Pokémon Company Looks to Smart Device Integrations as Future Targets",
-      "link": "https://www.ign.com/articles/the-pokemon-company-looks-to-smart-device-integrations-as-future-targets",
-      "pubDate": "29.08.2026 um 00:55 Uhr",
-      "timestamp": 1787964925.0,
-      "source": "IGN All",
-      "summary": "President and CEO of The Pokémon Company, Tsunekazu Ishihara, shared a small bit of insight about the company’s possible future plans with wearable te..."
-    },
-    {
-      "title": "'Claude Strife': DLSS 5 has escaped into the wild, and things are immediately weird",
-      "link": "https://www.pcgamer.com/software/ai/claude-strife-dlss-5-has-escaped-into-the-wild-and-things-are-immediately-weird/",
-      "pubDate": "29.08.2026 um 00:40 Uhr",
-      "timestamp": 1787964026.0,
-      "source": "PCGamer latest",
-      "summary": "The controversial generative AI tech can look alright when used subtly, but the 'AI look' seems to be inescapable."
-    },
-    {
-      "title": "Zach Cregger's Resident Evil on Track to Have Biggest Opening Weekend of Any RE Movie in History",
-      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-on-track-to-have-biggest-opening-weekend-of-any-re-movie-in-history",
-      "pubDate": "29.08.2026 um 00:01 Uhr",
-      "timestamp": 1787961687.0,
-      "source": "IGN All",
-      "summary": "Zach Cregger’s Resident Evil movie is on track to have the most profitable opening weekend out of any film adaptation of Capcom’s flagship horror fran..."
     }
   ],
   "sim": [
