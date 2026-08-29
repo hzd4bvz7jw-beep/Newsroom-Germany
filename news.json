@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Ein Byte kostet 250 GB: Cloudflare spart dank Optimierung 100 TB RAM",
+      "link": "https://www.computerbase.de/news/internet/ein-byte-kostet-250-gb-cloudflare-spart-dank-optimierung-100-tb-ram.99119/",
+      "pubDate": "29.08.2026 um 09:00 Uhr",
+      "timestamp": 1787986800.0,
+      "source": "ComputerBase",
+      "summary": "Bei mehr als 250 Milliarden Einträgen wird selbst ein einzelnes Byte zum Kostenfaktor: Hochgerechnet auf den gesamten DNS-Cache von Cloudflare belegt ..."
+    },
+    {
+      "title": "Wolcen 2: Diablo-Klon aus Frankreich erhält eine Fortsetzung",
+      "link": "https://www.computerbase.de/news/gaming/wolcen-2-diablo-klon-aus-frankreich-erhaelt-eine-fortsetzung.99118/",
+      "pubDate": "29.08.2026 um 08:30 Uhr",
+      "timestamp": 1787985000.0,
+      "source": "ComputerBase",
+      "summary": "Die Macher des Action-RPGs Wolcen: Lords of Mayhem arbeiten nicht nur am Extraction-Ableger „Gods, Death & Reapers“, sondern auch dem direkten Nachfol..."
+    },
+    {
+      "title": "Menschen, die schreiben statt Sprachnachrichten zu senden, haben laut Psychologie 4 auffällige Merkmale",
+      "link": "https://mein-mmo.de/schreiben-versus-sprachnachrichten-psychologie-merkmale/",
+      "pubDate": "29.08.2026 um 06:30 Uhr",
+      "timestamp": 1787985000.0,
+      "source": "Mein-MMO",
+      "summary": "Bevorzugt ihr eher Text- oder Sprachnachrichten? Die Psychologie erklärt, was diese Wahl über eure Persönlichkeit verraten kann. Der Beitrag Menschen,..."
+    },
+    {
       "title": "Im Test vor 15 Jahren: Das HP TouchPad und der Tod von webOS",
       "link": "https://www.computerbase.de/news/tablets/im-test-vor-15-jahren-das-hp-touchpad-und-der-tod-von-webos.99110/",
       "pubDate": "29.08.2026 um 08:00 Uhr",
@@ -119,33 +143,17 @@
       "timestamp": 1787928901.0,
       "source": "Mein-MMO",
       "summary": "Die Entwickler des kommenden PvP-Shooters Wardogs deuten an, dass sie juristische Probleme mit einem Rüstungsunternehmen bekommen könnten. Der Beitrag..."
-    },
-    {
-      "title": "Ein Boomer-MMORPG kommt mit altem Charme zurück, dem selbst ich als GenZ nicht widerstehen kann",
-      "link": "https://mein-mmo.de/everquest-legends-roadmap-gamescom/",
-      "pubDate": "28.08.2026 um 14:47 Uhr",
-      "timestamp": 1787928445.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteur Niko hat nicht viel Erfahrung mit MMOs, doch ausgerechnet ein alter Klassiker hat sein Interesse auf der gamescom geweckt. Der Beitr..."
-    },
-    {
-      "title": "CB-Funk-Podcast #181: GTA VI, DLSS 5, The Witcher 3 und Fabian auf Adrenalin",
-      "link": "https://www.computerbase.de/news/gaming/cb-funk-podcast-181-gta-vi-dlss-5-the-witcher-3-und-fabian-auf-adrenalin.99117/",
-      "pubDate": "28.08.2026 um 16:45 Uhr",
-      "timestamp": 1787928300.0,
-      "source": "ComputerBase",
-      "summary": "Auch dieses Jahr haben Jan und Fabian die Gamescom unsicher gemacht und jetzt einiges zu erzählen. Den Anfang machen in dieser Episode allerdings zwei..."
-    },
-    {
-      "title": "Red Dead Online – Bis 31. August dreifache Belohnungen und Gratis-Outfit",
-      "link": "https://www.playcentral.de/red-dead-online-bis-31-august-dreifache-belohnungen-und-gratis-outfit/",
-      "pubDate": "28.08.2026 um 14:31 Uhr",
-      "timestamp": 1787927472.0,
-      "source": "PlayCentral",
-      "summary": "Rockstar Games lockt Fans von Red Dead Redemption 2 noch einmal in den Online-Wilden-Westen. Bis einschließlich 31. August 2026 laufen in Red Dead Onl..."
     }
   ],
   "int": [
+    {
+      "title": "Tom Cruise's 10/10 Action Movie That Saved a Struggling Franchise Is Officially Free on Streaming",
+      "link": "https://www.polygon.com/mission-impossible-3-free-streaming-august-2026/",
+      "pubDate": "29.08.2026 um 07:00 Uhr",
+      "timestamp": 1787986815.0,
+      "source": "Polygon.com",
+      "summary": "The Mission Impossible movie that saved the franchise is free to stream on Tubi"
+    },
     {
       "title": "Hit Survival Game Rust Releases Major Overhaul to 2026 Roadmap",
       "link": "https://www.polygon.com/rust-roadmap-changes-2026/",
@@ -281,14 +289,6 @@
       "timestamp": 1787956200.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "Gamergater Milo Yiannopoulos Locked Up By Trump’s ICE For Deportation",
-      "link": "https://kotaku.com/gamergater-milo-yiannopoulos-locked-up-by-trumps-ice-for-deportation-2000729501",
-      "pubDate": "28.08.2026 um 22:10 Uhr",
-      "timestamp": 1787955027.0,
-      "source": "Kotaku",
-      "summary": "The former Breitbart columnist is being held as an 'illegal alien' by Trump's immigration goons"
     }
   ],
   "sim": [
