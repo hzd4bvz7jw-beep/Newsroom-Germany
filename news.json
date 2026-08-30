@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "iOS 27: Wann erscheint das große iPhone-Update?",
+      "link": "https://www.computerbase.de/news/betriebssysteme/ios-27-wann-erscheint-das-grosse-iphone-update.99125/",
+      "pubDate": "30.08.2026 um 11:00 Uhr",
+      "timestamp": 1788080400.0,
+      "source": "ComputerBase",
+      "summary": "Mit Versionsnummer 27 will Apple die Betriebssysteme für iPhone, iPad, Mac, Apple Watch und den Apple TV unter der Haube modernisieren und vieles bess..."
+    },
+    {
+      "title": "Er schuf legendäre MMORPGs, jetzt macht er einen Sci-Fi-Shooter: Wir sprachen mit dem Chef von Cinder City über den kommenden Koop-Titel",
+      "link": "https://mein-mmo.de/cinder-city-interview-jaehyun-james-bae/",
+      "pubDate": "30.08.2026 um 09:00 Uhr",
+      "timestamp": 1788080400.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Chefredakteurin Leya Jankowski sprach mit dem CEO von BigFire Games über seine Arbeit an MMORPGs und dem kommenden SciFi-Shooter Cinder City. ..."
+    },
+    {
+      "title": "Sonic Mania 2: Sega schließt eine Fortsetzung des gefeierten Retro-Hits nicht aus",
+      "link": "https://www.eurogamer.de/sonic-mania-2-sega-fortsetzung-hoffnung",
+      "pubDate": "30.08.2026 um 08:12 Uhr",
+      "timestamp": 1788077540.0,
+      "source": "Eurogamer.de News",
+      "summary": "Es gibt Fans, die sich seit der Ver&ouml;ffentlichung von Sonic Mania einen Nachfolger w&uuml;nschen, doch in absehbarer Zeit ist ein solcher wohl nic..."
+    },
+    {
+      "title": "Jetzt hat es auch Valve getroffen: Leak enthüllt 12 TB an Inhalten zu einigen der besten Spiele aller Zeiten",
+      "link": "https://mein-mmo.de/valve-leak-august-2026/",
+      "pubDate": "30.08.2026 um 08:06 Uhr",
+      "timestamp": 1788077211.0,
+      "source": "Mein-MMO",
+      "summary": "Aktuell gibt es ein Datenleck bei Valve, das bislang unbekannte Inhalte zu Spielen wie Portal oder Halfe Life 2 zeigt. Der Beitrag Jetzt hat es auch V..."
+    },
+    {
       "title": "Iron Man: EA reagiert humorvoll auf den unfreiwilligen Gameplay-Leak",
       "link": "https://www.eurogamer.de/iron-man-ea-motive-leak-reaktion",
       "pubDate": "30.08.2026 um 08:01 Uhr",
@@ -17,7 +49,7 @@
       "summary": "Rockstar schweigt bezüglich eines Multiplayers für GTA 6. Dafür analysiert Paul Tassi, wann wir mit einem neuen GTA Online rechnen können. Der Beitrag..."
     },
     {
-      "title": "Wochenrück- und Ausblick: Das Silberschwert des Witchers bringt GTA IV zum Nulltarif zur Strecke",
+      "title": "Wochenrück- und Ausblick: Das Silberschwert des Witchers bringt GTA 6 zum Nulltarif zur Strecke",
       "link": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w35.99116/",
       "pubDate": "30.08.2026 um 10:00 Uhr",
       "timestamp": 1788076800.0,
@@ -81,22 +113,6 @@
       "summary": "Im Gameplay-Reveal von GTA 6 gab es einiges zu sehen, das ihr aus anderen Spielen von Rockstar Games kennt. Wir geben euch eine Übersicht. Der Beitrag..."
     },
     {
-      "title": "Eigentlich steh’ ich auf Tyraniden, doch ein ganz anderes Universum von Warhammer lässt mich an meiner Treue zweifeln",
-      "link": "https://mein-mmo.de/warhammer-miniaturen-age-of-sigmar-vs-tyraniden/",
-      "pubDate": "30.08.2026 um 06:00 Uhr",
-      "timestamp": 1788069600.0,
-      "source": "Mein-MMO",
-      "summary": "Bisher hat MeinMMO-Redakteurin Caro ihre Miniaturen auf Warhammer 40.000 begrenzt, doch jetzt hat sie ein neues Universum kennengelernt. Der Beitrag E..."
-    },
-    {
-      "title": "Obwohl EverQuest, HdRO und DCUO solides Geld einspielen, ist der Liebling von Daybreak derzeit ein knuffiges Cozy-MMO",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-27-august-2026/",
-      "pubDate": "30.08.2026 um 05:11 Uhr",
-      "timestamp": 1788066704.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit Erfahrungsberichten, großen Updates und schwierigen Starts. Der Beitrag Obwohl EverQuest..."
-    },
-    {
       "title": "Nach SpaceX-Übernahme: OpenAI will Cursor die Modelle entziehen",
       "link": "https://www.computerbase.de/news/wirtschaft/nach-spacex-uebernahme-openai-will-cursor-die-modelle-entziehen.99133/",
       "pubDate": "30.08.2026 um 07:03 Uhr",
@@ -127,22 +143,6 @@
       "timestamp": 1788042704.0,
       "source": "PlayCentral",
       "summary": "Ein offenbar zu früh veröffentlichter Beitrag des offiziellen Xbox-Game-Pass-Kontos auf Instagram hat eine spannende Neuerscheinung für den Oktober 20..."
-    },
-    {
-      "title": "Elden Ring Patch 1.17 – Bandai Namco bestätigt weitere Updates",
-      "link": "https://www.playcentral.de/elden-ring-patch-1-17-bandai-namco-bestaetigt-weitere-updates/",
-      "pubDate": "29.08.2026 um 19:31 Uhr",
-      "timestamp": 1788031874.0,
-      "source": "PlayCentral",
-      "summary": "Bandai Namco lässt Elden Ring auch mehr als vier Jahre nach seiner ursprünglichen Veröffentlichung nicht fallen. In den offiziellen Patchnotes zu Vers..."
-    },
-    {
-      "title": "Project Helix: Microsoft plant mehr als nur eine neue Xbox",
-      "link": "https://www.computerbase.de/news/gaming/project-helix-microsoft-plant-mehr-als-nur-eine-neue-xbox.99129/",
-      "pubDate": "29.08.2026 um 20:24 Uhr",
-      "timestamp": 1788027840.0,
-      "source": "ComputerBase",
-      "summary": "Microsoft plant Project Helix offenbar größer als bislang bekannt. Xbox-Chefin Asha Sharma spricht nicht mehr nur von einer einzelnen Konsole, sondern..."
     }
   ],
   "int": [
