@@ -110,7 +110,7 @@
       "pubDate": "29.08.2026 um 16:45 Uhr",
       "timestamp": 1788014700.0,
       "source": "ComputerBase",
-      "summary": "Auf der Gamescom konnte ComputerBase mit Entwickler Creative sprechen und Alien: Isolation 2 selbst spielen. Schnell wird klar: Die Fortsetzung knüpft..."
+      "summary": "Auf der Gamescom konnte ComputerBase mit Entwickler Creative Assembly sprechen und Alien: Isolation 2 spielen. Schnell wird klar: Die Fortsetzung knüp..."
     },
     {
       "title": "Die gamescom endet für einen Solo-Entwickler traurig: „Der Kram ist teuer“",
@@ -146,6 +146,14 @@
     }
   ],
   "int": [
+    {
+      "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+      "link": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-on-youtube/",
+      "pubDate": "30.08.2026 um 03:01 Uhr",
+      "timestamp": 1788058874.0,
+      "source": "Polygon.com",
+      "summary": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube."
+    },
     {
       "title": "Relive Nintendo's wild Donkey Kong court case from 1983",
       "link": "https://www.polygon.com/donkey-kong-lawsuit-king-shigeru-miyamoto-deposition/",
@@ -281,14 +289,6 @@
       "timestamp": 1788032786.0,
       "source": "Rock Paper Shotgun News",
       "summary": "We're a little over one week on from the launch of Mortal Shell 2, a game that Jeremy liked quite a lot. But the work of a developer is never done the..."
-    },
-    {
-      "title": "Resonance: A Plague Tale Legacy’s Post-Credits Scene, Explained",
-      "link": "https://www.polygon.com/resonance-a-plague-tale-legacy-post-credits-scene-cameo-explained/",
-      "pubDate": "29.08.2026 um 19:00 Uhr",
-      "timestamp": 1788030015.0,
-      "source": "Polygon.com",
-      "summary": "What that surprise cameo means for the future of the series"
     }
   ],
   "sim": [
