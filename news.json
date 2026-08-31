@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Wie gut ist Star Wars Zero Company?: Nische bringt das vorläufige Spiel des Jahres",
+      "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-star-wars-zero-company-nische-bringt-das-vorlaeufige-spiel-des-jahres.99135/",
+      "pubDate": "31.08.2026 um 07:53 Uhr",
+      "timestamp": 1788155580.0,
+      "source": "ComputerBase",
+      "summary": "Zero Company hat sich erst spät aus der sicheren Deckung gewagt. Die Trefferwahrscheinlichkeit liegt dafür hoch: Das XCOM-Rundentaktikspiel bereichert..."
+    },
+    {
+      "title": "Steam-Zeitkapsel: 12 TB alte Builds lagen offen im Netz",
+      "link": "https://www.computerbase.de/news/gaming/steam-zeitkapsel-12-tb-alte-builds-lagen-offen-im-netz.99138/",
+      "pubDate": "31.08.2026 um 07:34 Uhr",
+      "timestamp": 1788154440.0,
+      "source": "ComputerBase",
+      "summary": "Rund 12 TB an Spieldaten aus den Jahren 2003 bis 2013 sind im Netz aufgetaucht. Das Archiv umfasst frühe Builds, Beta-Fassungen und verworfene Inhalte..."
+    },
+    {
       "title": "Ohne einen bösen Zauberer in Harry Potter hätte es Lord Voldemort nicht gegeben, aber ihr habt wahrscheinlich noch nie von ihm gehört",
       "link": "https://mein-mmo.de/harry-potter-horkrux-erfinder/",
       "pubDate": "31.08.2026 um 05:04 Uhr",
@@ -127,22 +143,6 @@
       "timestamp": 1788100800.0,
       "source": "ComputerBase",
       "summary": "Eine der bekanntesten Grafik-Modifikationen für The Witcher 3 wird zum offiziellen Bestandteil des Remasters. Der Entwickler des HD Reworked Project a..."
-    },
-    {
-      "title": "GTA 6: Rockstar ging für den exklusiven Extended Look auf Netflix zu – nicht umgekehrt",
-      "link": "https://www.eurogamer.de/gta-6-netflix-extended-look-rockstar",
-      "pubDate": "30.08.2026 um 14:07 Uhr",
-      "timestamp": 1788098820.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wenn man mal von den Leaks im Vorfeld und einigen Problemen bei Twitch und Netflix absieht, lief der Reveal des Extended Looks zu Grand Theft Auto 6 i..."
-    },
-    {
-      "title": "Resident Evil: Zach Creggers neuer Kinofilm steuert auf historischen Kassenrekord zu",
-      "link": "https://www.eurogamer.de/resident-evil-film-kino-rekord",
-      "pubDate": "30.08.2026 um 13:06 Uhr",
-      "timestamp": 1788095160.0,
-      "source": "Eurogamer.de News",
-      "summary": "Der neue Resident-Evil-Film von Regisseur Zach Cregger k&ouml;nnte das erfolgreichste Startwochenende der bisherigen Verfilmungen der Reihe erzielen. ..."
     }
   ],
   "int": [
@@ -219,20 +219,20 @@
       "summary": "Lanterns Episode 3 succeeds in delivering a very different kind of superhero origin story, and the series is all the better for it. Read our review of..."
     },
     {
-      "title": "Lanterns' dark new origin story for John Stewart changes DC Comics canon in a big way",
-      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-dark-new-origin-story-for-john-stewart-changes-comics-canon-in-a-big-way/",
-      "pubDate": "31.08.2026 um 02:00 Uhr",
-      "timestamp": 1788141600.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The DCU is doing John Stewart very differently, and for the better"
-    },
-    {
       "title": "Guardians of the Universe explained: the comic book history of the oldest living beings in the DC universe",
       "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/guardians-of-the-universe-explained/",
       "pubDate": "31.08.2026 um 02:00 Uhr",
       "timestamp": 1788141600.0,
       "source": "Latest from GamesRadar+",
       "summary": "The Guardians of the Universe aren't to be confused with the Guardians of the Galaxy"
+    },
+    {
+      "title": "Lanterns' dark new origin story for John Stewart changes DC Comics canon in a big way",
+      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-dark-new-origin-story-for-john-stewart-changes-comics-canon-in-a-big-way/",
+      "pubDate": "31.08.2026 um 02:00 Uhr",
+      "timestamp": 1788141600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The DCU is doing John Stewart very differently, and for the better"
     },
     {
       "title": "Yellowstone and Lioness Games Could Be in Paramount Games' Future",
