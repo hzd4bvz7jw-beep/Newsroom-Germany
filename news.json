@@ -1,6 +1,62 @@
 {
   "de": [
     {
+      "title": "LUMI AI Factory: AMDs 256-Kern-Epycs & MI430X für €388-Mio.-Supercomputer",
+      "link": "https://www.computerbase.de/news/wirtschaft/lumi-ai-factory-amds-256-kern-epycs-und-mi430x-fuer-euro-388-mio-supercomputer.99144/",
+      "pubDate": "31.08.2026 um 15:00 Uhr",
+      "timestamp": 1788181200.0,
+      "source": "ComputerBase",
+      "summary": "Die LUMI AI Factory geht als Teil des EuroHPC Joint Undertaking für 387,8 Millionen Euro voll auf AMD: 256-Kern-Epycs und MI430X sollen im BullSequana..."
+    },
+    {
+      "title": "MMORPG-Fans, die PvE und Drachen lieben, sollten jetzt unbedingt Albion Online spielen",
+      "link": "https://mein-mmo.de/albion-online-drachenfeuer-release/",
+      "pubDate": "31.08.2026 um 13:00 Uhr",
+      "timestamp": 1788181200.0,
+      "source": "Mein-MMO",
+      "summary": "Drachenfeuer ist für Albion Online live und erweitert die Sandbox-Erfahrung um die bisher vielleicht besten PvE-Inhalte.  Der Beitrag MMORPG-Fans, die..."
+    },
+    {
+      "title": "Im neuen DLC von Dragon´s Dogma 2 erscheint ein Drache, der eine eigene Zombie-Apokalypse auslösen kann",
+      "link": "https://mein-mmo.de/dragons-dogma-2-dlc-dark-arisen-neuer-untoter-drache/",
+      "pubDate": "31.08.2026 um 12:56 Uhr",
+      "timestamp": 1788181008.0,
+      "source": "Mein-MMO",
+      "summary": "Dragon’s Dogma 2: Dark Arisen zeigt einen neuen mächtigen Drachen, für den die Entwickler eine simple aber effektive Idee umsetzten. Der Beitrag Im ne..."
+    },
+    {
+      "title": "Chef von Kingdom Come 2 glaubt: Wenn die Wahrheit über KI rauskommt, „werden alle Spiele boykottiert“",
+      "link": "https://mein-mmo.de/daniel-vavra-verteidigt-ki/",
+      "pubDate": "31.08.2026 um 12:53 Uhr",
+      "timestamp": 1788180780.0,
+      "source": "Mein-MMO",
+      "summary": "Die Aussagen des kreativen Chefs von Kingdom Come Deliverance 2 zu KI polarisieren und kommen bei vielen Gaming-Fans gar nicht gut an. Der Beitrag Che..."
+    },
+    {
+      "title": "Perplexity Computer: Neuer Hybrid-Modus für Macs soll in Vorbereitung sein",
+      "link": "https://www.computerbase.de/news/apps/perplexity-computer-neuer-hybrid-modus-fuer-macs-soll-in-vorbereitung-sein.99147/",
+      "pubDate": "31.08.2026 um 14:32 Uhr",
+      "timestamp": 1788179520.0,
+      "source": "ComputerBase",
+      "summary": "Perplexity soll für Computer auf dem Mac einen neuen Hybrid-Modus vorbereiten, der Cloud-KI mit lokal ausgeführten Modellen kombiniert und Teilaufgabe..."
+    },
+    {
+      "title": "Xbox Chefin lobt The Elder Scrolls 6 – Exklusivität weiter unklar",
+      "link": "https://www.playcentral.de/xbox-chefin-lobt-the-elder-scrolls-6-exklusivitaet-weiter-unklar/",
+      "pubDate": "31.08.2026 um 12:31 Uhr",
+      "timestamp": 1788179483.0,
+      "source": "PlayCentral",
+      "summary": "Seit der überraschend frühen Ankündigung im Jahr 2018 warten Fans auf handfeste Neuigkeiten zu The Elder Scrolls 6. Während Bethesda weiterhin kaum ko..."
+    },
+    {
+      "title": "State of Play: Sony kündigt Doppel-Event mit Final Fantasy 7 Revelation an",
+      "link": "https://www.eurogamer.de/state-of-play-final-fantasy-revelation",
+      "pubDate": "31.08.2026 um 12:28 Uhr",
+      "timestamp": 1788179283.0,
+      "source": "Eurogamer.de News",
+      "summary": "Sony hat f&uuml;r diese Woche gleich zwei neue State-of-Play-Ausgaben angek&uuml;ndigt, wobei Square Enix' Final Fantasy 7 Revelation eine gr&ouml;&sz..."
+    },
+    {
       "title": "Ein Weltraum-Spiel ist wie die Serien auf DMAX, ließ mich sogar an der Ware riechen",
       "link": "https://mein-mmo.de/gamescom-2026-raid-angespielt-fusionplay/",
       "pubDate": "31.08.2026 um 12:01 Uhr",
@@ -57,14 +113,6 @@
       "summary": "HandOfBlood wartet während der FYNG-Show auf ein bestimmtes Wort, wird bis zum Finale an den Rand des Wahnsinns getrieben. Der Beitrag HandOfBlood sta..."
     },
     {
-      "title": "Capcom macht mit neuem DLC von Dragon’s Dogma 2 den Nachtkönig neidisch, mit diesem Drachen hätte er Game of Thrones gewonnen",
-      "link": "https://mein-mmo.de/dragons-dogma-2-dlc-dark-arisen-neuer-untoter-drache/",
-      "pubDate": "31.08.2026 um 10:55 Uhr",
-      "timestamp": 1788173749.0,
-      "source": "Mein-MMO",
-      "summary": "Dragon’s Dogma 2: Dark Arisen zeigt einen neuen mächtigen Drachen, für den die Entwickler eine simple aber effektive Idee umsetzten. Der Beitrag Capco..."
-    },
-    {
       "title": "Assassin’s Creed Black Flag Resynced: Alle legendären Schiffe besiegen – die besten Tipps",
       "link": "https://www.playcentral.de/assassins-creed-black-flag-resynced-legendaere-schiffe-besiegen/",
       "pubDate": "31.08.2026 um 10:47 Uhr",
@@ -89,63 +137,87 @@
       "summary": "Das n&auml;chste gro&szlig;e Projekt von CD Projekt Red, The Witcher 4, bleibt von den Performance-Problemen des letzten Blockbusters Cyberpunk 2077 h..."
     },
     {
-      "title": "Star Wars erhält neues Spiel auf Steam, startet stark mit über 70.000 Spielern und positiven Reviews",
-      "link": "https://mein-mmo.de/star-wars-zero-company-startet-stark/",
-      "pubDate": "31.08.2026 um 10:37 Uhr",
-      "timestamp": 1788172662.0,
-      "source": "Mein-MMO",
-      "summary": "Auf Steam ist ein neues Spiel zu Star Wars an den Start gegangen, das euch in die Klonkriege versetzt. Das kommt bei den Spielern gut an. Der Beitrag ..."
-    },
-    {
-      "title": "Neues MMORPG auf Steam ist auf 500.000 Wunschlisten, merzt vor dem Start größte Schwäche aus",
-      "link": "https://mein-mmo.de/drakantos-steam-early-access/",
-      "pubDate": "31.08.2026 um 10:36 Uhr",
-      "timestamp": 1788172594.0,
-      "source": "Mein-MMO",
-      "summary": "Das vielversprechendste Pixel-MMORPG nähert sich dem Early Access auf Steam. Das jüngste Update merzt die bisher größte Schwäche aus. Der Beitrag Neue..."
-    },
-    {
       "title": "Pokémon GO – Paragoni-Fangkunst-Event am 26. September mit Wurf-Boni",
       "link": "https://www.playcentral.de/pokemon-go-paragoni-fangkunst-event-am-26-september-mit-wurf-boni/",
       "pubDate": "31.08.2026 um 10:31 Uhr",
       "timestamp": 1788172310.0,
       "source": "PlayCentral",
       "summary": "Pokémon GO rückt im September 2026 ein beliebtes Geist-Pokémon aus der sechsten Generation ins Rampenlicht. Beim neuen Fangkunst-Event dreht sich alle..."
-    },
-    {
-      "title": "Screamer: Milestone veröffentlicht neues Update mit Balancing-Änderungen und Fixes",
-      "link": "https://www.eurogamer.de/screamer-update-patch-notes-milestone",
-      "pubDate": "31.08.2026 um 10:00 Uhr",
-      "timestamp": 1788170434.0,
-      "source": "Eurogamer.de News",
-      "summary": "Milestone hat ein neues Update f&uuml;r sein Arcade-Rennspiel Screamer angek&uuml;ndigt. Damit soll der Titel weiter auf Basis des Feedbacks der Spiel..."
-    },
-    {
-      "title": "Modern Warfare 4: Großes Beta-Update bringt keine neuen Steam-Rekorde",
-      "link": "https://www.eurogamer.de/modern-warfare-4-beta-steam-patch",
-      "pubDate": "31.08.2026 um 09:59 Uhr",
-      "timestamp": 1788170361.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wir stecken mittendrin im zweiten und gleichzeitig letzten Beta-Wochenende von Call of Duty: Modern Warfare 4. Die Open-Beta l&auml;uft diesmal auf ei..."
-    },
-    {
-      "title": "Fable: Ihr könnt das Reboot in unter 24 Stunden durchzocken, wenn ihr keine Nebenquests macht",
-      "link": "https://www.eurogamer.de/fable-ihr-konnt-das-reboot-in-unter-24-stunden-durchzocken-wenn-ihr-keine-nebenquests-macht",
-      "pubDate": "31.08.2026 um 09:49 Uhr",
-      "timestamp": 1788169752.0,
-      "source": "Eurogamer.de News",
-      "summary": "Fable wurde ja nun auf 2027 verschoben. Das Reboot der Reihe erscheint auf PC, Xbox Series und PlayStation 5. Der Grund daf&uuml;r ist eine rein strat..."
-    },
-    {
-      "title": "Fable: Entwickler verraten Spielzeit – so lange dauert das neue Abenteuer in Albion",
-      "link": "https://www.playcentral.de/fable-spielzeit-story-nebenquests/",
-      "pubDate": "31.08.2026 um 09:45 Uhr",
-      "timestamp": 1788169511.0,
-      "source": "PlayCentral",
-      "summary": "Playground Games hat erstmals konkret eingeordnet, wie viel Zeit Spieler für Fable einplanen sollten. Wer sich auf die Hauptgeschichte konzentriert, e..."
     }
   ],
   "int": [
+    {
+      "title": "Adult Swim's Most Important Show Officially Goes on the Attack Against AI Animation",
+      "link": "https://www.polygon.com/robot-chicken-adult-swim-25th-anniversary-interview/",
+      "pubDate": "31.08.2026 um 13:00 Uhr",
+      "timestamp": 1788181214.0,
+      "source": "Polygon.com",
+      "summary": "\"We just wanted to make the basic case that Adult Swim was not about cheap and stupid animation,\" series co-creator Seth Green tells Polygon."
+    },
+    {
+      "title": "Stellar Blade and Lies of P \"really made developers in Korea take up the challenge for console games,\" says Shift Up technical director",
+      "link": "https://www.gamesradar.com/games/action-rpg/stellar-blade-and-lies-of-p-really-made-developers-in-korea-take-up-the-challenge-for-console-games-says-shift-up-technical-director/",
+      "pubDate": "31.08.2026 um 13:00 Uhr",
+      "timestamp": 1788181200.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"And we have Crimson Desert now as well\""
+    },
+    {
+      "title": "New Dragon Ball Gekishin Squadra Update Will Turn It Into a Completely New Game",
+      "link": "https://www.polygon.com/dragon-ball-gekishin-squadra-1-year-anniversary-update-gameplay-overhaul/",
+      "pubDate": "31.08.2026 um 12:59 Uhr",
+      "timestamp": 1788181199.0,
+      "source": "Polygon.com",
+      "summary": "Dragon Ball Gekishin Squadra is set to become an entirely different game in an attempt to keep it accessible and balanced."
+    },
+    {
+      "title": "After 6 Years, One of the Rarest Pokémon is Returning to Pokémon Go",
+      "link": "https://www.polygon.com/pokemon-go-armored-mewtwo/",
+      "pubDate": "31.08.2026 um 12:58 Uhr",
+      "timestamp": 1788181082.0,
+      "source": "Polygon.com",
+      "summary": "Pokémon Go is bringing back Armored Mewtwo after six years to wrap up Pokémon Go Fest 2026."
+    },
+    {
+      "title": "Sony's next PlayStation State of Play coming this Thursday, followed by a Japan and Asia-dedicated showcase",
+      "link": "https://www.eurogamer.net/sony-playstation-state-of-play-september-date-time",
+      "pubDate": "31.08.2026 um 12:50 Uhr",
+      "timestamp": 1788180646.0,
+      "source": "Eurogamer.net News",
+      "summary": "Our next port of call when it comes to major livestreams filled with game reveals isn't too far off. Sonytoday announced the date of the next PlayStat..."
+    },
+    {
+      "title": "Xbox CEO refuses to confirm whether next console Helix will have a disc drive",
+      "link": "https://www.eurogamer.net/xbox-ceo-wont-confirm-project-helix-disc-drive",
+      "pubDate": "31.08.2026 um 12:48 Uhr",
+      "timestamp": 1788180490.0,
+      "source": "Eurogamer.net News",
+      "summary": "Xbox CEO Asha Sharma will not confirm if its next console system, codenamed Project Helix, will have a disc. Read more"
+    },
+    {
+      "title": "PlayStation State of Play Officially Returns This Week",
+      "link": "https://www.polygon.com/playstation-state-of-play-returns-this-week/",
+      "pubDate": "31.08.2026 um 12:45 Uhr",
+      "timestamp": 1788180315.0,
+      "source": "Polygon.com",
+      "summary": "Sony will stream a new PlayStation State of Play livestream on Thursday, Sept. 3, with a look at what's new for PS5 in the lead up to Tokyo Game Show."
+    },
+    {
+      "title": "PlayStation announces State of Play for this week featuring \"an extended look\" at Final Fantasy 7 Revelation",
+      "link": "https://www.gamesradar.com/games/playstation-announces-state-of-play-for-this-week-featuring-an-extended-look-at-final-fantasy-7-revelation/",
+      "pubDate": "31.08.2026 um 12:43 Uhr",
+      "timestamp": 1788180218.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Immediately followed by State of Play Japan, too"
+    },
+    {
+      "title": "September State Of Play PlayStation Showcase Has Been Revealed With Fans Hoping Intergalactic: The Heretic Prophet Makes An Appearence",
+      "link": "https://kotaku.com/september-state-of-play-playstation-showcase-has-been-revealed-with-fans-hopping-intergalactic-the-heretic-prophet-makes-an-appearence-2000729844",
+      "pubDate": "31.08.2026 um 12:26 Uhr",
+      "timestamp": 1788179164.0,
+      "source": "Kotaku",
+      "summary": "Back-to-back broadcasts will kick off September"
+    },
     {
       "title": "Here's every announcement from Pokémon World Championships",
       "link": "https://www.eurogamer.net/pokemon-worlds-2026-closing-ceremony-every-announcement",
@@ -161,6 +233,14 @@
       "timestamp": 1788177614.0,
       "source": "Polygon.com",
       "summary": "John Carpenter's horror masterpiece was ahead of its time"
+    },
+    {
+      "title": "Lanterns: This Is Why They Changed John Stewart’s Origin Story in Episode 3",
+      "link": "https://www.ign.com/articles/lanterns-episode-3-why-they-changed-john-stewart-origin-story",
+      "pubDate": "31.08.2026 um 12:00 Uhr",
+      "timestamp": 1788177600.0,
+      "source": "IGN All",
+      "summary": "Lanterns showrunner Chris Mundy says the reason they changed John Stewart’s origin story is directly connected to the \"termination\" of the Manhunters."
     },
     {
       "title": "Metro 2039 devs say \"it never feels good\" to see gameplay leaks, but promise the FPS will have been worth the 7-year wait",
@@ -209,86 +289,6 @@
       "timestamp": 1788174829.0,
       "source": "Eurogamer.net News",
       "summary": "If it feels like Xbox has gone quiet on the anticipated PlayStation 5 port of Forza Horizon 6, that's because it has indeed been months since that ver..."
-    },
-    {
-      "title": "Fable's main story will take around 15 to 20 hours to complete",
-      "link": "https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox",
-      "pubDate": "31.08.2026 um 11:05 Uhr",
-      "timestamp": 1788174350.0,
-      "source": "Eurogamer.net News",
-      "summary": "Xbox and Playground Games have given a rough idea of how long Fable will take to finish: 15-20 hours. Read more"
-    },
-    {
-      "title": "Dune: Awakening's players might be 80% PvE, but devs are considering ways to spice PvP up in the future with \"faction versus faction\" and more",
-      "link": "https://www.gamesradar.com/games/mmo/dune-awakenings-players-might-be-80-percent-pve-but-devs-are-considering-ways-to-spice-pvp-up-in-the-future-with-faction-versus-faction-and-more/",
-      "pubDate": "31.08.2026 um 10:57 Uhr",
-      "timestamp": 1788173844.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"The issue with the game at launch was that we were trying to do too much for too many people\""
-    },
-    {
-      "title": "Ed Sheeran gives surprise performance of Pokémon anime theme and Celestial at World Championships",
-      "link": "https://www.eurogamer.net/ed-sheeran-surprise-performance-pokemon-anime-theme-worlds",
-      "pubDate": "31.08.2026 um 10:41 Uhr",
-      "timestamp": 1788172884.0,
-      "source": "Eurogamer.net News",
-      "summary": "Ed Sheeran made a surprise appearance at the Pok&eacute;mon World Championships this weekend, opening the closing ceremony with Celestial and an acous..."
-    },
-    {
-      "title": "Metal Gear Solid 4's DLC might only be saved thanks to the uncelebrated work of fan preservationists",
-      "link": "https://www.gamesradar.com/games/metal-gear/metal-gear-solid-4s-dlc-might-only-be-saved-thanks-to-the-uncelebrated-work-of-fan-preservationists/",
-      "pubDate": "31.08.2026 um 10:15 Uhr",
-      "timestamp": 1788171353.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "SaveMGO was referenced in the Metal Gear Solid Master Collection Vol 2 release"
-    },
-    {
-      "title": "The Witcher 4 already runs on all target platforms - CD Projekt Red not taking any chances after Cyberpunk 2077",
-      "link": "https://www.eurogamer.net/the-witcher-4-runs-on-pc-ps5-xbox-cyberpunk-2077-lessons",
-      "pubDate": "31.08.2026 um 10:10 Uhr",
-      "timestamp": 1788171017.0,
-      "source": "Eurogamer.net News",
-      "summary": "The Witcher 4, CD Projekt Red's next major game, will hopefully not suffer the performance problems of the studio's former major release, Cyberpunk 20..."
-    },
-    {
-      "title": "1666: Amsterdam's developer says it 'won't be using AI anymore', and the tech was only used 'in conception and pre-production'—arguably the most creative phase of the entire process",
-      "link": "https://www.pcgamer.com/games/action/1666-amsterdams-developer-says-it-wont-be-using-ai-anymore-and-the-tech-was-only-used-in-conception-and-pre-production-arguably-the-most-creative-phase-of-the-entire-process/",
-      "pubDate": "31.08.2026 um 10:03 Uhr",
-      "timestamp": 1788170602.0,
-      "source": "PCGamer latest",
-      "summary": "Patrice Désilets says AI has been \"totally removed\" from the development process."
-    },
-    {
-      "title": "Mayday directors on turning Kenneth Branagh into the Russian John Wick: \"He was super hands-on\"",
-      "link": "https://www.gamesradar.com/entertainment/action-movies/mayday-directors-on-turning-kenneth-branagh-into-the-russian-john-wick-he-was-super-hands-on/",
-      "pubDate": "31.08.2026 um 10:00 Uhr",
-      "timestamp": 1788170400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Kenneth Branagh turns hard-hitting action hero in Mayday"
-    },
-    {
-      "title": "ConcernedApe says sorry Haunted Chocolatier is taking so long: \"I won’t compromise on the quality of the game by rushing it or releasing it too early\"",
-      "link": "https://www.gamesradar.com/games/simulation/concernedape-says-sorry-haunted-chocolatier-is-taking-so-long-i-wont-compromise-on-the-quality-of-the-game-by-rushing-it-or-releasing-it-too-early/",
-      "pubDate": "31.08.2026 um 09:56 Uhr",
-      "timestamp": 1788170208.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"My goal is to make a game that I am proud of and personally enjoy. And I am certain, at this point, that I will enjoy the game when it is finished\""
-    },
-    {
-      "title": "Halloween: The Game Gets Denied a Rating in Yet Another Country",
-      "link": "https://www.polygon.com/halloween-the-game-banned-japan-ps-denied-rating/",
-      "pubDate": "31.08.2026 um 09:20 Uhr",
-      "timestamp": 1788168043.0,
-      "source": "Polygon.com",
-      "summary": "On top of the ban in Australia, Halloween: The Game has now been denied a rating in Japan and will not be released on PS5."
-    },
-    {
-      "title": "The best new Lego sets in September 2026, from Spongebob to Batman",
-      "link": "https://www.gamesradar.com/toys-collectibles/the-best-new-lego-sets-in-september-2026-from-spongebob-to-batman/",
-      "pubDate": "31.08.2026 um 09:00 Uhr",
-      "timestamp": 1788166800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "It's a busy month with Star Trek, Spongebob Squarepants, Harry Potter, Batman, and more hitting shelves, so here's our advice on the best new Lego set..."
     }
   ],
   "sim": [
