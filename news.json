@@ -1,6 +1,62 @@
 {
   "de": [
     {
+      "title": "Lego Ideas: Neues Set zu Wallace & Gromit bringt das Kult-Duo aufs Motorrad",
+      "link": "https://www.eurogamer.de/lego-ideas-wallace-gromit-set",
+      "pubDate": "31.08.2026 um 16:03 Uhr",
+      "timestamp": 1788192233.0,
+      "source": "Eurogamer.de News",
+      "summary": "Lego hat das neueste Ideas-Set am Nachmittag offiziell vorgestellt, es widmet sich dem bekannten Knetfiguren-Duo Wallace & Gromit von Aardman Animatio..."
+    },
+    {
+      "title": "800-Mio.-Dollar-Bonus: Zahlungen an CEO Haas werden zur Bewährungsprobe für Arm",
+      "link": "https://www.computerbase.de/news/wirtschaft/800-mio-dollar-bonus-zahlungen-an-ceo-haas-werden-zur-bewaehrungsprobe-fuer-arm.99152/",
+      "pubDate": "31.08.2026 um 18:01 Uhr",
+      "timestamp": 1788192060.0,
+      "source": "ComputerBase",
+      "summary": "Sollte Arm-CEO Haas 800 Millionen US-Dollar Bonus erhalten, wenn Arm Meilensteine erreicht? Das könnte zur Zerreißprobe werden. Für Beratungsfirmen is..."
+    },
+    {
+      "title": "The Blood of Dawnwalker: Internationale Tests sind da – starke Wertungen für das Vampir-RPG",
+      "link": "https://www.playcentral.de/blood-of-dawnwalker-internationale-tests-wertungen/",
+      "pubDate": "31.08.2026 um 15:44 Uhr",
+      "timestamp": 1788191088.0,
+      "source": "PlayCentral",
+      "summary": "Kurz vor dem Release von The Blood of Dawnwalker sind die internationalen Tests veröffentlicht worden – und das Debüt von Rebel Wolves kommt bei den K..."
+    },
+    {
+      "title": "Gamescom 2026: 368.000 Besucher sind genug, meinen auch die Veranstalter",
+      "link": "https://www.computerbase.de/news/gaming/gamescom-2026-wieder-voller-als-letztes-jahr-aber-das-sei-gar-nicht-das-ziel.99155/",
+      "pubDate": "31.08.2026 um 17:18 Uhr",
+      "timestamp": 1788189480.0,
+      "source": "ComputerBase",
+      "summary": "Die Gamescom 2026 hat in Köln 368.000 Besucherinnen und Besucher aus 131 Ländern gezählt. Damit kamen rund 11.000 Menschen mehr als im Vorjahr, der bi..."
+    },
+    {
+      "title": "Haunted Chocolatier: ConcernedApe entschuldigt sich für die lange Entwicklungszeit",
+      "link": "https://www.eurogamer.de/haunted-chocolatier-entwicklung-concernedape-release",
+      "pubDate": "31.08.2026 um 15:16 Uhr",
+      "timestamp": 1788189398.0,
+      "source": "Eurogamer.de News",
+      "summary": "Eric Barone bedauert es, dass sein neues Projekt Haunted Chocolatier so lange braucht, bis es ver&ouml;ffentlicht wird. Der Titel wurde vor fast f&uum..."
+    },
+    {
+      "title": "Nintendo Direct: Hinweise auf eine neue Ausgabe im September verdichten sich",
+      "link": "https://www.eurogamer.de/nintendo-direct-september-stream-geruechte",
+      "pubDate": "31.08.2026 um 15:15 Uhr",
+      "timestamp": 1788189333.0,
+      "source": "Eurogamer.de News",
+      "summary": "Eine neue Nintendo-Direct-Pr&auml;sentation wurde bislang nicht offiziell best&auml;tigt. Wenn man die Vergangenheit betrachtet, w&auml;re es aber all..."
+    },
+    {
+      "title": "Einer der gefährlichsten Schurken von DC verbündet sich mit Batman, um eine noch größere Gefahr zu bannen",
+      "link": "https://mein-mmo.de/batman-arbeitet-mit-schurke-pflanze/",
+      "pubDate": "31.08.2026 um 15:15 Uhr",
+      "timestamp": 1788189300.0,
+      "source": "Mein-MMO",
+      "summary": "Aktuell verbündet sich Batman mit einem brutalen Killer, der im Kampf gegen eine noch gefährlichere Pflanzen-Freundin zur Hilfe eilt. Der Beitrag Eine..."
+    },
+    {
       "title": "Starkes Hardware-Upgrade: Sichert euch günstige Windows 11 Systeme mit Nvidia-Grafik inkl. Controller & Game Pass",
       "link": "https://mein-mmo.de/gaming-pc-laptop-windows-11-systeme-nvidia-grafik-controller-game-pass/",
       "pubDate": "31.08.2026 um 14:55 Uhr",
@@ -65,14 +121,6 @@
       "summary": "Auf der Gamescom 2026 hat Urban Games eine nahezu fertige Version von Transport Fever 3 gezeigt. Rund einen Monat vor dem Release geht es vor allem um..."
     },
     {
-      "title": "Eine Schurkin von DC ist für Gotham eine so große Gefahr, dass sich sogar ein Killer aus der Kanalisation mit Batman verbündet",
-      "link": "https://mein-mmo.de/batman-arbeitet-mit-schurke-pflanze/",
-      "pubDate": "31.08.2026 um 13:30 Uhr",
-      "timestamp": 1788183000.0,
-      "source": "Mein-MMO",
-      "summary": "Aktuell verbündet sich Batman mit einem brutalen Killer, der im Kampf gegen eine noch gefährlichere Pflanzen-Freundin zur Hilfe eilt. Der Beitrag Eine..."
-    },
-    {
       "title": "Pokémon GO: Zwei neue Attacken machen Mewtu noch mächtiger",
       "link": "https://mein-mmo.de/pokemon-go-zwei-neue-attacken-machen-mewtu-noch-maechtiger/",
       "pubDate": "31.08.2026 um 13:28 Uhr",
@@ -95,57 +143,89 @@
       "timestamp": 1788182119.0,
       "source": "Eurogamer.de News",
       "summary": "GTA 6 ist l&auml;ngst nicht das einzige Videospiel, das mit Leaks zu k&auml;mpfen hat. Anfang des Jahres erwischte es auch das Entwicklerstudio 4A Gam..."
-    },
-    {
-      "title": "Step-by-Step-Anleitung: So einfach ist es, DLSS 5 auf RTX 50 und RTX 40 zu testen",
-      "link": "https://www.computerbase.de/artikel/grafikkarten/dlss-5-mod-anleitung.99143/",
-      "pubDate": "31.08.2026 um 15:15 Uhr",
-      "timestamp": 1788182100.0,
-      "source": "ComputerBase",
-      "summary": "Nvidia DLSS 5 und damit Neural Rendering in Spielen lassen offiziell noch auf sich warten. Doch seit Freitag finden sich DLSS-5-Eindrücke überall im N..."
-    },
-    {
-      "title": "LUMI AI Factory: AMDs 256-Kern-Epycs & MI430X im €388-Mio.-Supercomputer",
-      "link": "https://www.computerbase.de/news/wirtschaft/lumi-ai-factory-amds-256-kern-epycs-und-mi430x-fuer-euro-388-mio-supercomputer.99144/",
-      "pubDate": "31.08.2026 um 15:00 Uhr",
-      "timestamp": 1788181200.0,
-      "source": "ComputerBase",
-      "summary": "Die LUMI AI Factory geht als Teil des EuroHPC Joint Undertaking für 387,8 Millionen Euro voll auf AMD: 256-Kern-Epycs und MI430X sollen im BullSequana..."
-    },
-    {
-      "title": "MMORPG-Fans, die PvE und Drachen lieben, sollten jetzt unbedingt Albion Online spielen",
-      "link": "https://mein-mmo.de/albion-online-drachenfeuer-release/",
-      "pubDate": "31.08.2026 um 13:00 Uhr",
-      "timestamp": 1788181200.0,
-      "source": "Mein-MMO",
-      "summary": "Drachenfeuer ist für Albion Online live und erweitert die Sandbox-Erfahrung um die bisher vielleicht besten PvE-Inhalte.  Der Beitrag MMORPG-Fans, die..."
-    },
-    {
-      "title": "Im neuen DLC von Dragon´s Dogma 2 erscheint ein Drache, der eine eigene Zombie-Apokalypse auslösen kann",
-      "link": "https://mein-mmo.de/dragons-dogma-2-dlc-dark-arisen-neuer-untoter-drache/",
-      "pubDate": "31.08.2026 um 12:56 Uhr",
-      "timestamp": 1788181008.0,
-      "source": "Mein-MMO",
-      "summary": "Dragon’s Dogma 2: Dark Arisen zeigt einen neuen mächtigen Drachen, für den die Entwickler eine simple aber effektive Idee umsetzten. Der Beitrag Im ne..."
-    },
-    {
-      "title": "Chef von Kingdom Come 2 glaubt: Wenn die Wahrheit über KI rauskommt, „werden alle Spiele boykottiert“",
-      "link": "https://mein-mmo.de/daniel-vavra-verteidigt-ki/",
-      "pubDate": "31.08.2026 um 12:53 Uhr",
-      "timestamp": 1788180780.0,
-      "source": "Mein-MMO",
-      "summary": "Die Aussagen des kreativen Chefs von Kingdom Come Deliverance 2 zu KI polarisieren und kommen bei vielen Gaming-Fans gar nicht gut an. Der Beitrag Che..."
-    },
-    {
-      "title": "Perplexity Computer: Neuer Hybrid-Modus für Macs soll in Vorbereitung sein",
-      "link": "https://www.computerbase.de/news/apps/perplexity-computer-neuer-hybrid-modus-fuer-macs-soll-in-vorbereitung-sein.99147/",
-      "pubDate": "31.08.2026 um 14:32 Uhr",
-      "timestamp": 1788179520.0,
-      "source": "ComputerBase",
-      "summary": "Perplexity soll für Computer auf dem Mac einen neuen Hybrid-Modus vorbereiten, der Cloud-KI mit lokal ausgeführten Modellen kombiniert und Teilaufgabe..."
     }
   ],
   "int": [
+    {
+      "title": "The Worlds-Exclusive Pikachu Plushes Are Being Listed For Hundreds Of Dollars And I’m Screaming Into The Void",
+      "link": "https://kotaku.com/pokemon-worlds-king-pikachu-plush-xp-astronaut-ebay-2000729909",
+      "pubDate": "31.08.2026 um 16:00 Uhr",
+      "timestamp": 1788192012.0,
+      "source": "Kotaku",
+      "summary": "I want my friend in a king costume for a reasonable price"
+    },
+    {
+      "title": "'Taken' Meets Jason Bourne in Mark Wahlberg's 124-Minute Action Thriller Officially Streaming for Free",
+      "link": "https://www.polygon.com/mark-wahlberg-best-movie-shooter-streaming-free/",
+      "pubDate": "31.08.2026 um 15:47 Uhr",
+      "timestamp": 1788191255.0,
+      "source": "Polygon.com",
+      "summary": "One of the action star's cult classics is available to watch for free."
+    },
+    {
+      "title": "Atlus Claims It Couldn’t Get The Original English Voice Cast For Persona 4 Revival And Fans Are In Complete Disbelief",
+      "link": "https://kotaku.com/why-atlus-recast-original-persona-4-revival-voice-actors-yuri-lowenthal-erin-fitzgerald-2000729848",
+      "pubDate": "31.08.2026 um 15:40 Uhr",
+      "timestamp": 1788190825.0,
+      "source": "Kotaku",
+      "summary": "Atlus' claims of availability issues don't line up with posts from several OG cast members who wanted to participate"
+    },
+    {
+      "title": "Pokémon Go Mega Evolution guide",
+      "link": "https://www.polygon.com/pokemon-go-guide/22447919/mega-evolution-list-candy-bonus-buddy-raids/",
+      "pubDate": "31.08.2026 um 15:38 Uhr",
+      "timestamp": 1788190718.0,
+      "source": "Polygon.com",
+      "summary": "Pokémon Go players can power up their strong Pokémon by using Mega Evolution. Our guide details which Pokémon can Mega Evolve and how to get Mega Ener..."
+    },
+    {
+      "title": "Wallace & Gromit Goes From Fan Creation to Official Lego Set In New Release",
+      "link": "https://www.polygon.com/wallace-and-gromit-lego-set/",
+      "pubDate": "31.08.2026 um 15:37 Uhr",
+      "timestamp": 1788190666.0,
+      "source": "Polygon.com",
+      "summary": "Wallace & Gromit are getting their first official Lego set, and it's a reference to the third film in the series."
+    },
+    {
+      "title": "Thundercats Movie Director Shares Promising Update on '80s Cartoon Classic Revival",
+      "link": "https://www.polygon.com/thundercats-movie-update-adam-wingard/",
+      "pubDate": "31.08.2026 um 15:32 Uhr",
+      "timestamp": 1788190331.0,
+      "source": "Polygon.com",
+      "summary": "The live-action/CGI hybrid Thundercats movie isn't dead, says Adam Wingard (Onslaught, Godzilla vs. Kong) even with a competing animated movie."
+    },
+    {
+      "title": "Walmart Is Selling Hot Pokémon Card Sets in a New and Improved Way",
+      "link": "https://www.polygon.com/walmart-drawing-pokemon-cards-raffle-drop-when-is-near-me/",
+      "pubDate": "31.08.2026 um 15:22 Uhr",
+      "timestamp": 1788189726.0,
+      "source": "Polygon.com",
+      "summary": "Walmart's Collectibles Drawing system will debut with a Pokémon  Prismatic Evolutions Elite Trainer Box sold for well under market prices"
+    },
+    {
+      "title": "Darby Allin, You Get Down From There This Instant",
+      "link": "https://kotaku.com/darby-allin-you-get-down-from-there-this-instant-2000729873",
+      "pubDate": "31.08.2026 um 15:20 Uhr",
+      "timestamp": 1788189628.0,
+      "source": "Kotaku",
+      "summary": "You're going to break your neck"
+    },
+    {
+      "title": "CD Projekt Red offers to help after police reports are filed at Gamescom over stolen dev equipment: \"We'll check the Arasaka hardware archives\"",
+      "link": "https://www.gamesradar.com/games/cd-projekt-red-offers-to-help-after-police-reports-are-filed-at-gamescom-over-stolen-dev-equipment-well-check-the-arasaka-hardware-archives/",
+      "pubDate": "31.08.2026 um 15:15 Uhr",
+      "timestamp": 1788189307.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"No choom should have to start from zero.\""
+    },
+    {
+      "title": "Ex-Devil May Cry devs were tired of 40-hour ARPGs, so new zombie brawler Stupid Never Dies only takes 20 minutes to \"feel the progression\"",
+      "link": "https://www.gamesradar.com/games/action-rpg/ex-devil-may-cry-devs-were-tired-of-40-hour-arpgs-so-new-zombie-brawler-stupid-never-dies-only-takes-20-minutes-to-feel-the-progression/",
+      "pubDate": "31.08.2026 um 15:04 Uhr",
+      "timestamp": 1788188694.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The team has pedigree from the Resident Evil franchise as well"
+    },
     {
       "title": "Pokémon Go 'Mega Ascension' event raid schedule and bonuses",
       "link": "https://www.polygon.com/pokemon-go-mega-ascension-event-raid-schedule/",
@@ -179,14 +259,6 @@
       "summary": "After 30 hours of playtime, The Blood of Dawnwalker proves surprisingly innovative"
     },
     {
-      "title": "Onimusha: Way of the Sword Review: Capcom’s Samurai Epic Overstays Its Welcome",
-      "link": "https://www.polygon.com/onimusha-way-of-the-sword-review/",
-      "pubDate": "31.08.2026 um 15:00 Uhr",
-      "timestamp": 1788188414.0,
-      "source": "Polygon.com",
-      "summary": "Onimusha: Way of the Sword impresses with its thrilling duels, but it’s bogged down by a glut of recycled content."
-    },
-    {
       "title": "Onimusha: Way of the Sword review: \"It's no Sekiro, but goofiness, accessibility, and tight combat help this rough diamond shine\"",
       "link": "https://www.gamesradar.com/games/action/onimusha-way-of-the-sword-review/",
       "pubDate": "31.08.2026 um 15:00 Uhr",
@@ -217,78 +289,6 @@
       "timestamp": 1788188400.0,
       "source": "PCGamer latest",
       "summary": "Ferociously good combat brings this long-dormant series back from the afterlife."
-    },
-    {
-      "title": "Hunter x Hunter Teases the Manga's Officially Returning Sooner Than Expected",
-      "link": "https://www.polygon.com/hunter-x-hunter-new-chapters-421-when-manga-return/",
-      "pubDate": "31.08.2026 um 14:57 Uhr",
-      "timestamp": 1788188259.0,
-      "source": "Polygon.com",
-      "summary": "Togashi's status updates and a Shonen Jump announcement tease that Hunter x Hunter won't be going away for long this time."
-    },
-    {
-      "title": "Pokémon Knows Its Worlds Lottery System Sucks, But Doesn’t Have A Better Idea: ‘The Public Is Unaware Of The Level Of Demand’",
-      "link": "https://kotaku.com/pokemon-world-championships-xp-lottery-system-singapore-2000729877",
-      "pubDate": "31.08.2026 um 14:45 Uhr",
-      "timestamp": 1788187514.0,
-      "source": "Kotaku",
-      "summary": "Hopeful attendees had to sign up for a lottery and cross their fingers they’d get a ticket"
-    },
-    {
-      "title": "Fable's story will be '15-20 hours' long, according to its game director, although the game's life systems are 'limitless'",
-      "link": "https://www.pcgamer.com/games/rpg/fables-story-will-be-15-20-hours-long-according-to-its-game-director-although-the-games-life-systems-are-limitless/",
-      "pubDate": "31.08.2026 um 14:41 Uhr",
-      "timestamp": 1788187285.0,
-      "source": "PCGamer latest",
-      "summary": "\"You can literally play it forever if that's what you want to do.\""
-    },
-    {
-      "title": "Pokemon Champions Adding Z Evolutions and Bringing Back a Fan Favorite",
-      "link": "https://www.polygon.com/pokemon-champions-z-evolutions-mega-heatran/",
-      "pubDate": "31.08.2026 um 14:39 Uhr",
-      "timestamp": 1788187196.0,
-      "source": "Polygon.com",
-      "summary": "'Pokemon Champions' Regulation Set M-C is coming out next week, and we got a look at new Mega Evolutions coming to the game."
-    },
-    {
-      "title": "Stardew Valley Creator Offers Wholesome Haunted Chocolatier Update: ‘I Don’t Stress Too Much About How Long It’s Taking’",
-      "link": "https://www.polygon.com/haunted-chocolatier-concernedape-update-august-2026/",
-      "pubDate": "31.08.2026 um 14:35 Uhr",
-      "timestamp": 1788186902.0,
-      "source": "Polygon.com",
-      "summary": "ConcernedApe published an update on the development of Haunted Chocolatier, and it seems that he's working on some rather interesting additions."
-    },
-    {
-      "title": "Another PlayStation Studio Cofounder Steps Down: ‘Housemarque’s Strategy And Creative Vision Are In Exceptional Hands’",
-      "link": "https://kotaku.com/another-playstation-studio-cofounder-steps-down-housemarques-strategy-and-creative-vision-are-in-exceptional-hands-2000729876",
-      "pubDate": "31.08.2026 um 14:29 Uhr",
-      "timestamp": 1788186547.0,
-      "source": "Kotaku",
-      "summary": "Ilari Kuittinen leaves Housemarque after 33 years"
-    },
-    {
-      "title": "Modern Warfare 4 beta end time in your time zone",
-      "link": "https://www.polygon.com/call-of-duty-modern-warfare-4-mw4-cod-beta-start-time-edt-pdt/",
-      "pubDate": "31.08.2026 um 14:16 Uhr",
-      "timestamp": 1788185801.0,
-      "source": "Polygon.com",
-      "summary": "The Modern Warfare 4 beta is almost over. Here's what time it ends in your time zone, so you can get a few more games in to claim your rewards."
-    },
-    {
-      "title": "Cult simulator Join Us recruits four real ex-cult members to \"experience the game’s darkly satirical take on cult life\"",
-      "link": "https://www.eurogamer.net/join-us-real-ex-cult-members-playtest-reaction",
-      "pubDate": "31.08.2026 um 14:11 Uhr",
-      "timestamp": 1788185493.0,
-      "source": "Eurogamer.net News",
-      "summary": "Join Us, the upcoming co-op game where you can establish your own cult, has recruited four former cult members to \"recruit followers, build their comp..."
-    },
-    {
-      "title": "EC Comics' Anthology Series Cruel Kingdom Returns for a Sequel",
-      "link": "https://www.ign.com/articles/ec-comics-anthology-series-cruel-kingdom-returns-for-a-sequel",
-      "pubDate": "31.08.2026 um 14:00 Uhr",
-      "timestamp": 1788184800.0,
-      "source": "IGN All",
-      "summary": "Oni Press and EC Comics are continuing their terrifying collaboration with a sequel to the hit horror-fantasy anthology series Cruel Kingdom."
     }
   ],
   "sim": [
