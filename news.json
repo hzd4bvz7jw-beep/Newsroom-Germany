@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Pokémon GO – Diese Mega-Pokémon bekommen jetzt eine dritte Lade-Attacke",
+      "link": "https://www.playcentral.de/pokemon-go-diese-mega-pokemon-bekommen-jetzt-eine-dritte-lade-attacke/",
+      "pubDate": "31.08.2026 um 18:31 Uhr",
+      "timestamp": 1788201096.0,
+      "source": "PlayCentral",
+      "summary": "Pokémon GO erweitert das Kampfsystem rund um Mega-Entwicklungen um eine neue taktische Ebene. Ab sofort erhalten geeignete Mega-Pokémon eine zusätzlic..."
+    },
+    {
       "title": "ChatGPT down: Work-Modus gestört – OpenAI bestätigt Probleme",
       "link": "https://www.playcentral.de/chatgpt-down-stoerung-work-mode-31-august-2026/",
       "pubDate": "31.08.2026 um 17:32 Uhr",
@@ -135,17 +143,89 @@
       "timestamp": 1788188117.0,
       "source": "Mein-MMO",
       "summary": "Hardware-Upgrade gesucht? Sichert euch Windows 11 PCs mit Nvidia-Power inkl. Xbox Controller &#038; PC Game Pass. Euer ideales Setup! Der Beitrag Star..."
-    },
-    {
-      "title": "Ein Weltraum-Shooter ist wie die Serien, die euer Vater auf DMAX guckt, ließ mich sogar an der Ware riechen",
-      "link": "https://mein-mmo.de/gamescom-2026-raid-angespielt-fusionplay/",
-      "pubDate": "31.08.2026 um 14:43 Uhr",
-      "timestamp": 1788187393.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteur Nikolas Hernes hat sich auf der gamescom 2026 in ein neues VR-Spiel gewagt, dass ihm zeigt, was er an der Technik schätzt. Der Beitr..."
     }
   ],
   "int": [
+    {
+      "title": "Alien Deathstorm Is the Most Appropriately Named Game I’ve Ever Played",
+      "link": "https://www.polygon.com/alien-deathstorm-preview-gamescom-2026/",
+      "pubDate": "31.08.2026 um 19:00 Uhr",
+      "timestamp": 1788202814.0,
+      "source": "Polygon.com",
+      "summary": "Alien Deathstorm is an upcoming sci-fi horror FPS from Rebellion, and we played it at Gamescom 2026."
+    },
+    {
+      "title": "PlayStation Officially Launches New Free TV App on PS5 with 100 Channels",
+      "link": "https://www.polygon.com/ps5-live-tv-launch-free-anime-movies/",
+      "pubDate": "31.08.2026 um 19:00 Uhr",
+      "timestamp": 1788202808.0,
+      "source": "Polygon.com",
+      "summary": "Step aside Tubi: Live TV on PS5 is now available for PlayStation 5 owners in the U.S., offering 100 channels of TV, anime, and on-demand movies."
+    },
+    {
+      "title": "The Week In Games: 2.5D Tactics And Retro Dungeon-Crawling",
+      "link": "https://kotaku.com/the-week-in-games-2-5d-tactics-and-retro-dungeon-crawling-2000729988",
+      "pubDate": "31.08.2026 um 19:00 Uhr",
+      "timestamp": 1788202806.0,
+      "source": "Kotaku",
+      "summary": "Check out these two indie games in between the bigger blockbusters"
+    },
+    {
+      "title": "One Very Dedicated GTA 6 Fan Has Found The Real-Life Location Of Jason And Lucia’s Apartment",
+      "link": "https://kotaku.com/gta-6-grand-theft-auto-lucia-jason-apartment-miami-vice-city-real-location-2000729948",
+      "pubDate": "31.08.2026 um 18:30 Uhr",
+      "timestamp": 1788201048.0,
+      "source": "Kotaku",
+      "summary": "The feat is especially remarkable considering the building was demolished in 2023"
+    },
+    {
+      "title": "Zack Snyder’s New Action-Thriller Sets Release Date With Grisly First Trailer",
+      "link": "https://www.polygon.com/zack-snyder-new-movie-the-last-photograph/",
+      "pubDate": "31.08.2026 um 18:30 Uhr",
+      "timestamp": 1788201030.0,
+      "source": "Polygon.com",
+      "summary": "Zack Snyder's long-in-development movie 'The Last Photograph' will premiere at the Toronto International Film Festival."
+    },
+    {
+      "title": "Naughty Dog says Intergalactic: The Heretic Prophet is finished filming \"ambitious\" cinematic shoot: \"Cannot wait to show you\"",
+      "link": "https://www.gamesradar.com/games/adventure/naughty-dog-says-intergalactic-the-heretic-prophet-is-finished-filming-ambitious-cinematic-shoot-cannot-wait-to-show-you/",
+      "pubDate": "31.08.2026 um 18:29 Uhr",
+      "timestamp": 1788200999.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"See you, space cowboy\""
+    },
+    {
+      "title": "Playstation Studios Gets Another Big Shakeup as Studio Head Leaves",
+      "link": "https://www.polygon.com/housemarque-saros-sales-studio-head-leaves-company/",
+      "pubDate": "31.08.2026 um 18:28 Uhr",
+      "timestamp": 1788200915.0,
+      "source": "Polygon.com",
+      "summary": "Housemarque's co-founder and managing director, Ilari Kuittinen, is leaving the company shortly after 'Saros' reportedly got off to a \"slow\" start."
+    },
+    {
+      "title": "Some of WoW's hardest dungeons and raids have gotten just a bit easier—that's on purpose, developers say",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/some-of-wows-hardest-dungeons-and-raids-have-gotten-just-a-bit-easier-thats-on-purpose-developers-say/",
+      "pubDate": "31.08.2026 um 18:19 Uhr",
+      "timestamp": 1788200374.0,
+      "source": "PCGamer latest",
+      "summary": "\"People are a little bit more willing now to say, 'Well I'd like to try out tanking. I'd like to try out healing.'\""
+    },
+    {
+      "title": "Warlock: Dungeons & Dragons Gameplay Reveal Gives Extended Look at Combat, Exploration, and Traversal",
+      "link": "https://www.ign.com/articles/warlock-dungeons-dragons-gameplay-reveal-gives-extended-look-at-combat-exploration-and-traversal",
+      "pubDate": "31.08.2026 um 18:00 Uhr",
+      "timestamp": 1788199200.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
+      "link": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
+      "pubDate": "31.08.2026 um 17:55 Uhr",
+      "timestamp": 1788198942.0,
+      "source": "IGN All",
+      "summary": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mechanic is equivalent to cheating on your real life ..."
+    },
     {
       "title": "Ridley Scott says he \"made the best Alien by far\" and I'm inclined to agree",
       "link": "https://www.gamesradar.com/entertainment/sci-fi-movies/ridley-scott-says-he-made-the-best-alien-by-far-and-im-inclined-to-agree/",
@@ -187,108 +267,28 @@
       "summary": "Intergalactic: The Heretic Prophet has wrapped filming on its cinematic content, Naughty Dog announced Monday ahead of September's Sony State of Play."
     },
     {
+      "title": "Get a Brand New 27\" Samsung Odyssey OLED G5 Gaming Monitor for Just $269 With Free Shipping",
+      "link": "https://www.ign.com/articles/samsung-oled-gaming-monitor-deal-september-2026",
+      "pubDate": "31.08.2026 um 17:35 Uhr",
+      "timestamp": 1788197700.0,
+      "source": "IGN All",
+      "summary": "The lowest price right now for an OLED gaming monitor."
+    },
+    {
+      "title": "Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones During eBay's Labor Day Sale",
+      "link": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-ebay-labor-day-sale",
+      "pubDate": "31.08.2026 um 17:35 Uhr",
+      "timestamp": 1788197700.0,
+      "source": "IGN All",
+      "summary": "Includes a 2 year warranty."
+    },
+    {
       "title": "PS5 Is Getting Free Live TV",
       "link": "https://kotaku.com/ps5-is-getting-free-live-tv-2000729955",
       "pubDate": "31.08.2026 um 17:30 Uhr",
       "timestamp": 1788197453.0,
       "source": "Kotaku",
       "summary": "Players will have a bunch of channels they can flip to at no extra charge"
-    },
-    {
-      "title": "Capcom delivers its fourth hit of the year with early Onimusha: Way of the Sword reviews beating Pragmata",
-      "link": "https://www.gamesradar.com/games/action/capcom-delivers-its-fourth-hit-of-the-year-with-early-onimusha-way-of-the-sword-reviews-beating-pragmata/",
-      "pubDate": "31.08.2026 um 17:20 Uhr",
-      "timestamp": 1788196812.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Onimusha reviews are looking bright"
-    },
-    {
-      "title": "Intergalactic Has Finished Shooting And Naughty Dog Can’t Wait To Show You More ‘When The Time Is Right’",
-      "link": "https://kotaku.com/intergalactic-heretic-prophet-naughty-dog-ps5-state-play-2000729969",
-      "pubDate": "31.08.2026 um 17:19 Uhr",
-      "timestamp": 1788196742.0,
-      "source": "Kotaku",
-      "summary": "The PS5 exclusive has been MIA since its original reveal in 2024"
-    },
-    {
-      "title": "Sony lawyers argue that nobody is stupid enough to believe they actually own digital games, because then only one person could buy GTA 6",
-      "link": "https://www.gamesradar.com/games/sony-lawyers-argue-that-nobody-is-stupid-enough-to-believe-they-actually-own-digital-games-because-then-only-one-person-could-buy-gta-6/",
-      "pubDate": "31.08.2026 um 17:18 Uhr",
-      "timestamp": 1788196682.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "PlayStation believes \"reasonable consumers would not be misled\" by its current disclosures"
-    },
-    {
-      "title": "\"People stopped making games like this\": Former Path of Exile boss sticks up for one of the most underrated RPGs on Steam and Switch",
-      "link": "https://www.gamesradar.com/games/action-rpg/people-stopped-making-games-like-this-former-path-of-exile-boss-sticks-up-for-one-of-the-most-underrated-rpgs-on-steam-and-switch/",
-      "pubDate": "31.08.2026 um 17:16 Uhr",
-      "timestamp": 1788196613.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "It was hugely influential on young Chris Wilson"
-    },
-    {
-      "title": "Haunted Chocolatier's development has been 'very productive' in recent months, Eric Barone says: 'Working on Haunted Chocolatier is what I’m most eager and driven to do'",
-      "link": "https://www.pcgamer.com/games/life-sim/haunted-chocolatiers-development-has-been-very-productive-in-recent-months-eric-barone-says-working-on-haunted-chocolatier-is-what-im-most-eager-and-driven-to-do/",
-      "pubDate": "31.08.2026 um 17:06 Uhr",
-      "timestamp": 1788195968.0,
-      "source": "PCGamer latest",
-      "summary": "The Stardew developer says he's now \"certain\" he'll enjoy Haunted Chocolatier once it's finished."
-    },
-    {
-      "title": "Pokémon’s World Champion Made History By Dethroning Charizard",
-      "link": "https://kotaku.com/pokemon-world-championships-mega-dragonite-charizard-finals-2000729957",
-      "pubDate": "31.08.2026 um 17:00 Uhr",
-      "timestamp": 1788195651.0,
-      "source": "Kotaku",
-      "summary": "Dragonite helped pull off a Championship win for the first time in the series’ 30 years"
-    },
-    {
-      "title": "Onimusha: Way of the Sword Reviews Say Capcom Has a Fourth Hit on Its Hands this Year",
-      "link": "https://www.polygon.com/onimusha-way-of-the-sword-review-roundup-metacritic-score/",
-      "pubDate": "31.08.2026 um 17:00 Uhr",
-      "timestamp": 1788195614.0,
-      "source": "Polygon.com",
-      "summary": "Onimusha Way of the Sword reviews highlight the action game's top-notch combat and storytelling, despite some limitations and repetition"
-    },
-    {
-      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/",
-      "pubDate": "31.08.2026 um 17:00 Uhr",
-      "timestamp": 1788195600.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "To switch or not to switch?"
-    },
-    {
-      "title": "I added player-seeking hit squads to GTA 5, though the billion other mods I have installed keep getting in their way",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-added-player-seeking-hit-squads-to-gta-5-though-the-billion-other-mods-i-have-installed-keep-getting-in-their-way/",
-      "pubDate": "31.08.2026 um 17:00 Uhr",
-      "timestamp": 1788195600.0,
-      "source": "PCGamer latest",
-      "summary": "47 never had this problem."
-    },
-    {
-      "title": "With GTA 6 leaker hunt 'rapidly evolving,' Take-Two asks court to keep latest subpoena request sealed to avoid tipping off leakers",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
-      "pubDate": "31.08.2026 um 16:57 Uhr",
-      "timestamp": 1788195467.0,
-      "source": "PCGamer latest",
-      "summary": "The filing contains \"highly sensitive, confidential information\" that lawyers fear could help the GTA 6 leakers destroy evidence or evade detection."
-    },
-    {
-      "title": "GTA 6 Is Officially the Bloodiest GTA Game Yet",
-      "link": "https://www.polygon.com/gta-6-violence-bloody-dismemberment/",
-      "pubDate": "31.08.2026 um 16:53 Uhr",
-      "timestamp": 1788195228.0,
-      "source": "Polygon.com",
-      "summary": "GTA 6 fans should expect to see more gore and higher-definition violence against NPCs in Rockstar's open-world shooter"
-    },
-    {
-      "title": "After parting with DC and Netflix, Zack Snyder sets world premiere for his 20-year passion project The Last Photograph",
-      "link": "https://www.gamesradar.com/entertainment/action-movies/after-parting-with-dc-and-netflix-zack-snyder-sets-world-premiere-for-his-20-year-passion-project-the-last-photograph/",
-      "pubDate": "31.08.2026 um 16:50 Uhr",
-      "timestamp": 1788195032.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The political thriller is set to premiere at TIFF"
     }
   ],
   "sim": [
