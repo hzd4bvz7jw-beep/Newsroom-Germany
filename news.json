@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Brian Ward, CEO der saudi-arabischen Savvy Games Group, tritt zurück",
+      "link": "https://www.eurogamer.de/savvy-games-group-ceo-brian-ward-ruecktritt",
+      "pubDate": "01.09.2026 um 17:02 Uhr",
+      "timestamp": 1788282143.0,
+      "source": "Eurogamer.de News",
+      "summary": "Brian Ward, CEO der vom saudi-arabischen Staat gef&uuml;hrten Savvy Games Group, hat seinen Posten ger&auml;umt. W&auml;hrend seiner Amtszeit verantwo..."
+    },
+    {
       "title": "Red Dead Redemption 2 mit geleaktem DLSS 5 – so stark wirkt das Grafikplus",
       "link": "https://www.playcentral.de/red-dead-redemption-2-mit-geleaktem-dlss-5-so-stark-wirkt-das-grafikplus/",
       "pubDate": "01.09.2026 um 16:31 Uhr",
@@ -135,17 +143,97 @@
       "timestamp": 1788268948.0,
       "source": "Eurogamer.de News",
       "summary": "Laut Sony wissen informierte Kunden ganz genau, worauf sie sich einlassen, wenn sie ein digitales Spiel kaufen. Das bedeute n&auml;mlich nicht, dass s..."
-    },
-    {
-      "title": "GTA 6 bietet zwei Charaktere, zwischen denen ihr euch entscheiden könnt, doch Rockstar sagt nun: Das geht nicht immer",
-      "link": "https://mein-mmo.de/gta-6-charaktere-wechseln-einschraenkung/",
-      "pubDate": "01.09.2026 um 13:15 Uhr",
-      "timestamp": 1788268500.0,
-      "source": "Mein-MMO",
-      "summary": "In GTA 6 werdet ihr weiterhin Charaktere wechseln können, doch hier will euch Rockstar im Spiel voller Freiheiten bewusst einschränken. Der Beitrag GT..."
     }
   ],
   "int": [
+    {
+      "title": "Warlock Won’t Have One of Baldur’s Gate 3’s Most Beloved D&D Mechanics",
+      "link": "https://www.polygon.com/warlock-baldurs-gate-3-romance-dungeons-dragons/",
+      "pubDate": "01.09.2026 um 17:04 Uhr",
+      "timestamp": 1788282276.0,
+      "source": "Polygon.com",
+      "summary": "In an interview with the studio head on Warlock, he revealed the D&amp;D game won't feature a fan-favorite mechanic from Baldur's Gate 3."
+    },
+    {
+      "title": "Life is Strange developer Don't Nod look primed for layoffs, as the studio announces a \"transformation intitiative\"",
+      "link": "https://www.rockpapershotgun.com/life-is-strange-developer-dont-nod-look-primed-for-layoffs-as-the-studio-announces-a-transformation-intitiative",
+      "pubDate": "01.09.2026 um 17:04 Uhr",
+      "timestamp": 1788282269.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "It is unfortunately that time of day again (because this truly does seem to be a daily occurrence at this point). Back in June, things weren't looking..."
+    },
+    {
+      "title": "Modern Warfare 4 beta end time in your time zone",
+      "link": "https://www.polygon.com/call-of-duty-modern-warfare-4-mw4-cod-beta-start-time-edt-pdt/",
+      "pubDate": "01.09.2026 um 17:01 Uhr",
+      "timestamp": 1788282064.0,
+      "source": "Polygon.com",
+      "summary": "The Modern Warfare 4 beta is almost over. Here's what time it ends in your time zone, so you can get a few more games in to claim your rewards."
+    },
+    {
+      "title": "I modded a GTA 6-like 'wanted system' into GTA 5",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-a-gta-6-like-wanted-system-into-gta-5/",
+      "pubDate": "01.09.2026 um 17:00 Uhr",
+      "timestamp": 1788282000.0,
+      "source": "PCGamer latest",
+      "summary": "Help, wanted."
+    },
+    {
+      "title": "Okay, I wasn't expecting 'Rainbow Six XCOM' to be one of my favourite Gamescom demos",
+      "link": "https://www.pcgamer.com/games/strategy/okay-i-wasnt-expecting-rainbow-six-xcom-to-be-one-of-my-favourite-gamescom-demos/",
+      "pubDate": "01.09.2026 um 16:59 Uhr",
+      "timestamp": 1788281983.0,
+      "source": "PCGamer latest",
+      "summary": "And yet, here we are."
+    },
+    {
+      "title": "New Sony Policy Could Lead To Legal Action Against Vocal PS5 Disc Critics",
+      "link": "https://www.polygon.com/ps5-disc-sony-harassment-policy-digital-games/",
+      "pubDate": "01.09.2026 um 16:51 Uhr",
+      "timestamp": 1788281462.0,
+      "source": "Polygon.com",
+      "summary": "Sony announces aggressive new measures amid an ongoing PS5 protest that has plagued games like Marvel's Wolverine"
+    },
+    {
+      "title": "The Blood of Dawnwalker creative director says all those glowing reviews are a \"great relief\" as the vampire ARPG's Metacritic score nearly matches The Witcher",
+      "link": "https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-creative-director-says-all-those-glowing-reviews-are-a-great-relief-as-the-vampire-arpgs-metacritic-score-nearly-matches-the-witcher/",
+      "pubDate": "01.09.2026 um 16:50 Uhr",
+      "timestamp": 1788281449.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Not bad, not bad"
+    },
+    {
+      "title": "'Pokémon Winds and Waves' Leak Reveals New Pokémon After Huge Disappointment",
+      "link": "https://www.polygon.com/pokemon-leak-winds-waves-moltres-bird-paradise-starter-evolution/",
+      "pubDate": "01.09.2026 um 16:49 Uhr",
+      "timestamp": 1788281350.0,
+      "source": "Polygon.com",
+      "summary": "A leaked UI may have a Moltres-themed tease and starter evolutions for Browt, Gecqua, and Pombon"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced now lets you save the stranded dog, as Ubisoft fixes the greatest crime in the whole game",
+      "link": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-now-lets-you-save-the-stranded-dog-as-ubisoft-fixes-the-greatest-crime-in-the-whole-game/",
+      "pubDate": "01.09.2026 um 16:48 Uhr",
+      "timestamp": 1788281293.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Better late than never"
+    },
+    {
+      "title": "Despite horrendous layoffs, obscene hardware prices, and everything else, Saber Interactive exec says 'this is a great time to be in the industry'",
+      "link": "https://www.pcgamer.com/gaming-industry/despite-horrendous-layoffs-obscene-hardware-prices-and-everything-else-saber-interactive-exec-says-this-is-a-great-time-to-be-in-the-industry/",
+      "pubDate": "01.09.2026 um 16:45 Uhr",
+      "timestamp": 1788281130.0,
+      "source": "PCGamer latest",
+      "summary": "Saber CCO Tim Willits believes the availability of platforms like Fortnite and mobile devices are what really matters."
+    },
+    {
+      "title": "TikToks Arguing That Dating In GTA 6 Is Cheating IRL Are Going Viral",
+      "link": "https://kotaku.com/gta-6-grand-theft-auto-dating-jason-lucia-cheating-tiktok-2000730212",
+      "pubDate": "01.09.2026 um 16:45 Uhr",
+      "timestamp": 1788281118.0,
+      "source": "Kotaku",
+      "summary": "Grand Theft Auto 6's dating options are catching some flak on TikTok, but is it all just engagement bait?"
+    },
     {
       "title": "Double Fine are all in on making Brutal Legend 2, if you're willing to give them $100 million in their game jam Kickstarter, anyway",
       "link": "https://www.rockpapershotgun.com/double-fine-are-all-in-on-making-brutal-legend-2-if-youre-willing-to-give-them-100-million-in-their-game-jam-kickstarter-anyway",
@@ -201,94 +289,6 @@
       "timestamp": 1788279812.0,
       "source": "Latest from GamesRadar+",
       "summary": "\"I think the philosophy might be very similar in many ways\""
-    },
-    {
-      "title": "Worried about Onimusha's difficulty after the demo? I have the death count to prove the full game's got teeth",
-      "link": "https://www.pcgamer.com/games/action/worried-about-onimushas-difficulty-after-the-demo-i-have-the-death-count-to-prove-the-full-games-got-teeth/",
-      "pubDate": "01.09.2026 um 16:05 Uhr",
-      "timestamp": 1788278700.0,
-      "source": "PCGamer latest",
-      "summary": "Plenty of challenge awaits in Onimusha: Way of the Sword once you get past the game's opening hours."
-    },
-    {
-      "title": "Orbitals Reviews Say It Takes Two Is Still the Co-op Game to Beat",
-      "link": "https://www.polygon.com/orbitals-review-roundup/",
-      "pubDate": "01.09.2026 um 16:00 Uhr",
-      "timestamp": 1788278407.0,
-      "source": "Polygon.com",
-      "summary": "The reviews are in for Orbitals, and critics are charmed by the anime co-op game, though they have some big complaints too."
-    },
-    {
-      "title": "'KPop Demon Hunters' New Release Officially Arrives in 1 Week. Check Out an Exclusive Preview.",
-      "link": "https://www.polygon.com/the-art-of-kpop-demon-hunters-excerpt/",
-      "pubDate": "01.09.2026 um 16:00 Uhr",
-      "timestamp": 1788278407.0,
-      "source": "Polygon.com",
-      "summary": "The emotional depth of Huntrix has been revealed in an exclusive look at The Art of KPop Demon Hunters."
-    },
-    {
-      "title": "\"We all benefit from great games\": How the 4X devs behind Endless Legend and Humankind went from Early Access pioneers to Civ 7 challengers",
-      "link": "https://www.gamesradar.com/games/strategy/we-all-benefit-from-great-games-how-the-4x-devs-behind-endless-legend-and-humankind-went-from-early-access-pioneers-to-civ-7-challengers/",
-      "pubDate": "01.09.2026 um 16:00 Uhr",
-      "timestamp": 1788278400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "As Endless Legend 2 reaches the end of Early Access and Amplitude Studios get ready to dive into Humankind 2, the strategy developer talks player expe..."
-    },
-    {
-      "title": "The Witcher 3 Devs Officially Confirm an Essential Feature for the Remaster",
-      "link": "https://www.polygon.com/witcher-3-wild-hunt-remastered-saves-achievement-transfers/",
-      "pubDate": "01.09.2026 um 15:58 Uhr",
-      "timestamp": 1788278319.0,
-      "source": "Polygon.com",
-      "summary": "CD Projekt Red confirmed The Witcher 3: Wild Hunt remaster will allow save transfers for the decade-old RPG"
-    },
-    {
-      "title": "CD Projekt Red never considered charging for The Witcher 3 remaster, and says expansion Songs of the Past came from a couple of \"happy accidents\"",
-      "link": "https://www.eurogamer.net/witcher-3-remaster-songs-of-past-expansion",
-      "pubDate": "01.09.2026 um 15:56 Uhr",
-      "timestamp": 1788278194.0,
-      "source": "Eurogamer.net News",
-      "summary": "Polish developer CD Projekt Red apparently never considered charging players for the recently revealed Remastered edition of The Witcher 3, and it has..."
-    },
-    {
-      "title": "\"It folds down to the size of a credit card\" - Razer's mobile controllers were getting too bulky so it's launching a foldable one you can carry around in your pocket",
-      "link": "https://www.gamesradar.com/hardware/gaming-controllers/it-folds-down-to-the-size-of-a-credit-card-razers-mobile-controllers-were-getting-too-bulky-so-its-launching-a-foldable-one-you-can-carry-around-in-your-pocket/",
-      "pubDate": "01.09.2026 um 15:54 Uhr",
-      "timestamp": 1788278047.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Razer is launching a new mobile controller called the Prio, and it folds down to a size that's smaller than your phone is."
-    },
-    {
-      "title": "Disney Halloween merch has been resurrected early, so I've sorted the tricks from treats for you",
-      "link": "https://www.gamesradar.com/toys-collectibles/disney-halloween-merch-has-been-resurrected-early-so-ive-sorted-the-tricks-from-treats-for-you/",
-      "pubDate": "01.09.2026 um 15:51 Uhr",
-      "timestamp": 1788277878.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "This year's Disney Halloween haul has arrived, and it's a particularly good one"
-    },
-    {
-      "title": "Stellar Blade uses Nvidia's DLSS alongside \"frame interpolation\" to hit 60fps on Switch 2",
-      "link": "https://www.gamesradar.com/games/action-rpg/stellar-blade-uses-nvidias-dlss-alongside-frame-interpolation-to-hit-60fps-on-switch-2/",
-      "pubDate": "01.09.2026 um 15:49 Uhr",
-      "timestamp": 1788277779.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Shift Up has never left the AI train"
-    },
-    {
-      "title": "GTA 6 Already Has Way More Vehicles Than GTA 5 And The Game’s Not Even Out Yet",
-      "link": "https://kotaku.com/gta-6-already-has-way-more-vehicles-than-gta-5-and-the-games-not-even-out-yet-2000730241",
-      "pubDate": "01.09.2026 um 15:45 Uhr",
-      "timestamp": 1788277551.0,
-      "source": "Kotaku",
-      "summary": "Fans have already spotted over 250 vehicles in GTA 6's trailers and screenshots"
-    },
-    {
-      "title": "Pimax Dream Air review",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/pimax-dream-air-review/",
-      "pubDate": "01.09.2026 um 15:41 Uhr",
-      "timestamp": 1788277265.0,
-      "source": "PCGamer latest",
-      "summary": "Unbeatable visuals, excellent comfort, and mediocre tracking."
     }
   ],
   "sim": [
