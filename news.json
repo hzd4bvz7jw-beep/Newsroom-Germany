@@ -1,68 +1,108 @@
 {
   "de": [
     {
+      "title": "Twitch-Star Ludwig gab für einen Stream 1,5 Millionen US-Dollar aus, verrät, was noch wichtiger ist als Geld, um sowas umzusetzen",
+      "link": "https://mein-mmo.de/ludwig-interview-dexerto-geld/",
+      "pubDate": "01.09.2026 um 07:00 Uhr",
+      "timestamp": 1788246039.0,
+      "source": "Mein-MMO",
+      "summary": "Der Twitch- und YouTube-Streamer Ludwig Ahgren beantwortete 20 Fragen von Dexerto. Er sagt unter anderem, Geld sei nicht alles beim Streamen. Der Beit..."
+    },
+    {
+      "title": "TP-Link: Erste Router mit Wi-Fi 8 starten schon bald in den Verkauf",
+      "link": "https://www.computerbase.de/news/internet/tp-link-erste-router-mit-wi-fi-8-starten-schon-bald-in-den-verkauf.99148/",
+      "pubDate": "01.09.2026 um 09:00 Uhr",
+      "timestamp": 1788246000.0,
+      "source": "ComputerBase",
+      "summary": "TP-Link nutzt die IFA 2026, um erstmals einen Ausblick auf die bevor­stehenden Wi-Fi-8-Geräte zu geben. Mit dem Archer 8 Ultra stellt das Unternehmen ..."
+    },
+    {
+      "title": "Entwickler und Gäste ätzen über gamescom nach Statement zum Diebstahl im Business-Bereich: „Was eine beschissene Antwort“",
+      "link": "https://mein-mmo.de/gamescom-kritik-nach-statement-zu-diebstahl/",
+      "pubDate": "01.09.2026 um 06:59 Uhr",
+      "timestamp": 1788245983.0,
+      "source": "Mein-MMO",
+      "summary": "Ein Entwickler wurde auf der gamescom 2026 bestohlen und die offizielle Antwort der Veranstalter löst einen heftigen Sturm der Entrüstung aus. Der Bei..."
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced: Update 1.0.7 versteckt Waffen und bringt tierischen Begleiter",
+      "link": "https://www.eurogamer.de/black-flag-resynced-update-patch-notes",
+      "pubDate": "01.09.2026 um 06:58 Uhr",
+      "timestamp": 1788245883.0,
+      "source": "Eurogamer.de News",
+      "summary": "Ubisoft ver&ouml;ffentlicht heute Update 1.0.7 f&uuml;r das Action-Adventure Assassin's Creed: Black Flag Resynced. Mehr"
+    },
+    {
+      "title": "Lego Harry Potter Collection: Händler listet das Zauber-Abenteuer für die Nintendo Switch 2",
+      "link": "https://www.eurogamer.de/lego-harry-potter-collection-switch-2",
+      "pubDate": "01.09.2026 um 06:56 Uhr",
+      "timestamp": 1788245781.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Lego Harry Potter Collection erh&auml;lt offenbar eine native Umsetzung f&uuml;r die Nintendo Switch 2. Mehr"
+    },
+    {
+      "title": "Pokémon GO macht die stärksten Monster im Spiel noch besser",
+      "link": "https://mein-mmo.de/pokemon-go-mega-entwicklungen-updates/",
+      "pubDate": "01.09.2026 um 06:49 Uhr",
+      "timestamp": 1788245355.0,
+      "source": "Mein-MMO",
+      "summary": "In Pokémon GO gibt es Neuerungen für die ohnehin starken Mega-Entwicklungen. Und die sollten nicht unterschätzt werden. Der Beitrag Pokémon GO macht d..."
+    },
+    {
+      "title": "Maurice Weber rächt sich für die Mutterwitze von HandOfBlood, treibt Hänno in den Wahnsinn",
+      "link": "https://mein-mmo.de/handofblood-wird-mit-schwanz-gebaitet-fyng-show-gamescom/",
+      "pubDate": "01.09.2026 um 06:42 Uhr",
+      "timestamp": 1788244948.0,
+      "source": "Mein-MMO",
+      "summary": "HandOfBlood wartet während der FYNG-Show auf ein bestimmtes Wort, wird bis zum Finale an den Rand des Wahnsinns getrieben. Der Beitrag Maurice Weber r..."
+    },
+    {
+      "title": "Das beste MMORPG aus Deutschland feiert großes Debüt der Drachen, lockt vor allem PvE-Fans auf die Server",
+      "link": "https://mein-mmo.de/albion-online-drachenfeuer-release/",
+      "pubDate": "01.09.2026 um 06:26 Uhr",
+      "timestamp": 1788243969.0,
+      "source": "Mein-MMO",
+      "summary": "Drachenfeuer ist für Albion Online live und erweitert die Sandbox-Erfahrung um die bisher vielleicht besten PvE-Inhalte.  Der Beitrag Das beste MMORPG..."
+    },
+    {
+      "title": "Monopoly GO: Alle gratis Würfel im September 2026 – Die neuen Codes von heute",
+      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
+      "pubDate": "01.09.2026 um 06:22 Uhr",
+      "timestamp": 1788243739.0,
+      "source": "Mein-MMO",
+      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
+    },
+    {
+      "title": "ReKONGpiled: Donkey Kong 64 bekommt einen nativen PC-Port",
+      "link": "https://www.computerbase.de/news/gaming/rekongpiled-donkey-kong-64-bekommt-einen-nativen-pc-port.99162/",
+      "pubDate": "01.09.2026 um 08:21 Uhr",
+      "timestamp": 1788243660.0,
+      "source": "ComputerBase",
+      "summary": "Mehr als 25 Jahre nach der Veröffentlichung auf dem Nintendo 64 läuft Donkey Kong 64 nativ auf modernen PCs. Das Fanprojekt DK64 ReKONGpiled setzt dab..."
+    },
+    {
+      "title": "Konami Press Start: Showcase verspricht neues Gameplay zu Castlevania und Silent Hill",
+      "link": "https://www.eurogamer.de/konami-press-start-showcase-castlevania",
+      "pubDate": "01.09.2026 um 06:20 Uhr",
+      "timestamp": 1788243653.0,
+      "source": "Eurogamer.de News",
+      "summary": "Neben Sonys State-of-Play-Doppelpack erwartet euch in dieser Woche auch noch ein \"Konami Press Start\"-Showcase. Mehr"
+    },
+    {
+      "title": "Ein brutaler Schurke verbündet sich jetzt mit Batman, um eine noch größere Gefahr zu bannen",
+      "link": "https://mein-mmo.de/batman-arbeitet-mit-schurke-pflanze/",
+      "pubDate": "01.09.2026 um 06:15 Uhr",
+      "timestamp": 1788243300.0,
+      "source": "Mein-MMO",
+      "summary": "Aktuell verbündet sich Batman mit einem brutalen Killer, der im Kampf gegen eine noch gefährlichere Pflanzen-Freundin zur Hilfe eilt. Der Beitrag Ein ..."
+    },
+    {
       "title": "Das „Nr. 1 MMORPG aus Korea“ legt sich mit Aion 2 an, parkt seinen Release direkt vor der großen Konkurrenz",
       "link": "https://mein-mmo.de/architect-land-of-exiles-release-termin/",
       "pubDate": "01.09.2026 um 06:12 Uhr",
       "timestamp": 1788243139.0,
       "source": "Mein-MMO",
       "summary": "Auf die Vorabregistrierungen folgt der Release-Termin: Architect: Land of Exiles feiert seinen globalen Start noch im September. Der Beitrag Das „Nr. ..."
-    },
-    {
-      "title": "Neues Spiel zu Star Wars auf Steam startet mit über 70.000 gleichzeitigen Spielern durch, erhält direkt starke Reviews",
-      "link": "https://mein-mmo.de/star-wars-zero-company-startet-stark/",
-      "pubDate": "01.09.2026 um 06:11 Uhr",
-      "timestamp": 1788243093.0,
-      "source": "Mein-MMO",
-      "summary": "Auf Steam ist ein neues Spiel zu Star Wars an den Start gegangen, das euch in die Klonkriege versetzt. Das kommt bei den Spielern gut an. Der Beitrag ..."
-    },
-    {
-      "title": "GTA 6: Spielzeit – Wie lange dauert die Story?",
-      "link": "https://mein-mmo.de/gta-6-spielzeit/",
-      "pubDate": "01.09.2026 um 06:09 Uhr",
-      "timestamp": 1788242989.0,
-      "source": "Mein-MMO",
-      "summary": "GTA 6 steht in den Startlöchern und mittlerweile gibt es Infos zur Länge des Spiels. Wie viel Zeit ihr investieren müsst, erfahrt ihr hier. Der Beitra..."
-    },
-    {
-      "title": "HandOfBlood startet Wette mit Maurice Weber, wird schließlich von Schwanz erlöst",
-      "link": "https://mein-mmo.de/handofblood-wird-mit-schwanz-gebaitet-fyng-show-gamescom/",
-      "pubDate": "01.09.2026 um 06:00 Uhr",
-      "timestamp": 1788242400.0,
-      "source": "Mein-MMO",
-      "summary": "HandOfBlood wartet während der FYNG-Show auf ein bestimmtes Wort, wird bis zum Finale an den Rand des Wahnsinns getrieben. Der Beitrag HandOfBlood sta..."
-    },
-    {
-      "title": "Spieler können nicht fassen, was DLSS 5 mit ihren lieb gewonnenen Gaming-Helden macht: „Dass die Leute DAS als gut bezeichnen“",
-      "link": "https://mein-mmo.de/dlss-5-modder-version-sorgt-fuer-abneigung/",
-      "pubDate": "01.09.2026 um 05:55 Uhr",
-      "timestamp": 1788242100.0,
-      "source": "Mein-MMO",
-      "summary": "Nvidias DLSS5-Upscaling wird von Spielern zerrissen, aber nicht nur wegen des Aussehens. Die Community ist frustriert und angewidert. Der Beitrag Spie..."
-    },
-    {
-      "title": "Chef von Kingdom Come 2 legt sich mit KI-Kritikern an: „Natürlich nutzt es JEDER! Jeder Einzelne!“",
-      "link": "https://mein-mmo.de/daniel-vavra-verteidigt-ki/",
-      "pubDate": "01.09.2026 um 05:48 Uhr",
-      "timestamp": 1788241705.0,
-      "source": "Mein-MMO",
-      "summary": "Die Aussagen des kreativen Chefs von Kingdom Come Deliverance 2 zu KI polarisieren und kommen bei vielen Gaming-Fans gar nicht gut an. Der Beitrag Che..."
-    },
-    {
-      "title": "Millennial-Millionär findet es derzeit erschreckend einfach, reich zu werden, die Gen Z muss es nur wollen",
-      "link": "https://mein-mmo.de/millennial-millionaer-kein-mitleid-mit-gen-z/",
-      "pubDate": "01.09.2026 um 05:17 Uhr",
-      "timestamp": 1788239849.0,
-      "source": "Mein-MMO",
-      "summary": "Der Einstieg ins Berufsleben gestaltet sich für die Gen Z schwer. Der Millionär Timothy Armoo hat mit der Generation kein Mitleid. Der Beitrag Millenn..."
-    },
-    {
-      "title": "Der teuerste Fußballer aller Zeiten spielt so viel Counter-Strike 2, er feierte sogar die WM-Teilnahme 2026 in Valves Erfolgs-Shooter",
-      "link": "https://mein-mmo.de/fussballer-wm-2026-teilnahme-cs2/",
-      "pubDate": "01.09.2026 um 05:00 Uhr",
-      "timestamp": 1788238800.0,
-      "source": "Mein-MMO",
-      "summary": "Was macht man, wenn man die Nachricht erhalten hat, dass man für sein Heimatland bei der Fußball-WM antritt? Ein Fußballer spielte CS2. Der Beitrag De..."
     },
     {
       "title": "Selbst für DirectX 9: Mod bringt DLSS 5 in alte PC-Spiele",
@@ -103,46 +143,6 @@
       "timestamp": 1788219086.0,
       "source": "PlayCentral",
       "summary": "Mit Entropy ist am 18. August 2026 ein neues Dark-Fantasy-Rollenspiel auf Steam in den Early Access gestartet. Der Titel von Lovely Hellplace erwischt..."
-    },
-    {
-      "title": "Sons Of The Forest auf Steam 70 Prozent günstiger, auch The Forest reduziert",
-      "link": "https://www.playcentral.de/sons-of-the-forest-auf-steam-70-prozent-guenstiger-auch-the-forest-reduziert/",
-      "pubDate": "31.08.2026 um 21:31 Uhr",
-      "timestamp": 1788211903.0,
-      "source": "PlayCentral",
-      "summary": "Survival-Fans können sich auf Steam derzeit einen der bekanntesten Genre-Titel der vergangenen Jahre zum bisherigen Tiefstpreis sichern. Sons Of The F..."
-    },
-    {
-      "title": "Pokémon GO – Diese Mega-Pokémon bekommen jetzt eine dritte Lade-Attacke",
-      "link": "https://www.playcentral.de/pokemon-go-diese-mega-pokemon-bekommen-jetzt-eine-dritte-lade-attacke/",
-      "pubDate": "31.08.2026 um 18:31 Uhr",
-      "timestamp": 1788201096.0,
-      "source": "PlayCentral",
-      "summary": "Pokémon GO erweitert das Kampfsystem rund um Mega-Entwicklungen um eine neue taktische Ebene. Ab sofort erhalten geeignete Mega-Pokémon eine zusätzlic..."
-    },
-    {
-      "title": "ChatGPT down: Work-Modus gestört – OpenAI bestätigt Probleme",
-      "link": "https://www.playcentral.de/chatgpt-down-stoerung-work-mode-31-august-2026/",
-      "pubDate": "31.08.2026 um 17:32 Uhr",
-      "timestamp": 1788197560.0,
-      "source": "PlayCentral",
-      "summary": "ChatGPT kämpft aktuell mit erhöhten Fehlerraten und langen Ladezeiten. Besonders betroffen sind Plus-Nutzer und der Work-Modus."
-    },
-    {
-      "title": "Armatus bekommt Termin – Roguelite-Shooter startet am 7. Januar 2027",
-      "link": "https://www.playcentral.de/armatus-bekommt-termin-roguelite-shooter-startet-am-7-januar-2027/",
-      "pubDate": "31.08.2026 um 17:32 Uhr",
-      "timestamp": 1788197551.0,
-      "source": "PlayCentral",
-      "summary": "Mit Armatus kündigt sich ein rasanter Third-Person-Shooter an, der die Dämonenhatz von DOOM mit der stilvollen Gothic-Action von Devil May Cry verbind..."
-    },
-    {
-      "title": "Steam Sale: Günstiger craften und überleben zum Monatswechsel",
-      "link": "https://www.computerbase.de/news/gaming/steam-sale-guenstiger-craften-und-ueberleben-zum-monatswechsel.99149/",
-      "pubDate": "31.08.2026 um 19:09 Uhr",
-      "timestamp": 1788196140.0,
-      "source": "ComputerBase",
-      "summary": "Immer wieder hält Valve auf Steam abseits der vier großen jährlichen Steam Sales auch kleinere Rabattaktionen mit klarem Genre- oder Themenbezug ab. „..."
     }
   ],
   "int": [
@@ -153,6 +153,14 @@
       "timestamp": 1788242403.0,
       "source": "Kotaku",
       "summary": "Game remake had undergone numerous delays, lost old publisher earlier this year"
+    },
+    {
+      "title": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October",
+      "link": "https://www.ign.com/articles/chupa-chups-forever-fun-house",
+      "pubDate": "01.09.2026 um 05:24 Uhr",
+      "timestamp": 1788240242.0,
+      "source": "IGN All",
+      "summary": "IGN Australia and Chupa Chups to Host a Retro Gaming ‘Fun House’ Activation at Westfield Parramatta This October"
     },
     {
       "title": "The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff",
@@ -281,14 +289,6 @@
       "timestamp": 1788219014.0,
       "source": "Polygon.com",
       "summary": "Warner Bros. new DCU has a 10-year plan under James Gunn. Here's what next for DC movies and TV shows after Superman and Supergirl."
-    },
-    {
-      "title": "AMC Theaters Launches Its Own Film Distribution Company As Small Budget Movies Soar",
-      "link": "https://www.ign.com/articles/amc-theaters-launches-its-own-film-distribution-company-as-small-budget-movies-soar",
-      "pubDate": "31.08.2026 um 23:30 Uhr",
-      "timestamp": 1788219008.0,
-      "source": "IGN All",
-      "summary": "AMC Theaters isn’t merely a destination for watching new film releases; it now helps make those releases happen."
     }
   ],
   "sim": [
