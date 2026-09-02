@@ -1,12 +1,76 @@
 {
   "de": [
     {
-      "title": "FritzBox-Offensive: 10 Gbit/s und 5G per Powerbank",
+      "title": "The Witcher 3 Remastered: Warum CD Projekt Red für das riesige Update kein Geld verlangt",
+      "link": "https://www.eurogamer.de/the-witcher-3-remastered-kostenlos-upgrade",
+      "pubDate": "02.09.2026 um 06:17 Uhr",
+      "timestamp": 1788329871.0,
+      "source": "Eurogamer.de News",
+      "summary": "Der polnische Entwickler CD Projekt Red hat offenbar nie in Erw&auml;gung gezogen, f&uuml;r die k&uuml;rzlich enth&uuml;llte Remastered Edition von Th..."
+    },
+    {
+      "title": "Mortal Shell 2: Riesiges Update ändert die Spielökonomie und bringt Respec",
+      "link": "https://www.eurogamer.de/mortal-shell-2-update-patch-notes",
+      "pubDate": "02.09.2026 um 06:16 Uhr",
+      "timestamp": 1788329784.0,
+      "source": "Eurogamer.de News",
+      "summary": "Etwas mehr als eine Woche nach dem Release hat Mortal Shell 2 am Wochenende sein bisher gr&ouml;&szlig;tes Update erhalten. Entwickler Cold Symmetry w..."
+    },
+    {
+      "title": "Guild Wars 3: Wir zeigen euch einen exklusiven Einblick – Das sind die Theorien",
+      "link": "https://mein-mmo.de/guild-wars-3-exklusiv-artwork-fyng/",
+      "pubDate": "02.09.2026 um 06:09 Uhr",
+      "timestamp": 1788329370.0,
+      "source": "Mein-MMO",
+      "summary": "Im Rahmen unserer FYNG-Panels auf der gamescom konnten wir euch einen kleinen, exklusiven Einblick in Guild Wars 3 geben. Der Beitrag Guild Wars 3: Wi..."
+    },
+    {
+      "title": "In Aion 2 schnell leveln – So sammelt ihr möglichst viel XP für die Maximalstufe 45",
+      "link": "https://mein-mmo.de/aion-2-schnell-leveln-guide-fuer-maximale-xp/",
+      "pubDate": "02.09.2026 um 06:05 Uhr",
+      "timestamp": 1788329156.0,
+      "source": "Mein-MMO",
+      "summary": "Aion 2 setzt einen großen Schwerpunkt auf das Endgame. Im Guide verraten wir euch, wie ihr schnell die Maximalstufe 45 erreicht. Der Beitrag In Aion 2..."
+    },
+    {
+      "title": "Der Plan für die BlizzCon 2026 steht – Und es gibt eine verdächtige, große Lücke",
+      "link": "https://mein-mmo.de/blizzcon-2026-zeitplan-verdaechtige-grosse-luecke/",
+      "pubDate": "02.09.2026 um 06:00 Uhr",
+      "timestamp": 1788328800.0,
+      "source": "Mein-MMO",
+      "summary": "Die BlizzCon 2026 findet in wenigen Tagen statt. Wir haben den Zeitplan für euch, selbst wenn Blizzard einige Details geheim hält. Der Beitrag Der Pla..."
+    },
+    {
+      "title": "NCSoft spricht über die wichtigste Stärke von Aion 2 und nein, liebe Leser, es ist nicht der Shop",
+      "link": "https://mein-mmo.de/aion-2-ueber-groesste-staerke-des-mmorpgs/",
+      "pubDate": "02.09.2026 um 05:51 Uhr",
+      "timestamp": 1788328300.0,
+      "source": "Mein-MMO",
+      "summary": "Wir nähern uns dem globalen Start von Aion 2! NCSoft nutzt das jüngste Video dafür, die größte Stärke des MMORPGs hervorzuheben.  Der Beitrag NCSoft s..."
+    },
+    {
+      "title": "Das wohl schönste ARPG auf Steam verschiebt seinen Release, doch könnt ihr es noch dieses Jahr spielen",
+      "link": "https://mein-mmo.de/no-rest-for-the-wicked-verschiebung-open-beta/",
+      "pubDate": "02.09.2026 um 05:40 Uhr",
+      "timestamp": 1788327609.0,
+      "source": "Mein-MMO",
+      "summary": "No Rest for the Wicked sollte eigentlich im Oktober 2026 erscheinen. Das neue Spiel der Ori-Macher verschiebt sich ins kommende Jahr. Der Beitrag Das ..."
+    },
+    {
+      "title": "Gen Z will im Urlaub weniger Action, sondern lieber wie Omas reisen",
+      "link": "https://mein-mmo.de/gen-z-will-weniger-action-reist-lieber-wie-omas/",
+      "pubDate": "02.09.2026 um 05:30 Uhr",
+      "timestamp": 1788327000.0,
+      "source": "Mein-MMO",
+      "summary": "Gen Z liebt den Reisetrend „Nonnamaxxing“. Dabei setzt sie gerne auf Entschleunigung und eine ruhige Zeit mit den Einheimischen. Der Beitrag Gen Z wil..."
+    },
+    {
+      "title": "10 Gbit/s & 5G per Powerbank: Neue Fritz!Box 5630 XGS, 6835 5G & Fritz!Repeater 6700 Pro",
       "link": "https://www.computerbase.de/news/internet/fritzbox-offensive-10-gbit-s-und-5g-per-powerbank.99184/",
       "pubDate": "02.09.2026 um 07:00 Uhr",
       "timestamp": 1788325200.0,
       "source": "ComputerBase",
-      "summary": "Das neue Design der kommenden FritzBox-Generation ist bereits bekannt. Abseits des Äußeren nutzt Fritz! die IFA 2026 aber für eine ganze Produktwelle:..."
+      "summary": "Das neue Design der kommenden Fritz!Box-Generation ist bereits bekannt. Abseits des Äußeren nutzt Fritz! die IFA 2026 aber für eine ganze Produktwelle..."
     },
     {
       "title": "Lucia aus GTA 6 lädt eine Shotgun einhändig nach, wie realistisch ist die Verneigung vor Terminator 2?",
@@ -39,30 +103,6 @@
       "timestamp": 1788321600.0,
       "source": "ComputerBase",
       "summary": "Die Community von ComputerBase – mit mehr als 435.000 registrierten Mitgliedern eine der größten und insbesondere aktivsten ihrer Art – hatte wieder d..."
-    },
-    {
-      "title": "Ein Machtnutzer aus Star Wars gefährdet die gesamte Galaxis, weil er alle Kriege mit einem Schlag beenden will",
-      "link": "https://mein-mmo.de/ahsoka-machtnutzer-gefaehrdet-galaxis/",
-      "pubDate": "02.09.2026 um 04:00 Uhr",
-      "timestamp": 1788321600.0,
-      "source": "Mein-MMO",
-      "summary": "In der 2. Staffel der Serie Ahsoka könnte Star Wars ordentlich durchgerüttelt werden, weil eine Figur nach großer Macht strebt. Der Beitrag Ein Machtn..."
-    },
-    {
-      "title": "Guild Wars 3 überarbeitet seine Völker, damit ihr euren Kindheitstraum leben könnt",
-      "link": "https://mein-mmo.de/guild-wars-3-voelker-spotlight/",
-      "pubDate": "02.09.2026 um 03:30 Uhr",
-      "timestamp": 1788319800.0,
-      "source": "Mein-MMO",
-      "summary": "In Guild Wars 3 werden zum Start 4 spielbare Völker einziehen. Im Spotlight verraten die Entwickler, warum eine Überarbeitung wichtig war. Der Beitrag..."
-    },
-    {
-      "title": "WoW: Spieler holt nach 22 Jahren den Account zurück, hat ultimativen Rage Quit gemacht",
-      "link": "https://mein-mmo.de/wow-spieler-holt-nach-22-jahren-account-zurueck/",
-      "pubDate": "02.09.2026 um 02:30 Uhr",
-      "timestamp": 1788316200.0,
-      "source": "Mein-MMO",
-      "summary": "Über 22 Jahre war ein Zwerg im PvP-Schlachtfeld von World of Warcraft gefangen, wo er einfach ausgeloggt ist. Doch was steckt dahinter? Der Beitrag Wo..."
     },
     {
       "title": "Star Wars Zero Company – Bit Reactor stellte wohl 80 Prozent des Teams frei",
@@ -103,46 +143,6 @@
       "timestamp": 1788287700.0,
       "source": "ComputerBase",
       "summary": "Das Disc-to-Digital-Feature für Xbox-Series-X- und Xbox-One-Spiele steht jetzt im Insider-Programm zur Verfügung. Damit kann aus physischen Discs eine..."
-    },
-    {
-      "title": "Humble Choice September 2026 – diese 8 Steam-Spiele sind enthalten",
-      "link": "https://www.playcentral.de/humble-choice-september-2026-diese-8-steam-spiele-sind-enthalten/",
-      "pubDate": "01.09.2026 um 18:32 Uhr",
-      "timestamp": 1788287540.0,
-      "source": "PlayCentral",
-      "summary": "Steam-Nutzer können sich im September 2026 acht Spiele für ihre Bibliothek sichern. Angeführt wird das neue Humble-Choice-Paket von Frostpunk 2, dem h..."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation – Hamaguchi deutet Rückkehr von Spin-off-Figuren an",
-      "link": "https://www.playcentral.de/final-fantasy-7-revelation-hamaguchi-deutet-rueckkehr-von-spin-off-figuren-an/",
-      "pubDate": "01.09.2026 um 18:31 Uhr",
-      "timestamp": 1788287479.0,
-      "source": "PlayCentral",
-      "summary": "Square Enix will die Neuinterpretation von Final Fantasy 7 offenbar mit einem großen Wiedersehen abschließen. Director Naoki Hamaguchi hat angedeutet,..."
-    },
-    {
-      "title": "DC wagt nach 88 Jahren eine Änderung an Superman, die ihn deutlich schwächer macht",
-      "link": "https://mein-mmo.de/dc-aenderung-an-superman/",
-      "pubDate": "01.09.2026 um 18:15 Uhr",
-      "timestamp": 1788286500.0,
-      "source": "Mein-MMO",
-      "summary": "In einer aktuellen Geschichte mit Superman geht DC einen drastischen Schritt und fügt dem Mann aus Stahl eine herbe Verletzung zu. Der Beitrag DC wagt..."
-    },
-    {
-      "title": "Nintendo Switch 2 wird teurer – neuer Preis im My Nintendo Store 499,99 Euro",
-      "link": "https://www.playcentral.de/nintendo-switch-2-wird-teurer-neuer-preis-im-my-nintendo-store-49999-euro/",
-      "pubDate": "01.09.2026 um 17:31 Uhr",
-      "timestamp": 1788283904.0,
-      "source": "PlayCentral",
-      "summary": "Für die Nintendo Switch 2 endet bereits rund 15 Monate nach dem Verkaufsstart eine wichtige Phase. Seit dem 1. September 2026 kostet die Konsole im eu..."
-    },
-    {
-      "title": "Die irren Schweden mit ihren krassen Strategiespielen haben mir was Neues gezeigt und nach 30 Minuten war ich komplett hooked",
-      "link": "https://mein-mmo.de/afterworld-gamescom-2026-fyng-angespielt/",
-      "pubDate": "01.09.2026 um 17:30 Uhr",
-      "timestamp": 1788283800.0,
-      "source": "Mein-MMO",
-      "summary": "Paradox macht die wohl komplexesten, aber auch die besten Strategiespiele auf Steam. Jetzt habe ich Afterworld angespielt, den neusten Titel. Der Beit..."
     }
   ],
   "int": [
@@ -161,6 +161,14 @@
       "timestamp": 1788321618.0,
       "source": "Polygon.com",
       "summary": "\"Living Doll\" is a season 5 episode of The Twilight Zone, Rod Serling's influencial anthology series. It remains the show's scariest episode"
+    },
+    {
+      "title": "The Runner Review",
+      "link": "https://www.ign.com/articles/the-runner-review-gal-gadot",
+      "pubDate": "02.09.2026 um 04:00 Uhr",
+      "timestamp": 1788321600.0,
+      "source": "IGN All",
+      "summary": "Gal Gadot does everything she can to keep Prime Video's The Runner, well, running, but despite some decent set pieces, the film is ultimately unsatisf..."
     },
     {
       "title": "Mario Kart 8 Just Got a Game-Changing Update for Nintendo Switch 2",
@@ -281,14 +289,6 @@
       "timestamp": 1788301031.0,
       "source": "PCGamer latest",
       "summary": "Rockstar collaborated with Nopixel Studios for the latest version of its custom GTA 5 roleplaying experience, which includes 1,000 ownable properties."
-    },
-    {
-      "title": "Fully Playable Online Scream Game Discovered In The Massive Steam Leak",
-      "link": "https://kotaku.com/fully-playable-online-scream-game-discovered-in-the-massive-steam-leak-2000730358",
-      "pubDate": "01.09.2026 um 22:00 Uhr",
-      "timestamp": 1788300015.0,
-      "source": "Kotaku",
-      "summary": "People are playing a never-released Scream game online after it leaked over the weekend"
     }
   ],
   "sim": [
