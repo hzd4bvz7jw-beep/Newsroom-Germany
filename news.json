@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Name ist jetzt Programm: Mario Kart 8 bietet jetzt Splitscreen für 8 Spieler auf Switch 2",
+      "link": "https://www.computerbase.de/news/gaming/mario-kart-8-deluxe-nintendo-bringt-lokalen-multiplayer-fuer-8-spieler-auf-switch-2.99209/",
+      "pubDate": "02.09.2026 um 20:30 Uhr",
+      "timestamp": 1788373800.0,
+      "source": "ComputerBase",
+      "summary": "Überraschend hat Nintendo ein Update für Mario Kart 8 Deluxe veröffentlicht, also den bereits 2017 erschienenen Teil für die ursprüngliche Switch, das..."
+    },
+    {
+      "title": "Packard Bell: Acer belebt 100 Jahre alte Marke für Notebook wieder",
+      "link": "https://www.computerbase.de/news/notebooks/packard-bell-acer-belebt-100-jahre-alte-marke-fuer-notebook-wieder.99204/",
+      "pubDate": "02.09.2026 um 20:15 Uhr",
+      "timestamp": 1788372900.0,
+      "source": "ComputerBase",
+      "summary": "Seit Anfang 2008 gehört das ursprünglich 1926 gegründete Unternehmen Packard Bell zu Acer. Zur IFA erfolgt die Wiederbelebung der Marke, im ersten Sch..."
+    },
+    {
       "title": "Square Enix dementiert Gerüchte über einen Rückzug von der Börse",
       "link": "https://www.eurogamer.de/square-enix-boersenrueckzug-geruechte-dementiert",
       "pubDate": "02.09.2026 um 18:04 Uhr",
@@ -9,7 +25,7 @@
       "summary": "Square Enix hat sich zu Wort gemeldet, um aktuellen Ger&uuml;chten den Wind aus den Segeln zu nehmen. Der japanische Publisher und Entwickler hinter l..."
     },
     {
-      "title": "CB-Fotowettbewerb: Im September auf der Suche nach Portalen und Schwellen",
+      "title": "CB-Fotowettbewerb: Die Community fotografiert im September Tore und Türen",
       "link": "https://www.computerbase.de/news/audio-video-foto/cb-fotowettbewerb-im-september-auf-der-suche-nach-portalen-und-schwellen.99206/",
       "pubDate": "02.09.2026 um 20:00 Uhr",
       "timestamp": 1788372000.0,
@@ -73,28 +89,12 @@
       "summary": "Neben der Watch GT 7 (Pro) und Watch D3 legt Huawei diesen Herbst auch die Watch-6-Serie mit Watch 6 und Watch 6 Pro neu auf, die Gesundheitsmanagemen..."
     },
     {
-      "title": "FreeBuds Neo: ANC-In-Ears mit Mini-Stiel bieten auch LDAC",
-      "link": "https://www.computerbase.de/news/audio-video-foto/freebuds-neo-anc-in-ears-mit-mini-stiel-bieten-auch-ldac.99141/",
-      "pubDate": "02.09.2026 um 17:30 Uhr",
-      "timestamp": 1788363000.0,
-      "source": "ComputerBase",
-      "summary": "Mit den FreeBuds Neo erweitert Huawei die Serie der In-Ear-Kopfhörer um ein weiteres Modell mit adaptivem Noise-Cancelling und Hi-Res-Audio mit LDAC-U..."
-    },
-    {
       "title": "Große deutsche Industrieunternehmen fordern eine Rückkehr zur 40-Stunden-Woche, weil die Deutschen zu teuer geworden sind",
       "link": "https://mein-mmo.de/deutsche-unternehmen-fordern-ruckkehr-40-stunden-woche-arbeitskosten/",
       "pubDate": "02.09.2026 um 15:30 Uhr",
       "timestamp": 1788363000.0,
       "source": "Mein-MMO",
       "summary": "In bestimmten Branchen gelten 35 Stunden pro Woche als Standard. Große Unternehmen wollen davon weg und zurück zu 40 Stunden. Der Beitrag Große deutsc..."
-    },
-    {
-      "title": "Acer: Neue Monitorflotte für Spieler macht OLED zur Ausnahme",
-      "link": "https://www.computerbase.de/news/monitore/acer-neue-monitorflotte-fuer-spieler-macht-oled-zur-ausnahme.99196/",
-      "pubDate": "02.09.2026 um 17:00 Uhr",
-      "timestamp": 1788361200.0,
-      "source": "ComputerBase",
-      "summary": "Neben dem neuen 1000-Hz-Monitor stellt Acer zur IFA noch eine ganze Flotte weiterer Gaming-Monitore vor. Entgegen dem allgemeinen Trend ist OLED dabei..."
     },
     {
       "title": "Auf der gamescom sollte ich fiese Ratten-Dinge töten-metzeln und jetzt will ich mehr davon spielen-zocken, ja ja!",
@@ -146,6 +146,70 @@
     }
   ],
   "int": [
+    {
+      "title": "Kingdom Hearts almost led to Disney making its own version of Super Smash Bros, former dev says",
+      "link": "https://www.eurogamer.net/kingdom-hearts-disney-making-own-version-super-smash-bros",
+      "pubDate": "02.09.2026 um 19:04 Uhr",
+      "timestamp": 1788375841.0,
+      "source": "Eurogamer.net News",
+      "summary": "Kingdom Hearts bashing together a bunch of Disney's best toys (and being quite successful in the process) led the Mouse House to briefly begin work on..."
+    },
+    {
+      "title": "Avengers: Secret Wars May Have Cast One Of The Most Important Characters In The MCU",
+      "link": "https://kotaku.com/avengers-secret-wars-doomsday-noah-jupe-franklin-beyonder-2000730602",
+      "pubDate": "02.09.2026 um 19:00 Uhr",
+      "timestamp": 1788375642.0,
+      "source": "Kotaku",
+      "summary": "Quiet Place actor Noah Jupe joins next year’s big crossover movie"
+    },
+    {
+      "title": "Brütal Legend Is Still Double Fine's Best Game, Sequel or Not",
+      "link": "https://www.polygon.com/brutal-legend-double-fine-best-game/",
+      "pubDate": "02.09.2026 um 19:00 Uhr",
+      "timestamp": 1788375614.0,
+      "source": "Polygon.com",
+      "summary": "Double Fine's new Kickstarter dangles Brütal Legend 2 behind a $100 million stretch goal. Here's the case for no sequels, go for the original instead"
+    },
+    {
+      "title": "Mario Kart 8's surprise Switch 2 update makes everyone faster \"by the equivalent of one coin,\" decimating world records everywhere",
+      "link": "https://www.gamesradar.com/games/super-mario/mario-kart-8s-surprise-switch-2-update-makes-everyone-faster-by-the-equivalent-of-one-coin-decimating-world-records-everywhere/",
+      "pubDate": "02.09.2026 um 18:56 Uhr",
+      "timestamp": 1788375378.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"RIP every MK8D World Record in the last 5 years\""
+    },
+    {
+      "title": "Monster Hunter Wilds: Ascendance's new combat gimmick is putting some Devil May Cry stink on hitting dinosaurs with hammers",
+      "link": "https://www.pcgamer.com/games/action/monster-hunter-wilds-ascendances-new-combat-gimmick-is-putting-some-devil-may-cry-stink-on-hitting-dinosaurs-with-hammers/",
+      "pubDate": "02.09.2026 um 18:45 Uhr",
+      "timestamp": 1788374711.0,
+      "source": "PCGamer latest",
+      "summary": "Welcome back, Impact Crater."
+    },
+    {
+      "title": "10 Years Later, Pokémon Go Is Officially Getting Some Love from the Pokémon Anime",
+      "link": "https://www.polygon.com/pokemon-go-anime-crossover-event/",
+      "pubDate": "02.09.2026 um 18:41 Uhr",
+      "timestamp": 1788374502.0,
+      "source": "Polygon.com",
+      "summary": "'Pokémon Go' is getting a crossover with the 'Pokemon Horizons' anime that's bringing a custom Charmander to the game."
+    },
+    {
+      "title": "X-Men ‘97 Is Getting an Official Crossover Coming This Week",
+      "link": "https://www.polygon.com/x-men-97-season-2-marvel-rivals-crossover-gambit-rogue-skins-revealed/",
+      "pubDate": "02.09.2026 um 18:34 Uhr",
+      "timestamp": 1788374063.0,
+      "source": "Polygon.com",
+      "summary": "Marvel Rivals is getting X-Men '97-themed content this week with newly revealed cosmetics"
+    },
+    {
+      "title": "Arc Raiders Publisher Reportedly Wants The Rights To Make A New StarCraft Game",
+      "link": "https://kotaku.com/new-starcraft-game-nexon-licensing-deal-blizzard-2000730552",
+      "pubDate": "02.09.2026 um 18:30 Uhr",
+      "timestamp": 1788373806.0,
+      "source": "Kotaku",
+      "summary": "Despite being almost 30 years old, Starcraft remains in the top 10 most played games in South Korean internet cafes"
+    },
     {
       "title": "Iconic Banjo-Kazooie composer is more hopeful about a sequel these days, but knows \"like three companies\" have already been turned down",
       "link": "https://www.eurogamer.net/banjo-kazooie-composer-hopeful-sequel-three-companies-turned-down",
@@ -203,6 +267,14 @@
       "summary": "Nintendo heard us. Our Mario Kart 8 Deluxe parties weren't simultaneously ruining enough friendships, so the evergreen racer can now be played in spli..."
     },
     {
+      "title": "A small but controversial GTA 6 change has fans flipping out",
+      "link": "https://www.polygon.com/gta-6-preview-sprint-change-l3-hold-tap-how-does-it-work/",
+      "pubDate": "02.09.2026 um 17:11 Uhr",
+      "timestamp": 1788369066.0,
+      "source": "Polygon.com",
+      "summary": "GTA 6's standard control scheme is causing an uproar for Rockstar fans after one YouTuber's preview"
+    },
+    {
       "title": "The Resident Evil movie popcorn bucket is gross, but surprisingly functional",
       "link": "https://www.gamesradar.com/entertainment/horror-movies/the-resident-evil-movie-popcorn-bucket-is-gross-but-surprisingly-functional/",
       "pubDate": "02.09.2026 um 17:02 Uhr",
@@ -217,78 +289,6 @@
       "timestamp": 1788368400.0,
       "source": "PCGamer latest",
       "summary": "It's a sim now. I'm a sim now."
-    },
-    {
-      "title": "Get Two Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
-      "link": "https://www.ign.com/articles/paramount-plus-subscription-deal-august-2026",
-      "pubDate": "02.09.2026 um 16:55 Uhr",
-      "timestamp": 1788368100.0,
-      "source": "IGN All",
-      "summary": "Most new and returning (non-current) subscribers should be eligible."
-    },
-    {
-      "title": "Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones During eBay's Labor Day Sale",
-      "link": "https://www.ign.com/articles/sony-wh-1000xm6-wireless-noise-canceling-headphone-deal-ebay-labor-day-sale",
-      "pubDate": "02.09.2026 um 16:55 Uhr",
-      "timestamp": 1788368100.0,
-      "source": "IGN All",
-      "summary": "Includes a 2 year warranty."
-    },
-    {
-      "title": "NBA 2K27 Review",
-      "link": "https://www.ign.com/articles/nba-2k27-review",
-      "pubDate": "02.09.2026 um 16:50 Uhr",
-      "timestamp": 1788367828.0,
-      "source": "IGN All",
-      "summary": "So far, new features have put a spotlight on longstanding issues."
-    },
-    {
-      "title": "The Officially Licensed WD Black 1TB PlayStation 5 SSD Just Dropped to the Lowest Price of the Year",
-      "link": "https://www.ign.com/articles/wd-black-1tb-playstation-5-ssd-deal-september-2026",
-      "pubDate": "02.09.2026 um 16:50 Uhr",
-      "timestamp": 1788367800.0,
-      "source": "IGN All",
-      "summary": "Brand new with 5 year WD warranty."
-    },
-    {
-      "title": "Corsair's GALLEON 100 SD Is the Ultimate Streaming Gamer's Keyboard, and It's on Sale Today",
-      "link": "https://www.ign.com/articles/corsairs-galleon-100-sd-gaming-keyboard-deal",
-      "pubDate": "02.09.2026 um 16:45 Uhr",
-      "timestamp": 1788367500.0,
-      "source": "IGN All",
-      "summary": "When only the best will suffice."
-    },
-    {
-      "title": "Afterworld will be strategy royalty Paradox's \"most approachable\" game, and after raising cannibal fish-mutants to conquer America I'm hooked",
-      "link": "https://www.gamesradar.com/games/strategy/afterworld-will-be-strategy-royalty-paradoxs-most-approachable-game-and-after-raising-cannibal-fish-mutants-to-conquer-america-im-hooked/",
-      "pubDate": "02.09.2026 um 16:40 Uhr",
-      "timestamp": 1788367202.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Expect an \"infinite soup\" of dynamic societies and more, as we play Afterworld and interview game director Dan Lind"
-    },
-    {
-      "title": "8BitDo and SteelSeries have combined forces to create a whimsical Cozy Collection of Xbox accessories",
-      "link": "https://www.gamesradar.com/hardware/accessories/8bitdo-and-steelseries-have-combined-forces-to-create-a-whimsical-cozy-collection-of-xbox-accessories/",
-      "pubDate": "02.09.2026 um 16:38 Uhr",
-      "timestamp": 1788367118.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Xbox has unearthed the Designed for XBOX Cozy Collection, a range of forest-themed versions of some of 8BitDo and SteelSeries' most iconic accessories..."
-    },
-    {
-      "title": "Doug Cockle believes Dandelion is Geralt's real soulmate in The Witcher 3, but 'in a very platonic way'",
-      "link": "https://www.pcgamer.com/games/the-witcher/doug-cockle-believes-dandelion-is-geralts-real-soulmate-in-the-witcher-3-but-in-a-very-platonic-way/",
-      "pubDate": "02.09.2026 um 16:32 Uhr",
-      "timestamp": 1788366739.0,
-      "source": "PCGamer latest",
-      "summary": "Geralt x Dandelion ship = Gerdelion."
-    },
-    {
-      "title": "You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom",
-      "link": "https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom",
-      "pubDate": "02.09.2026 um 16:30 Uhr",
-      "timestamp": 1788366630.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos, their philosophical horror game set in a mad science hotel on the moon,..."
     }
   ],
   "sim": [
