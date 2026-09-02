@@ -1,7 +1,31 @@
 {
   "de": [
     {
-      "title": "Huawei Watch 6 und Watch 6 Pro: Das Top-Modell bekommt als erstes neue Funktionen",
+      "title": "Intergalactic: The Heretic Prophet: Motion-Capturing abgeschlossen, Release Ende 2027?",
+      "link": "https://www.computerbase.de/news/gaming/release-im-dritten-quartal-2027-intergalactic-the-heretic-prophet-mit-abschluss-der-motion-capture-aufnahmen.99201/",
+      "pubDate": "02.09.2026 um 19:00 Uhr",
+      "timestamp": 1788368400.0,
+      "source": "ComputerBase",
+      "summary": "Die Motion-Capture-Aufnahmen für das kommende PlayStation-5-Spiel Intergalactic: The Heretic Prophet sind abgeschlossen. Wird der Zeitpunkt dieses Mei..."
+    },
+    {
+      "title": "Kurz nach Release schon günstiger: Den neuesten Star-Wars-Hit gibt es auf Disc für PS5 aktuell deutlich reduziert",
+      "link": "https://mein-mmo.de/kurz-nach-release-guenstiger-neuester-star-wars-disc-ps5-deutlich-reduziert/",
+      "pubDate": "02.09.2026 um 16:52 Uhr",
+      "timestamp": 1788367922.0,
+      "source": "Mein-MMO",
+      "summary": "Gerade erst erschienen und jetzt schon überraschend günstiger ist dieses gut bewertete Star-Wars-Spiel im Angebot für PS5. Star Wars Zero Company ersc..."
+    },
+    {
+      "title": "Abgreifen von Daten möglich: Google schließt mit Chrome 152 mehrere kritische Lücken",
+      "link": "https://www.computerbase.de/news/apps/abgreifen-von-daten-moeglich-google-schliesst-mit-chrome-152-mehrere-kritische-luecken.99202/",
+      "pubDate": "02.09.2026 um 18:30 Uhr",
+      "timestamp": 1788366600.0,
+      "source": "ComputerBase",
+      "summary": "Google hat eine neue stabile Version von Chrome veröffentlicht. Mit Version 152 schließen die Entwickler 26 Sicherheitslücken, von denen zwei mit dem ..."
+    },
+    {
+      "title": "Watch 6 Pro: Huawei setzt Luxus­anspruch mit Titan und Keramik",
       "link": "https://www.computerbase.de/news/wearables/huawei-watch-6-und-watch-6-pro-das-top-modell-bekommt-als-erstes-neue-funktionen.99140/",
       "pubDate": "02.09.2026 um 18:00 Uhr",
       "timestamp": 1788364800.0,
@@ -105,30 +129,6 @@
       "summary": "Hier findet ihr alle Guides zu Aion 2 von MeinMMO in der Übersicht. Ob Anleitungen, Tipps für Einsteiger, Builds oder Listen – hier werdet ihr fündig...."
     },
     {
-      "title": "Huawei Watch D3: Die einzig echte Blutdruck-Smartwatch wird genauer",
-      "link": "https://www.computerbase.de/news/wearables/huawei-watch-d3-die-einzig-echte-blutdruck-smartwatch-wird-genauer.99084/",
-      "pubDate": "02.09.2026 um 15:30 Uhr",
-      "timestamp": 1788355800.0,
-      "source": "ComputerBase",
-      "summary": "Mit der Watch D3 bringt Huawei eine neue Generation der Blutdruck-Smartwatch und den Nachfolger der Watch D2 (Test). Sie ist die einzige Smartwatch au..."
-    },
-    {
-      "title": "GTA 6 ist der neue Mega-Hit auf Netflix, sogar erfolgreicher als auf YouTube",
-      "link": "https://mein-mmo.de/gta-6-nummer-1-auf-netflix/",
-      "pubDate": "02.09.2026 um 13:30 Uhr",
-      "timestamp": 1788355800.0,
-      "source": "Mein-MMO",
-      "summary": "Wer sich fragt, wieso GTA 6 auf Netflix gezeigt werden sollte: Die Gameplay-Premiere schießt sofort auf Platz 1 der Charts. Der Beitrag GTA 6 ist der ..."
-    },
-    {
-      "title": "Fractal Design Refine 2: Neue Generation bietet mehr Komfort und eine Hybrid-Version",
-      "link": "https://www.computerbase.de/news/gaming/fractal-design-refine-2-neue-generation-bietet-mehr-komfort-und-eine-hybrid-version.99122/",
-      "pubDate": "02.09.2026 um 15:20 Uhr",
-      "timestamp": 1788355200.0,
-      "source": "ComputerBase",
-      "summary": "Fractal Design schickt seinen Gaming-Bürostuhl Refine in die zweite Runde. Der neue Refine 2 übernimmt Konzept sowie Optik seines Vorgängers, aber beh..."
-    },
-    {
       "title": "Silent Hill: Townfall setzt auf permanente Anspannung statt auf Jumpscares",
       "link": "https://www.playcentral.de/silent-hill-townfall-setzt-auf-permanente-anspannung-statt-jumpscares/",
       "pubDate": "02.09.2026 um 12:57 Uhr",
@@ -147,151 +147,167 @@
   ],
   "int": [
     {
-      "title": "Tom And Jerry’s New Movie Is Chinese And It Makes Perfect Sense Why",
-      "link": "https://www.polygon.com/tom-and-jerry-forbidden-compass-asian-popularity/",
-      "pubDate": "02.09.2026 um 16:01 Uhr",
-      "timestamp": 1788364874.0,
-      "source": "Polygon.com",
-      "summary": "Polygon has an exclusive look at a new movie, Tom and Jerry: Forbidden Compass. Learn why Tom and Jerry are huge in Asia"
-    },
-    {
-      "title": "Harvey Smith Explains What Most Games Are Missing And Why He’s Still Making Them: ‘It’s An Act Of Rebellion To Try To Do Something Hopeful In Times Like This’",
-      "link": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489",
-      "pubDate": "02.09.2026 um 16:00 Uhr",
-      "timestamp": 1788364847.0,
-      "source": "Kotaku",
-      "summary": "The co-creator of new studio Black Pony Immersive tells us about defying expectations in the most underserved genre"
-    },
-    {
-      "title": "World's biggest modding site buys the No. 1 Steam resource — and fans are worried",
-      "link": "https://www.polygon.com/steamdb-nexus-mods-purchased-sale/",
-      "pubDate": "02.09.2026 um 15:59 Uhr",
-      "timestamp": 1788364763.0,
-      "source": "Polygon.com",
-      "summary": "Nexus Mods just bought SteamDB, and fans are worried that it may make the platform much worse"
-    },
-    {
-      "title": "Avengers: Doomsday director Joe Russo says going into production without a script allowed for \"magic\"",
-      "link": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-director-joe-russo-says-going-into-production-without-a-script-allowed-for-magic/",
-      "pubDate": "02.09.2026 um 15:58 Uhr",
-      "timestamp": 1788364713.0,
+      "title": "The Resident Evil movie popcorn bucket is gross, but surprisingly functional",
+      "link": "https://www.gamesradar.com/entertainment/horror-movies/the-resident-evil-movie-popcorn-bucket-is-gross-but-surprisingly-functional/",
+      "pubDate": "02.09.2026 um 17:02 Uhr",
+      "timestamp": 1788368546.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Joe Russo addresses starting Doomsday without a finished script"
+      "summary": "Pretty good place to keep a spleen"
     },
     {
-      "title": "Starcraft 3 Might Actually Happen in Surprise New Partnership",
-      "link": "https://www.polygon.com/starcraft-3-blizzard-nexon-blizzcon-2026/",
-      "pubDate": "02.09.2026 um 15:57 Uhr",
-      "timestamp": 1788364651.0,
-      "source": "Polygon.com",
-      "summary": "Nexon, not Blizzard Entertainment, to develop the next entry in the StarCraft real-time strategy series, according to a new report"
+      "title": "I modded GTA 6 leak-accurate car fuelling into GTA 5",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-gta-6-leak-accurate-car-fuelling-into-gta-5/",
+      "pubDate": "02.09.2026 um 17:00 Uhr",
+      "timestamp": 1788368400.0,
+      "source": "PCGamer latest",
+      "summary": "It's a sim now. I'm a sim now."
     },
     {
-      "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates",
-      "link": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
-      "pubDate": "02.09.2026 um 15:53 Uhr",
-      "timestamp": 1788364419.0,
-      "source": "Eurogamer.net News",
-      "summary": "Nvidia's hotly debated DLSS 5 tech, which uses generative AI to apply graphical filters to existing games, arrives this week, albeit only in one game...."
-    },
-    {
-      "title": "Counter-Strike 2 ‘Slur Tracker’ Reports 17 Percent Of Matches Contain Racist And Homophobic Language",
-      "link": "https://kotaku.com/counter-strike-2-slur-tracker-reports-17-percent-of-matches-contain-racist-and-homophobic-language-2000730500",
-      "pubDate": "02.09.2026 um 15:45 Uhr",
-      "timestamp": 1788363924.0,
-      "source": "Kotaku",
-      "summary": "The tracker also features a slur leaderboard, and one person is at the top of two of the available three categories"
-    },
-    {
-      "title": "GamesRadar+ Fall Preview 2026: Your next favorite games make up our hefty Most Wanted list",
-      "link": "https://www.gamesradar.com/gamesradar-fall-preview-the-biggest-games-of-autumn-2026/",
-      "pubDate": "02.09.2026 um 15:45 Uhr",
-      "timestamp": 1788363915.0,
+      "title": "Afterworld will be strategy royalty Paradox's \"most approachable\" game, and after raising cannibal fish-mutants to conquer America I'm hooked",
+      "link": "https://www.gamesradar.com/games/strategy/afterworld-will-be-strategy-royalty-paradoxs-most-approachable-game-and-after-raising-cannibal-fish-mutants-to-conquer-america-im-hooked/",
+      "pubDate": "02.09.2026 um 16:40 Uhr",
+      "timestamp": 1788367202.0,
       "source": "Latest from GamesRadar+",
-      "summary": "From Marvel's Wolverine to Gears of War E-Day, Fall season is packed with blockbusters, scares, huge RPG worlds, and much more"
+      "summary": "Expect an \"infinite soup\" of dynamic societies and more, as we play Afterworld and interview game director Dan Lind"
     },
     {
-      "title": "A Cow Is Playing One Of The Most Complex Games Ever On Twitch Right Now",
-      "link": "https://kotaku.com/eve-online-cow-plays-twitch-stream-fenris-creations-2000730532",
-      "pubDate": "02.09.2026 um 15:30 Uhr",
-      "timestamp": 1788363024.0,
-      "source": "Kotaku",
-      "summary": "If a cow can play EVE Online, what’s stopping you?"
+      "title": "8BitDo and SteelSeries have combined forces to create a whimsical Cozy Collection of Xbox accessories",
+      "link": "https://www.gamesradar.com/hardware/accessories/8bitdo-and-steelseries-have-combined-forces-to-create-a-whimsical-cozy-collection-of-xbox-accessories/",
+      "pubDate": "02.09.2026 um 16:38 Uhr",
+      "timestamp": 1788367118.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Xbox has unearthed the Designed for XBOX Cozy Collection, a range of forest-themed versions of some of 8BitDo and SteelSeries' most iconic accessories..."
     },
     {
-      "title": "Rockstar unveil the \"next evolution\" of modded GTA 5 roleplaying, while staying totally mum on when PC pretenders might be able to migrate to their next game",
-      "link": "https://www.rockpapershotgun.com/rockstar-unveil-the-next-evolution-of-modded-gta-5-roleplaying-while-staying-totally-mum-on-when-pc-pretenders-might-be-able-to-migrate-to-their-next-game",
-      "pubDate": "02.09.2026 um 15:30 Uhr",
-      "timestamp": 1788363000.0,
+      "title": "Doug Cockle believes Dandelion is Geralt's real soulmate in The Witcher 3, but 'in a very platonic way'",
+      "link": "https://www.pcgamer.com/games/the-witcher/doug-cockle-believes-dandelion-is-geralts-real-soulmate-in-the-witcher-3-but-in-a-very-platonic-way/",
+      "pubDate": "02.09.2026 um 16:32 Uhr",
+      "timestamp": 1788366739.0,
+      "source": "PCGamer latest",
+      "summary": "Geralt x Dandelion ship = Gerdelion."
+    },
+    {
+      "title": "One GTA 6 Preview Stunned Rockstar With Something It Had Never Seen Before",
+      "link": "https://www.polygon.com/gta-6-release-preview-random-events-npc-rockstar-youtube/",
+      "pubDate": "02.09.2026 um 16:30 Uhr",
+      "timestamp": 1788366655.0,
+      "source": "Polygon.com",
+      "summary": "YouTuber MikeShowSha described a two-hour Grand Theft Auto 6 preview that even surprised Rockstar"
+    },
+    {
+      "title": "You can't pet the talking rat wall in Ontos, the new space horror game from Soma's creators, but surely it can run Doom",
+      "link": "https://www.rockpapershotgun.com/you-cant-pet-the-talking-rat-wall-in-ontos-the-new-space-horror-game-from-somas-creators-but-surely-it-can-run-doom",
+      "pubDate": "02.09.2026 um 16:30 Uhr",
+      "timestamp": 1788366630.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Yep. I know. GTA 6 is still on the list of storied crime games without a PC release date. GTA 5, though, is out on PC and has long been the place folk..."
+      "summary": "When Amnesia: The Dark Descent and Soma developers Frictional announced Ontos, their philosophical horror game set in a mad science hotel on the moon,..."
     },
     {
-      "title": "Total War: Warhammer 40,000's Space Marines will have to keep the Imperium happy and avoid looking too heretical",
-      "link": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000s-space-marines-will-have-to-keep-the-imperium-happy-and-avoid-looking-too-heretical/",
-      "pubDate": "02.09.2026 um 15:23 Uhr",
-      "timestamp": 1788362635.0,
-      "source": "PCGamer latest",
-      "summary": "Even genetically augmented super soldiers need to worry about their rep."
+      "title": "Five Things We Just Learned From Tomb Raider: Legacy Of Atlantis Previews",
+      "link": "https://kotaku.com/five-things-we-just-learned-from-tomb-raider-legacy-of-atlantis-previews-2000730519",
+      "pubDate": "02.09.2026 um 16:30 Uhr",
+      "timestamp": 1788366623.0,
+      "source": "Kotaku",
+      "summary": "Somehow Crystal Dynamics managed to include additions even more unnecessary than crafting and skill trees"
     },
     {
-      "title": "Harry Potter goes to Hogwarts and faces the Sorting Hat in new trailer for the HBO show, and it all feels very familiar",
-      "link": "https://www.gamesradar.com/entertainment/fantasy-shows/harry-potter-hbo-tv-teaser-trailer/",
-      "pubDate": "02.09.2026 um 15:17 Uhr",
-      "timestamp": 1788362256.0,
+      "title": "Nexus Mods, \"the biggest modding platform in the world,\" has just acquired SteamDB: \"We don't take the responsibility of becoming its next steward lightly\"",
+      "link": "https://www.gamesradar.com/games/nexus-mods-the-biggest-modding-platform-in-the-world-has-just-acquired-steamdb-we-dont-take-the-responsibility-of-becoming-its-next-steward-lightly/",
+      "pubDate": "02.09.2026 um 16:29 Uhr",
+      "timestamp": 1788366585.0,
       "source": "Latest from GamesRadar+",
-      "summary": "A new trailer for the Harry Potter TV show has arrived"
+      "summary": "\"SteamDB will continue to be SteamDB\""
     },
     {
-      "title": "The Expanse: Osiris Reborn turns the best Mass Effect mission into an entire game",
-      "link": "https://www.pcgamer.com/games/rpg/the-expanse-osiris-reborn-turns-the-best-mass-effect-mission-into-an-entire-game/",
-      "pubDate": "02.09.2026 um 15:13 Uhr",
-      "timestamp": 1788361989.0,
-      "source": "PCGamer latest",
-      "summary": "And makes it better."
+      "title": "StarCraft 3 rumors resurface as new report claims Nexon and IP owner Blizzard are nearly ready to finalize a deal",
+      "link": "https://www.gamesradar.com/games/real-time-strategy/starcraft-3-rumors-resurface-as-new-report-claims-nexon-and-ip-owner-blizzard-are-nearly-ready-to-finalize-a-deal/",
+      "pubDate": "02.09.2026 um 16:28 Uhr",
+      "timestamp": 1788366538.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It's about time"
     },
     {
-      "title": "SteamDB changes hands to Nexus Mods, which means it 'needs to make money' now—but there won't be ads or paywalls",
-      "link": "https://www.pcgamer.com/gaming-industry/steamdb-changes-hands-to-nexus-mods-which-means-it-needs-to-make-money-now-but-there-wont-be-ads-or-paywalls/",
-      "pubDate": "02.09.2026 um 15:10 Uhr",
-      "timestamp": 1788361850.0,
-      "source": "PCGamer latest",
-      "summary": "\"Nothing you know and use today is getting taken away and sold back to you.\""
+      "title": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space",
+      "link": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
+      "pubDate": "02.09.2026 um 16:28 Uhr",
+      "timestamp": 1788366524.0,
+      "source": "Eurogamer.net News",
+      "summary": "Bandai Namco has revealed the live-service-like Ace Combat Online, a separate, companion selection of online modes coming with Ace Combat 8. Read more"
     },
     {
-      "title": "Award-winning presenter Frankie Ward is hosting the PC Gaming Show Tokyo Direct, showing off over 35 games and a bunch of world premieres",
-      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-is-hosting-the-pc-gaming-show-tokyo-direct-showing-off-over-35-games-and-a-bunch-of-world-premieres/",
-      "pubDate": "02.09.2026 um 15:00 Uhr",
-      "timestamp": 1788361225.0,
-      "source": "PCGamer latest",
-      "summary": "Summer may be ending, but we're still bringing the heat."
-    },
-    {
-      "title": "One 23-year-old Magic Card Protects a Popular Hobbit Commander From Total Annihilation",
-      "link": "https://www.polygon.com/mtg-best-hobbit-commander-beorn-the-fierce-decklist-caller-of-the-claw-price/",
-      "pubDate": "02.09.2026 um 15:00 Uhr",
-      "timestamp": 1788361214.0,
+      "title": "Harry Potter Officially Returns in 2026 in New Look at HBO's Remake",
+      "link": "https://www.polygon.com/harry-potter-season-1-hbo-trailer-release-date/",
+      "pubDate": "02.09.2026 um 16:26 Uhr",
+      "timestamp": 1788366362.0,
       "source": "Polygon.com",
-      "summary": "Caller of the Claw helps Beorn the Fierce recover from Magic: The Gathering board wipes with an instant army of Bear tokens."
+      "summary": "HBO has released a new trailer for Harry Potter and the Philosopher's Stone, the first season of its remake of the Harry Potter book series."
     },
     {
-      "title": "Genshin Impact devs' new action game Nodusfall feels like Elden Ring Nightreign at home, but don't write it off yet",
-      "link": "https://www.gamesradar.com/games/action/genshin-impact-devs-new-action-game-nodusfall-feels-like-elden-ring-nightreign-at-home-but-dont-write-it-off-yet/",
-      "pubDate": "02.09.2026 um 15:00 Uhr",
-      "timestamp": 1788361200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Going hands-on with Nodusfall at Gamescom 2026"
+      "title": "OpenAI head Sam Altman says 'people hate data centers,' but the company still plans to invest $50 million more in AI infrastructure this year alone",
+      "link": "https://www.pcgamer.com/software/ai/openai-head-sam-altman-says-people-hate-data-centers-but-the-company-still-plans-to-invest-usd50-million-more-in-ai-infrastructure-this-year-alone/",
+      "pubDate": "02.09.2026 um 16:21 Uhr",
+      "timestamp": 1788366081.0,
+      "source": "PCGamer latest",
+      "summary": "Putting two and two together, but coming up with a completely different answer."
     },
     {
-      "title": "Resident Evil director says the giant baby monster from Resident Evil: Village gave him a \"full-blown panic attack,\" and we can relate",
-      "link": "https://www.gamesradar.com/entertainment/horror-movies/resident-evil-director-says-the-giant-baby-monster-from-resident-evil-village-gave-him-a-full-blown-panic-attack-and-we-can-relate/",
-      "pubDate": "02.09.2026 um 14:54 Uhr",
-      "timestamp": 1788360862.0,
+      "title": "Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\"",
+      "link": "https://www.gamesradar.com/games/platformer/banjo-kazooie-composer-says-like-3-companies-have-pitched-a-new-entry-in-the-series-but-rare-just-typically-say-no-to-everything/",
+      "pubDate": "02.09.2026 um 16:17 Uhr",
+      "timestamp": 1788365846.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Zach Cregger also decided to play the game in VR"
+      "summary": "\"I used to always say there's zero chance of another Banjo-Kazooie game and right now I feel there's a slight chance,\" says Grant Kirkhope"
+    },
+    {
+      "title": "My family loves board games and kaiju, so King of Tokyo: Godzilla was a day one purchase for me",
+      "link": "https://www.gamesradar.com/games/board-games/king-of-tokyo-godzilla-review/",
+      "pubDate": "02.09.2026 um 16:16 Uhr",
+      "timestamp": 1788365817.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "If this new version of the classic board game worth going wild for, or is King of Tokyo: Godzilla just more of the same? Our expert reviewer goes hand..."
+    },
+    {
+      "title": "New Harry Potter Trailer Teases Snape, Quidditch, and the Sorting Hat",
+      "link": "https://www.ign.com/articles/harry-potter-philosophers-stone-trailer-highlights",
+      "pubDate": "02.09.2026 um 16:12 Uhr",
+      "timestamp": 1788365522.0,
+      "source": "IGN All",
+      "summary": "The latest Harry Potter and the Philosopher’s Stone trailer teases key moments including Professor Snape, Quidditch, the Sorting Hat, and Harry’s pare..."
+    },
+    {
+      "title": "The Mandalorian and Grogu features a hidden Han Solo Easter egg in a Rotta the Hutt scene",
+      "link": "https://www.gamesradar.com/entertainment/star-wars-movies/the-mandalorian-and-grogu-features-a-hidden-han-solo-easter-egg-in-a-rotta-the-hutt-scene/",
+      "pubDate": "02.09.2026 um 16:10 Uhr",
+      "timestamp": 1788365458.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "A Han Solo reference is hiding in plain sight in The Mandalorian and Grogu"
+    },
+    {
+      "title": "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
+      "link": "https://www.ign.com/articles/humble-choice-september-2026",
+      "pubDate": "02.09.2026 um 16:09 Uhr",
+      "timestamp": 1788365351.0,
+      "source": "IGN All",
+      "summary": "The Humble Choice September 2026 lineup is officially live. Members can snag 8 games - including Frostpunk 2, Sonic X Shadow Generations, and 6 more -..."
     }
   ],
   "sim": [
+    {
+      "title": "PlayStation State of Play September 3, 2026 Live Stream",
+      "link": "https://www.gtplanet.net/playstation-state-of-play-september-3-2026-live-stream-20260902/",
+      "pubDate": "02.09.2026 um 17:06 Uhr",
+      "timestamp": 1788368778.0,
+      "source": "GTPlanet",
+      "summary": "Sony's next State of Play airs Thursday, September 3..."
+    },
+    {
+      "title": "LEGO PlayStation Set Leaks, Includes Gran Turismo Autumn Ring Diorama",
+      "link": "https://www.gtplanet.net/lego-playstation-set-leaks-includes-gran-turismo-autumn-ring-diorama-20260902/",
+      "pubDate": "02.09.2026 um 16:20 Uhr",
+      "timestamp": 1788366052.0,
+      "source": "GTPlanet",
+      "summary": "Leaked retail photos give a first real look at the LEGO PlayStation set, including a tiny Gran Turismo diorama that appears to depict Autumn Ring Mini..."
+    },
     {
       "title": "Steven Wilson will return to eNASCAR Coca-Cola iRacing Championship Series title fight after dominant day at Michigan",
       "link": "https://www.iracing.com/steven-wilson-will-return-to-enascar-coca-cola-iracing-championship-series-title-fight-after-dominant-day-at-michigan/",
@@ -403,22 +419,6 @@
       "timestamp": 1787685767.0,
       "source": "GTPlanet",
       "summary": "The LEGO rumor mill says the upcoming 72306 PlayStation set hides a Gran Turismo diorama inside its near 1:1 scale build of Sony's original console..."
-    },
-    {
-      "title": "Super GT Winner Yusuke Tomibayashi Praises Gran Turismo 7’s New Physics",
-      "link": "https://www.gtplanet.net/super-gt-winner-yusuke-tomibayashi-praises-gran-turismo-7s-new-physics-20260825/",
-      "pubDate": "25.08.2026 um 18:29 Uhr",
-      "timestamp": 1787682596.0,
-      "source": "GTPlanet",
-      "summary": "Fresh from a pole-to-win maiden Super GT victory at Suzuka, sim-racer-turned-pro Yusuke Tomibayashi says GT7's new update 1..."
-    },
-    {
-      "title": "Gran Turismo 7 Daily Races: Cruising the M4",
-      "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-cruising-the-m4-20260824/",
-      "pubDate": "24.08.2026 um 16:48 Uhr",
-      "timestamp": 1787590127.0,
-      "source": "GTPlanet",
-      "summary": "This week's Gran Turismo 7 Daily Races mark the first online test of Update 1..."
     }
   ]
 }
