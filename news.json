@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WoW: Spieler holt nach 22 Jahren den Account zurück, hat ultimativen Rage Quit gemacht",
+      "link": "https://mein-mmo.de/wow-spieler-holt-nach-22-jahren-account-zurueck/",
+      "pubDate": "02.09.2026 um 02:30 Uhr",
+      "timestamp": 1788316200.0,
+      "source": "Mein-MMO",
+      "summary": "Über 22 Jahre war ein Zwerg im PvP-Schlachtfeld von World of Warcraft gefangen, wo er einfach ausgeloggt ist. Doch was steckt dahinter? Der Beitrag Wo..."
+    },
+    {
       "title": "Star Wars Zero Company – Bit Reactor stellte wohl 80 Prozent des Teams frei",
       "link": "https://www.playcentral.de/star-wars-zero-company-bit-reactor-stellte-wohl-80-prozent-des-teams-frei/",
       "pubDate": "01.09.2026 um 20:32 Uhr",
@@ -135,14 +143,6 @@
       "timestamp": 1788271200.0,
       "source": "Mein-MMO",
       "summary": "Auf eine Belohnung in World of Warcraft warten die besten 1 % der Welt noch immer. Denn Blizzard muss erst einmal die Booster rausfiltern. Der Beitrag..."
-    },
-    {
-      "title": "YouTuber aus Miami lebt im realen Vice City aus GTA 6 und zeigt, welche Orte im Spiel echt sind",
-      "link": "https://mein-mmo.de/gta-6-reale-orte-aus-miami-in-vice-city/",
-      "pubDate": "01.09.2026 um 13:50 Uhr",
-      "timestamp": 1788270600.0,
-      "source": "Mein-MMO",
-      "summary": "GTA 6 steckt voller realer Orte aus Miami. Ein lokaler YouTube und Gamer zeigt anhand mehrerer Beispiele, wie real Vice City ist. Der Beitrag YouTuber..."
     }
   ],
   "int": [
@@ -187,12 +187,36 @@
       "summary": "\"There's information that we assumed people would be able to pick up on, but they didn't\""
     },
     {
+      "title": "The 65\" Samsung S90F 4K QD-OLED TV Is Better Than Its 2026 Successor, and It's on Sale for Labor Day",
+      "link": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-ebay-labor-day-sale",
+      "pubDate": "02.09.2026 um 00:00 Uhr",
+      "timestamp": 1788307200.0,
+      "source": "IGN All",
+      "summary": "The S90F is the last TV in the lineup with QD-OLED technology; the new 2026 removes it."
+    },
+    {
       "title": "Good reviews are a 'great relief,' says Blood of Dawnwalker director, as former CD Projekt coworkers line up to offer congratulations",
       "link": "https://www.pcgamer.com/games/rpg/good-reviews-are-a-great-relief-says-blood-of-dawnwalker-director-as-former-cd-projekt-coworkers-line-up-to-offer-congratulations/",
       "pubDate": "01.09.2026 um 23:17 Uhr",
       "timestamp": 1788304652.0,
       "source": "PCGamer latest",
       "summary": "Rebel Wolves' vampire RPG is holding an aggregate 83 score on Metacritic."
+    },
+    {
+      "title": "Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game",
+      "link": "https://www.ign.com/articles/star-wars-zero-company-was-originally-pitched-as-a-titanfall-universe-game",
+      "pubDate": "01.09.2026 um 23:12 Uhr",
+      "timestamp": 1788304332.0,
+      "source": "IGN All",
+      "summary": "Star Wars Zero Company was originally pitched as a game in the Titanfall universe."
+    },
+    {
+      "title": "Stanley Kubrick’s Daughter Responds to Eyes Wide Shut Conspiracy Theories",
+      "link": "https://www.ign.com/articles/stanley-kubrick-daughter-eyes-wide-shut-conspiracy-theories",
+      "pubDate": "01.09.2026 um 23:08 Uhr",
+      "timestamp": 1788304095.0,
+      "source": "IGN All",
+      "summary": "Stanley Kubrick’s daughter Vivian has addressed rumors surrounding Eyes Wide Shut, debunking claims that key scenes were removed after the director's ..."
     },
     {
       "title": "Star Wars Zero Company Is the Andor Replacement No One Expected",
@@ -217,6 +241,22 @@
       "timestamp": 1788302720.0,
       "source": "PCGamer latest",
       "summary": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days."
+    },
+    {
+      "title": "CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar",
+      "link": "https://www.ign.com/articles/cd-projekt-red-boss-isnt-worried-about-delays-for-next-gen-consoles-as-ram-prices-soar",
+      "pubDate": "01.09.2026 um 22:38 Uhr",
+      "timestamp": 1788302307.0,
+      "source": "IGN All",
+      "summary": "CD Projekt Red joint CEO Michał Nowakowski opened up about the developer’s reaction to the rising price of consoles and the possibility of next-genera..."
+    },
+    {
+      "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem",
+      "link": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
+      "pubDate": "01.09.2026 um 22:21 Uhr",
+      "timestamp": 1788301287.0,
+      "source": "IGN All",
+      "summary": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game."
     },
     {
       "title": "The future of GTA roleplaying remains in GTA 5 for now, as Rockstar touts new invite-only Nopixel V RP server",
@@ -249,46 +289,6 @@
       "timestamp": 1788299521.0,
       "source": "Latest from GamesRadar+",
       "summary": "“I don't know how you create games at the quality level we were without the institutional knowledge that’s been lost\""
-    },
-    {
-      "title": "The GTA 6 extended look was Netflix's most-watched title for the week with 31.1 million views",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/the-gta-6-extended-look-was-netflixs-most-watched-title-for-the-week-with-31-1-million-views/",
-      "pubDate": "01.09.2026 um 21:46 Uhr",
-      "timestamp": 1788299189.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "It's no Stranger Things, but it was huge"
-    },
-    {
-      "title": "Get Off My Screen Dork, I’m Trying To Play Star Wars: Zero Company",
-      "link": "https://kotaku.com/get-off-my-screen-dork-im-trying-to-playstar-wars-zero-company-2000730324",
-      "pubDate": "01.09.2026 um 21:30 Uhr",
-      "timestamp": 1788298229.0,
-      "source": "Kotaku",
-      "summary": "One Ovissian is too many in my book..."
-    },
-    {
-      "title": "Final Fantasy Meets Zelda in Steam's Best New RPG",
-      "link": "https://www.polygon.com/zenonia-1-steam-port/",
-      "pubDate": "01.09.2026 um 21:30 Uhr",
-      "timestamp": 1788298214.0,
-      "source": "Polygon.com",
-      "summary": "Final Fantasy meets Zelda in Zenonia, the mobile-first RPG that's finally on PC."
-    },
-    {
-      "title": "The Harry Potter 11-Film 4K Blu-ray Collection Drops to a New Low Price",
-      "link": "https://www.ign.com/articles/the-harry-potter-11-film-4k-blu-ray-collection-drops-to-a-new-low-price",
-      "pubDate": "01.09.2026 um 21:11 Uhr",
-      "timestamp": 1788297075.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Video Game Kratos Christopher Judge Explains Why He Didn’t Want To Star In The God Of War TV Show: ‘I Just Have No Desire To Live That Way Again’",
-      "link": "https://kotaku.com/video-game-kratos-christopher-judge-explains-why-he-didnt-want-to-star-in-the-god-of-war-tv-show-i-just-have-no-desire-to-live-that-way-again-2000730345",
-      "pubDate": "01.09.2026 um 21:05 Uhr",
-      "timestamp": 1788296745.0,
-      "source": "Kotaku",
-      "summary": "Why not go back to the source for Amazon's adaptation of the 2018 PS4 blockbuster?"
     }
   ],
   "sim": [
