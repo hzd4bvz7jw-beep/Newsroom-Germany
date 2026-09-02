@@ -1,6 +1,86 @@
 {
   "de": [
     {
+      "title": "Neue Alienware-Monitore: RGB-Stripe-OLED für 4K-Gaming und eSports mit 560 Hz",
+      "link": "https://www.computerbase.de/news/monitore/neue-alienware-monitore-rgb-stripe-oled-fuer-4k-gaming-und-esports-mit-560-hz.98970/",
+      "pubDate": "02.09.2026 um 10:00 Uhr",
+      "timestamp": 1788336000.0,
+      "source": "ComputerBase",
+      "summary": "Zur IFA 2026 stellt Dell zwei neue Gaming-Monitore mit OLED-Technik vor. Der AW3226Q nutzt ein WOLED-Panel von LG mit RGB-Stripe-Pixel-Layout und lief..."
+    },
+    {
+      "title": "GTA Online: Rockstar startet offizielle Closed Beta für Roleplay-Server nopixel 5",
+      "link": "https://www.eurogamer.de/gta-online-nopixel-5-roleplay-beta",
+      "pubDate": "02.09.2026 um 07:42 Uhr",
+      "timestamp": 1788334965.0,
+      "source": "Eurogamer.de News",
+      "summary": "Bislang hielt sich Rockstar Games zu m&ouml;glichen Multiplayer-Features von GTA 6 ziemlich bedeckt. Daf&uuml;r macht der Entwickler jetzt einen riesi..."
+    },
+    {
+      "title": "Brütal Legend 2: Double Fine verspricht die Fortsetzung für absurde 100 Millionen Dollar",
+      "link": "https://www.eurogamer.de/bruetal-legend-2-double-fine-kickstarter",
+      "pubDate": "02.09.2026 um 07:41 Uhr",
+      "timestamp": 1788334908.0,
+      "source": "Eurogamer.de News",
+      "summary": "Knapp zwei Jahrzehnte nach dem Release des ersten Heavy-Metal-Open-World-Trips schw&ouml;rt Double Fine hoch und heilig, endlich Br&uuml;tal Legend 2 ..."
+    },
+    {
+      "title": "Ein berühmtes Zeichen aus Naruto gibt es nur, weil der Zeichner des Mangas faul war",
+      "link": "https://mein-mmo.de/naruto-anime-zeichen-mangaka-faul/",
+      "pubDate": "02.09.2026 um 07:30 Uhr",
+      "timestamp": 1788334219.0,
+      "source": "Mein-MMO",
+      "summary": "In Naruto gibt es ein bestimmtes Kleidungsstück, ohne das wir uns die Ninjas gar nicht mehr vorstellen können. Fast hätte es das nicht gegeben.  Der B..."
+    },
+    {
+      "title": "Steam Frame vor Release: Valve könnte Half-Life Alyx gratis beilegen",
+      "link": "https://www.computerbase.de/news/gaming/steam-frame-vor-release-valve-koennte-half-life-alyx-gratis-beilegen.99187/",
+      "pubDate": "02.09.2026 um 09:30 Uhr",
+      "timestamp": 1788334200.0,
+      "source": "ComputerBase",
+      "summary": "Im Backend-Code von Steam sind Hinweise aufgetaucht, dass Valves kommendes Steam Frame zusammen mit einer kostenlosen Kopie von Half-Life: Alyx angebo..."
+    },
+    {
+      "title": "Das wohl schönste ARPG auf Steam verschiebt Release nach 2027, doch könnt ihr es noch dieses Jahr spielen",
+      "link": "https://mein-mmo.de/no-rest-for-the-wicked-verschiebung-open-beta/",
+      "pubDate": "02.09.2026 um 07:22 Uhr",
+      "timestamp": 1788333738.0,
+      "source": "Mein-MMO",
+      "summary": "No Rest for the Wicked sollte eigentlich im Oktober 2026 erscheinen. Das neue Spiel der Ori-Macher verschiebt sich ins kommende Jahr. Der Beitrag Das ..."
+    },
+    {
+      "title": "GTA 6 ist der neue Mega-Hit auf Netflix, Charts beweisen: Rockstar hat alles richtig gemacht",
+      "link": "https://mein-mmo.de/gta-6-nummer-1-auf-netflix/",
+      "pubDate": "02.09.2026 um 07:19 Uhr",
+      "timestamp": 1788333555.0,
+      "source": "Mein-MMO",
+      "summary": "Wer sich fragt, wieso GTA 6 auf Netflix gezeigt werden sollte: Die Gameplay-Premiere schießt sofort auf Platz 1 der Charts. Der Beitrag GTA 6 ist der ..."
+    },
+    {
+      "title": "Pokémon GO kündigt nächstes Mega-Monster an, das direkt vom neuen Update profitiert",
+      "link": "https://mein-mmo.de/pokemon-go-naechstes-mega-monster/",
+      "pubDate": "02.09.2026 um 07:15 Uhr",
+      "timestamp": 1788333300.0,
+      "source": "Mein-MMO",
+      "summary": "Ein neues Mega-Monster wird sein Debüt in Pokémon GO feiern. Welches es ist und was euch beim Event erwartet, zeigt euch MeinMMO. Der Beitrag Pokémon ..."
+    },
+    {
+      "title": "Ein Machtnutzer aus Star Wars gefährdet die Galaxis, weil er alle Kriege mit einem Schlag beenden will",
+      "link": "https://mein-mmo.de/ahsoka-machtnutzer-gefaehrdet-galaxis/",
+      "pubDate": "02.09.2026 um 07:13 Uhr",
+      "timestamp": 1788333227.0,
+      "source": "Mein-MMO",
+      "summary": "In der 2. Staffel der Serie Ahsoka könnte Star Wars ordentlich durchgerüttelt werden, weil eine Figur nach großer Macht strebt. Der Beitrag Ein Machtn..."
+    },
+    {
+      "title": "Pokémon GO bringt beim Community Day Classic richtig starken Angreifer zurück",
+      "link": "https://mein-mmo.de/pokemon-go-community-day-starker-angreifer/",
+      "pubDate": "02.09.2026 um 07:12 Uhr",
+      "timestamp": 1788333149.0,
+      "source": "Mein-MMO",
+      "summary": "Das Monster des nächsten Community Day Classics in Pokémon GO wurde angekündigt. Und das könnte sich für euch richtig lohnen. Der Beitrag Pokémon GO b..."
+    },
+    {
       "title": "No Rest for the Wicked: Release von Version 1.0 auf März 2027 verschoben",
       "link": "https://www.eurogamer.de/no-rest-for-the-wicked-release-verschoben",
       "pubDate": "02.09.2026 um 07:02 Uhr",
@@ -41,46 +121,6 @@
       "summary": "Jeden Tag finden bei Monopoly GO Events statt, die euch Belohnungen wie Würfel geben, wir verraten euch mehr zum aktuellen Event. Der Beitrag Monopoly..."
     },
     {
-      "title": "Monopoly GO: Alle gratis Würfel im September 2026 – Die neuen Codes von heute",
-      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
-      "pubDate": "02.09.2026 um 06:39 Uhr",
-      "timestamp": 1788331175.0,
-      "source": "Mein-MMO",
-      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
-    },
-    {
-      "title": "Die Charts beweisen, dass Rockstar alles richtig gemacht hat: GTA 6 ist der neue Mega-Hit auf Netflix",
-      "link": "https://mein-mmo.de/gta-6-nummer-1-auf-netflix/",
-      "pubDate": "02.09.2026 um 06:36 Uhr",
-      "timestamp": 1788330973.0,
-      "source": "Mein-MMO",
-      "summary": "Wer sich fragt, wieso GTA 6 auf Netflix gezeigt werden sollte: Die Gameplay-Premiere schießt sofort auf Platz 1 der Charts. Der Beitrag Die Charts bew..."
-    },
-    {
-      "title": "Wer für GTA 6 noch eine PS5 Pro braucht, sollte sich wappnen, denn nach der Netflix-Premiere steigen Preise und Lieferzeiten immens",
-      "link": "https://mein-mmo.de/gta-6-ps5-pro-preise-lieferzeiten-hoeher/",
-      "pubDate": "02.09.2026 um 06:34 Uhr",
-      "timestamp": 1788330887.0,
-      "source": "Mein-MMO",
-      "summary": "Nach dem Reveal gingen nicht nur die Vorbestellungen für GTA 6 deutlich in die Höhe - auch die PS5 Pro wird deutlich gefragter. Der Beitrag Wer für GT..."
-    },
-    {
-      "title": "Das „Resident Evil mit Samurai“ hatte zu gute Experten, musste ihre Angriffe anpassen, damit ihr es spannender habt",
-      "link": "https://mein-mmo.de/onimusha-way-of-the-sword-schwertmeister-waren-zu-gut/",
-      "pubDate": "02.09.2026 um 06:31 Uhr",
-      "timestamp": 1788330699.0,
-      "source": "Mein-MMO",
-      "summary": "Mit Onimusha: Way of the Sword bringt Capcom die Reihe wieder zurück. Für die Animationen setzte man auf echte Experten, die aber zu gut waren. Der Be..."
-    },
-    {
-      "title": "Die Entwickler hinter Dragon’s Dogma 2 verraten uns, warum es keinen Multiplayer gibt",
-      "link": "https://mein-mmo.de/rollenspiele-wie-dragons-dogma-gibt-es-sonst-nirgends-die-macher-verraten-uns-ihr-geheimrezept-und-was-die-zukunft-bringt/",
-      "pubDate": "02.09.2026 um 06:29 Uhr",
-      "timestamp": 1788330582.0,
-      "source": "Mein-MMO",
-      "summary": "Auf der gamescom 2026 konnte MeinMMO mit dem Game Director und dem Producer hinter dem kommenden Dragon’s Dogma 2: Dark Arisen sprechen. Der Beitrag D..."
-    },
-    {
       "title": "The Witcher 3 Remastered: Warum CD Projekt Red für das riesige Update kein Geld verlangt",
       "link": "https://www.eurogamer.de/the-witcher-3-remastered-kostenlos-upgrade",
       "pubDate": "02.09.2026 um 06:17 Uhr",
@@ -97,55 +137,31 @@
       "summary": "Etwas mehr als eine Woche nach dem Release hat Mortal Shell 2 am Wochenende sein bisher gr&ouml;&szlig;tes Update erhalten. Entwickler Cold Symmetry w..."
     },
     {
-      "title": "Guild Wars 3: Wir zeigen euch einen exklusiven Einblick – Das sind die Theorien",
-      "link": "https://mein-mmo.de/guild-wars-3-exklusiv-artwork-fyng/",
-      "pubDate": "02.09.2026 um 06:09 Uhr",
-      "timestamp": 1788329370.0,
-      "source": "Mein-MMO",
-      "summary": "Im Rahmen unserer FYNG-Panels auf der gamescom konnten wir euch einen kleinen, exklusiven Einblick in Guild Wars 3 geben. Der Beitrag Guild Wars 3: Wi..."
-    },
-    {
       "title": "10 Gbit/s & 5G per Powerbank: Neue Fritz!Box 5630 XGS, 6835 5G & Fritz!Repeater 6700 Pro",
       "link": "https://www.computerbase.de/news/internet/fritzbox-offensive-10-gbit-s-und-5g-per-powerbank.99184/",
       "pubDate": "02.09.2026 um 07:00 Uhr",
       "timestamp": 1788325200.0,
       "source": "ComputerBase",
       "summary": "Das neue Design der kommenden Fritz!Box-Generation ist bereits bekannt. Abseits dieser Ankündigung nutzt Fritz! die IFA 2026 aber für eine ganze Produ..."
-    },
-    {
-      "title": "Diebstahl von Geschäftsgeheimnissen: Apple wirft OpenAI Vernich­tung von Beweismitteln vor",
-      "link": "https://www.computerbase.de/news/wirtschaft/diebstahl-von-geschaeftsgeheimnissen-apple-wirft-openai-vernichtung-von-beweismitteln-vor.99186/",
-      "pubDate": "02.09.2026 um 06:27 Uhr",
-      "timestamp": 1788323220.0,
-      "source": "ComputerBase",
-      "summary": "Die juristische Auseinandersetzung rund um angeblich gestohlene Geschäftsgeheimnisse zwischen Apple und OpenAI geht in die nächste Runde. In einem nun..."
-    },
-    {
-      "title": "Reader's Choice Awards 2026: Das sind eure Gewinner!",
-      "link": "https://www.computerbase.de/artikel/in-eigener-sache/readers-choice-awards-2026-das-gewinner.99169/",
-      "pubDate": "02.09.2026 um 06:00 Uhr",
-      "timestamp": 1788321600.0,
-      "source": "ComputerBase",
-      "summary": "Die Community von ComputerBase – mit mehr als 435.000 registrierten Mitgliedern eine der größten und insbesondere aktivsten ihrer Art – hatte wieder d..."
-    },
-    {
-      "title": "Star Wars Zero Company – Bit Reactor stellte wohl 80 Prozent des Teams frei",
-      "link": "https://www.playcentral.de/star-wars-zero-company-bit-reactor-stellte-wohl-80-prozent-des-teams-frei/",
-      "pubDate": "01.09.2026 um 20:32 Uhr",
-      "timestamp": 1788294730.0,
-      "source": "PlayCentral",
-      "summary": "Der erfolgreiche Start von Star Wars Zero Company wird von einer schweren Krise beim Entwickler Bit Reactor überschattet. Ein großer Teil des Teams so..."
-    },
-    {
-      "title": "PS Plus September 2026 – Diese Gratis-Boni gibt es zusätzlich zu den Spielen",
-      "link": "https://www.playcentral.de/ps-plus-september-2026-diese-gratis-boni-gibt-es-zusaetzlich-zu-den-spielen/",
-      "pubDate": "01.09.2026 um 20:31 Uhr",
-      "timestamp": 1788294676.0,
-      "source": "PlayCentral",
-      "summary": "Mit den monatlichen PlayStation Plus-Spielen für September 2026 bekommen Abonnenten diesmal mehr als nur vier neue Titel. Neben Sniper Elite: Resistan..."
     }
   ],
   "int": [
+    {
+      "title": "28 Years Later, This Remains the Most Near-Perfect WWII Movie of All Time",
+      "link": "https://www.polygon.com/saving-private-ryan-near-perfect-wwii-28-years-later/",
+      "pubDate": "02.09.2026 um 08:00 Uhr",
+      "timestamp": 1788336014.0,
+      "source": "Polygon.com",
+      "summary": "Explore why Saving Private Ryan remains a near-perfect WWII film even after 28 years, focusing on humanity in war."
+    },
+    {
+      "title": "LEGO Star Wars: The Mandalorian Review",
+      "link": "https://www.ign.com/articles/lego-star-wars-the-mandalorian-review-disney-plus",
+      "pubDate": "02.09.2026 um 07:01 Uhr",
+      "timestamp": 1788332460.0,
+      "source": "IGN All",
+      "summary": "LEGO Star Wars: The Mandalorian is a goofy and fun tribute to the live-action series, but it’s hard not to wish that this animated special told a comp..."
+    },
     {
       "title": "Alienware aims at 'more price points people can actually reach,' announces a tandem OLED gaming monitor at a much lower price than our current top pick",
       "link": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aims-at-more-price-points-people-can-actually-reach-announces-a-tandem-oled-gaming-monitor-at-a-much-lower-price-than-our-current-top-pick/",
@@ -273,22 +289,6 @@
       "timestamp": 1788302720.0,
       "source": "PCGamer latest",
       "summary": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days."
-    },
-    {
-      "title": "CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar",
-      "link": "https://www.ign.com/articles/cd-projekt-red-boss-isnt-worried-about-delays-for-next-gen-consoles-as-ram-prices-soar",
-      "pubDate": "01.09.2026 um 22:38 Uhr",
-      "timestamp": 1788302307.0,
-      "source": "IGN All",
-      "summary": "CD Projekt Red joint CEO Michał Nowakowski opened up about the developer’s reaction to the rising price of consoles and the possibility of next-genera..."
-    },
-    {
-      "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem",
-      "link": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
-      "pubDate": "01.09.2026 um 22:21 Uhr",
-      "timestamp": 1788301287.0,
-      "source": "IGN All",
-      "summary": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game."
     }
   ],
   "sim": [
