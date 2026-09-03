@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "15 Millionen Verkäufe: CD Projekt freut sich über den Erfolg von Phantom Liberty",
+      "link": "https://www.computerbase.de/news/gaming/15-millionen-verkaeufe-cd-projekt-freut-sich-ueber-den-erfolg-von-phantom-liberty.99212/",
+      "pubDate": "03.09.2026 um 20:40 Uhr",
+      "timestamp": 1788460800.0,
+      "source": "ComputerBase",
+      "summary": "Cyberpunk 2077: Phantom Liberty hat die Marke von 15 Millionen verkauften Exemplaren überschritten. CD Projekt meldet den Meilenstein knapp drei Jahre..."
+    },
+    {
+      "title": "Saros-Zenith-Update angekündigt, Boss Rush, New Game Plus und Optionen",
+      "link": "https://www.playcentral.de/saros-zenith-update-angekuendigt-boss-rush-new-game-plus-und-optionen/",
+      "pubDate": "03.09.2026 um 18:31 Uhr",
+      "timestamp": 1788460300.0,
+      "source": "PlayCentral",
+      "summary": "Housemarque baut Saros noch im Jahr 2026 mit einem umfangreichen kostenlosen Update aus. Die Erweiterung trägt den Namen Zenith und wurde am 3. Septem..."
+    },
+    {
+      "title": "Predator Atlas 7: Acer verkleinert den Handheld mit Intel Arc G-Chips auf 7 Zoll",
+      "link": "https://www.computerbase.de/news/gaming/predator-atlas-7-acer-verkleinert-den-handheld-mit-intel-arc-g-chips-auf-7-zoll.99233/",
+      "pubDate": "03.09.2026 um 20:15 Uhr",
+      "timestamp": 1788459300.0,
+      "source": "ComputerBase",
+      "summary": "Mit dem Predator Atlas 7 hat Acer im Rahmen der IFA 2026 eine 7-Zoll-Variante dieses Gaming-Handhelds mit Intel-Chips bis hin zum Arc G3 Extreme vorge..."
+    },
+    {
       "title": "The Witcher Remake: Geralts Rückkehr liegt vorerst auf Eis",
       "link": "https://www.computerbase.de/news/gaming/the-witcher-remake-geralts-rueckkehr-liegt-vorerst-auf-eis.99224/",
       "pubDate": "03.09.2026 um 19:55 Uhr",
@@ -119,33 +143,65 @@
       "timestamp": 1788451260.0,
       "source": "ComputerBase",
       "summary": "Neben einem konkreten Datum für Notebooks und Mini-PCs mit RTX Spark N1X hat Nvidia zur IFA den Personal AI Router vorgestellt. Mit Nvidia PAIR lassen..."
-    },
-    {
-      "title": "LEGO PlayStation offiziell angekündigt – Preis, Release und alle Details zum PS1-Set",
-      "link": "https://www.playcentral.de/lego-playstation-offiziell-preis-release-ps1-set/",
-      "pubDate": "03.09.2026 um 16:00 Uhr",
-      "timestamp": 1788451236.0,
-      "source": "PlayCentral",
-      "summary": "Nach mehreren Leaks ist es jetzt offiziell: Sony und die LEGO Group bringen die erste PlayStation als nahezu originalgroßes Klemmbausteinmodell auf de..."
-    },
-    {
-      "title": "RTX Spark N1X: Nvidia steigt im Oktober gegen AMD und Intel in den Ring",
-      "link": "https://www.computerbase.de/news/notebooks/ab-oktober-rtx-spark-n1x-kommt-in-zwei-varianten-mit-24-bis-128-gb-ram.99223/",
-      "pubDate": "03.09.2026 um 18:00 Uhr",
-      "timestamp": 1788451200.0,
-      "source": "ComputerBase",
-      "summary": "Die zur Computex im Juni angekündigte Plattform Nvidia RTX Spark für Windows 11 on Arm als Consumer-Ableger von DGX Spark („Mini-KI-Supercomputer für ..."
-    },
-    {
-      "title": "Lego PlayStation: Die legendäre Spielkonsole als Lego-Set angekündigt",
-      "link": "https://www.eurogamer.de/lego-playstation-ps1-set-release-preis",
-      "pubDate": "03.09.2026 um 15:33 Uhr",
-      "timestamp": 1788449594.0,
-      "source": "Eurogamer.de News",
-      "summary": "Lego und Sony stellen die neue Lego PlayStation vor. Das neue Set feiert die erste Spielkonsole, die im Jahr 1994 erstmals in Japan vorgestellt wurde...."
     }
   ],
   "int": [
+    {
+      "title": "A multi-month delay for Deus Ex turned into a huge payoff for one of its best characters, says designer Harvey Smith",
+      "link": "https://www.pcgamer.com/gaming-industry/game-development/a-multi-month-delay-for-deus-ex-turned-into-a-huge-payoff-for-one-of-its-best-characters-says-designer-harvey-smith/",
+      "pubDate": "03.09.2026 um 19:04 Uhr",
+      "timestamp": 1788462266.0,
+      "source": "PCGamer latest",
+      "summary": "Smith's story about the late stages of Deus Ex development takes some time to get to the point, but it's a fun ride."
+    },
+    {
+      "title": "Final Fantasy 7 Revelation's new gameplay showcase confirms cutscenes can be fast-forwarded, and JRPG fans are losing it: \"games are truly dead\"",
+      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-new-gameplay-showcase-confirms-cutscenes-can-be-fast-forwarded-and-jrpg-fans-are-losing-it-games-are-truly-dead/",
+      "pubDate": "03.09.2026 um 19:03 Uhr",
+      "timestamp": 1788462215.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "There might be a tiny bit of overreacting happening in JRPG fandom"
+    },
+    {
+      "title": "While us lot in the West might like Dragon's Dogma 2's friction, Japan doesn't quite agree, and its producers say balancing that has been a real challenge",
+      "link": "https://www.rockpapershotgun.com/while-us-lot-in-the-west-might-like-dragons-dogma-2s-friction-japan-doesnt-quite-agree-and-its-producers-say-balancing-that-has-been-a-real-challenge",
+      "pubDate": "03.09.2026 um 19:03 Uhr",
+      "timestamp": 1788462211.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Both the original and Dragon's Dogma 2 are not games for everyone. Not in the Dark Souls, uber challenging sort of way necessarily, just in that they ..."
+    },
+    {
+      "title": "The bizarre spirit of classic Elder Scrolls games is alive and well in little lo-fi RPG A Short Quest",
+      "link": "https://www.pcgamer.com/games/rpg/the-bizarre-spirit-of-classic-elder-scrolls-games-is-alive-and-well-in-little-lo-fi-rpg-a-short-quest/",
+      "pubDate": "03.09.2026 um 19:00 Uhr",
+      "timestamp": 1788462000.0,
+      "source": "PCGamer latest",
+      "summary": "A few hours with a recent playtest has me eager to play the full thing next year."
+    },
+    {
+      "title": "Final Fantasy 7 Revelation's Official Physical Release Comes With a Huge Asterisk",
+      "link": "https://www.polygon.com/final-fantasy-7-revelation-physical-release-collectors-edition-details/",
+      "pubDate": "03.09.2026 um 18:43 Uhr",
+      "timestamp": 1788461026.0,
+      "source": "Polygon.com",
+      "summary": "Square Enix reveals details on Final Fantasy 7 Revelation physical release, Nintendo Switch 2 version, and pricey Collector's Edition"
+    },
+    {
+      "title": "'God of War' Star Dave Bautista Shows Off Progress In Getting Kratos-Sized",
+      "link": "https://www.polygon.com/god-of-war-tv-show-dave-bautista-prime-video/",
+      "pubDate": "03.09.2026 um 18:40 Uhr",
+      "timestamp": 1788460808.0,
+      "source": "Polygon.com",
+      "summary": "The Prime Video series comes with big expectations for Kratos' physique, even for a brawny actor like Dave Bautista"
+    },
+    {
+      "title": "Today’s Top Deals: LEGO Autumn Cottage, Metroid Prime 4 for Switch 2, and 8Bitdo Ultimate 2 Controller",
+      "link": "https://www.ign.com/articles/best-deals-for-september-3-2026",
+      "pubDate": "03.09.2026 um 18:10 Uhr",
+      "timestamp": 1788459000.0,
+      "source": "IGN All",
+      "summary": "Save on other LEGO sets, PS Store Gift Cards, and more, too."
+    },
     {
       "title": "Stephen King recommends indie horror featuring Daredevil: Born Again actor Deborah Ann Woll: \"I don't usually pump up horror movies...but this is special\"",
       "link": "https://www.gamesradar.com/entertainment/horror-movies/stephen-king-recommends-indie-horror-featuring-daredevil-born-again-actor-deborah-ann-woll-i-dont-usually-pump-up-horror-movies-but-this-is-special/",
@@ -153,6 +209,14 @@
       "timestamp": 1788458658.0,
       "source": "Latest from GamesRadar+",
       "summary": "The Cycle hits Shudder next month"
+    },
+    {
+      "title": "Until Dawn 2 Was Co-Developed by Dispatch Developer AdHoc Studio",
+      "link": "https://www.ign.com/articles/until-dawn-2-was-co-developed-by-dispatch-developer-adhoc-studio",
+      "pubDate": "03.09.2026 um 18:01 Uhr",
+      "timestamp": 1788458465.0,
+      "source": "IGN All",
+      "summary": "AdHoc Studio, the team behind Disptached, helped develop Until Dawn 2."
     },
     {
       "title": "Square Enix Is Selling The Entire Final Fantasy 7 Remake Trilogy, Including Next Year’s Revelation, For Just $85",
@@ -163,12 +227,28 @@
       "summary": "Wowza, that's a really good deal on Remake, Rebirth, and the upcoming Revelation"
     },
     {
+      "title": "STALZONE Is an Extraction Shooter with MMO DNA",
+      "link": "https://www.ign.com/articles/stalzone-is-an-extraction-shooter-with-mmo-dna",
+      "pubDate": "03.09.2026 um 18:00 Uhr",
+      "timestamp": 1788458400.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
       "title": "The 5 best new shows and movies streaming this week on Netflix, Disney Plus, Apple TV, and more (September 4-6)",
       "link": "https://www.gamesradar.com/entertainment/streaming-services/new-shows-movies-to-stream-disney-plus-netflix-september-4-6/",
       "pubDate": "03.09.2026 um 18:00 Uhr",
       "timestamp": 1788458400.0,
       "source": "Latest from GamesRadar+",
       "summary": "From Star Wars adventures to sports comedies, we've got you covered this weekend"
+    },
+    {
+      "title": "Bucking Fastard Review",
+      "link": "https://www.ign.com/articles/bucking-fastard-review",
+      "pubDate": "03.09.2026 um 17:58 Uhr",
+      "timestamp": 1788458327.0,
+      "source": "IGN All",
+      "summary": "Bucking Fastard review: Werner Herzog casts Kate and Rooney Mara as synchronized sisters based on unusual real-life twins."
     },
     {
       "title": "Onimusha: Way of the Sword launch times and release date",
@@ -187,111 +267,39 @@
       "summary": "Xbox claws back one of the biggest benefits of Game Pass Ultimate"
     },
     {
-      "title": "Hands-On With Fable’s Combat: Lightning Bolts, Fireballs, And Dismemberment",
-      "link": "https://kotaku.com/hands-on-with-fables-combat-lightning-bolts-fireballs-and-dismemberment-2000730994",
-      "pubDate": "03.09.2026 um 17:30 Uhr",
-      "timestamp": 1788456614.0,
-      "source": "Kotaku",
-      "summary": "Let’s go hands-on in a full Fable quest to see whether the controversy is actually justified"
+      "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece",
+      "link": "https://www.ign.com/articles/best-usb-cable-deals-september-2026",
+      "pubDate": "03.09.2026 um 17:55 Uhr",
+      "timestamp": 1788458100.0,
+      "source": "IGN All",
+      "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop."
     },
     {
-      "title": "Dungeons & Dragons 'Ravenloft' Series Officially Confirmed at Netflix",
-      "link": "https://www.polygon.com/dungeons-dragons-ravenloft-netflix-series/",
-      "pubDate": "03.09.2026 um 17:29 Uhr",
-      "timestamp": 1788456556.0,
-      "source": "Polygon.com",
-      "summary": "Netflix’s new live-action Dungeons & Dragons series Ravenloft could bring the fan-favorite vampire Strahd to streaming."
+      "title": "Naughty Dog 'Not Done' With The Last of Us, but Studio Not Involved With HBO Show's 3rd Season",
+      "link": "https://www.ign.com/articles/naughty-dog-not-done-with-the-last-of-us-but-studio-not-involved-with-hbo-shows-3rd-season",
+      "pubDate": "03.09.2026 um 17:49 Uhr",
+      "timestamp": 1788457767.0,
+      "source": "IGN All",
+      "summary": "Naughty Dog boss Neil Druckmann says that neither he nor the studio are involved with the third season of the HBO TV adaptation of the beloved video g..."
     },
     {
-      "title": "Hidetaka Miyazaki says he has no idea why people think \"I have a bit of a thing for feet,\" apparently forgetting all the barefoot women in FromSoftware games",
-      "link": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-he-has-no-idea-why-people-think-i-have-a-bit-of-a-thing-for-feet-apparently-forgetting-all-the-barefoot-women-in-fromsoftware-games/",
-      "pubDate": "03.09.2026 um 17:16 Uhr",
-      "timestamp": 1788455795.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "I'm just saying, I can imagine why"
-    },
-    {
-      "title": "Supergirl Lands Official Streaming Date on HBO Max",
-      "link": "https://www.polygon.com/supergirl-hbo-max-streaming-date-announced/",
-      "pubDate": "03.09.2026 um 17:10 Uhr",
-      "timestamp": 1788455428.0,
-      "source": "Polygon.com",
-      "summary": "HBO Max to start streaming Supergirl, the Milly Alcock DC Studios movie flop, next week on Sept. 10."
-    },
-    {
-      "title": "Experiencing some day one Blood of Dawnwalker issues? Its devs know, and have some temporary solutions to help get you bloodsucking",
-      "link": "https://www.rockpapershotgun.com/experiencing-some-day-one-blood-of-dawnwalker-issues-its-devs-know-and-have-some-temporary-solutions-to-help-get-you-bloodsucking",
-      "pubDate": "03.09.2026 um 17:05 Uhr",
-      "timestamp": 1788455146.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "It's The Blood of Dawnwalker release day! The debut game of Rebel Wolves and the first new game from director Konrad Tomaszkiewicz since The Witcher 3..."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Story DLC Starring Two Fan-Favorite Characters Confirmed",
-      "link": "https://www.polygon.com/final-fantasy-7-revelation-story-dlc-announced-sephiroth-vincent-valentine/",
-      "pubDate": "03.09.2026 um 17:05 Uhr",
-      "timestamp": 1788455116.0,
-      "source": "Polygon.com",
-      "summary": "Square Enix has revealed Final Fantasy 7 Revelation will get two pieces of story DLC starring Sephiroth and Vincent Valentine"
-    },
-    {
-      "title": "New Halloween Game Is My Favorite Asymmetrical Horror Game, But You’ll Have To Put Up With Some Jank",
-      "link": "https://kotaku.com/new-halloween-game-is-my-favorite-asymmetrical-horror-game-but-youll-have-to-put-up-with-some-jank-2000730628",
-      "pubDate": "03.09.2026 um 17:00 Uhr",
-      "timestamp": 1788454830.0,
-      "source": "Kotaku",
-      "summary": "Hunting, stalking, scaring and then butchering your friends has never been more fun"
-    },
-    {
-      "title": "I installed a mod that adds building interiors to GTA 5, at the low cost of deleting most of the map's exterior",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-mod-that-adds-building-interiors-to-gta-5-at-the-low-cost-of-deleting-most-of-the-maps-exterior/",
-      "pubDate": "03.09.2026 um 17:00 Uhr",
-      "timestamp": 1788454800.0,
-      "source": "PCGamer latest",
-      "summary": "You win some, you lose some."
-    },
-    {
-      "title": "New Star Trek Movie Is ‘Trek Meets Crimson Tide,’ Writers Say",
-      "link": "https://www.polygon.com/star-trek-movie-new-details-training-day-crimson-tide/",
-      "pubDate": "03.09.2026 um 16:41 Uhr",
-      "timestamp": 1788453698.0,
-      "source": "Polygon.com",
-      "summary": "We got new details on the new Star Trek movie in development, and it's inspired by an unlikely pair of Denzel Washington films."
-    },
-    {
-      "title": "Borderlands 4’s New Vault Hunter Is a Throwback to Borderlands 2’s Best Character",
-      "link": "https://www.polygon.com/borderlands-4-loveless-the-hacker-interview/",
-      "pubDate": "03.09.2026 um 16:31 Uhr",
-      "timestamp": 1788453074.0,
-      "source": "Polygon.com",
-      "summary": "Gearbox shares new details on Borderlands 4's newest Vault Hunter, Loveless the Hacker, a throwback to one of Borderlands 2's best characters."
-    },
-    {
-      "title": "With wall-running and surprisingly weighty combat, Guild Wars 3 is aiming high: \"If we hadn't been making MMOs for 26 years I don't think we could have built this\"",
-      "link": "https://www.gamesradar.com/games/mmo/guild-wars-3-preview-combat-movement-interview-arenanet/",
-      "pubDate": "03.09.2026 um 16:30 Uhr",
-      "timestamp": 1788453041.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "ArenaNet takes us through its groundbreaking momentum system, plans for console, and solving one of the biggest problems that MMOs face"
-    },
-    {
-      "title": "Why Ariana Grande Won’t Be Returning In Final Fantasy Resonance",
-      "link": "https://kotaku.com/final-fantasy-resonance-brave-exvius-ariana-grande-2000730334",
-      "pubDate": "03.09.2026 um 16:30 Uhr",
-      "timestamp": 1788453035.0,
-      "source": "Kotaku",
-      "summary": "The new 2D-3D RPG is a reworking of Brave Exvius, in which the Wicked star appeared"
-    },
-    {
-      "title": "Guild Wars 3 is a lot smaller scale than Guild Wars 2 because of the new approach to combat and movement: 'You would probably see about 20 players in a large combat scenario'",
-      "link": "https://www.pcgamer.com/games/mmo/guild-wars-3-is-a-lot-smaller-scale-than-guild-wars-2-because-of-the-new-approach-to-combat-and-movement-you-would-probably-see-about-20-players-in-a-large-combat-scenario/",
-      "pubDate": "03.09.2026 um 16:30 Uhr",
-      "timestamp": 1788453000.0,
-      "source": "PCGamer latest",
-      "summary": "Expect more clarity, but no more 100-player boss fights."
+      "title": "Supergirl Is Coming to HBO Max Next Week",
+      "link": "https://www.ign.com/articles/supergirl-hbo-max-streaming-release-date",
+      "pubDate": "03.09.2026 um 17:36 Uhr",
+      "timestamp": 1788456998.0,
+      "source": "IGN All",
+      "summary": "Supergirl officially has a streaming release date."
     }
   ],
   "sim": [
+    {
+      "title": "Gran Turismo 7 Online Time Trial: Genesis Exodus",
+      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-genesis-exodus-20260903/",
+      "pubDate": "03.09.2026 um 18:53 Uhr",
+      "timestamp": 1788461635.0,
+      "source": "GTPlanet",
+      "summary": "This week's new GT7 Online Time Trial opens the whole Gr..."
+    },
     {
       "title": "Gran Turismo 7 Weekly Challenges: GTAm I Right?",
       "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-gtam-i-right-20260903/",
@@ -403,14 +411,6 @@
       "timestamp": 1787859839.0,
       "source": "GTPlanet",
       "summary": "Honda's Vision Gran Turismo concept heads to Laguna Seca in this week's new GT7 Online Time Trial, while the Ioniq 6N continues at the Nurburgring 24h..."
-    },
-    {
-      "title": "Gran Turismo 7 Weekly Challenges: Seventh Heaven",
-      "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-seventh-heaven-20260827/",
-      "pubDate": "27.08.2026 um 18:23 Uhr",
-      "timestamp": 1787854998.0,
-      "source": "GTPlanet",
-      "summary": "A new set of Gran Turismo 7 Weekly Challenges arrives Friday, August 28, headlined by a Caterham Seven one-make Special Event at Brands Hatch and a 20..."
     },
     {
       "title": "iRacing Weekly Tune-in | eSports & Community Events | August 26th to September 1st, 2026",
