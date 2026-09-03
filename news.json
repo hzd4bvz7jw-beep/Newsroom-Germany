@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Auf der gamescom sollte ich fiese Ratten-Dinge in Warhammer töten-metzeln und jetzt will ich mehr davon spielen-zocken, ja ja!",
+      "link": "https://mein-mmo.de/warhammer-aos-deathmaster-angespielt-gamescom/",
+      "pubDate": "02.09.2026 um 23:25 Uhr",
+      "timestamp": 1788391553.0,
+      "source": "Mein-MMO",
+      "summary": "Skaven sind die genial-klügsten Ding-Dinge in Warhammer und endlich haben sie ihr eigenes Spiel, ja-ja! Der Beitrag Auf der gamescom sollte ich fiese ..."
+    },
+    {
       "title": "Name ist jetzt Programm: Mario Kart 8 bietet jetzt Splitscreen für 8 Spieler auf Switch 2",
       "link": "https://www.computerbase.de/news/gaming/mario-kart-8-deluxe-nintendo-bringt-lokalen-multiplayer-fuer-8-spieler-auf-switch-2.99209/",
       "pubDate": "02.09.2026 um 20:30 Uhr",
@@ -89,14 +97,6 @@
       "summary": "In bestimmten Branchen gelten 35 Stunden pro Woche als Standard. Große Unternehmen wollen davon weg und zurück zu 40 Stunden. Der Beitrag Große deutsc..."
     },
     {
-      "title": "Auf der gamescom sollte ich fiese Ratten-Dinge töten-metzeln und jetzt will ich mehr davon spielen-zocken, ja ja!",
-      "link": "https://mein-mmo.de/warhammer-aos-deathmaster-angespielt-gamescom/",
-      "pubDate": "02.09.2026 um 15:00 Uhr",
-      "timestamp": 1788361200.0,
-      "source": "Mein-MMO",
-      "summary": "Skaven sind die genial-klügsten Ding-Dinge in Warhammer und endlich haben sie ihr eigenes Spiel, ja-ja! Der Beitrag Auf der gamescom sollte ich fiese ..."
-    },
-    {
       "title": "Ein Marvel-Schurke wird der neue große Fiesling im MCU, doch gegen ein mächtiges Monster hat nichtmal er eine Chance",
       "link": "https://mein-mmo.de/marvel-godzilla-gegen-doom/",
       "pubDate": "02.09.2026 um 14:13 Uhr",
@@ -147,6 +147,30 @@
   ],
   "int": [
     {
+      "title": "RuneScape Dragonwilds isn't getting a price increase when it leaves early access: \"We hope this small gesture goes some way to showing our endless appreciation\"",
+      "link": "https://www.gamesradar.com/games/survival/runescape-dragonwilds-isnt-getting-a-price-increase-when-it-leaves-early-access-we-hope-this-small-gesture-goes-some-way-to-showing-our-endless-appreciation/",
+      "pubDate": "03.09.2026 um 00:06 Uhr",
+      "timestamp": 1788393994.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The next update, Luminance, will be free"
+    },
+    {
+      "title": "Fall 2 Replaces Its Deadly Tower With a Real-Life Nightmare",
+      "link": "https://www.polygon.com/fall-2-directors-interview/",
+      "pubDate": "03.09.2026 um 00:00 Uhr",
+      "timestamp": 1788393614.0,
+      "source": "Polygon.com",
+      "summary": "Fall 2: Deadpoint is in theaters now, and goes to great lengths to scare you."
+    },
+    {
+      "title": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
+      "link": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
+      "pubDate": "02.09.2026 um 23:20 Uhr",
+      "timestamp": 1788391200.0,
+      "source": "IGN All",
+      "summary": "The best monitor for both gaming and workstation productivity is now shipping."
+    },
+    {
       "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
       "link": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
       "pubDate": "02.09.2026 um 22:30 Uhr",
@@ -179,6 +203,22 @@
       "summary": "The Vrakhiri's reign makes it hard to find a merchant buying silver."
     },
     {
+      "title": "The Witcher 4, Cyberpunk 2077 Developer CD Projekt Red Ramps Up Hiring on 'Project Hadar'",
+      "link": "https://www.ign.com/articles/the-witcher-4-cyberpunk-2077-developer-cd-projekt-red-ramps-up-hiring-on-project-hadar",
+      "pubDate": "02.09.2026 um 22:04 Uhr",
+      "timestamp": 1788386656.0,
+      "source": "IGN All",
+      "summary": "The Witcher and Cyberpunk developer CD Projekt Red is staffing up for its unannounced 'Project Hadar', as that team is currently over 30 people strong..."
+    },
+    {
+      "title": "Over 600 Unused Voice Lines From Resident Evil 4 Leak Online, Showing That Capcom Intended to Connect the Game to Village",
+      "link": "https://www.ign.com/articles/over-600-unused-voice-lines-from-resident-evil-4-leak-online-showing-that-capcom-intended-to-connect-the-game-to-village",
+      "pubDate": "02.09.2026 um 22:01 Uhr",
+      "timestamp": 1788386498.0,
+      "source": "IGN All",
+      "summary": "Over 30 minutes’ worth of unused voice lines from Resident Evil 4 Remake have surfaced online, one of which proves that Capcom wanted to make a connec..."
+    },
+    {
       "title": "'Stronger Than Achilles' quest walkthrough in The Blood of Dawnwalker",
       "link": "https://www.polygon.com/blood-of-dawnwalker-stronger-than-achilles-quest-walkthrough/",
       "pubDate": "02.09.2026 um 22:01 Uhr",
@@ -187,7 +227,7 @@
       "summary": "Here's what happens if you let Anca use the font in The Blood of Dawnwalker's 'Stronger Than Achilles' quest."
     },
     {
-      "title": "Which quests should you do before mass in The Blood of Dawnwalker?",
+      "title": "What quests should you do before mass in The Blood of Dawnwalker?",
       "link": "https://www.polygon.com/blood-of-dawnwalker-mass-quests-which-prologue/",
       "pubDate": "02.09.2026 um 22:01 Uhr",
       "timestamp": 1788386474.0,
@@ -227,52 +267,12 @@
       "summary": "Corruption dictates which vampirism skills you can use in The Blood of Dawnwalker. Here's how to level up corruption."
     },
     {
-      "title": "How the time system works in The Blood of Dawnwalker.",
-      "link": "https://www.polygon.com/blood-of-dawnwalker-time-system-explained-how-works/",
-      "pubDate": "02.09.2026 um 22:01 Uhr",
-      "timestamp": 1788386474.0,
-      "source": "Polygon.com",
-      "summary": "Here's how the time system works in The Blood of Dawnwalker, including tips on spending time segments and using the day/night cycle."
-    },
-    {
-      "title": "Who stole the Banner in The Blood of Dawnwalker Blasphemy quest?",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-banner-blasphemy/",
+      "title": "Should you stay to learn latin with Anca or go in The Blood of Dawnwalker?",
+      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-anca-latin/",
       "pubDate": "02.09.2026 um 22:00 Uhr",
       "timestamp": 1788386400.0,
       "source": "Latest from GamesRadar+",
-      "summary": "The banner was stolen from Gremla's shed in Dawnwalker, but who took it?"
-    },
-    {
-      "title": "What to do before sundown and Mass in The Blood of Dawnwalker",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-what-to-do-before-sundown-mass/",
-      "pubDate": "02.09.2026 um 22:00 Uhr",
-      "timestamp": 1788386400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "You have a day in which to explore Laslea village and do chores before Mass in Dawnwalker, but what should you spend that time doing?"
-    },
-    {
-      "title": "Are claws or swords better in The Blood of Dawnwalker?",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-sword-or-claws/",
-      "pubDate": "02.09.2026 um 22:00 Uhr",
-      "timestamp": 1788386400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Your vampire claws in The Blood of Dawnwalker are deadly weapons, but are they better than swords?"
-    },
-    {
-      "title": "How to get the best weapon in The Blood of Dawnwalker",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-weapons/",
-      "pubDate": "02.09.2026 um 22:00 Uhr",
-      "timestamp": 1788386400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The best sword in The Blood of Dawnwalker is the legendary Imbued Sword of St. Mihai"
-    },
-    {
-      "title": "Should you force feed your mother in The Blood of Dawnwalker?",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-force-feed/",
-      "pubDate": "02.09.2026 um 22:00 Uhr",
-      "timestamp": 1788386400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "It's a brutal choice, but should you force feed Esme in Dawnwalker?"
+      "summary": "Should you spend time with Anca learning latin, or go and save the time?"
     },
     {
       "title": "How to brew the medicine in The Blood of Dawnwalker",
@@ -283,12 +283,12 @@
       "summary": "Anca's herbs for Esme require careful preparation, a recipe, memorizing how hot the water should be and how many spoonfuls to use"
     },
     {
-      "title": "How does the time system work in The Blood of Dawnwalker?",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-time-day-night/",
+      "title": "Should you force feed your mother in The Blood of Dawnwalker?",
+      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-force-feed/",
       "pubDate": "02.09.2026 um 22:00 Uhr",
       "timestamp": 1788386400.0,
       "source": "Latest from GamesRadar+",
-      "summary": "How does time pass in The Blood of Dawnwalker, and is there a way to change it?"
+      "summary": "It's a brutal choice, but should you force feed Esme in Dawnwalker?"
     }
   ],
   "sim": [
