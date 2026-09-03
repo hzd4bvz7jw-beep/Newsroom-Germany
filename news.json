@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WoW: So knapp! Liquid holt den World First von Ula’tek auf Mythisch",
+      "link": "https://mein-mmo.de/wow-ulatek-world-first-liquid/",
+      "pubDate": "03.09.2026 um 19:19 Uhr",
+      "timestamp": 1788463170.0,
+      "source": "Mein-MMO",
+      "summary": "Das Rennen um den World First Kill von Ula'tek in World of Warcraft ist vorbei. Der Sieger ist die amerikanische Gilde Liquid. Herzlichen Glückwunsch!..."
+    },
+    {
       "title": "15 Millionen Verkäufe: CD Projekt freut sich über den Erfolg von Phantom Liberty",
       "link": "https://www.computerbase.de/news/gaming/15-millionen-verkaeufe-cd-projekt-freut-sich-ueber-den-erfolg-von-phantom-liberty.99212/",
       "pubDate": "03.09.2026 um 20:40 Uhr",
@@ -135,17 +143,81 @@
       "timestamp": 1788451805.0,
       "source": "PlayCentral",
       "summary": "Sony und Firesprite Games haben den Veröffentlichungstermin von Until Dawn 2 bekannt gegeben. Das cineastische Horrorspiel erscheint am 28. Januar 202..."
-    },
-    {
-      "title": "Nvidia PAIR: RTX und Apple Mac ab M4 rechnen in Zukunft im Team",
-      "link": "https://www.computerbase.de/news/pc-systeme/nvidia-pair-rtx-und-apple-mac-ab-m4-rechnen-in-zukunft-im-team.99226/",
-      "pubDate": "03.09.2026 um 18:01 Uhr",
-      "timestamp": 1788451260.0,
-      "source": "ComputerBase",
-      "summary": "Neben einem konkreten Datum für Notebooks und Mini-PCs mit RTX Spark N1X hat Nvidia zur IFA den Personal AI Router vorgestellt. Mit Nvidia PAIR lassen..."
     }
   ],
   "int": [
+    {
+      "title": "11 Songs That Were Not Played At The Undertale Determination Symphony, In Increasing Order Of How Batshit It Was Not To Include Them",
+      "link": "https://kotaku.com/undertale-determination-symphony-music-concert-2000731007",
+      "pubDate": "03.09.2026 um 20:08 Uhr",
+      "timestamp": 1788466086.0,
+      "source": "Kotaku",
+      "summary": "Undyne deserves better"
+    },
+    {
+      "title": "Switch Online Just Got One of Nintendo's Greatest Racing Games of All Time",
+      "link": "https://www.polygon.com/rc-pro-am-2-nintendo-switch-retrospective/",
+      "pubDate": "03.09.2026 um 20:00 Uhr",
+      "timestamp": 1788465615.0,
+      "source": "Polygon.com",
+      "summary": "The Nintendo Switch Online's lineup just expanded with one of the most ambitious racing games of its era."
+    },
+    {
+      "title": "Microsoft announces cap on Xbox Cloud Gaming hours for Game Pass subscribers, admits most aren't using it much anyway",
+      "link": "https://www.pcgamer.com/gaming-industry/microsoft-announces-cap-on-xbox-cloud-gaming-hours-for-game-pass-subscribers-admits-most-arent-using-it-much-anyway/",
+      "pubDate": "03.09.2026 um 19:53 Uhr",
+      "timestamp": 1788465214.0,
+      "source": "PCGamer latest",
+      "summary": "Gotta find revenue wherever you can, I guess."
+    },
+    {
+      "title": "DLSS 5 can be jammed into almost any game now, so I've been playing FM26 with neural rendered little computer people because that's just what I do",
+      "link": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-be-jammed-into-almost-any-game-now-so-ive-been-playing-fm26-with-neural-rendered-little-computer-people-because-thats-just-what-i-do/",
+      "pubDate": "03.09.2026 um 19:52 Uhr",
+      "timestamp": 1788465134.0,
+      "source": "PCGamer latest",
+      "summary": "And here's how I did it."
+    },
+    {
+      "title": "'Geno The Ultimate Reality' story quest walkthrough in Fortnite Chapter 7 Season 4",
+      "link": "https://www.polygon.com/fortnite-chapter-7-season-4-geno-the-ultimate-reality-story-quest-walkthrough/",
+      "pubDate": "03.09.2026 um 19:39 Uhr",
+      "timestamp": 1788464354.0,
+      "source": "Polygon.com",
+      "summary": "This walkthrough will guide you through all eight steps for the \"Geno: The Ultimate Reality\" story quest in Fortnite Chapter 7 Season 4."
+    },
+    {
+      "title": "Owner of nearly decade-old Dell laptop reportedly wore through the wrist rest and is 'being stabbed by carbon fibers'",
+      "link": "https://www.pcgamer.com/hardware/gaming-laptops/owner-of-nearly-decade-old-dell-laptop-reportedly-wore-through-the-wrist-rest-and-is-being-stabbed-by-carbon-fibers/",
+      "pubDate": "03.09.2026 um 19:28 Uhr",
+      "timestamp": 1788463716.0,
+      "source": "PCGamer latest",
+      "summary": "Ouch."
+    },
+    {
+      "title": "The Blood of Dawnwalker’s Final Boss Can Be Fought Immediately, but Will Destroy You",
+      "link": "https://www.polygon.com/blood-dawnwalker-final-boss-brencis-prologue-fight/",
+      "pubDate": "03.09.2026 um 19:26 Uhr",
+      "timestamp": 1788463583.0,
+      "source": "Polygon.com",
+      "summary": "There are two ways to fight the final boss right at the start of The Blood of Dawnwalker, and if you manage to beat it, you're a god amongst men."
+    },
+    {
+      "title": "Gundam RG: XARX-ZERO’s Director Talks About Anti-War Messaging And The Need To ‘Betray’ Fans’ Expectations At Times",
+      "link": "https://kotaku.com/gundam-rg-xarx-zeros-director-talks-about-anti-war-messaging-and-the-need-to-betray-fans-expectations-at-times-2000730987",
+      "pubDate": "03.09.2026 um 19:25 Uhr",
+      "timestamp": 1788463505.0,
+      "source": "Kotaku",
+      "summary": "Kenji Kamiyama shares his hope to create change, even in small ways, during this current era of ‘great separation’"
+    },
+    {
+      "title": "Days before BlizzCon, Blizzard begins mysterious StarCraft teaser amid rumors of StarCraft 3",
+      "link": "https://www.gamesradar.com/games/real-time-strategy/days-before-blizzcon-blizzard-begins-mysterious-starcraft-teaser-amid-rumors-of-starcraft-3/",
+      "pubDate": "03.09.2026 um 19:12 Uhr",
+      "timestamp": 1788462778.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Hell, it's about time"
+    },
     {
       "title": "A multi-month delay for Deus Ex turned into a huge payoff for one of its best characters, says designer Harvey Smith",
       "link": "https://www.pcgamer.com/gaming-industry/game-development/a-multi-month-delay-for-deus-ex-turned-into-a-huge-payoff-for-one-of-its-best-characters-says-designer-harvey-smith/",
@@ -217,78 +289,6 @@
       "timestamp": 1788458465.0,
       "source": "IGN All",
       "summary": "AdHoc Studio, the team behind Disptached, helped develop Until Dawn 2."
-    },
-    {
-      "title": "Square Enix Is Selling The Entire Final Fantasy 7 Remake Trilogy, Including Next Year’s Revelation, For Just $85",
-      "link": "https://kotaku.com/square-enix-is-selling-the-entire-final-fantasy-7-remake-trilogy-including-next-years-revelation-for-just-85-2000730969",
-      "pubDate": "03.09.2026 um 18:00 Uhr",
-      "timestamp": 1788458416.0,
-      "source": "Kotaku",
-      "summary": "Wowza, that's a really good deal on Remake, Rebirth, and the upcoming Revelation"
-    },
-    {
-      "title": "STALZONE Is an Extraction Shooter with MMO DNA",
-      "link": "https://www.ign.com/articles/stalzone-is-an-extraction-shooter-with-mmo-dna",
-      "pubDate": "03.09.2026 um 18:00 Uhr",
-      "timestamp": 1788458400.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "The 5 best new shows and movies streaming this week on Netflix, Disney Plus, Apple TV, and more (September 4-6)",
-      "link": "https://www.gamesradar.com/entertainment/streaming-services/new-shows-movies-to-stream-disney-plus-netflix-september-4-6/",
-      "pubDate": "03.09.2026 um 18:00 Uhr",
-      "timestamp": 1788458400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "From Star Wars adventures to sports comedies, we've got you covered this weekend"
-    },
-    {
-      "title": "Bucking Fastard Review",
-      "link": "https://www.ign.com/articles/bucking-fastard-review",
-      "pubDate": "03.09.2026 um 17:58 Uhr",
-      "timestamp": 1788458327.0,
-      "source": "IGN All",
-      "summary": "Bucking Fastard review: Werner Herzog casts Kate and Rooney Mara as synchronized sisters based on unusual real-life twins."
-    },
-    {
-      "title": "Onimusha: Way of the Sword launch times and release date",
-      "link": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-launch-time-release-date/",
-      "pubDate": "03.09.2026 um 17:57 Uhr",
-      "timestamp": 1788458273.0,
-      "source": "PCGamer latest",
-      "summary": "Your countdown to some quality katana time."
-    },
-    {
-      "title": "Game Pass Will Start Capping The Number Of Hours You Can Use Cloud Streaming Each Month But Says Not To Worry Because This Will Only Affect 4 Percent Of Players",
-      "link": "https://kotaku.com/game-pass-will-start-capping-the-number-of-hours-you-can-use-streaming-each-month-but-says-not-to-worry-because-it-will-only-affect-4-percent-of-players-2000731012",
-      "pubDate": "03.09.2026 um 17:57 Uhr",
-      "timestamp": 1788458239.0,
-      "source": "Kotaku",
-      "summary": "Xbox claws back one of the biggest benefits of Game Pass Ultimate"
-    },
-    {
-      "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece",
-      "link": "https://www.ign.com/articles/best-usb-cable-deals-september-2026",
-      "pubDate": "03.09.2026 um 17:55 Uhr",
-      "timestamp": 1788458100.0,
-      "source": "IGN All",
-      "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop."
-    },
-    {
-      "title": "Naughty Dog 'Not Done' With The Last of Us, but Studio Not Involved With HBO Show's 3rd Season",
-      "link": "https://www.ign.com/articles/naughty-dog-not-done-with-the-last-of-us-but-studio-not-involved-with-hbo-shows-3rd-season",
-      "pubDate": "03.09.2026 um 17:49 Uhr",
-      "timestamp": 1788457767.0,
-      "source": "IGN All",
-      "summary": "Naughty Dog boss Neil Druckmann says that neither he nor the studio are involved with the third season of the HBO TV adaptation of the beloved video g..."
-    },
-    {
-      "title": "Supergirl Is Coming to HBO Max Next Week",
-      "link": "https://www.ign.com/articles/supergirl-hbo-max-streaming-release-date",
-      "pubDate": "03.09.2026 um 17:36 Uhr",
-      "timestamp": 1788456998.0,
-      "source": "IGN All",
-      "summary": "Supergirl officially has a streaming release date."
     }
   ],
   "sim": [
