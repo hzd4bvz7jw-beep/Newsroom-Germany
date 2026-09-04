@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Xbox Cloud Gaming bekommt ein Stundenlimit: Selbst Ultimate erlaubt bald nur noch 15 Stunden im Monat",
+      "link": "https://www.eurogamer.de/xbox-cloud-gaming-game-pass-stundenlimit",
+      "pubDate": "04.09.2026 um 06:11 Uhr",
+      "timestamp": 1788502287.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wer Xbox Cloud Gaming regelm&auml;&szlig;ig nutzt, sollte ab November genauer auf die Uhr schauen. Microsoft f&uuml;hrt monatliche Stundenlimits f&uum..."
+    },
+    {
+      "title": "Am Kurfürsten­damm: Erster Anker Store eröffnet morgen in Berlin",
+      "link": "https://www.computerbase.de/news/smart-home/am-kurfuerstendamm-erster-anker-store-eroeffnet-morgen-in-berlin.99150/",
+      "pubDate": "04.09.2026 um 08:00 Uhr",
+      "timestamp": 1788501600.0,
+      "source": "ComputerBase",
+      "summary": "Zum heutigen offiziellen Start der IFA 2026 in Berlin gibt Anker die Eröffnung des ersten eigenen Flagship-Stores in Deutschland bekannt. Morgen, am 5..."
+    },
+    {
+      "title": "Das neue Rollenspiel zu Dragon Ball hätte fast MMO-Klassen bekommen, doch will jeder von euch wie Son-Goku sein",
+      "link": "https://mein-mmo.de/dragon-ball-xenoverse-3-interview-gamescom/",
+      "pubDate": "04.09.2026 um 06:00 Uhr",
+      "timestamp": 1788501600.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO konnte auf der Gamescom 2026 den Produzenten von Dragon Ball Xenoverse 3 interviewen. Er verriet, dass es fast Klassen gegeben hätte.  Der Bei..."
+    },
+    {
+      "title": "PlayStation 5: Controller kommen als Grand Theft Auto VI Limited Edition",
+      "link": "https://www.computerbase.de/news/gaming/dualsense-wireless-sony-bringt-ps5-controller-im-gta-6-design.99238/",
+      "pubDate": "04.09.2026 um 07:30 Uhr",
+      "timestamp": 1788499800.0,
+      "source": "ComputerBase",
+      "summary": "Der Hype um das kommende Actionspiel GTA 6 ist allgegenwärtig und sorgt auch für erhöhte Nachfrage nach kompatiblen Spielkonsolen wie der PlayStation ..."
+    },
+    {
       "title": "13 Milliarden USD: Nvidia kauft mit Hugging-Face das GitHub der KI",
       "link": "https://www.computerbase.de/news/wirtschaft/13-milliarden-usd-nvidia-kauft-mit-hugging-face-das-github-der-ki.99236/",
       "pubDate": "04.09.2026 um 07:00 Uhr",
@@ -41,12 +73,12 @@
       "summary": "Noch vor einer Woche hieß es auf Rückfrage zur Gamescom: DLSS 5 (erster Test in NBA 2K27) kommt nur für RTX 5000. Bei NBA 2K27 ist das heute auch der ..."
     },
     {
-      "title": "DLSS 5 in NBA 2K27 im Test: Benchmarks, Bildqualität- und Stromverbrauch-Analysen",
+      "title": "NBA 2K27: DLSS 5 verbessert die Grafik im ersten offiziellen Spiel deutlich",
       "link": "https://www.computerbase.de/artikel/grafikkarten/dlss-5-nba-2k27-test.99198/",
       "pubDate": "04.09.2026 um 06:00 Uhr",
       "timestamp": 1788494400.0,
       "source": "ComputerBase",
-      "summary": "NBA 2K27 unterstützt ab sofort als erstes Spiel offiziell DLSS 5. Das gilt ohne Mod forerst nur für RTX 50, aber am RTX-40-Support ist Nvidia dran. Co..."
+      "summary": "NBA 2K27 unterstützt ab sofort als erstes Spiel offiziell DLSS 5. Das gilt ohne Mod vorerst nur für RTX 50, aber am RTX-40-Support ist Nvidia dran. Co..."
     },
     {
       "title": "Ein Mutant im Marvel-Universum leidet täglich unter seiner Fähigkeit, die selbst die klügsten Köpfe kaum kontern können",
@@ -111,38 +143,6 @@
       "timestamp": 1788460300.0,
       "source": "PlayCentral",
       "summary": "Housemarque baut Saros noch im Jahr 2026 mit einem umfangreichen kostenlosen Update aus. Die Erweiterung trägt den Namen Zenith und wurde am 3. Septem..."
-    },
-    {
-      "title": "Predator Atlas 7: Acer verkleinert den Handheld mit Intel Arc G-Chips auf 7 Zoll",
-      "link": "https://www.computerbase.de/news/gaming/predator-atlas-7-acer-verkleinert-den-handheld-mit-intel-arc-g-chips-auf-7-zoll.99233/",
-      "pubDate": "03.09.2026 um 20:15 Uhr",
-      "timestamp": 1788459300.0,
-      "source": "ComputerBase",
-      "summary": "Mit dem Predator Atlas 7 hat Acer im Rahmen der IFA 2026 eine 7-Zoll-Variante dieses Gaming-Handhelds mit Intel-Chips bis hin zum Arc G3 Extreme vorge..."
-    },
-    {
-      "title": "The Witcher Remake: Geralts Rückkehr liegt vorerst auf Eis",
-      "link": "https://www.computerbase.de/news/gaming/the-witcher-remake-geralts-rueckkehr-liegt-vorerst-auf-eis.99224/",
-      "pubDate": "03.09.2026 um 19:55 Uhr",
-      "timestamp": 1788458100.0,
-      "source": "ComputerBase",
-      "summary": "Während Geralt mit dem Remaster und der Erweiterung Songs of the Past schon bald in The Witcher 3 zurückkehrt, rückt die Neuauflage seines ersten Aben..."
-    },
-    {
-      "title": "Final Fantasy Resonance – Sephiroth wird Bosskampf und freischaltbare Vision",
-      "link": "https://www.playcentral.de/final-fantasy-resonance-sephiroth-wird-bosskampf-und-freischaltbare-vision/",
-      "pubDate": "03.09.2026 um 17:32 Uhr",
-      "timestamp": 1788456768.0,
-      "source": "PlayCentral",
-      "summary": "Sephiroth meldet sich früher zurück als viele Fans erwartet haben. Der legendäre Gegenspieler aus Final Fantasy 7 wird am 22. Oktober 2026 in Final Fa..."
-    },
-    {
-      "title": "Keeper erscheint überraschend für PS5 – Xbox-Exklusivität endet nach Launch",
-      "link": "https://www.playcentral.de/keeper-erscheint-ueberraschend-fuer-ps5-xbox-exklusivitaet-endet-nach-launch/",
-      "pubDate": "03.09.2026 um 17:31 Uhr",
-      "timestamp": 1788456702.0,
-      "source": "PlayCentral",
-      "summary": "Eine weitere frühere Xbox-Konsolenexklusivität hat überraschend den Sprung auf die PlayStation 5 geschafft. Double Fine Productions hat das atmosphäri..."
     }
   ],
   "int": [
