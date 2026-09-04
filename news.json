@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "Neil Druckmann: Naughty Dog ist mit The Last of Us noch lange nicht fertig",
+      "link": "https://www.eurogamer.de/the-last-of-us-naughty-dog-mehrere-neue-projekte",
+      "pubDate": "04.09.2026 um 11:07 Uhr",
+      "timestamp": 1788520066.0,
+      "source": "Eurogamer.de News",
+      "summary": "Bei Naughty Dog steht derzeit zwar Intergalactic: The Heretic Prophet im Mittelpunkt, mit The Last of Us ist das Studio deshalb aber noch lange nicht ..."
+    },
+    {
+      "title": "Schräges Schwebe-Design: MSI lässt Luft unter das Gehäuse",
+      "link": "https://www.computerbase.de/news/gehaeuse/schraeges-schwebe-design-msi-laesst-luft-unter-das-gehaeuse.99243/",
+      "pubDate": "04.09.2026 um 13:02 Uhr",
+      "timestamp": 1788519720.0,
+      "source": "ComputerBase",
+      "summary": "Der nächste Gehäuse-Trend sind „schwebende“ Designs. Das wird bei MSI schräg und fällt alleine dadurch auf. Das MAG Vixta 300R bietet der Hersteller d..."
+    },
+    {
+      "title": "Ihr könnt jetzt 100.000 $ gewinnen, wenn ihr den Shooter zockt, den sowieso gerade jeder zocken will – So macht ihr mit",
+      "link": "https://mein-mmo.de/wardogs-wettbewerb-100000usd-wettbewerb/",
+      "pubDate": "04.09.2026 um 10:43 Uhr",
+      "timestamp": 1788518601.0,
+      "source": "Mein-MMO",
+      "summary": "Wardogs veranstaltet einen Wettbewerb, bei dem ihr 100.000 $ gewinnen könnt. So nehmt ihr teil und habt eine Chance auf das Preisgeld. Der Beitrag Ihr..."
+    },
+    {
+      "title": "Lexar Muse: Die flachste SSD zieht sich mit einer Hülle an",
+      "link": "https://www.computerbase.de/news/storage/lexar-muse-die-flachste-ssd-zieht-sich-mit-einer-huelle-an.99203/",
+      "pubDate": "04.09.2026 um 12:31 Uhr",
+      "timestamp": 1788517860.0,
+      "source": "ComputerBase",
+      "summary": "Die nach eigenen Angaben dünnste tragbare SSD präsentiert Lexar zur IFA. Selbst an der dicksten Stelle misst die Muse Ultra-Slim Portable SSD lediglic..."
+    },
+    {
+      "title": "Netflix hat eine neue Dungeons-&-Dragons-Serie in Arbeit – diesmal geht es nach Ravenloft",
+      "link": "https://www.eurogamer.de/netflix-dungeons-dragons-serie-ravenloft-alfonso-cuaron-strahd",
+      "pubDate": "04.09.2026 um 10:18 Uhr",
+      "timestamp": 1788517092.0,
+      "source": "Eurogamer.de News",
+      "summary": "Netflix versucht es erneut mit Dungeons & Dragons. Statt klassischer Fantasy mit Helden, Tavernen und dem &uuml;blichen &Auml;rger mit Drachen soll es..."
+    },
+    {
       "title": "Lenovo × AirJet im Hands-on: Project AeroBlade ist superdünn, leicht und interessant",
       "link": "https://www.computerbase.de/news/notebooks/lenovo-x-airjet-im-hands-on-project-aeroblade-ist-superduenn-leicht-und-interessant.99219/",
       "pubDate": "04.09.2026 um 12:00 Uhr",
@@ -103,49 +143,105 @@
       "timestamp": 1788511307.0,
       "source": "Mein-MMO",
       "summary": "Hand aufs Herz: Könnt ihr noch den kompletten Pokérap aufsagen? Mittlerweile gibt es viele Taschenmonster, die im Song untergebracht werden müssten. P..."
-    },
-    {
-      "title": "The Blood of Dawnwalker bekommt seinen ersten Hotfix",
-      "link": "https://www.eurogamer.de/the-blood-of-dawnwalker-bekommt-seinen-ersten-hotfix",
-      "pubDate": "04.09.2026 um 08:39 Uhr",
-      "timestamp": 1788511194.0,
-      "source": "Eurogamer.de News",
-      "summary": "The Blood of Dawnwalker ist seit gestern erh&auml;ltlich und schon steht der erste Hotfix bereit. Rebel Wolves verteilt Version 1.0.2 auf PC, PlayStat..."
-    },
-    {
-      "title": "Elgato Conferencing Kit Plus im Test: Dieses 500-Euro-Setup verändert Videokonferenzen",
-      "link": "https://www.playcentral.de/elgato-conferencing-kit-plus-test/",
-      "pubDate": "04.09.2026 um 08:38 Uhr",
-      "timestamp": 1788511138.0,
-      "source": "PlayCentral",
-      "summary": "Webcams gehören inzwischen zur Standardausstattung vieler Arbeitsplätze. Wirklich gut gelöst sind Videokonferenzen deshalb aber noch lange nicht. Die ..."
-    },
-    {
-      "title": "GPT-6 Astra: Wie sich OpenAIs neues Top-Modell von Fable 5 und GPT-5.6 Sol absetzt",
-      "link": "https://www.computerbase.de/news/apps/gpt-6-astra-wie-sich-openais-neues-top-modell-von-fable-5-und-gpt-5-6-sol-absetzt.99241/",
-      "pubDate": "04.09.2026 um 10:29 Uhr",
-      "timestamp": 1788510540.0,
-      "source": "ComputerBase",
-      "summary": "Aufgrund der Leistungsfähigkeit im Bereich Cybersicherheit hatte OpenAI den Start des neuen Astra-Modells verzögert, jetzt wurde es als GPT-6 offiziel..."
-    },
-    {
-      "title": "Crimson Desert bekommt seinen ersten DLC: Im Oktober geht es aufs Meer und unter Wasser",
-      "link": "https://www.eurogamer.de/crimson-desert-dlc-charting-the-unknown-release-oktober-2026",
-      "pubDate": "04.09.2026 um 08:15 Uhr",
-      "timestamp": 1788509752.0,
-      "source": "Eurogamer.de News",
-      "summary": "Crimson Desert war Pearl Abyss offenbar noch nicht gro&szlig; genug. Rund ein halbes Jahr nach der Ver&ouml;ffentlichung bekommt das Open-World-Action..."
-    },
-    {
-      "title": "EcoFlow River Gen4 und PowerRock 4000: Mini-PowerStation für den Rucksack oder High-End für die Baustelle",
-      "link": "https://www.computerbase.de/news/smart-home/ecoflow-river-gen4-und-powerrock-4000-mini-powerstation-fuer-den-rucksack-oder-high-end-fuer-die-baustelle.99199/",
-      "pubDate": "04.09.2026 um 10:00 Uhr",
-      "timestamp": 1788508800.0,
-      "source": "ComputerBase",
-      "summary": "EcoFlow präsentiert auf der IFA 2026 in Berlin zwei neue Produkte: die tragbare Powerstation River Gen4 und die PowerRock 4000 für professionelle Anwe..."
     }
   ],
   "int": [
+    {
+      "title": "Man of Tomorrow star Adria Arjona shares her intense training for Man of Tomorrow, and DC needs to just announce her as Wonder Woman already",
+      "link": "https://www.gamesradar.com/entertainment/dc-movies/man-of-tomorrow-star-adria-arjona-shares-her-intense-training-for-man-of-tomorrow-and-dc-needs-to-just-announce-her-as-wonder-woman-already/",
+      "pubDate": "04.09.2026 um 11:01 Uhr",
+      "timestamp": 1788519701.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The rumored Wonder Woman star has shared her preparation"
+    },
+    {
+      "title": "6 Upcoming Steam Games That Need To Be on Your Wishlist",
+      "link": "https://www.polygon.com/wishlister-gamescom-september-4/",
+      "pubDate": "04.09.2026 um 11:00 Uhr",
+      "timestamp": 1788519614.0,
+      "source": "Polygon.com",
+      "summary": "Fresh off of Gamescom, here are six standouts from the show that should be on your Steam wishlist."
+    },
+    {
+      "title": "The Blood of Dawnwalker's mods immediately scrap the time pressure mechanic, which is apparently a dealbreaker for some people",
+      "link": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-mods-immediately-scrap-the-time-pressure-mechanic-which-is-apparently-a-dealbreaker-for-some-people/",
+      "pubDate": "04.09.2026 um 10:57 Uhr",
+      "timestamp": 1788519464.0,
+      "source": "PCGamer latest",
+      "summary": "That didn't take much time."
+    },
+    {
+      "title": "Petit Planet's delightfully cosy galactic take on Animal Crossing is the closest we'll ever get to the life sim on PC",
+      "link": "https://www.pcgamer.com/games/life-sim/petit-planets-delightfully-cosy-galactic-take-on-animal-crossing-is-the-closest-well-ever-get-to-the-life-sim-on-pc/",
+      "pubDate": "04.09.2026 um 10:56 Uhr",
+      "timestamp": 1788519419.0,
+      "source": "PCGamer latest",
+      "summary": "Everyone's favourite cosy sim, now with gacha."
+    },
+    {
+      "title": "One eagle-eyed Silo fan has spotted a clue in season 3 that reveals how many silos are remaining",
+      "link": "https://www.gamesradar.com/entertainment/sci-fi-shows/one-eagle-eyed-silo-fan-has-spotted-a-clue-in-season-3-that-reveals-how-many-silos-are-remaining/",
+      "pubDate": "04.09.2026 um 10:49 Uhr",
+      "timestamp": 1788518960.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Silo fans think they've worked out how many silos are still active"
+    },
+    {
+      "title": "What is Cautionary Intel in Star Wars Zero Company?",
+      "link": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-cautionary-intel/",
+      "pubDate": "04.09.2026 um 10:41 Uhr",
+      "timestamp": 1788518506.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Cautionary Intel in Star Wars Zero Company is a passive buff that reduces injury chances"
+    },
+    {
+      "title": "Plan to market GTA 6 by turning Miami-Dade into Vice City isn't going down well with local sheriff: \"We need to seriously consider the message we send\"",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/plan-to-market-gta-6-by-turning-miami-dade-into-vice-city-isnt-going-down-well-with-local-sheriff-we-need-to-seriously-consider-the-message-we-send/",
+      "pubDate": "04.09.2026 um 10:36 Uhr",
+      "timestamp": 1788518190.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"At a time when law enforcement is working every day to reduce violent crime...\""
+    },
+    {
+      "title": "Anbernic just revamped its Nintendo DS clone, but I'm still itching for a cheaper 3DS handheld homage",
+      "link": "https://www.gamesradar.com/hardware/handhelds/anbernic-just-revamped-its-nintendo-ds-clone-but-im-still-itching-for-a-cheaper-3ds-handheld-homage/",
+      "pubDate": "04.09.2026 um 10:34 Uhr",
+      "timestamp": 1788518050.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Anbernic RG DS Plus is a revamped version of last year's Nintendo DS handheld with four times higher resolution screens and a sneaky stylus at the"
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet's writing hasn't been influenced by Neil Druckmann's time on The Last of Us HBO show, but production lessons are being learned",
+      "link": "https://www.gamesradar.com/games/the-last-of-us/intergalactic-the-heretic-prophets-writing-hasnt-been-influenced-by-neil-druckmanns-time-on-the-last-of-us-hbo-show-but-production-lessons-are-being-learned/",
+      "pubDate": "04.09.2026 um 10:33 Uhr",
+      "timestamp": 1788517985.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Druckmann stepped away from the show following its second season"
+    },
+    {
+      "title": "Xbox Is Putting a Time Limit on Cloud Gaming",
+      "link": "https://www.polygon.com/xbox-game-pass-cloud-gaming-time-limit/",
+      "pubDate": "04.09.2026 um 10:23 Uhr",
+      "timestamp": 1788517426.0,
+      "source": "Polygon.com",
+      "summary": "Cloud gaming is being significantly downgraded as an Xbox Game Pass perk, as Xbox introduces playtime limits."
+    },
+    {
+      "title": "The Blood of Dawnwalker's biggest mod reworks the RPG's most anxiety-inducing mechanic, but not all are convinced you should use it: \"People are too scared to make hard decisions\"",
+      "link": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalkers-biggest-mod-reworks-the-rpgs-most-anxiety-inducing-mechanic-but-not-all-are-convinced-you-should-use-it-people-are-too-scared-to-make-hard-decisions/",
+      "pubDate": "04.09.2026 um 10:21 Uhr",
+      "timestamp": 1788517304.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"It completely defeats the whole purpose of the game's design\""
+    },
+    {
+      "title": "Xgimi Titan Noir Max review",
+      "link": "https://www.pcgamer.com/hardware/gaming-monitors/xgimi-titan-noir-max-review/",
+      "pubDate": "04.09.2026 um 10:14 Uhr",
+      "timestamp": 1788516885.0,
+      "source": "PCGamer latest",
+      "summary": "A whole lot of money for a whole lot of lumens."
+    },
     {
       "title": "Blood of Dawnwalker's first patch offers relief from buggy tutorials and tight-lipped NPCs, but Rebel Wolves are still working on fixes for the stuttering and shader crash problems",
       "link": "https://www.rockpapershotgun.com/blood-of-dawnwalkers-first-patch-offers-relief-from-buggy-tutorials-and-tight-lipped-npcs-but-rebel-wolves-are-still-working-on-fixes-for-the-stuttering-and-shader-crash-problems",
@@ -171,22 +267,6 @@
       "summary": "Watch out anime fans: it looks like the new Sekiro: No Defeat teaser may actually spoil the show"
     },
     {
-      "title": "\"We're not done with The Last of Us\": Neil Druckmann confirms Naughty Dog has \"a couple projects in the works,\" even if the TV show is ending",
-      "link": "https://www.gamesradar.com/games/the-last-of-us/were-not-done-with-the-last-of-us-neil-druckmann-confirms-naughty-dog-has-a-couple-projects-in-the-works-even-if-the-tv-show-is-ending/",
-      "pubDate": "04.09.2026 um 09:43 Uhr",
-      "timestamp": 1788515034.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"As the creator of the games, Naughty Dog is still the steward of this IP\""
-    },
-    {
-      "title": "Neil Druckmann doubles down on distancing Naughty Dog from The Last of Us season 3, saying he had no involvement in the HBO show's \"creative direction\"",
-      "link": "https://www.gamesradar.com/entertainment/drama-shows/neil-druckmann-doubles-down-on-distancing-naughty-dog-from-the-last-of-us-season-3-saying-he-had-no-involvement-in-the-hbo-shows-creative-direction/",
-      "pubDate": "04.09.2026 um 09:43 Uhr",
-      "timestamp": 1788514986.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Season 3 will \"wrap up\" the story"
-    },
-    {
       "title": "Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted",
       "link": "https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits",
       "pubDate": "04.09.2026 um 09:19 Uhr",
@@ -209,86 +289,6 @@
       "timestamp": 1788512414.0,
       "source": "Polygon.com",
       "summary": "In this weekend's movie streaming column, there's the new Star Wars story, the latest entry in a long-running parody-horror franchise, and more."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation is getting a physical version, but it will require an internet connection to download",
-      "link": "https://www.eurogamer.net/final-fantasy-7-revelation-physical-version-catch",
-      "pubDate": "04.09.2026 um 08:58 Uhr",
-      "timestamp": 1788512326.0,
-      "source": "Eurogamer.net News",
-      "summary": "The third and final entry in the Final Fantasy 7 Remake series will launch on just one disc - unlike both Remake and Rebirth, which were spread across..."
-    },
-    {
-      "title": "Apple's mind-bending sci-fi series Silo just aired a wild season 3 finale, and fans are calling it \"phenomenal\": \"My jaw is on the floor\"",
-      "link": "https://www.gamesradar.com/entertainment/sci-fi-shows/apples-mind-bending-sci-fi-series-silo-just-aired-a-wild-season-3-finale-and-fans-are-calling-it-phenomenal-my-jaw-is-on-the-floor/",
-      "pubDate": "04.09.2026 um 08:57 Uhr",
-      "timestamp": 1788512278.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The finale is now out, and it features some wild reveals"
-    },
-    {
-      "title": "Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\"",
-      "link": "https://www.rockpapershotgun.com/miami-dade-police-outraged-by-proposals-to-turn-parts-of-miami-into-gta-6-saying-that-rockstars-game-embodies-what-they-work-every-single-day-to-prevent",
-      "pubDate": "04.09.2026 um 08:55 Uhr",
-      "timestamp": 1788512101.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "The mayor of Miami-Dade, Florida has been pitching Rockstar Games about transforming parts of the county into recreations of areas from Grand Theft Au..."
-    },
-    {
-      "title": "How to equip charms in Onimusha Way of the Sword",
-      "link": "https://www.gamesradar.com/games/rpg/onimusha-way-of-the-sword-charms/",
-      "pubDate": "04.09.2026 um 08:31 Uhr",
-      "timestamp": 1788510709.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Onimusha Way of the Sword charms boost your stats, but it's not that obvious how you actually equip them"
-    },
-    {
-      "title": "Amid Concern in Japan, Dragon Ball Producer Toei Animation Denies Involvement in Saudi-France Paris Theme Park",
-      "link": "https://www.ign.com/articles/amid-concern-in-japan-dragon-ball-producer-toei-animation-denies-involvement-in-saudi-france-paris-theme-park",
-      "pubDate": "04.09.2026 um 08:15 Uhr",
-      "timestamp": 1788509754.0,
-      "source": "IGN All",
-      "summary": "Last week, France and Saudi Arabia made the surprise announcement that the Paris region of France will be getting a Dragon Ball theme park. This spark..."
-    },
-    {
-      "title": "8 Near-Perfect Anime To Watch if You Like 'Solo Leveling'",
-      "link": "https://www.polygon.com/8-best-anime-like-solo-leveling-to-watch/",
-      "pubDate": "04.09.2026 um 08:00 Uhr",
-      "timestamp": 1788508814.0,
-      "source": "Polygon.com",
-      "summary": "Not every title has an overpowered protagonist, but all of them share Solo Leveling's DNA."
-    },
-    {
-      "title": "DreamWorks’ 'Kpop Demon Hunters' Replacement Officially Arrives in 1 Week",
-      "link": "https://www.polygon.com/forgotten-island-premiere/",
-      "pubDate": "04.09.2026 um 08:00 Uhr",
-      "timestamp": 1788508814.0,
-      "source": "Polygon.com",
-      "summary": "Get ready for another colorful animated movie packed with music and demons"
-    },
-    {
-      "title": "Marvel’s Most Valuable Figure Right Now Is Based on a Bizarre 1977 Spider-Man Show",
-      "link": "https://www.polygon.com/marvel-spider-man-1977-action-figure-most-valuable-collectable/",
-      "pubDate": "04.09.2026 um 07:00 Uhr",
-      "timestamp": 1788505214.0,
-      "source": "Polygon.com",
-      "summary": "Fans will need the Parker luck to snag this one."
-    },
-    {
-      "title": "Silo season 4 release date speculation, plot theories, cast, and everything we know about the final season",
-      "link": "https://www.gamesradar.com/entertainment/sci-fi-shows/silo-season-4-release-date-cast-plot-trailer-news/",
-      "pubDate": "04.09.2026 um 07:00 Uhr",
-      "timestamp": 1788505200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Here's our breakdown of Season 4, covering the Silo release window, plot speculation, and the latest cast information on the final season"
-    },
-    {
-      "title": "Netflix Is Officially Streaming the Most Satisfying Action Thriller of the Decade",
-      "link": "https://www.polygon.com/ready-of-not-streaming-netflix-september-2026/",
-      "pubDate": "04.09.2026 um 04:26 Uhr",
-      "timestamp": 1788495973.0,
-      "source": "Polygon.com",
-      "summary": "Ready or Not makes the leap to a new streaming home"
     }
   ],
   "sim": [
