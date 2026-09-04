@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Drakong InfinaKore Guitar: Der neue Gitarren-Controller geht einen Schritt weiter",
+      "link": "https://www.eurogamer.de/drakong-infinakore-gitarren-controller-hands-on",
+      "pubDate": "04.09.2026 um 16:04 Uhr",
+      "timestamp": 1788537878.0,
+      "source": "Eurogamer.de News",
+      "summary": "Das letzte Mal, als ich Guitar Hero spielte, war noch vor meiner Zeit im Gymnasium. Das ist weit &uuml;ber zehn Jahre her. Damals habe ich mir wenig G..."
+    },
+    {
+      "title": "Ab November 2026: Xbox Cloud Gaming bekommt monatliche Streaming-Limits",
+      "link": "https://www.computerbase.de/news/gaming/ab-november-2026-xbox-cloud-gaming-bekommt-monatliche-streaming-limits.99256/",
+      "pubDate": "04.09.2026 um 18:01 Uhr",
+      "timestamp": 1788537660.0,
+      "source": "ComputerBase",
+      "summary": "Microsoft führt ab November monatliche Streaming-Limits für Xbox Cloud Gaming ein. Das Zeitkontingent für Cloud-Streaming im Xbox Game Pass reicht dab..."
+    },
+    {
+      "title": "Final Fantasy 7 Revelation: Collector's Edition kommt 2027 für fast 400 Euro",
+      "link": "https://www.computerbase.de/news/gaming/final-fantasy-7-revelation-collectors-edition-kommt-2027-fuer-fast-400-euro.99247/",
+      "pubDate": "04.09.2026 um 17:36 Uhr",
+      "timestamp": 1788536160.0,
+      "source": "ComputerBase",
+      "summary": "Final Fantasy 7 Revelation erscheint am 8. April 2027 für den PC, PS5, Xbox Series X|S und Nintendo Switch 2. Im Rahmen eines neuen Trailers auf Sonys..."
+    },
+    {
+      "title": "Zwei Nintendo Directs im September 2026 – Zelda Jubiläum und Switch-News",
+      "link": "https://www.playcentral.de/zwei-nintendo-directs-im-september-2026-zelda-jubilaeum-und-switch-news/",
+      "pubDate": "04.09.2026 um 15:31 Uhr",
+      "timestamp": 1788535902.0,
+      "source": "PlayCentral",
+      "summary": "Nintendo sorgt im September 2026 gleich doppelt für Spannung. Das Unternehmen hat zwei Nintendo Direct-Präsentationen angekündigt, die an aufeinanderf..."
+    },
+    {
       "title": "EA Sports College Football 27 auf PS5 kostenlos testen – bis 6. September 2026",
       "link": "https://www.playcentral.de/ea-sports-college-football-27-auf-ps5-kostenlos-testen-bis-6-september-2026/",
       "pubDate": "04.09.2026 um 14:31 Uhr",
@@ -89,14 +121,6 @@
       "summary": "Wardogs veranstaltet einen Wettbewerb, bei dem ihr 100.000 $ gewinnen könnt. So nehmt ihr teil und habt eine Chance auf das Preisgeld. Der Beitrag Geh..."
     },
     {
-      "title": "Lenovo ThinkCentre X Ultra: AMDs Gorgon-Halo-APU mit Thunderbolt 4 für 3.100 Euro*",
-      "link": "https://www.computerbase.de/news/pc-systeme/lenovo-thinkcentre-x-ultra-amds-gorgon-halo-apu-mit-thunderbolt-4-fuer-3-100-euro.99171/",
-      "pubDate": "04.09.2026 um 14:50 Uhr",
-      "timestamp": 1788526200.0,
-      "source": "ComputerBase",
-      "summary": "Im Lenovo ThinkCentre X Ultra verbaut der Hersteller in nur 1,6 Litern Volumen AMDs neueste und größte APU: den Ryzen AI Max+ 495 Pro für den Business..."
-    },
-    {
       "title": "GTA 6: Die aktuellsten News von Rockstar und der Community im Ticker",
       "link": "https://mein-mmo.de/gta-6-100-tage-countdown/",
       "pubDate": "04.09.2026 um 12:44 Uhr",
@@ -119,33 +143,89 @@
       "timestamp": 1788525120.0,
       "source": "PlayCentral",
       "summary": "Der Xbox Game Pass erhält im September 2026 weiteren Nachschub für Fans klassischer Prügelspiele. Microsoft nimmt Mad King Redemption am 23. September..."
-    },
-    {
-      "title": "GTA 6 verdient sich sein „ab 18“ wohl in gleich mehrfacher Hinsicht, auch wenn es auf Netflix nicht so aussah",
-      "link": "https://mein-mmo.de/gta-6-ab-18-wohl-verdient/",
-      "pubDate": "04.09.2026 um 12:30 Uhr",
-      "timestamp": 1788525000.0,
-      "source": "Mein-MMO",
-      "summary": "Für viele Spieler war GTA 6 auf Netflix zu zahm. Neue Infos bestätigen jedoch: Das Spiel ist nicht grundlos ab 18 und haut richtig rein. Der Beitrag G..."
-    },
-    {
-      "title": "Audacity 4.0: Audio-Editor mit neuer Ober­fläche und neuem Projekt­for­mat",
-      "link": "https://www.computerbase.de/news/apps/audacity-4-0-audio-editor-mit-neuer-oberflaeche-und-neuem-projektformat.99242/",
-      "pubDate": "04.09.2026 um 14:28 Uhr",
-      "timestamp": 1788524880.0,
-      "source": "ComputerBase",
-      "summary": "Das Team hinter Audacity hat den Audio-Editor einer umfassenden Generalüberholung unterzogen und dabei nur wenige Bereiche ausgelassen. Neben einer vo..."
-    },
-    {
-      "title": "The Blood of Dawnwalker bekommt erstes Update zur Fehlerbehebung",
-      "link": "https://www.playcentral.de/the-blood-of-dawnwalker-bekommt-erstes-update-zur-fehlerbehebung/",
-      "pubDate": "04.09.2026 um 12:08 Uhr",
-      "timestamp": 1788523681.0,
-      "source": "PlayCentral",
-      "summary": "The Blood of Dawnwalker ist gerade mal einen Tag auf dem Markt und bekommt schon ein erstes Update. Das Action-RPG ist am 3. September für den PC, Pla..."
     }
   ],
   "int": [
+    {
+      "title": "Kingdom Hearts 4 Will Get a New Showing This Month, Square Enix Confirms",
+      "link": "https://www.polygon.com/kingdom-hearts-4-square-enix-tokyo-game-show-news-teased/",
+      "pubDate": "04.09.2026 um 16:06 Uhr",
+      "timestamp": 1788537963.0,
+      "source": "Polygon.com",
+      "summary": "Square Enix's Tokyo Game Show lineup teases Kingdom Hearts 4 and Final Fantasy 7 Revelation news"
+    },
+    {
+      "title": "Game of the Week – Oblivion Remastered is a weekend-killer on Switch 2",
+      "link": "https://www.gamesradar.com/games/the-elder-scrolls/game-of-the-week-september-4-the-elder-scrolls-4-oblivion-remastered-rpg/",
+      "pubDate": "04.09.2026 um 16:05 Uhr",
+      "timestamp": 1788537941.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "You've got some free time for games? Here's why it's worth losing it all in a high-fantasy classic"
+    },
+    {
+      "title": "HBO's Harry Potter Reveals New Dobby and Young Voldemort Replacements",
+      "link": "https://www.polygon.com/harry-potter-hbo-new-cast-dobby-tom-riddle-ginny-weasley-replacement/",
+      "pubDate": "04.09.2026 um 16:04 Uhr",
+      "timestamp": 1788537883.0,
+      "source": "Polygon.com",
+      "summary": "Harry Potter's new HBO series has cast a new Dobby, new Tom Riddle, and new Ginny Weasley for season 2, Harry Potter and the Chamber of Secrets."
+    },
+    {
+      "title": "Buying A Fat Stack Of Physical Games Still Feels Amazing",
+      "link": "https://kotaku.com/buying-a-fat-stack-of-physical-games-still-feels-amazing-2000731286",
+      "pubDate": "04.09.2026 um 16:00 Uhr",
+      "timestamp": 1788537657.0,
+      "source": "Kotaku",
+      "summary": "A new feature is reviving my Xbox game library"
+    },
+    {
+      "title": "Japan's Biggest Farming-Sim of 2026 Is Finally Coming to the US",
+      "link": "https://www.polygon.com/village-in-the-shade-preview/",
+      "pubDate": "04.09.2026 um 16:00 Uhr",
+      "timestamp": 1788537614.0,
+      "source": "Polygon.com",
+      "summary": "NIS America's Village in the Shade blends horror and farm-sim elements, and it looks like a contender for one of the year's must-play cozy games"
+    },
+    {
+      "title": "Great, now motherboard prices might be next to spike thanks to component costs increasing by up to 50%",
+      "link": "https://www.pcgamer.com/hardware/motherboards/great-now-motherboard-prices-might-be-next-to-spike-thanks-to-component-costs-increasing-by-up-to-50-percent/",
+      "pubDate": "04.09.2026 um 15:46 Uhr",
+      "timestamp": 1788536787.0,
+      "source": "PCGamer latest",
+      "summary": "PC gaming sure ain't cheap."
+    },
+    {
+      "title": "Silent Hill: Townfall is the most Scottish game I've ever played and the most effective horror game I've seen in ages: 'It made sense for us to dig deep into our upbringings, into our past, and try and build a place that felt believable'",
+      "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-is-the-most-scottish-game-ive-ever-played-and-the-most-effective-horror-game-ive-seen-in-ages-it-made-sense-for-us-to-dig-deep-into-our-upbringings-into-our-past-and-try-and-build-a-place-that-felt-believable/",
+      "pubDate": "04.09.2026 um 15:44 Uhr",
+      "timestamp": 1788536674.0,
+      "source": "PCGamer latest",
+      "summary": "And not just because of the foul weather."
+    },
+    {
+      "title": "Mass Effect 5 will be great as long as executives \"get out of the way,\" says former designer: \"We're all beholden to companies\"",
+      "link": "https://www.gamesradar.com/games/mass-effect/mass-effect-5-will-be-great-as-long-as-executives-get-out-of-the-way-says-former-designer-were-all-beholden-to-companies/",
+      "pubDate": "04.09.2026 um 15:44 Uhr",
+      "timestamp": 1788536642.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "You hear that, EA and BioWare?"
+    },
+    {
+      "title": "New BioWare-Style RPG Exodus Is Doing Romance A Little Differently From Mass Effect",
+      "link": "https://kotaku.com/exodus-romance-mass-effect-gay-same-sex-gender-2000731326",
+      "pubDate": "04.09.2026 um 15:32 Uhr",
+      "timestamp": 1788535923.0,
+      "source": "Kotaku",
+      "summary": "Narrative director Drew Karpyshyn has confirmed that ‘the player drives the romances’ in Exodus"
+    },
+    {
+      "title": "Matthew Mercer Changed Critical Role Campaign 4 Forever in Its First Episode",
+      "link": "https://www.polygon.com/critical-role-campaign-4-matthew-mercer/",
+      "pubDate": "04.09.2026 um 15:16 Uhr",
+      "timestamp": 1788534994.0,
+      "source": "Polygon.com",
+      "summary": "In an AMA with Brennan Lee Mulligan, Critical Role's Campaign 4 Dungeon Master revealed just how Matthew Mercer changed everything."
+    },
     {
       "title": "NBA 2K27 locker codes (September 2026) for free packs",
       "link": "https://www.gamesradar.com/games/nba-2k/nba-2k27-locker-codes/",
@@ -161,6 +241,14 @@
       "timestamp": 1788534004.0,
       "source": "Kotaku",
       "summary": "Humankind 2's big announcement trailer was called AI slop by many online, but behind-the-scenes footage shows real animals, people, and sets"
+    },
+    {
+      "title": "Harry Potter Series' Dobby and Young Voldemort Casting Revealed",
+      "link": "https://www.ign.com/articles/harry-potter-series-dobby-and-young-voldemort-casting-revealed",
+      "pubDate": "04.09.2026 um 15:00 Uhr",
+      "timestamp": 1788534000.0,
+      "source": "IGN All",
+      "summary": "HBO has revealed a trio of key roles for the second season of its lavish Harry Potter series: Dobby, Ginny Weasley and Tom Riddle, better known as a y..."
     },
     {
       "title": "Lanterns is HBO's third most successful new show ever, behind only House of the Dragon and The Last of Us",
@@ -187,111 +275,31 @@
       "summary": "FX officially confirms Season 2 of Noah Hawley's sci-fi horror series Alien: Earth has begun production"
     },
     {
+      "title": "White House Launches Arcade.Gov, a Minigame Site Where You Catch Immigrants, Build a Tetris Border Wall, and 'Fill Your Kids' Trump Accounts' With Bitcoin",
+      "link": "https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin",
+      "pubDate": "04.09.2026 um 14:50 Uhr",
+      "timestamp": 1788533433.0,
+      "source": "IGN All",
+      "summary": "Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a bord..."
+    },
+    {
       "title": "Miami Sheriff Slams GTA 6 For Glorifying Crimes They ‘Work Every Single Day To Prevent’ In Clash Over Turning Miami Into Vice City",
       "link": "https://kotaku.com/gta-6-grand-theft-auto-vice-city-miami-mayor-sheriff-2000731268",
       "pubDate": "04.09.2026 um 14:33 Uhr",
       "timestamp": 1788532437.0,
       "source": "Kotaku",
       "summary": "The 'GTA x MDC' marketing event proposed by Miami-Dade’s mayor has been criticized by both Miami-Dade's sheriff and its commissioner"
-    },
-    {
-      "title": "Next week, for the first time ever, Nintendo is hosting two Directs back-to-back - and the first one is dedicated to The Legend of Zelda's 40th anniversary",
-      "link": "https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct",
-      "pubDate": "04.09.2026 um 14:30 Uhr",
-      "timestamp": 1788532212.0,
-      "source": "Eurogamer.net News",
-      "summary": "Back in June, we learned that we're officially getting a The Legend of Zelda: Ocarina of Time remake, which is supposedly coming to Switch 2 later thi..."
-    },
-    {
-      "title": "'That criticism is justified': Gamescom apologizes for its callous response to developer hardware thefts",
-      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
-      "pubDate": "04.09.2026 um 14:27 Uhr",
-      "timestamp": 1788532074.0,
-      "source": "PCGamer latest",
-      "summary": "Gamescom said it is \"committed to jointly reviewing and further improving security,\" but doesn't mention any compensation for affected exhibitors."
-    },
-    {
-      "title": "In a sea of failed live service games, I'm shocked to see someone trying to make a MOBA",
-      "link": "https://www.pcgamer.com/games/moba/in-a-sea-of-failed-live-service-games-im-shocked-to-see-someone-trying-to-make-a-moba/",
-      "pubDate": "04.09.2026 um 14:21 Uhr",
-      "timestamp": 1788531664.0,
-      "source": "PCGamer latest",
-      "summary": "Project Zeta is trying to crack a near-impenetrable market."
-    },
-    {
-      "title": "We don't get action games like Tides of Annihilation very often, and after 45 minutes this Arthurian take is better than I expected",
-      "link": "https://www.gamesradar.com/games/action/we-dont-get-action-games-like-tides-of-annihilation-very-often-and-after-45-minutes-im-pleased-to-report-that-its-a-lot-better-than-i-expected/",
-      "pubDate": "04.09.2026 um 14:11 Uhr",
-      "timestamp": 1788531069.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Tides of Annihilation's combat is weighty, satisfying, and surprisingly difficult"
-    },
-    {
-      "title": "Nintendo Officially Confirms A 'Zelda' 40th Anniversary Direct Is Coming",
-      "link": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-nintendo-direct-september-2026/",
-      "pubDate": "04.09.2026 um 14:05 Uhr",
-      "timestamp": 1788530754.0,
-      "source": "Polygon.com",
-      "summary": "Nintendo surprises fans with two Directs in a single week, one for Zelda and the other for general games coming to Nintendo Switch 2"
-    },
-    {
-      "title": "Percy Jackson Author Is Getting Another Disney Plus Fantasy Series",
-      "link": "https://www.polygon.com/kane-chronicles-tv-series-disney-plus-percy-jackson/",
-      "pubDate": "04.09.2026 um 14:02 Uhr",
-      "timestamp": 1788530572.0,
-      "source": "Polygon.com",
-      "summary": "The Kane Chronicles book series is getting a TV adaptation at Disney Plus, with series author Rick Riordan heavily involved."
-    },
-    {
-      "title": "Brandon Sanderson’s New Book Officially Solves His Biggest Sci-Fi Mystery, 8 Years Later",
-      "link": "https://www.polygon.com/cytoverse-blightfall-janci-patterson-interview/",
-      "pubDate": "04.09.2026 um 14:01 Uhr",
-      "timestamp": 1788530474.0,
-      "source": "Polygon.com",
-      "summary": "Blightfall introduces a new villain to the Cytoverse"
-    },
-    {
-      "title": "Substructure is a Stardew Valley-inspired factory sim that takes one of Factorio's hardest and best mods and turns it into a dizzying, planet-wide game of its own",
-      "link": "https://www.gamesradar.com/games/simulation/substructure-is-a-stardew-valley-inspired-factory-sim-that-takes-one-of-factorios-hardest-and-best-mods-and-turns-it-into-a-dizzying-planet-wide-game-of-its-own/",
-      "pubDate": "04.09.2026 um 14:00 Uhr",
-      "timestamp": 1788530400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "A factory sim with layers"
-    },
-    {
-      "title": "Labor Day Nintendo Switch deals are doing their best to beat price increases ahead of Black Friday",
-      "link": "https://www.gamesradar.com/hardware/labor-day-nintendo-switch-deals-are-doing-their-best-to-beat-price-increases-ahead-of-black-friday/",
-      "pubDate": "04.09.2026 um 13:59 Uhr",
-      "timestamp": 1788530353.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Price increases have hit the Switch 2 but Labor Day sales are holding down the fort as Black Friday looms in the distance."
-    },
-    {
-      "title": "Nintendo Direct confirmed for next week, as well as a dedicated Zelda Anniversary stream where Ocarina of Time feels inevitable",
-      "link": "https://www.gamesradar.com/games/events-conferences/nintendo-direct-confirmed-for-next-week-as-well-as-a-dedicated-zelda-anniversary-stream-where-ocarina-of-time-feels-inevitable/",
-      "pubDate": "04.09.2026 um 13:57 Uhr",
-      "timestamp": 1788530265.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "We'll likely get our first look at The Legend of Zelda movie too"
-    },
-    {
-      "title": "The Last of Us Will Continue After the HBO Show’s Third Season",
-      "link": "https://www.polygon.com/last-of-us-naughty-dog-teases-more-games-after-hbo-adaptation-season-3/",
-      "pubDate": "04.09.2026 um 13:55 Uhr",
-      "timestamp": 1788530117.0,
-      "source": "Polygon.com",
-      "summary": "The Last of Us creator Neil Druckmann teases more games after the HBO adaptation's third season"
-    },
-    {
-      "title": "We’re Getting Not One, But Two Nintendo Directs Next Week",
-      "link": "https://kotaku.com/nintendo-direct-september-announcement-zelda-time-date-2000731290",
-      "pubDate": "04.09.2026 um 13:54 Uhr",
-      "timestamp": 1788530092.0,
-      "source": "Kotaku",
-      "summary": "One will be a general showcase, while the other will focus on The Legend of Zelda"
     }
   ],
   "sim": [
+    {
+      "title": "iRacing 2026 Season 3 Week 13 Schedule Released",
+      "link": "https://www.iracing.com/iracing-2026-season-3-week-13-schedule-released/",
+      "pubDate": "04.09.2026 um 15:30 Uhr",
+      "timestamp": 1788535835.0,
+      "source": "iRacing.com",
+      "summary": "Looking forward to getting behind the wheel of our newest cars and tracks? The latest edition of iRacing Week 13 has you covered with all sorts of fun..."
+    },
     {
       "title": "2026 Porsche Esports Supercup World Championship Series begins September 19th",
       "link": "https://www.iracing.com/2026-porsche-esports-supercup-world-championship-series-begins-september-19th/",
@@ -395,14 +403,6 @@
       "timestamp": 1787954401.0,
       "source": "iRacing.com",
       "summary": "On Tuesday night, the final stretch on the road to $500,000 starts at Michigan International Speedway for the first of three races in the 2026 eNASCAR..."
-    },
-    {
-      "title": "iRacing Development Update: August 2026",
-      "link": "https://www.iracing.com/iracing-development-update-august-2026/",
-      "pubDate": "28.08.2026 um 17:00 Uhr",
-      "timestamp": 1787936415.0,
-      "source": "iRacing.com",
-      "summary": "Hello iRacing, What a summer it’s been for motorsports. Between a brewing F1 title fight, dominant performances in INDYCAR, and NASCAR powering toward..."
     },
     {
       "title": "Fanatec Confirms Gran Turismo DD Pro Problems in GT7, Recommends a Fix",
