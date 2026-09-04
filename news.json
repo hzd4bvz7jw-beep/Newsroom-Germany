@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "13 Milliarden USD: Nvidia kauft mit Hugging-Face das GitHub der KI",
+      "link": "https://www.computerbase.de/news/wirtschaft/13-milliarden-usd-nvidia-kauft-mit-hugging-face-das-github-der-ki.99236/",
+      "pubDate": "04.09.2026 um 07:00 Uhr",
+      "timestamp": 1788498000.0,
+      "source": "ComputerBase",
+      "summary": "Aus den Übernahmegerüchten wird Gewissheit: Nvidia kauft Hugging Face für knapp 13 Milliarden US-Dollar. Der GPU-Konzern erhält damit die Kontrolle üb..."
+    },
+    {
+      "title": "Millennials sind jetzt schon so alt, dass die Gen Z sie im Büro nicht mehr versteht – Aber das gilt in beide Richtungen",
+      "link": "https://mein-mmo.de/gen-z-versteht-millennials-im-buero-nicht-mehr-und-umgekehrt/",
+      "pubDate": "04.09.2026 um 05:00 Uhr",
+      "timestamp": 1788498000.0,
+      "source": "Mein-MMO",
+      "summary": "Millennials sind jetzt schon so alt, dass die Gen Z sie im Büro nicht mehr versteht. Aber das gilt in beide Richtungen. Der Beitrag Millennials sind j..."
+    },
+    {
+      "title": "ColorEdge CG3200X: Erster OLED-Monitor von Eizo kommt im Winter",
+      "link": "https://www.computerbase.de/news/monitore/coloredge-cg3200x-erster-oled-monitor-von-eizo-kommt-im-winter.99234/",
+      "pubDate": "04.09.2026 um 06:30 Uhr",
+      "timestamp": 1788496200.0,
+      "source": "ComputerBase",
+      "summary": "Es hat lange gedauert, doch jetzt hat Eizo seinen ersten OLED-Monitor der ColorEdge-Serie im Detail vorgestellt. Der CG3200X nutzt ein QD-OLED-Panel m..."
+    },
+    {
+      "title": "Spieler frohlocken: Der Warlock in Diablo 4 sieht endlich so stark aus, wie er es verdient zu sein",
+      "link": "https://mein-mmo.de/warlock-in-diablo-4-sieht-endlich-stark-aus/",
+      "pubDate": "04.09.2026 um 04:30 Uhr",
+      "timestamp": 1788496200.0,
+      "source": "Mein-MMO",
+      "summary": "Der Warlock gehörte als neue Klasse bisher nicht zu den Spitzenreitern in Diablo 4. Mit Season 15 soll sich das ändern. Der Beitrag Spieler frohlocken..."
+    },
+    {
+      "title": "Nun also doch: Nvidia DLSS 5 kommt auch für GeForce RTX 4000",
+      "link": "https://www.computerbase.de/news/grafikkarten/nun-also-doch-nvidia-dlss-5-kommt-auch-fuer-geforce-rtx-4000.99232/",
+      "pubDate": "04.09.2026 um 06:00 Uhr",
+      "timestamp": 1788494400.0,
+      "source": "ComputerBase",
+      "summary": "Noch vor einer Woche hieß es auf Rückfrage zur Gamescom: DLSS 5 (erster Test in NBA 2K27) kommt nur für RTX 5000. Bei NBA 2K27 ist das heute auch der ..."
+    },
+    {
       "title": "DLSS 5 in NBA 2K27 im Test: Benchmarks, Bildqualität- und Stromverbrauch-Analysen",
       "link": "https://www.computerbase.de/artikel/grafikkarten/dlss-5-nba-2k27-test.99198/",
       "pubDate": "04.09.2026 um 06:00 Uhr",
@@ -103,49 +143,17 @@
       "timestamp": 1788456702.0,
       "source": "PlayCentral",
       "summary": "Eine weitere frühere Xbox-Konsolenexklusivität hat überraschend den Sprung auf die PlayStation 5 geschafft. Double Fine Productions hat das atmosphäri..."
-    },
-    {
-      "title": "Lenovo Project Swan im Hands-on: 14-Zoll-LCD wird auf Knopfdruck zum 17-Zoll-Breitbildschirm",
-      "link": "https://www.computerbase.de/news/notebooks/lenovo-project-swan-im-hands-on-14-zoll-lcd-wird-auf-knopfdruck-zum-17-zoll-breitbildschirm.99218/",
-      "pubDate": "03.09.2026 um 19:25 Uhr",
-      "timestamp": 1788456300.0,
-      "source": "ComputerBase",
-      "summary": "Konzepte haben bei Lenovo zu Messen Tradition: In diesem Jahr wird ein 14-Zoll-Display auf Tastendruck 17 Zoll breit. Das ist im Hands-on ziemlich coo..."
-    },
-    {
-      "title": "Final Fantasy VII Revelation: Zwei Story-DLCs und eine Collector's Edition für 390 Euro",
-      "link": "https://www.eurogamer.de/final-fantasy-vii-revelation-editionen-dlcs",
-      "pubDate": "03.09.2026 um 17:15 Uhr",
-      "timestamp": 1788455735.0,
-      "source": "Eurogamer.de News",
-      "summary": "Final Fantasy VII Revelation hat nun ein offizielles Ver&ouml;ffentlichungsdatum, n&auml;mlich den 8. April 2027. Square Enix hat au&szlig;erdem weite..."
-    },
-    {
-      "title": "Marvel’s Wolverine: Brutaler Launch-Trailer stimmt auf den PS5-Release ein",
-      "link": "https://www.playcentral.de/marvels-wolverine-launch-trailer-ps5-release/",
-      "pubDate": "03.09.2026 um 16:37 Uhr",
-      "timestamp": 1788453452.0,
-      "source": "PlayCentral",
-      "summary": "Wolverine fährt seine Krallen aus: Sony und Insomniac Games haben während der aktuellen State of Play den offiziellen Launch-Trailer zu Marvel’s Wolve..."
-    },
-    {
-      "title": "Monster Hunter Wilds: Ascendance zeigt neuen Trailer auf der State of Play",
-      "link": "https://www.eurogamer.de/monster-hunter-wilds-ascendance-trailer",
-      "pubDate": "03.09.2026 um 16:32 Uhr",
-      "timestamp": 1788453179.0,
-      "source": "Eurogamer.de News",
-      "summary": "Auf der State of Play von PlayStation gab es einen neuen Einblick in die gro&szlig;e Erweiterung \"Ascendance\" von Monster Hunter Wilds. Im ersten Trai..."
-    },
-    {
-      "title": "Epic Games Store – Astral Ascent und Luftrausers ab 10. September gratis",
-      "link": "https://www.playcentral.de/epic-games-store-astral-ascent-und-luftrausers-ab-10-september-gratis/",
-      "pubDate": "03.09.2026 um 16:31 Uhr",
-      "timestamp": 1788453094.0,
-      "source": "PlayCentral",
-      "summary": "Der Epic Games Store setzt seine wöchentlichen Gratisaktionen im September 2026 mit einem Doppelpack fort. Ab dem 10. September 2026 können Nutzer die..."
     }
   ],
   "int": [
+    {
+      "title": "Netflix Is Officially Streaming the Most Satisfying Action Thriller of the Decade",
+      "link": "https://www.polygon.com/ready-of-not-streaming-netflix-september-2026/",
+      "pubDate": "04.09.2026 um 04:26 Uhr",
+      "timestamp": 1788495973.0,
+      "source": "Polygon.com",
+      "summary": "Ready or Not makes the leap to a new streaming home"
+    },
     {
       "title": "39 Years Later, an Iconic X-Men Villain's First Appearance Is Suddenly the Hottest Comic on the Market",
       "link": "https://www.polygon.com/x-men-mister-sinister-first-appearance-39-years-later-major-price/",
@@ -281,14 +289,6 @@
       "timestamp": 1788472389.0,
       "source": "Polygon.com",
       "summary": "On episode 2 of Polygon's news show Point It Out!, Patches and Simone do a state of the union for the games industry in 2026."
-    },
-    {
-      "title": "Constantly reshape the world beneath your feet in the reality-bending \"puzzle-first\" Uncanyon, the next game from the devs behind the trippy Maquette",
-      "link": "https://www.rockpapershotgun.com/constantly-reshape-the-world-beneath-your-feet-in-the-reality-bending-puzzle-first-uncanyon-the-next-game-from-the-devs-behind-the-trippy-maquette",
-      "pubDate": "03.09.2026 um 21:50 Uhr",
-      "timestamp": 1788472242.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "A problem that games have, I find, is that it's quite hard for them to inspire a sense of wonder. The kind of thing that old movies, before CGI, that ..."
     }
   ],
   "sim": [
@@ -317,6 +317,14 @@
       "summary": "Polyphony Digital has announced Gran Turismo 7 Spec IV at PlayStation's State of Play, adding Sportsland Sugo, six new cars, the return of Shuffle Rac..."
     },
     {
+      "title": "iRacing Weekly Tune-in | eSports & Community Events | September 3rd to September 6th, 2026",
+      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-september-3rd-to-september-6th-2026/",
+      "pubDate": "02.09.2026 um 21:00 Uhr",
+      "timestamp": 1788382841.0,
+      "source": "iRacing.com",
+      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
+    },
+    {
       "title": "PlayStation State of Play September 3, 2026 Live Stream",
       "link": "https://www.gtplanet.net/playstation-state-of-play-september-3-2026-live-stream-20260902/",
       "pubDate": "02.09.2026 um 17:06 Uhr",
@@ -333,12 +341,60 @@
       "summary": "Leaked retail photos give a first real look at the LEGO PlayStation set, including a tiny Gran Turismo diorama that appears to depict Autumn Ring Mini..."
     },
     {
+      "title": "Steven Wilson will return to eNASCAR Coca-Cola iRacing Championship Series title fight after dominant day at Michigan",
+      "link": "https://www.iracing.com/steven-wilson-will-return-to-enascar-coca-cola-iracing-championship-series-title-fight-after-dominant-day-at-michigan/",
+      "pubDate": "02.09.2026 um 14:00 Uhr",
+      "timestamp": 1788357648.0,
+      "source": "iRacing.com",
+      "summary": "One Championship 4 Finale seat reserved, three seats still to be determined in Texas and Kansas Steven Wilson returned to eNASCAR Coca-Cola iRacing Ch..."
+    },
+    {
+      "title": "2026 eNASCAR Coca-Cola iRacing Championship Series | Preview | Race 10 at Michigan Int’l Speedway",
+      "link": "https://www.iracing.com/2026-enascar-coca-cola-iracing-championship-series-preview-race-10-at-michigan-intl-speedway/",
+      "pubDate": "01.09.2026 um 14:00 Uhr",
+      "timestamp": 1788271253.0,
+      "source": "iRacing.com",
+      "summary": "The road to $500,000 winds through the Irish Hills of Michigan as 10 drivers prepare to battle for four seats at the Championship table on Tuesday nig..."
+    },
+    {
+      "title": "This Week in iRacing | September 1st to September 7th, 2026",
+      "link": "https://www.iracing.com/this-week-in-iracing-september-1st-to-september-7th-2026/",
+      "pubDate": "31.08.2026 um 21:00 Uhr",
+      "timestamp": 1788210045.0,
+      "source": "iRacing.com",
+      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
+    },
+    {
       "title": "Gran Turismo 7 Daily Races: EK-ing Out a Win",
       "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-ek-ing-out-a-win-20260831/",
       "pubDate": "31.08.2026 um 16:42 Uhr",
       "timestamp": 1788194540.0,
       "source": "GTPlanet",
       "summary": "A new set of GT7 Daily Races is live: the Civic Type R (EK) Touring Car at Suzuka, Gr..."
+    },
+    {
+      "title": "THIS WEEK: iRacing Southern 500 Special Event",
+      "link": "https://www.iracing.com/this-week-iracing-southern-500-special-event/",
+      "pubDate": "31.08.2026 um 13:00 Uhr",
+      "timestamp": 1788181257.0,
+      "source": "iRacing.com",
+      "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
+    },
+    {
+      "title": "2026 eNASCAR Coca-Cola iRacing Championship Series Playoff Preview",
+      "link": "https://www.iracing.com/2026-enascar-coca-cola-iracing-championship-series-playoffs-preview/",
+      "pubDate": "28.08.2026 um 22:00 Uhr",
+      "timestamp": 1787954401.0,
+      "source": "iRacing.com",
+      "summary": "On Tuesday night, the final stretch on the road to $500,000 starts at Michigan International Speedway for the first of three races in the 2026 eNASCAR..."
+    },
+    {
+      "title": "iRacing Development Update: August 2026",
+      "link": "https://www.iracing.com/iracing-development-update-august-2026/",
+      "pubDate": "28.08.2026 um 17:00 Uhr",
+      "timestamp": 1787936415.0,
+      "source": "iRacing.com",
+      "summary": "Hello iRacing, What a summer it’s been for motorsports. Between a brewing F1 title fight, dominant performances in INDYCAR, and NASCAR powering toward..."
     },
     {
       "title": "Fanatec Confirms Gran Turismo DD Pro Problems in GT7, Recommends a Fix",
@@ -355,6 +411,14 @@
       "timestamp": 1787859839.0,
       "source": "GTPlanet",
       "summary": "Honda's Vision Gran Turismo concept heads to Laguna Seca in this week's new GT7 Online Time Trial, while the Ioniq 6N continues at the Nurburgring 24h..."
+    },
+    {
+      "title": "iRacing Weekly Tune-in | eSports & Community Events | August 26th to September 1st, 2026",
+      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-august-26th-to-september-1st-2026/",
+      "pubDate": "26.08.2026 um 21:00 Uhr",
+      "timestamp": 1787778028.0,
+      "source": "iRacing.com",
+      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
     }
   ]
 }
