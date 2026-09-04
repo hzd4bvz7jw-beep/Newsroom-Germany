@@ -1,7 +1,31 @@
 {
   "de": [
     {
-      "title": "PlayStation 1: Konsole aus Lego-Steinen erscheint am 4. Oktober für 160 Euro",
+      "title": "EA Sports College Football 27 auf PS5 kostenlos testen – bis 6. September 2026",
+      "link": "https://www.playcentral.de/ea-sports-college-football-27-auf-ps5-kostenlos-testen-bis-6-september-2026/",
+      "pubDate": "04.09.2026 um 14:31 Uhr",
+      "timestamp": 1788532297.0,
+      "source": "PlayCentral",
+      "summary": "PS5-Besitzer können EA Sports College Football 27 aktuell kostenlos ausprobieren. Das Freispielwochenende läuft noch bis zum 6. September 2026 und gew..."
+    },
+    {
+      "title": "MagFlow Pro Magnet: Ugreens neue 25-W-Qi2-Powerbank hat eine „Wakü“",
+      "link": "https://www.computerbase.de/news/smartphones/magflow-pro-magnet-ugreens-neue-25-w-qi2-powerbank-hat-eine-wakue.99251/",
+      "pubDate": "04.09.2026 um 16:30 Uhr",
+      "timestamp": 1788532200.0,
+      "source": "ComputerBase",
+      "summary": "Powerbanks können sich im Betrieb stark erhitzen, für drahtlose Powerbanks im direkten Kontakt zum zu ladenden Endgerät gilt das umso mehr. Und zu hoh..."
+    },
+    {
+      "title": "Pokémon GO: Mega-Finale – Alle Informationen zum großen Event",
+      "link": "https://mein-mmo.de/pokemon-go-fest-mega-finale/",
+      "pubDate": "04.09.2026 um 14:30 Uhr",
+      "timestamp": 1788532200.0,
+      "source": "Mein-MMO",
+      "summary": "Pokémon GO hat mit dem Mega-Aufstieg ein neues, globales Event gestartet. Es stellt den Auftakt zum Mega-Finale dar. Der Beitrag Pokémon GO: Mega-Fina..."
+    },
+    {
+      "title": "PlayStation 1: Lego-Konsole erscheint am 4. Oktober für 160 Euro",
       "link": "https://www.computerbase.de/news/gaming/playstation-1-konsole-aus-lego-steinen-erscheint-am-4-oktober-fuer-160-euro.99245/",
       "pubDate": "04.09.2026 um 15:39 Uhr",
       "timestamp": 1788529140.0,
@@ -119,40 +143,96 @@
       "timestamp": 1788523681.0,
       "source": "PlayCentral",
       "summary": "The Blood of Dawnwalker ist gerade mal einen Tag auf dem Markt und bekommt schon ein erstes Update. Das Action-RPG ist am 3. September für den PC, Pla..."
-    },
-    {
-      "title": "Guild Wars 3 als MMO Lite? Viele Fans sind skeptisch, doch nur so hat es leider eine Chance auf Erfolg",
-      "link": "https://mein-mmo.de/guild-wars-3-mmo-lite-analyse-kritik-community/",
-      "pubDate": "04.09.2026 um 12:06 Uhr",
-      "timestamp": 1788523576.0,
-      "source": "Mein-MMO",
-      "summary": "Manch ein Spieler blickt auf die neuen Infos zu Guild Wars 3 und hadert. MeinMMO-Redakteur Karsten Scholz geht auf die Kritik ein. Der Beitrag Guild W..."
-    },
-    {
-      "title": "Zendure: AI soll auch das Solar-Zuhause revolutionieren",
-      "link": "https://www.computerbase.de/news/smart-home/zendure-ai-soll-auch-das-solar-zuhause-revolutionieren.99220/",
-      "pubDate": "04.09.2026 um 14:00 Uhr",
-      "timestamp": 1788523200.0,
-      "source": "ComputerBase",
-      "summary": "Auf der IFA 2026 zeigt Zendure, wie AI auch das Solar-Zuhause verändern und insbesondere über eine KI-basierte Zeitplanung, die aktuell nahezu alle He..."
-    },
-    {
-      "title": "Drakong Pixelbyte: Blindbox-Mini-Controller im Attack on Titan-Design",
-      "link": "https://www.eurogamer.de/drakon-pixelbyte-hands-on-attack-on-titan",
-      "pubDate": "04.09.2026 um 11:39 Uhr",
-      "timestamp": 1788521950.0,
-      "source": "Eurogamer.de News",
-      "summary": "Das hier ist vermutlich das kleinste St&uuml;ck Hardware, das ich mir auf der gamescom angesehen habe. Der Drakong Pixelbyte ist deutlich kleiner als ..."
     }
   ],
   "int": [
     {
-      "title": "Nintendo officially confirms a Zelda 40th Anniversary Direct is coming",
+      "title": "NBA 2K27 locker codes (September 2026) for free packs",
+      "link": "https://www.gamesradar.com/games/nba-2k/nba-2k27-locker-codes/",
+      "pubDate": "04.09.2026 um 15:03 Uhr",
+      "timestamp": 1788534199.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Locker codes for NBA 2K27 will get you free rewards including items for MyCareer and MyTeam"
+    },
+    {
+      "title": "The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans",
+      "link": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291",
+      "pubDate": "04.09.2026 um 15:00 Uhr",
+      "timestamp": 1788534004.0,
+      "source": "Kotaku",
+      "summary": "Humankind 2's big announcement trailer was called AI slop by many online, but behind-the-scenes footage shows real animals, people, and sets"
+    },
+    {
+      "title": "Lanterns is HBO's third most successful new show ever, behind only House of the Dragon and The Last of Us",
+      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-is-hbos-third-most-successful-new-show-ever-behind-only-house-of-the-dragon-and-the-last-of-us/",
+      "pubDate": "04.09.2026 um 14:59 Uhr",
+      "timestamp": 1788533993.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The DCU show is climbing up the viewing charts"
+    },
+    {
+      "title": "Friend of a Friend in Star Wars Zero Company explained",
+      "link": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-friend-of-a-friend/",
+      "pubDate": "04.09.2026 um 14:59 Uhr",
+      "timestamp": 1788533951.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Friend of a Friend choice operation in Star Wars Zero Company has you pick between three plants: Nysillin, Marcan Herb, and Brula Fruit"
+    },
+    {
+      "title": "Alien: Earth Is Officially Back as Season 2 Filming Kicks Off",
+      "link": "https://www.polygon.com/alien-earth-season-2-officially-starts-production/",
+      "pubDate": "04.09.2026 um 14:55 Uhr",
+      "timestamp": 1788533740.0,
+      "source": "Polygon.com",
+      "summary": "FX officially confirms Season 2 of Noah Hawley's sci-fi horror series Alien: Earth has begun production"
+    },
+    {
+      "title": "Miami Sheriff Slams GTA 6 For Glorifying Crimes They ‘Work Every Single Day To Prevent’ In Clash Over Turning Miami Into Vice City",
+      "link": "https://kotaku.com/gta-6-grand-theft-auto-vice-city-miami-mayor-sheriff-2000731268",
+      "pubDate": "04.09.2026 um 14:33 Uhr",
+      "timestamp": 1788532437.0,
+      "source": "Kotaku",
+      "summary": "The 'GTA x MDC' marketing event proposed by Miami-Dade’s mayor has been criticized by both Miami-Dade's sheriff and its commissioner"
+    },
+    {
+      "title": "Next week, for the first time ever, Nintendo is hosting two Directs back-to-back - and the first one is dedicated to The Legend of Zelda's 40th anniversary",
+      "link": "https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct",
+      "pubDate": "04.09.2026 um 14:30 Uhr",
+      "timestamp": 1788532212.0,
+      "source": "Eurogamer.net News",
+      "summary": "Back in June, we learned that we're officially getting a The Legend of Zelda: Ocarina of Time remake, which is supposedly coming to Switch 2 later thi..."
+    },
+    {
+      "title": "'That criticism is justified': Gamescom apologizes for its callous response to developer hardware thefts",
+      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
+      "pubDate": "04.09.2026 um 14:27 Uhr",
+      "timestamp": 1788532074.0,
+      "source": "PCGamer latest",
+      "summary": "Gamescom said it is \"committed to jointly reviewing and further improving security,\" but doesn't mention any compensation for affected exhibitors."
+    },
+    {
+      "title": "In a sea of failed live service games, I'm shocked to see someone trying to make a MOBA",
+      "link": "https://www.pcgamer.com/games/moba/in-a-sea-of-failed-live-service-games-im-shocked-to-see-someone-trying-to-make-a-moba/",
+      "pubDate": "04.09.2026 um 14:21 Uhr",
+      "timestamp": 1788531664.0,
+      "source": "PCGamer latest",
+      "summary": "Project Zeta is trying to crack a near-impenetrable market."
+    },
+    {
+      "title": "We don't get action games like Tides of Annihilation very often, and after 45 minutes this Arthurian take is better than I expected",
+      "link": "https://www.gamesradar.com/games/action/we-dont-get-action-games-like-tides-of-annihilation-very-often-and-after-45-minutes-im-pleased-to-report-that-its-a-lot-better-than-i-expected/",
+      "pubDate": "04.09.2026 um 14:11 Uhr",
+      "timestamp": 1788531069.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Tides of Annihilation's combat is weighty, satisfying, and surprisingly difficult"
+    },
+    {
+      "title": "Nintendo Officially Confirms A 'Zelda' 40th Anniversary Direct Is Coming",
       "link": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-nintendo-direct-september-2026/",
       "pubDate": "04.09.2026 um 14:05 Uhr",
       "timestamp": 1788530754.0,
       "source": "Polygon.com",
-      "summary": "Nintendo lifts the curtain on the most anticipated Switch 2 release of 2026 with a dedicated Direct showcase that will happen sooner than you think"
+      "summary": "Nintendo surprises fans with two Directs in a single week, one for Zelda and the other for general games coming to Nintendo Switch 2"
     },
     {
       "title": "Percy Jackson Author Is Getting Another Disney Plus Fantasy Series",
@@ -209,86 +289,6 @@
       "timestamp": 1788530092.0,
       "source": "Kotaku",
       "summary": "One will be a general showcase, while the other will focus on The Legend of Zelda"
-    },
-    {
-      "title": "Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: ‘We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment’",
-      "link": "https://kotaku.com/gamescom-laptop-indie-developers-stolen-theft-security-2000731279",
-      "pubDate": "04.09.2026 um 13:45 Uhr",
-      "timestamp": 1788529510.0,
-      "source": "Kotaku",
-      "summary": "Several indie developers reported having their laptops stolen at the event, despite security"
-    },
-    {
-      "title": "After 6 years, the survival game Palworld studio Pocketpair \"would not exist without\" is finally ready to escape Steam Early Access jail – and hopefully, its \"Mostly Negative\" rating, too",
-      "link": "https://www.gamesradar.com/games/survival/after-6-years-the-survival-game-palworld-studio-pocketpair-would-not-exist-without-is-finally-ready-to-escape-steam-early-access-jail-and-hopefully-its-mostly-negative-rating-too/",
-      "pubDate": "04.09.2026 um 13:32 Uhr",
-      "timestamp": 1788528766.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Craftopia 1.0 is actually happening"
-    },
-    {
-      "title": "Trump Puts Racist Arcade Games On The White House Website",
-      "link": "https://kotaku.com/white-house-racist-arcade-games-donald-trump-flappy-bird-tetris-2000731267",
-      "pubDate": "04.09.2026 um 13:31 Uhr",
-      "timestamp": 1788528687.0,
-      "source": "Kotaku",
-      "summary": "Poor Snake and Flappy Bird knock-offs are the best they can manage"
-    },
-    {
-      "title": "The GamesRadar+ RPG Club is sinking its fangs into The Blood of Dawnwalker – here's your invitation",
-      "link": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-september-2026-the-blood-of-dawnwalker/",
-      "pubDate": "04.09.2026 um 13:25 Uhr",
-      "timestamp": 1788528353.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "For September's RPG Club, we'll be playing The Blood of Dawnwalker with the difficulty bumped up, a penchant for blood, and an important deadline to h..."
-    },
-    {
-      "title": "Age Twisters is a simple yet charming spin on the co-op adventure that aims to feel like watching a Pixar movie",
-      "link": "https://www.pcgamer.com/games/adventure/age-twisters-is-a-simple-yet-charming-spin-on-the-co-op-adventure-that-aims-to-feel-like-watching-a-pixar-movie/",
-      "pubDate": "04.09.2026 um 13:15 Uhr",
-      "timestamp": 1788527714.0,
-      "source": "PCGamer latest",
-      "summary": "The puzzles won't stump you, but Piccolo Studios says they're not supposed to."
-    },
-    {
-      "title": "Labor Day PS5 deals have landed, save on consoles, collector's editions, controllers and more",
-      "link": "https://www.gamesradar.com/hardware/labor-day-ps5-deals-have-landed-save-on-consoles-collectors-editions-controllers-and-more/",
-      "pubDate": "04.09.2026 um 13:12 Uhr",
-      "timestamp": 1788527546.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Labor Day PS5 deals are here, and while pickings are slimmer than other sales you'll still find plenty of tech and games up for grabs."
-    },
-    {
-      "title": "Lego Skylines Hands-On Preview: It’s a Cozy, More Relaxing City-Builder",
-      "link": "https://www.ign.com/articles/lego-skylines-hands-on-preview-its-a-cozy-more-relaxing-city-builder",
-      "pubDate": "04.09.2026 um 13:05 Uhr",
-      "timestamp": 1788527100.0,
-      "source": "IGN All",
-      "summary": "If you’re like me and looking for something a little less… punishing, shall we say, Lego Skylines might fit the bill. The developers described it to m..."
-    },
-    {
-      "title": "Hands-on with DLSS 5 in NBA 2K27: Here's what works and what doesn't work about Nvidia's new AI upscaler",
-      "link": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/",
-      "pubDate": "04.09.2026 um 13:04 Uhr",
-      "timestamp": 1788527071.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "I played two hours of NBA 2K27 with DLSS 5 switched on. Here's how I found it impacted my gameplay, and my PC's performance."
-    },
-    {
-      "title": "After 2 Hours, Exodus Feels Like the Second Coming of Mass Effect | Preview",
-      "link": "https://www.polygon.com/exodus-preview-hands-on/",
-      "pubDate": "04.09.2026 um 13:00 Uhr",
-      "timestamp": 1788526814.0,
-      "source": "Polygon.com",
-      "summary": "Exodus, the debut space sci-fi action RPG of Archetype Entertainment, is the Mass Effect replacement we've been waiting for."
-    },
-    {
-      "title": "Exodus Narrative Director Explains Romance, Relationships, and Mass Effect Comparisons in New Sci-fi RPG",
-      "link": "https://www.ign.com/articles/exodus-narrative-director-drew-karpyshyn-explains-romance-and-relationship-systems-building-on-mass-effect",
-      "pubDate": "04.09.2026 um 13:00 Uhr",
-      "timestamp": 1788526800.0,
-      "source": "IGN All",
-      "summary": "The upcoming space opera RPG Exodus has drawn a lot Mass Effect comparisons, and its narrative director worked on both. He explains their differences ..."
     }
   ],
   "sim": [
