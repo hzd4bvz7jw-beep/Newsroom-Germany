@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Project Zenith: Microsoft verlangt 64 GB RAM und 250 GB/s",
+      "link": "https://www.computerbase.de/news/betriebssysteme/project-zenith-microsoft-verlangt-64-gb-ram-und-250-gb-s.99253/",
+      "pubDate": "05.09.2026 um 09:00 Uhr",
+      "timestamp": 1788591600.0,
+      "source": "ComputerBase",
+      "summary": "Mit Project Zenith definiert Microsoft nach den Copilot+ PCs eine weitere Hardwareklasse für Windows 11. Die vorkonfigurierten Entwickler-PCs benötige..."
+    },
+    {
+      "title": "In GTA 6 gibt es quasi einen Pokédex, ist perfekt für Sammler, die eine Pause vom kriminellen Leben wollen",
+      "link": "https://mein-mmo.de/gta-6-bestiarium-pokedex-hunde-streicheln/",
+      "pubDate": "05.09.2026 um 07:00 Uhr",
+      "timestamp": 1788591600.0,
+      "source": "Mein-MMO",
+      "summary": "In GTA 6 gibt es neben Vice City auch viel Natur zu sehen. Laut eines YouTubers können ihre Bewohner einen gesamten Pokédex füllen. Der Beitrag In GTA..."
+    },
+    {
+      "title": "Lenovo Thinkvision: Office-Monitore mit Printed OLED, KI-Webcam und 24 Hz",
+      "link": "https://www.computerbase.de/news/monitore/lenovo-thinkvision-office-monitore-mit-printed-oled-ki-webcam-und-24-hz.99255/",
+      "pubDate": "05.09.2026 um 08:15 Uhr",
+      "timestamp": 1788588900.0,
+      "source": "ComputerBase",
+      "summary": "Für den Arbeitseinsatz hat Lenovo zur IFA eine Reihe neuer Monitore der ThinkVision-Familie vorgestellt. Beim P27UL-40 kommt das OLED-Panel erstmals a..."
+    },
+    {
       "title": "Ich beichte: Ich habe The Witcher 3 nie durchgespielt, aber nach 45 Minuten in Songs of the Past muss ich das endlich nachholen",
       "link": "https://mein-mmo.de/witcher-3-songs-of-the-past-gamescom/",
       "pubDate": "05.09.2026 um 06:00 Uhr",
@@ -119,33 +143,49 @@
       "timestamp": 1788543121.0,
       "source": "PlayCentral",
       "summary": "Noch vor der vollständigen Vorstellung des PlayStation-Plus-Katalogs für September 2026 steht bereits ein großer Neuzugang fest. RuneScape: Dragonwild..."
-    },
-    {
-      "title": "Ugreen MasterAgent & HomeAgent: Lokale KI-Smart-Home-Hubs mit NAS von 1.799 bis 19.999 USD",
-      "link": "https://www.computerbase.de/news/smart-home/ugreen-masteragent-und-homeagent-lokale-ki-smart-home-hubs-mit-nas-von-1-799-bis-19-999-usd.99248/",
-      "pubDate": "04.09.2026 um 19:15 Uhr",
-      "timestamp": 1788542100.0,
-      "source": "ComputerBase",
-      "summary": "Mit Ugreen MasterAgent MA100 sowie HomeAgent HA100 und HA100 Pro stellt Ugreen zur IFA 2026 drei lokale AI-Smart-Home-Hubs vor, die das Smart Home AI-..."
-    },
-    {
-      "title": "Nintendo Direct: Nächste Woche gibt es gleich zwei davon und zwar hintereinander",
-      "link": "https://www.eurogamer.de/nintendo-direct-zelda-switch-2",
-      "pubDate": "04.09.2026 um 16:59 Uhr",
-      "timestamp": 1788541189.0,
-      "source": "Eurogamer.de News",
-      "summary": "Bereits im Juni haben wir erfahren, dass offiziell ein Remake von The Legend of Zelda: Ocarina of Time in Entwicklung ist. Es soll noch in diesem Jahr..."
-    },
-    {
-      "title": "Drakong InfinaKore Guitar: Der neue Gitarren-Controller geht einen Schritt weiter",
-      "link": "https://www.eurogamer.de/drakong-infinakore-gitarren-controller-hands-on",
-      "pubDate": "04.09.2026 um 16:04 Uhr",
-      "timestamp": 1788537878.0,
-      "source": "Eurogamer.de News",
-      "summary": "Das letzte Mal, als ich Guitar Hero spielte, war noch vor meiner Zeit im Gymnasium. Das ist weit &uuml;ber zehn Jahre her. Damals habe ich mir wenig G..."
     }
   ],
   "int": [
+    {
+      "title": "All hidden treasure locations in Onimusha Way of the Sword",
+      "link": "https://www.polygon.com/onimusha-way-of-the-sword-hidden-treasure-all-locations/",
+      "pubDate": "05.09.2026 um 07:01 Uhr",
+      "timestamp": 1788591675.0,
+      "source": "Polygon.com",
+      "summary": "In this guide, you find all the hidden treasure locations in Onimusha: Way of the Sword, and the rewards you earn by opening each chest."
+    },
+    {
+      "title": "'Ace Archer Kyoto Imperial Palace' walkthrough in Onimusha Way of the Sword",
+      "link": "https://www.polygon.com/onimusha-way-of-the-sword-ace-archer-kyoto-imperial-palace-walkthrough-kubi-akari-location/",
+      "pubDate": "05.09.2026 um 07:01 Uhr",
+      "timestamp": 1788591675.0,
+      "source": "Polygon.com",
+      "summary": "In this \"Ace Archer: Kyoto Imperial Palace\" walkthrough in Onimusha: Way of the Sword, you'll find the location of all Kubi Akaris."
+    },
+    {
+      "title": "'Ace Archer Nijo-jo Castle' walkthrough in Onimusha Way of the Sword",
+      "link": "https://www.polygon.com/onimusha-way-of-the-sword-ace-archer-nijo-jo-castle-walkthrough-kubi-akari-location/",
+      "pubDate": "05.09.2026 um 07:01 Uhr",
+      "timestamp": 1788591675.0,
+      "source": "Polygon.com",
+      "summary": "In this \"Ace Archer: Nijo-jo Castle\" walkthrough in Onimusha: Way of the Sword, you find the location of all five Kubi Akari to finish this side quest"
+    },
+    {
+      "title": "How to solve the mask puzzle in Onimusha Way of the Sword",
+      "link": "https://www.polygon.com/onimusha-way-of-the-sword-mask-puzzle-solution-what-lurks-in-the-shadow/",
+      "pubDate": "05.09.2026 um 07:01 Uhr",
+      "timestamp": 1788591675.0,
+      "source": "Polygon.com",
+      "summary": "In this guide, you learn how to solve the mask puzzle in Onimusha: Way of the Sword during the \"What Lurks in the Shadows\" quest"
+    },
+    {
+      "title": "All swords and how to unlock them in Onimusha Way of the Sword",
+      "link": "https://www.polygon.com/onimusha-way-of-the-sword-all-sword-skins-how-to-unlock-lion-dog-location/",
+      "pubDate": "05.09.2026 um 07:01 Uhr",
+      "timestamp": 1788591675.0,
+      "source": "Polygon.com",
+      "summary": "Here's how to unlock all sword skins in Onimusha: Way of the Sword and how to find Lion Dogs."
+    },
     {
       "title": "Sega Found a Clever Workaround to Officially Bring Sonic to Fortnite",
       "link": "https://www.polygon.com/fortnite-sonic-the-hedgehog-android-sega-epic-games/",
@@ -169,14 +209,6 @@
       "timestamp": 1788570074.0,
       "source": "Polygon.com",
       "summary": "Here's everything you need to know about Pokémon Go's big \"Mega Finale\" event, featuring the return of Armored Mewtwo."
-    },
-    {
-      "title": "Ryan Gosling’s Near-Perfect Sci-fi Movie Officially Becomes an HBO Max Streaming Hit",
-      "link": "https://www.polygon.com/ryan-gosling-blade-runner-2049-streaming-success-hbo-max-september-2026/",
-      "pubDate": "05.09.2026 um 00:49 Uhr",
-      "timestamp": 1788569354.0,
-      "source": "Polygon.com",
-      "summary": "Ryan Gosling and Harrison Ford’s acclaimed sci-fi sequel Blade Runner 2049 has found a new streaming home on HBO Max."
     },
     {
       "title": "September's schedule of new games, events, and updates refuses to let 2026 go down in history as a slow year for new releases",
@@ -257,38 +289,6 @@
       "timestamp": 1788562920.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "Double Fine Boss Says ‘We Never Actively Tried To Make A Game We Thought Was Going To Lose Money’",
-      "link": "https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429",
-      "pubDate": "04.09.2026 um 23:00 Uhr",
-      "timestamp": 1788562827.0,
-      "source": "Kotaku",
-      "summary": "Setting the record straight on making artsy games vs. ones that sell"
-    },
-    {
-      "title": "Save $400 Off the Asus ROG Flow Z13 Convertible, the Only Decent Gaming Laptop Deal for Labor Day",
-      "link": "https://www.ign.com/articles/asus-rog-flow-z13-ultra-portable-gaming-laptop-deal-september-2026",
-      "pubDate": "04.09.2026 um 22:50 Uhr",
-      "timestamp": 1788562200.0,
-      "source": "IGN All",
-      "summary": "This 2.56 pound convertible is more powerful than the Xbox Ally X20."
-    },
-    {
-      "title": "Fury of Dracula (5th Edition) Board Game Review",
-      "link": "https://www.ign.com/articles/fury-of-dracula-5th-edition-board-game-review",
-      "pubDate": "04.09.2026 um 22:30 Uhr",
-      "timestamp": 1788561000.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Celebrate Labor Day by playing Civilization 7 for free",
-      "link": "https://www.pcgamer.com/games/strategy/celebrate-labor-day-by-playing-civilization-7-for-free/",
-      "pubDate": "04.09.2026 um 22:22 Uhr",
-      "timestamp": 1788560537.0,
-      "source": "PCGamer latest",
-      "summary": "There's actually no connection to Labor Day that I can see, but Civ 7 is free to play until September 10, and it's on sale too."
     }
   ],
   "sim": [
