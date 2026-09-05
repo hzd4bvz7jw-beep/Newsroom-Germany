@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Luft verschafft: No Rest for the Wicked kommt erst nächstes Jahr",
+      "link": "https://www.computerbase.de/news/gaming/luft-verschafft-no-rest-for-the-wicked-kommt-erst-naechstes-jahr.99263/",
+      "pubDate": "05.09.2026 um 13:41 Uhr",
+      "timestamp": 1788608460.0,
+      "source": "ComputerBase",
+      "summary": "No Rest for the Wicked verspricht ein tolles Action-RPG zu werden – aber nicht mehr dieses Jahr. Seine Entwickler haben die Veröffentlichung der Versi..."
+    },
+    {
+      "title": "Spider-Man 3: Yuri Lowenthal wünscht sich Deadpool im nächsten Teil",
+      "link": "https://www.eurogamer.de/spider-man-3-yuri-lowenthal-wunsch-deadpool-auftritt",
+      "pubDate": "05.09.2026 um 11:14 Uhr",
+      "timestamp": 1788606890.0,
+      "source": "Eurogamer.de News",
+      "summary": "Es ist immer noch bedauerlich wenig &uuml;ber den dritten Teil von Insomniacs Spider-Man-Reihe bekannt. Wann Marvel&rsquo;s Spider-Man 3 erscheinen k&..."
+    },
+    {
       "title": "Games-Charts: Metal Gear Solid lässt Star Wars hinter sich",
       "link": "https://www.computerbase.de/news/gaming/games-charts-metal-gear-solid-laesst-star-wars-hinter-sich.99265/",
       "pubDate": "05.09.2026 um 13:00 Uhr",
@@ -105,14 +121,6 @@
       "summary": "Viele Unternehmen setzen bereits voll auf KI. Ikea geht hingegen einen anderen Weg und setzt im Zeitalter der KI auf Menschen. Der Beitrag Ikea liefer..."
     },
     {
-      "title": "Project Zenith: Microsoft verlangt 64 GB RAM und 250 GB/s",
-      "link": "https://www.computerbase.de/news/betriebssysteme/project-zenith-microsoft-verlangt-64-gb-ram-und-250-gb-s.99253/",
-      "pubDate": "05.09.2026 um 09:00 Uhr",
-      "timestamp": 1788591600.0,
-      "source": "ComputerBase",
-      "summary": "Mit Project Zenith definiert Microsoft nach den Copilot+ PCs eine weitere Hardwareklasse für Windows 11. Die vorkonfigurierten Entwickler-PCs benötige..."
-    },
-    {
       "title": "In GTA 6 gibt es quasi einen Pokédex, ist perfekt für Sammler, die eine Pause vom kriminellen Leben wollen",
       "link": "https://mein-mmo.de/gta-6-bestiarium-pokedex-hunde-streicheln/",
       "pubDate": "05.09.2026 um 07:00 Uhr",
@@ -135,17 +143,49 @@
       "timestamp": 1788586200.0,
       "source": "Eurogamer.de News",
       "summary": "An diesem Wochenende steigt das gro&szlig;e Mega-Finale zum Pok&eacute;mon Go Fest 2026 und bringt eine Reihe von besonderen Pok&eacute;mon, Belohnung..."
-    },
-    {
-      "title": "ArcheAge Chronicles bereitet mit Test seinen Start vor, doch müssen wir leider draußen bleiben",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-5-september-2026/",
-      "pubDate": "05.09.2026 um 05:30 Uhr",
-      "timestamp": 1788586200.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit Test für das neue ArcheAge, viel Guild Wars 3 und der BlizzCon. Der Beitrag ArcheAge Chr..."
     }
   ],
   "int": [
+    {
+      "title": "Persona 4 Revival will integrate Marie more naturally than she was in Persona 4 Golden: \"She needs to be here from the beginning\"",
+      "link": "https://www.gamesradar.com/games/persona/persona-4-revival-will-integrate-marie-more-naturally-than-she-was-in-persona-4-golden-she-needs-to-be-here-from-the-beginning/",
+      "pubDate": "05.09.2026 um 12:05 Uhr",
+      "timestamp": 1788609931.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Atlus tells us to expect a \"more natural\" introduction"
+    },
+    {
+      "title": "White House launches Arcade.gov, a minigame site parodying immigration enforcement and border security",
+      "link": "https://www.eurogamer.net/white-house-arcade-gov-minigames-immigration-border-wall",
+      "pubDate": "05.09.2026 um 12:03 Uhr",
+      "timestamp": 1788609795.0,
+      "source": "Eurogamer.net News",
+      "summary": "The White House has launched Arcade.Gov, a website of browser minigames built around Donald Trump's immigration and border policies. Read more"
+    },
+    {
+      "title": "Mario Kart 8 Refuses to Let the Switch 2 Rule Nintendo",
+      "link": "https://www.polygon.com/switchboard-mario-kart-8-deluxe-update-4-0/",
+      "pubDate": "05.09.2026 um 12:00 Uhr",
+      "timestamp": 1788609614.0,
+      "source": "Polygon.com",
+      "summary": "After the 4.0 update with 8-player split-screen, everyone's talking about it instead of Mario Kart World. Awkward!"
+    },
+    {
+      "title": "Don't sleep on The Mandalorian Lego special – it might not be canon, but this is a must-watch for Star Wars fans",
+      "link": "https://www.gamesradar.com/entertainment/star-wars-movies/dont-sleep-on-the-mandalorian-lego-special-it-might-not-be-canon-but-this-is-a-must-watch-for-star-wars-fans/",
+      "pubDate": "05.09.2026 um 12:00 Uhr",
+      "timestamp": 1788609600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Mandalorian Lego special is a delight"
+    },
+    {
+      "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\"",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-bit-too-real-for-me-rockstar-will-punish-you-if-jason-and-lucia-dont-get-a-good-nights-sleep-we-track-lots-of-things/",
+      "pubDate": "05.09.2026 um 11:36 Uhr",
+      "timestamp": 1788608165.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Art imitating life"
+    },
     {
       "title": "Brandon Sanderson’s Latest Sci-Fi Book has a Surprise Cosmere Connection",
       "link": "https://www.polygon.com/janci-patterson-blightfall-interview-hoid/",
@@ -177,6 +217,14 @@
       "timestamp": 1788602415.0,
       "source": "Polygon.com",
       "summary": "Four decades after it released, Konami's classic platformer continues to inspire its competition."
+    },
+    {
+      "title": "Tomb Raider: Legacy of Atlantis Could Be Great, But There's Some Things We Can't Ignore...",
+      "link": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-impressions",
+      "pubDate": "05.09.2026 um 10:00 Uhr",
+      "timestamp": 1788602400.0,
+      "source": "IGN All",
+      "summary": "Tomb Raider: Legacy of Atlantis shows massive potential, but controversial changes like skill trees and modern hand-holding threaten to frustrate fans..."
     },
     {
       "title": "Samara Weaving's Gritty Action Sleeper Hit Officially Finds a New Home on Streaming",
@@ -219,14 +267,6 @@
       "summary": "In this guide, you find all the hidden treasure locations in Onimusha: Way of the Sword, and the rewards you earn by opening each chest."
     },
     {
-      "title": "'Ace Archer Kyoto Imperial Palace' walkthrough in Onimusha Way of the Sword",
-      "link": "https://www.polygon.com/onimusha-way-of-the-sword-ace-archer-kyoto-imperial-palace-walkthrough-kubi-akari-location/",
-      "pubDate": "05.09.2026 um 07:01 Uhr",
-      "timestamp": 1788591675.0,
-      "source": "Polygon.com",
-      "summary": "In this \"Ace Archer: Kyoto Imperial Palace\" walkthrough in Onimusha: Way of the Sword, you'll find the location of all Kubi Akaris."
-    },
-    {
       "title": "September's schedule of new games, events, and updates refuses to let 2026 go down in history as a slow year for new releases",
       "link": "https://www.pcgamer.com/games/pc-game-release-dates-september-2026/",
       "pubDate": "05.09.2026 um 00:43 Uhr",
@@ -249,46 +289,6 @@
       "timestamp": 1788566581.0,
       "source": "IGN All",
       "summary": "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its mass..."
-    },
-    {
-      "title": "Wonder Woman Casting Rumors Heat Up as Fans Suspect James Gunn Secretly Picked Adria Arjona for the Role",
-      "link": "https://www.ign.com/articles/wonder-woman-casting-rumors-heat-up-as-fans-suspect-james-gunn-secretly-picked-adria-arjona-for-the-role",
-      "pubDate": "04.09.2026 um 23:55 Uhr",
-      "timestamp": 1788566135.0,
-      "source": "IGN All",
-      "summary": "DC fans are convinced the DCU's Wonder Woman will be played by Adria Arjona after she posted a video of her workout routine ahead of Man of Tomorrow."
-    },
-    {
-      "title": "Iconic Silent Hill artist Masahiro Ito says he \"probably would have been happier\" if he hadn't \"sacrificed\" his love life for Pyramid Head",
-      "link": "https://www.gamesradar.com/games/silent-hill/iconic-silent-hill-artist-masahiro-ito-says-he-probably-would-have-been-happier-if-he-hadnt-sacrificed-his-love-life-for-pyramid-head/",
-      "pubDate": "04.09.2026 um 23:39 Uhr",
-      "timestamp": 1788565152.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Never in my wildest dreams imagined I'd end up like this on X\""
-    },
-    {
-      "title": "As Wardogs blows past 200k Steam concurrents, its developers are prepared for the day 'hype dies down'",
-      "link": "https://www.pcgamer.com/games/fps/as-wardogs-blows-past-200k-steam-concurrents-its-developers-are-prepared-for-the-day-hype-dies-down/",
-      "pubDate": "04.09.2026 um 23:22 Uhr",
-      "timestamp": 1788564165.0,
-      "source": "PCGamer latest",
-      "summary": "\"Doesn't make it a bad game, or even a problem.\""
-    },
-    {
-      "title": "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures",
-      "link": "https://www.ign.com/articles/gamescom-apologizes-for-its-initial-response-to-thefts-promises-improved-security-measures",
-      "pubDate": "04.09.2026 um 23:04 Uhr",
-      "timestamp": 1788563090.0,
-      "source": "IGN All",
-      "summary": "gamescom has provided a second response regarding the theft of developers’ equipment during its event, offering an apology for its initial reaction to..."
-    },
-    {
-      "title": "PlayStation's Peter Parker actor has pushed Insomniac to put Deadpool in Spider-Man 3: \"I would like to believe that they got the idea from me\"",
-      "link": "https://www.gamesradar.com/games/spider-man/playstations-peter-parker-actor-has-pushed-insomniac-to-put-deadpool-in-spider-man-3-i-would-like-to-believe-that-they-got-the-idea-from-me/",
-      "pubDate": "04.09.2026 um 23:04 Uhr",
-      "timestamp": 1788563077.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Might have to bump up that ESRB rating"
     }
   ],
   "sim": [
