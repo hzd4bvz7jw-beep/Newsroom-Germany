@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Batomon Showdown kommt am 15. September 2026 auf Steam – so läuft es ab",
+      "link": "https://www.playcentral.de/batomon-showdown-kommt-am-15-september-2026-auf-steam-so-laeuft-es-ab/",
+      "pubDate": "05.09.2026 um 15:31 Uhr",
+      "timestamp": 1788622291.0,
+      "source": "PlayCentral",
+      "summary": "Mit Batomon Showdown erscheint am 15. September 2026 ein neues Steam-Spiel, das vertraute Monsterfangmechaniken mit einem Roguelike-Spielablauf verbin..."
+    },
+    {
       "title": "GMKtec EVO-X5 Pro: AMD Ryzen AI Max+ 495 Pro trifft 192 GB RAM im Mini-PC",
       "link": "https://www.computerbase.de/news/pc-systeme/gmktec-evo-x5-pro-amd-ryzen-ai-max-plus-495-pro-trifft-192-gb-ram-im-mini-pc.99257/",
       "pubDate": "05.09.2026 um 17:01 Uhr",
@@ -135,17 +143,57 @@
       "timestamp": 1788602100.0,
       "source": "ComputerBase",
       "summary": "V-Color hat sein ungewöhnliches „1+1“-Speicherpaket bereits im März vorgestellt. Inzwischen werden die Kits aus einem echten DDR5-Modul und einem opti..."
-    },
-    {
-      "title": "GTA 6-Hype beflügelt Konsolenverkäufe im Vereinten Königreich trotz steigender Preise",
-      "link": "https://www.eurogamer.de/gta-6-hype-mehr-konsolenverkaeufe-im-vereinten-konigreich",
-      "pubDate": "05.09.2026 um 09:14 Uhr",
-      "timestamp": 1788599690.0,
-      "source": "Eurogamer.de News",
-      "summary": "GTA 6 sorgt bereits jetzt f&uuml;r einen dringend ben&ouml;tigten Umsatzschub bei PlayStation- und Xbox-Konsolen, zumindest in Gro&szlig;britannien, o..."
     }
   ],
   "int": [
+    {
+      "title": "Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it",
+      "link": "https://www.eurogamer.net/xbox-cloud-gaming-hourly-cap-break-even-point",
+      "pubDate": "05.09.2026 um 16:11 Uhr",
+      "timestamp": 1788624668.0,
+      "source": "Eurogamer.net News",
+      "summary": "A new report suggests that Xbox has capped its cloud gaming usage to 15 hours for Game Pass Ultimate subscribers because that's when the service stops..."
+    },
+    {
+      "title": "2026 Has Been the Best Year for City-Builders in Decades",
+      "link": "https://www.polygon.com/city-builder-games-2026/",
+      "pubDate": "05.09.2026 um 16:00 Uhr",
+      "timestamp": 1788624015.0,
+      "source": "Polygon.com",
+      "summary": "2026's release calendar is packed with top-notch city builders like Timberborn, Transport Fever 3, Corsair Cove, and a whole lot more"
+    },
+    {
+      "title": "Onimusha: Way of the Sword starts off slow, but stick with it: You'll be rewarded with some of the best action combat of the decade",
+      "link": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-starts-off-slow-but-stick-with-it-youll-be-rewarded-with-some-of-the-best-action-combat-of-the-decade/",
+      "pubDate": "05.09.2026 um 16:00 Uhr",
+      "timestamp": 1788624000.0,
+      "source": "PCGamer latest",
+      "summary": "A slow gauntlet."
+    },
+    {
+      "title": "Bungie Is ‘Exploring’ Subleasing Parts Of Its Massive 210,984 Sq. Ft. Studio After Laying Off More Than 600 People In Just Three Years",
+      "link": "https://kotaku.com/bungie-is-exploring-subleasing-parts-of-its-massive-210984-sq-ft-studio-after-laying-off-more-than-600-people-in-just-three-years-2000731541",
+      "pubDate": "05.09.2026 um 15:30 Uhr",
+      "timestamp": 1788622201.0,
+      "source": "Kotaku",
+      "summary": "Some see the big expansion as emblematic of the studio's mismanagement"
+    },
+    {
+      "title": "Sony clarifies PlayStation disc production is dropping by 10 percent in 2028, not to 10 percent",
+      "link": "https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90",
+      "pubDate": "05.09.2026 um 15:27 Uhr",
+      "timestamp": 1788622046.0,
+      "source": "Eurogamer.net News",
+      "summary": "Sony has pushed back on a wave of reports suggesting PlayStation disc manufacturing is about to be gutted by 90 percent after comments from a Sony DAD..."
+    },
+    {
+      "title": "Fable devs originally had a tool to randomize the RPG's 1,000 NPCs that \"would have saved us so much time,\" but that \"just didn't make as much sense\"",
+      "link": "https://www.gamesradar.com/games/rpg/fable-devs-originally-had-a-tool-to-randomize-the-rpgs-1-000-npcs-that-would-have-saved-us-so-much-time-but-that-just-didnt-make-as-much-sense/",
+      "pubDate": "05.09.2026 um 15:08 Uhr",
+      "timestamp": 1788620929.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Living Population is handcrafted"
+    },
     {
       "title": "Exodus Won't Let You Bang the Octopus",
       "link": "https://www.polygon.com/exodus-romance-options-interview-salt/",
@@ -241,57 +289,17 @@
       "timestamp": 1788615622.0,
       "source": "Polygon.com",
       "summary": "Spider-Noir will not get a second season, although another Marvel TV show from Sony may still come to Prime Video"
-    },
-    {
-      "title": "With Pokemon Bank's demise on the horizon, one modder makes their own adapter to move Pokemon from GBA to Switch consoles",
-      "link": "https://www.gamesradar.com/games/pokemon/with-pokemon-banks-demise-on-the-horizon-one-modder-makes-their-own-adapter-to-move-pokemon-from-gba-to-switch-consoles/",
-      "pubDate": "05.09.2026 um 13:19 Uhr",
-      "timestamp": 1788614389.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Still plenty of work ahead\""
-    },
-    {
-      "title": "What time does Mastery Monday start in Fortnite Chapter 7 Season 4?",
-      "link": "https://www.polygon.com/fortnite-chapter-7-season-4-mastery-monday-time-what-when/",
-      "pubDate": "05.09.2026 um 13:01 Uhr",
-      "timestamp": 1788613274.0,
-      "source": "Polygon.com",
-      "summary": "Mastery Monday gives you more sprite XP and dust in Fortnite Chapter 7 Season 4. Here's what time it starts in your time zone."
-    },
-    {
-      "title": "Onimusha: Way of the Sword Has the Best Parry in Video Games",
-      "link": "https://www.polygon.com/onimusha-way-of-the-sword-best-parry/",
-      "pubDate": "05.09.2026 um 13:00 Uhr",
-      "timestamp": 1788613215.0,
-      "source": "Polygon.com",
-      "summary": "Onimusha: Way of the Sword masters the art of the video game parry thanks to a close attention to sound, feel, and animation."
-    },
-    {
-      "title": "Control Resonant looks like an exciting action-RPG, but I just want it to mess with my head",
-      "link": "https://www.gamesradar.com/games/action-rpg/control-resonant-looks-like-an-exciting-action-rpg-but-i-just-want-it-to-mess-with-my-head/",
-      "pubDate": "05.09.2026 um 13:00 Uhr",
-      "timestamp": 1788613200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Nobody does strange like Remedy, and that's why we love when they take control"
-    },
-    {
-      "title": "Gaming monitors are one of the only good things about PC hardware right now, but one niche feature is underloved",
-      "link": "https://www.pcgamer.com/hardware/gaming-monitors/gaming-monitors-are-one-of-the-only-good-things-about-pc-hardware-right-now-but-one-niche-feature-is-underloved/",
-      "pubDate": "05.09.2026 um 13:00 Uhr",
-      "timestamp": 1788613200.0,
-      "source": "PCGamer latest",
-      "summary": "Doubling your refresh rate with just a few clicks? Yes please."
-    },
-    {
-      "title": "Gamescom apologises for how it initially responded to indie developer hardware thefts",
-      "link": "https://www.eurogamer.net/gamescom-apologises-indie-developer-hardware-theft-response",
-      "pubDate": "05.09.2026 um 12:44 Uhr",
-      "timestamp": 1788612257.0,
-      "source": "Eurogamer.net News",
-      "summary": "Gamescom has apologised for the way it \"communicated about the theft of hardware belonging to several indie developers\" last week, admitting, \"our fir..."
     }
   ],
   "sim": [
+    {
+      "title": "iRacing 2026 Season 3 Week 13: New Features and Formats",
+      "link": "https://www.iracing.com/iracing-2026-season-3-week-13-new-features-and-formats/",
+      "pubDate": "05.09.2026 um 15:00 Uhr",
+      "timestamp": 1788620425.0,
+      "source": "iRacing.com",
+      "summary": "iRacing’s Week 13 isn’t just a place where the community can learn our new content or let loose with fun series. It’s also an opportunity for us to te..."
+    },
     {
       "title": "Fanatec Releases Hotfix for Gran Turismo DD Pro Issues in GT7",
       "link": "https://www.gtplanet.net/fanatec-releases-hotfix-for-gran-turismo-dd-pro-issues-in-gt7-20260904/",
@@ -403,14 +411,6 @@
       "timestamp": 1788181257.0,
       "source": "iRacing.com",
       "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
-    },
-    {
-      "title": "2026 eNASCAR Coca-Cola iRacing Championship Series Playoff Preview",
-      "link": "https://www.iracing.com/2026-enascar-coca-cola-iracing-championship-series-playoffs-preview/",
-      "pubDate": "28.08.2026 um 22:00 Uhr",
-      "timestamp": 1787954401.0,
-      "source": "iRacing.com",
-      "summary": "On Tuesday night, the final stretch on the road to $500,000 starts at Michigan International Speedway for the first of three races in the 2026 eNASCAR..."
     },
     {
       "title": "Fanatec Confirms Gran Turismo DD Pro Problems in GT7, Recommends a Fix",
