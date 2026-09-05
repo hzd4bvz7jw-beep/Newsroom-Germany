@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Uncanyon für Switch 2 angekündigt – Puzzle-Abenteuer mit Realitätswechsel 2027",
+      "link": "https://www.playcentral.de/uncanyon-fuer-switch-2-angekuendigt-puzzle-abenteuer-mit-realitaetswechsel-2027/",
+      "pubDate": "05.09.2026 um 16:31 Uhr",
+      "timestamp": 1788625887.0,
+      "source": "PlayCentral",
+      "summary": "Mit Uncanyon kündigt sich für Nintendo Switch 2 ein neues Puzzle-Abenteuer an, das Fans von The Legend of Zelda aufmerksam verfolgen dürften. Der Tite..."
+    },
+    {
       "title": "Batomon Showdown kommt am 15. September 2026 auf Steam – so läuft es ab",
       "link": "https://www.playcentral.de/batomon-showdown-kommt-am-15-september-2026-auf-steam-so-laeuft-es-ab/",
       "pubDate": "05.09.2026 um 15:31 Uhr",
@@ -57,7 +65,7 @@
       "summary": "Für diese gut bewertete Gaming-Tastatur von Corsair bezahlt ihr im Angebot jetzt nur weniger als die Hälfte des ursprünglichen Preises. Der Beitrag Fr..."
     },
     {
-      "title": "Ugreen DXP6800 Ultra und DXP8800 Ultra: Neue NAS erhalten Intels Raptor-Lake-CPU",
+      "title": "Ugreen-NAS: Neue Intel-CPUs beschleunigen die High-End-Netzwerk­speicher",
       "link": "https://www.computerbase.de/news/storage/ugreen-dxp6800-ultra-und-dxp8800-ultra-neue-nas-erhalten-intels-raptor-lake-cpu.99231/",
       "pubDate": "05.09.2026 um 15:18 Uhr",
       "timestamp": 1788614280.0,
@@ -135,17 +143,73 @@
       "timestamp": 1788602400.0,
       "source": "Mein-MMO",
       "summary": "Der letzte Film der Fantastic Four hat ein Easter Egg zur Marvel-Legende Stan Lee, das die meisten verpasst haben. Der Beitrag Einer der wichtigsten M..."
-    },
-    {
-      "title": "330 Euro Bling-Bling: 16 GB plus Dummy kosten mehr als ein echtes Kit",
-      "link": "https://www.computerbase.de/news/arbeitsspeicher/330-euro-bling-bling-16-gb-plus-dummy-kosten-mehr-als-ein-echtes-kit.99261/",
-      "pubDate": "05.09.2026 um 11:55 Uhr",
-      "timestamp": 1788602100.0,
-      "source": "ComputerBase",
-      "summary": "V-Color hat sein ungewöhnliches „1+1“-Speicherpaket bereits im März vorgestellt. Inzwischen werden die Kits aus einem echten DDR5-Modul und einem opti..."
     }
   ],
   "int": [
+    {
+      "title": "Double Fine's first game post-Xbox split is a goofy bus driving sim all about slapping passengers who don't follow the rules and doing a good job",
+      "link": "https://www.rockpapershotgun.com/double-fines-first-game-post-xbox-split-is-a-goofy-bus-driving-sim-all-about-slapping-passengers-who-dont-follow-the-rules-and-doing-a-good-job",
+      "pubDate": "05.09.2026 um 17:01 Uhr",
+      "timestamp": 1788627703.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "It's been a couple of months since Double Fine parted ways from Xbox, and they've been busy getting to work since that split. There's that game jam Ki..."
+    },
+    {
+      "title": "The 5 Best Games That Still Aren't Officially Available in the US",
+      "link": "https://www.polygon.com/5-best-games-not-available-us/",
+      "pubDate": "05.09.2026 um 17:01 Uhr",
+      "timestamp": 1788627674.0,
+      "source": "Polygon.com",
+      "summary": "From the game that inspired Resident Evil to one of the most acclaimed RPGs of all time, here are 5 games US audiences never officially got to play"
+    },
+    {
+      "title": "38 years of love later, a couple is remaking their Zelda-inspired NES gem and putting it on Steam after learning it's a cult classic",
+      "link": "https://www.gamesradar.com/games/action-rpg/38-years-of-love-later-a-couple-is-remaking-their-zelda-inspired-nes-gem-and-putting-it-on-steam-after-learning-its-a-cult-classic/",
+      "pubDate": "05.09.2026 um 17:00 Uhr",
+      "timestamp": 1788627600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Battle of Olympus remake is \"the culmination of our lives in game development\""
+    },
+    {
+      "title": "Double Fine reveals its first post-Xbox game as Tim Schafer declares no one will shut the studio down but him",
+      "link": "https://www.polygon.com/double-fine-reveals-thank-you-bus-driver/",
+      "pubDate": "05.09.2026 um 16:47 Uhr",
+      "timestamp": 1788626877.0,
+      "source": "Polygon.com",
+      "summary": "Thank You Bus Driver is the first game being published under the Double Fine Action Labs label"
+    },
+    {
+      "title": "Granblue Fantasy Relink Company Announces New Publishing Label Aimed At Releasing Smaller Games Faster",
+      "link": "https://kotaku.com/granblue-fantasy-relink-company-announces-new-publishing-label-aimed-at-releasing-smaller-games-faster-2000731080",
+      "pubDate": "05.09.2026 um 16:30 Uhr",
+      "timestamp": 1788625823.0,
+      "source": "Kotaku",
+      "summary": "Their first game, Where the Seeds Fall, will release in November"
+    },
+    {
+      "title": "'We Are Sorry,' Gamescom Apologizes For Lackluster Response To Indie Booth Thefts",
+      "link": "https://www.polygon.com/gamescom-apology-statement-hardware-indie-thefts/",
+      "pubDate": "05.09.2026 um 16:27 Uhr",
+      "timestamp": 1788625676.0,
+      "source": "Polygon.com",
+      "summary": "After a disastrous first response, Gamescom is doing some damage control and trying to make amends with the gaming community."
+    },
+    {
+      "title": "It’s Curtains For Spider-Noir Season Two, See, The Big Rolled Up Newspaper",
+      "link": "https://kotaku.com/its-curtains-for-spider-noir-season-two-see-the-big-rolled-up-newspaper-2000731553",
+      "pubDate": "05.09.2026 um 16:17 Uhr",
+      "timestamp": 1788625032.0,
+      "source": "Kotaku",
+      "summary": "Despite picking up 11 Emmy nominations, the live action Nicolas Cage Spider-Man spinoff will be sleeping with the fishes after just one season"
+    },
+    {
+      "title": "Mortal Shell 2's latest update adds in an experimental new mode that adjusts the challenge based on how much you do or don't die",
+      "link": "https://www.rockpapershotgun.com/mortal-shell-2s-latest-update-adds-in-an-experimental-new-mode-that-adjusts-the-challenge-based-on-how-much-you-do-or-dont-die",
+      "pubDate": "05.09.2026 um 16:12 Uhr",
+      "timestamp": 1788624769.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Another week, another Mortal Shell 2 update! The first proper one arrived a week ago, and smoothed down some of the game's rough edges to make for a (..."
+    },
     {
       "title": "Xbox Cloud Gaming's new hourly cap is reportedly set exactly where Microsoft stops making money on it",
       "link": "https://www.eurogamer.net/xbox-cloud-gaming-hourly-cap-break-even-point",
@@ -153,6 +217,14 @@
       "timestamp": 1788624668.0,
       "source": "Eurogamer.net News",
       "summary": "A new report suggests that Xbox has capped its cloud gaming usage to 15 hours for Game Pass Ultimate subscribers because that's when the service stops..."
+    },
+    {
+      "title": "Kingdom Come: Deliverance director says DLSS 5 does right by KCD 2, 'people are crazy' for thinking it's AI slop",
+      "link": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/",
+      "pubDate": "05.09.2026 um 16:08 Uhr",
+      "timestamp": 1788624484.0,
+      "source": "PCGamer latest",
+      "summary": "\"I am the creative director of the game. This is our original artistic vision.\""
     },
     {
       "title": "2026 Has Been the Best Year for City-Builders in Decades",
@@ -217,78 +289,6 @@
       "timestamp": 1788620308.0,
       "source": "Polygon.com",
       "summary": "Tactics RPGs including Mario + Rabbids, Triangle Strategy, and the Banner Saga offer tactical gameplay in the lead up to Fire Emblem: Fortune's Weave."
-    },
-    {
-      "title": "Kingdom Hearts' Highly Anticipated Fortnite Collab Delayed, Rumors Say",
-      "link": "https://www.polygon.com/fortnite-kingdom-hearts-collab-delayed-next-update/",
-      "pubDate": "05.09.2026 um 14:56 Uhr",
-      "timestamp": 1788620180.0,
-      "source": "Polygon.com",
-      "summary": "For unknown reasons, Fortnite has delayed Sora's debut in the Battle Royale, but thankfully, Rocket League leaks will keep fans busy."
-    },
-    {
-      "title": "Beloved Evil Dead Star Bruce Campbell Says He Has Five Years Left To Live",
-      "link": "https://kotaku.com/beloved-evil-dead-star-bruce-campbell-says-he-has-five-years-left-to-live-2000731534",
-      "pubDate": "05.09.2026 um 14:47 Uhr",
-      "timestamp": 1788619662.0,
-      "source": "Kotaku",
-      "summary": "The iconic cult movie actor gave an update on his earlier cancer prognosis, which prompted a startling retirement from film and the convention circuit..."
-    },
-    {
-      "title": "Hideki Kamiya Wonders If He Should ‘Sue’  People Online For Implying He ‘Stole’ Money From Xbox During Scalebound’s Development (Which He’s Happy To Revive)",
-      "link": "https://kotaku.com/hideki-kamiya-wonders-if-he-should-sue-people-online-for-implying-he-stole-money-from-xbox-during-scalebounds-development-which-hes-happy-to-revive-2000731529",
-      "pubDate": "05.09.2026 um 14:29 Uhr",
-      "timestamp": 1788618553.0,
-      "source": "Kotaku",
-      "summary": "Kamiya has pushed back at claims he used Scalebound's development funds to bankroll other projects threatening to sue users on X"
-    },
-    {
-      "title": "'Overwatch' Won't Get Its Most Exciting New Feature In Years Until Next Season",
-      "link": "https://www.polygon.com/overwatch-unvaulted-passes-delay/",
-      "pubDate": "05.09.2026 um 14:19 Uhr",
-      "timestamp": 1788617975.0,
-      "source": "Polygon.com",
-      "summary": "Blizzard delayed adding Unvaulted Passes to Overwatch until the start of Season 5, which is expected to begin in October."
-    },
-    {
-      "title": "Star Trek Actor Reveals His Plan for a Perfect James Bond Crossover",
-      "link": "https://www.polygon.com/after-playing-a-q-on-star-trek-rhys-darby-thinks-hes-ready-to-be-q-in-james-bond/",
-      "pubDate": "05.09.2026 um 14:00 Uhr",
-      "timestamp": 1788616814.0,
-      "source": "Polygon.com",
-      "summary": "The Our Flag Means Death star answers our Q Qs"
-    },
-    {
-      "title": "Getting down to business with Fable's game director: \"You can certainly transform the economic future of people\"",
-      "link": "https://www.gamesradar.com/games/rpg/getting-down-to-business-with-fables-game-director-you-can-certainly-transform-the-economic-future-of-people/",
-      "pubDate": "05.09.2026 um 14:00 Uhr",
-      "timestamp": 1788616800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Want a mansion in Fable? Its game director explains how to make millions"
-    },
-    {
-      "title": "Half of France's premier FPS sibling duo just put out the most exhilarating parkour game I've ever played, and it's only $8",
-      "link": "https://www.pcgamer.com/games/fps/half-of-frances-premier-fps-sibling-duo-just-put-out-the-most-exhilarating-parkour-game-ive-ever-played-and-its-only-usd8/",
-      "pubDate": "05.09.2026 um 14:00 Uhr",
-      "timestamp": 1788616800.0,
-      "source": "PCGamer latest",
-      "summary": "All movement, no shooter."
-    },
-    {
-      "title": "This free lockpicking puzzler you can play in your browser is unexpectedly one of the most thrilling games I've encountered this year",
-      "link": "https://www.pcgamer.com/games/puzzle/this-free-lockpicking-puzzler-you-can-play-in-your-browser-is-unexpectedly-one-of-the-most-thrilling-games-ive-encountered-this-year/",
-      "pubDate": "05.09.2026 um 13:45 Uhr",
-      "timestamp": 1788615927.0,
-      "source": "PCGamer latest",
-      "summary": "Lockpicks-11 is a fiendish delight."
-    },
-    {
-      "title": "Amazon Just Canceled The Most Subversive Spider-Man Show Ever Made",
-      "link": "https://www.polygon.com/spider-noir-canceled/",
-      "pubDate": "05.09.2026 um 13:40 Uhr",
-      "timestamp": 1788615622.0,
-      "source": "Polygon.com",
-      "summary": "Spider-Noir will not get a second season, although another Marvel TV show from Sony may still come to Prime Video"
     }
   ],
   "sim": [
