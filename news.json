@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "No Man's Sky: Sean Murray teasert riesiges Jubiläums-Update Cosmos an",
+      "link": "https://www.eurogamer.de/no-mans-sky-cosmos-update-teaser-emoji",
+      "pubDate": "06.09.2026 um 11:04 Uhr",
+      "timestamp": 1788692640.0,
+      "source": "Eurogamer.de News",
+      "summary": "Schnallt euch an, No-Man's-Sky-Fans: Sean Murray hat wieder tief in seine Emoji-Trickkiste gegriffen. Das ist ein untr&uuml;gliches Zeichen daf&uuml;r..."
+    },
+    {
+      "title": "Fans werfen Entwicklern von Palworld vor, sie hätten ihr vorheriges Spiel vergessen, bestrafen es mit schlechten Reviews auf Steam",
+      "link": "https://mein-mmo.de/craftopia-steam-negative-reviews/",
+      "pubDate": "06.09.2026 um 10:40 Uhr",
+      "timestamp": 1788691202.0,
+      "source": "Mein-MMO",
+      "summary": "Vor Palworld haben die Entwickler an einem anderen Titel gearbeitet. Der hat es auf Steam bislang nie aus dem Early Access geschafft. Der Beitrag Fans..."
+    },
+    {
       "title": "Xbox Cloud Gaming: Darum gibt es jetzt strenge Zeitlimits im Game Pass",
       "link": "https://www.eurogamer.de/xbox-cloud-gaming-game-pass-zeitlimit-grund",
       "pubDate": "06.09.2026 um 10:03 Uhr",
@@ -9,7 +25,7 @@
       "summary": "Ein neuer Bericht legt nahe, dass Xbox die Nutzung von Cloud Gaming f&uuml;r Abonnenten des Game Pass Ultimate auf 15 Stunden begrenzt hat. Der Grund:..."
     },
     {
-      "title": "Grand Theft Auto VI: Was sagt ihr zum „Extended Look“ und bloß 30 FPS?",
+      "title": "Grand Theft Auto VI: Wer hat 30 FPS für 100 Euro vorbestellt?",
       "link": "https://www.computerbase.de/news/gaming/grand-theft-auto-vi-was-sagt-ihr-zum-extended-look-und-bloss-30-fps.99240/",
       "pubDate": "06.09.2026 um 12:00 Uhr",
       "timestamp": 1788688800.0,
@@ -47,6 +63,14 @@
       "timestamp": 1788685200.0,
       "source": "Mein-MMO",
       "summary": "MeinMMO-Dämon Cortyn muss sich entschuldigen und zwar bei den deutschen Vertonungen von Anime. Denn die können doch echt gut sein. Der Beitrag Ich mus..."
+    },
+    {
+      "title": "Ikea geht gerade gewagte Wette ein: Man setzt im Zeitalter der KI auf Menschen",
+      "link": "https://mein-mmo.de/ikea-setzt-auf-menschen-zeitalter-ki/",
+      "pubDate": "06.09.2026 um 08:45 Uhr",
+      "timestamp": 1788684300.0,
+      "source": "Mein-MMO",
+      "summary": "Viele Unternehmen setzen bereits voll auf KI. Ikea geht hingegen einen anderen Weg und setzt im Zeitalter der KI auf Menschen. Der Beitrag Ikea geht g..."
     },
     {
       "title": "The Blood of Dawnwalker: Starkes Debüt mit einer Million Verkäufen in nur zwei Tagen",
@@ -119,33 +143,33 @@
       "timestamp": 1788677810.0,
       "source": "Mein-MMO",
       "summary": "Jeden Tag finden bei Monopoly GO Events statt, die euch Belohnungen wie Würfel geben, wir verraten euch mehr zum aktuellen Event. Der Beitrag Monopoly..."
-    },
-    {
-      "title": "Monopoly GO: Alle gratis Würfel im September 2026 – Die neuen Codes von heute",
-      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
-      "pubDate": "06.09.2026 um 06:53 Uhr",
-      "timestamp": 1788677617.0,
-      "source": "Mein-MMO",
-      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
-    },
-    {
-      "title": "Wochenrück- und Ausblick: Neue Optik mit FritzBox und DLSS 5",
-      "link": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w36.99254/",
-      "pubDate": "06.09.2026 um 08:00 Uhr",
-      "timestamp": 1788674400.0,
-      "source": "ComputerBase",
-      "summary": "Nvidia DLSS 5 ist diese Woche klar das Top-Thema auf ComputerBase. Das Leserinteresse ist hoch, ebenso die Meinungen der Leser dazu – die deutlich pos..."
-    },
-    {
-      "title": "In Warhammer 40.000 sind Space Marines absurd viel mächtiger als alle anderen und das neue Total War verdeutlicht das nun endlich",
-      "link": "https://mein-mmo.de/total-war-warhammer-40k-gespielt-gamescom-interview/",
-      "pubDate": "06.09.2026 um 06:00 Uhr",
-      "timestamp": 1788674400.0,
-      "source": "Mein-MMO",
-      "summary": "Im Interview mit den Machern von Total War: Warhammer 40.000 haben wir einige spannende Infos zum Spiel erhalten. Der Beitrag In Warhammer 40.000 sind..."
     }
   ],
   "int": [
+    {
+      "title": "The Blood of Dawnwalker has sold 1 million copies in just 3 days",
+      "link": "https://www.eurogamer.net/blood-of-dawnwalker-1-million-sales-rebel-wolves",
+      "pubDate": "06.09.2026 um 11:01 Uhr",
+      "timestamp": 1788692468.0,
+      "source": "Eurogamer.net News",
+      "summary": "The Blood of Dawnwalker has sold more than a million copies worldwide in just three days. Read more"
+    },
+    {
+      "title": "Civilization 7 will finally enter the atomic age in 2027, via a free update Firaxis says will be 'even bigger in scope' than last year's Test of Time",
+      "link": "https://www.pcgamer.com/games/strategy/civilization-7-will-finally-enter-the-atomic-age-in-2027-via-a-free-update-firaxis-says-will-be-even-bigger-in-scope-than-last-years-test-of-time/",
+      "pubDate": "06.09.2026 um 11:00 Uhr",
+      "timestamp": 1788692421.0,
+      "source": "PCGamer latest",
+      "summary": "First expansion \"Earthrise\" also announced."
+    },
+    {
+      "title": "5 Most Shocking Anime Deaths Of The 21st Century",
+      "link": "https://www.polygon.com/most-shocking-character-deaths-anime-21st-century/",
+      "pubDate": "06.09.2026 um 11:00 Uhr",
+      "timestamp": 1788692414.0,
+      "source": "Polygon.com",
+      "summary": "These anime deaths completely changed the trajectory of these stories."
+    },
     {
       "title": "3 Games Where Your Choices Truly Matter",
       "link": "https://www.polygon.com/best-games-where-choices-matter/",
@@ -227,14 +251,6 @@
       "summary": "Former Valve writer Chet Faliszek has a confession to make: Valve intentionally leaked its own Left 4 Dead 2 trailer."
     },
     {
-      "title": "The Blood of Dawnwalker Fixes the Worst Thing About Open-World Games",
-      "link": "https://www.polygon.com/blood-dawnwalker-open-world-opinion/",
-      "pubDate": "05.09.2026 um 23:01 Uhr",
-      "timestamp": 1788649273.0,
-      "source": "Polygon.com",
-      "summary": "The Blood of Dawnwalker fixes an age old open-world problem by forcing procrastinating players to face its final boss."
-    },
-    {
       "title": "Deliver packages in foresty mountains and avoid thieving boars in the Death Stranding-adjacent and quite calm-looking Pinetrail",
       "link": "https://www.rockpapershotgun.com/deliver-packages-in-foresty-mountains-and-avoid-thieving-boars-in-the-death-stranding-adjacent-and-quite-calm-looking-pinetrail",
       "pubDate": "05.09.2026 um 21:53 Uhr",
@@ -273,22 +289,6 @@
       "timestamp": 1788640366.0,
       "source": "PCGamer latest",
       "summary": "That's what's up."
-    },
-    {
-      "title": "Saber CCO says the studio isn't changing up its comms strategy after recent controversies: 'There's always some dust up'",
-      "link": "https://www.pcgamer.com/gaming-industry/saber-cco-says-the-studio-isnt-changing-up-its-comms-strategy-after-recent-controversies-theres-always-some-dust-up/",
-      "pubDate": "05.09.2026 um 20:13 Uhr",
-      "timestamp": 1788639202.0,
-      "source": "PCGamer latest",
-      "summary": "\"The games will speak for themselves.\""
-    },
-    {
-      "title": "Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse",
-      "link": "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564",
-      "pubDate": "05.09.2026 um 20:04 Uhr",
-      "timestamp": 1788638697.0,
-      "source": "Kotaku",
-      "summary": "Usually playing the cheerleader for artificial intelligence, the Epic CEO seems to have cooled on the trend and regrets humoring NFTs"
     }
   ],
   "sim": [
