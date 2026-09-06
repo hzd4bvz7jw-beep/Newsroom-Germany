@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Tales of Eternia Remastered: Auflösung und Framerate für alle Konsolen enthüllt",
+      "link": "https://www.eurogamer.de/tales-of-eternia-remastered-aufloesung-framerate-specs",
+      "pubDate": "06.09.2026 um 13:06 Uhr",
+      "timestamp": 1788699960.0,
+      "source": "Eurogamer.de News",
+      "summary": "Im kommenden Monat erscheint Bandai Namcos Tales of Eternia Remastered. Jetzt hat der Publisher die Spezifikationen des Spiels f&uuml;r die Konsolen b..."
+    },
+    {
       "title": "Humankind 2: Entwickler wehrt sich nach neuem Trailer gegen KI-Vorwürfe",
       "link": "https://www.eurogamer.de/humankind-2-trailer-ki-vorwuerfe-beweis",
       "pubDate": "06.09.2026 um 12:05 Uhr",
@@ -121,14 +129,6 @@
       "summary": "Michael Myers ist einer der bekanntesten Horror-Schurken aller Zeiten, doch was steckt alles hinter der Maske? Der Beitrag Alle kennen Michael Myers, ..."
     },
     {
-      "title": "Civilization 7: Erweiterung Earthrise und neues Atomzeitalter enthüllt",
-      "link": "https://www.eurogamer.de/civilization-7-erweiterung-earthrise-atomzeitalter-update",
-      "pubDate": "06.09.2026 um 07:30 Uhr",
-      "timestamp": 1788679800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Firaxis hat die Zukunft von Civilization 7 enth&uuml;llt. Diese bringt mit \"Arc of Tomorrow\" ein gro&szlig;es neues Gratis-Update und mit Earthrise di..."
-    },
-    {
       "title": "Berliner Datengau: 1,4 Millionen Dateien landen im Darknet",
       "link": "https://www.computerbase.de/news/wirtschaft/berliner-datengau-1-4-millionen-dateien-landen-im-darknet.99272/",
       "pubDate": "06.09.2026 um 09:00 Uhr",
@@ -146,6 +146,62 @@
     }
   ],
   "int": [
+    {
+      "title": "Square Enix wants to turn Final Fantasy 7 into \"an IP with an ever-evolving future\" beyond the FF7 Remake trilogy",
+      "link": "https://www.gamesradar.com/games/final-fantasy/square-enix-wants-to-turn-final-fantasy-7-into-an-ip-with-an-ever-evolving-future-beyond-the-ff7-remake-trilogy/",
+      "pubDate": "06.09.2026 um 13:01 Uhr",
+      "timestamp": 1788699694.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"An effort to pass Final Fantasy 7 onto the next generation\""
+    },
+    {
+      "title": "BG3's Best Evil Playthrough Replacement Is Waiting to Be Rediscovered on Steam",
+      "link": "https://www.polygon.com/tyranny-crpg-obsidian-baldurs-gate-3-evil-playthrough/",
+      "pubDate": "06.09.2026 um 13:00 Uhr",
+      "timestamp": 1788699614.0,
+      "source": "Polygon.com",
+      "summary": "Tyranny casts you as an enforcer for a god-emperor who already won the war. If Baldur's Gate 3's evil playthroughs left you wanting more, play this"
+    },
+    {
+      "title": "Ananta is riding high off 'free anime GTA' comparisons, but its mess of ideas barely hold together in my hands-on",
+      "link": "https://www.gamesradar.com/games/open-world/ananta-is-riding-high-off-free-anime-gta-comparisons-but-its-mess-of-ideas-barely-hold-together/",
+      "pubDate": "06.09.2026 um 13:00 Uhr",
+      "timestamp": 1788699600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "A heady stew made up of GTA, Spider-Man, and Uncharted ingredients leaves an overpowering taste, but this free open world is staggering"
+    },
+    {
+      "title": "In a world of Slime Rancher and Palworld, I still crave more Viva Piñata",
+      "link": "https://www.gamesradar.com/games/simulation/in-a-world-of-slime-rancher-and-palworld-i-still-crave-more-viva-pinata/",
+      "pubDate": "06.09.2026 um 13:00 Uhr",
+      "timestamp": 1788699600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The game that made Rare get back in its groove"
+    },
+    {
+      "title": "Valve staged its own Left 4 Dead 2 trailer \"leak\" to get around an ESRB ban, says former writer",
+      "link": "https://www.eurogamer.net/valve-left-4-dead-2-trailer-leak-esrb-chet-faliszek",
+      "pubDate": "06.09.2026 um 12:42 Uhr",
+      "timestamp": 1788698529.0,
+      "source": "Eurogamer.net News",
+      "summary": "Valve itself \"leaked\" the 2009 Left 4 Dead 2 trailer. Read more"
+    },
+    {
+      "title": "Here's 10 more minutes of the most interesting game shown at this year's Opening Night Live",
+      "link": "https://www.pcgamer.com/games/horror/heres-10-more-minutes-of-the-most-interesting-game-shown-at-this-years-opening-night-live/",
+      "pubDate": "06.09.2026 um 12:27 Uhr",
+      "timestamp": 1788697646.0,
+      "source": "PCGamer latest",
+      "summary": "Rat's entertainment."
+    },
+    {
+      "title": "Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work \"at this resolution\"",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/",
+      "pubDate": "06.09.2026 um 12:27 Uhr",
+      "timestamp": 1788697639.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "GTA 6 needs better \"behavioral sophistication\" from its NPCs"
+    },
     {
       "title": "GOTY 2026 is the Weakest Field in Years",
       "link": "https://www.polygon.com/goty-2026-game-awards-blood-dawnwalker-onimusha-orbitals/",
@@ -233,62 +289,6 @@
       "timestamp": 1788662580.0,
       "source": "PCGamer latest",
       "summary": "\"I think BioWare can do it if we just leave them alone to do what they do best.\""
-    },
-    {
-      "title": "Fire Emblem Fortune's Weave Owes Everything to an Overlooked 3DS Masterpiece",
-      "link": "https://www.polygon.com/fire-emblem-echoes-shadow-valentia-retrospective/",
-      "pubDate": "06.09.2026 um 01:00 Uhr",
-      "timestamp": 1788656414.0,
-      "source": "Polygon.com",
-      "summary": "Fortunes Weave mechanics like turn rewinding and dungeon crawling all came from one of Fire Emblem's few remakes, Echoes: Shadows of Valentia"
-    },
-    {
-      "title": "How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
-      "link": "https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
-      "pubDate": "06.09.2026 um 00:04 Uhr",
-      "timestamp": 1788653056.0,
-      "source": "IGN All",
-      "summary": "Nintendo is going big this September with two Nintendo Direct showcases airing on back-to-back days. Here's everything you need to know."
-    },
-    {
-      "title": "Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release",
-      "link": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
-      "pubDate": "05.09.2026 um 23:03 Uhr",
-      "timestamp": 1788649385.0,
-      "source": "IGN All",
-      "summary": "Former Valve writer Chet Faliszek has a confession to make: Valve intentionally leaked its own Left 4 Dead 2 trailer."
-    },
-    {
-      "title": "Deliver packages in foresty mountains and avoid thieving boars in the Death Stranding-adjacent and quite calm-looking Pinetrail",
-      "link": "https://www.rockpapershotgun.com/deliver-packages-in-foresty-mountains-and-avoid-thieving-boars-in-the-death-stranding-adjacent-and-quite-calm-looking-pinetrail",
-      "pubDate": "05.09.2026 um 21:53 Uhr",
-      "timestamp": 1788645226.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "I can take or leave a majority of Death Stranding's story (BB forever, though), but I gotta give it to Kojima: delivering stuff is fun. There's a genu..."
-    },
-    {
-      "title": "Insomniac Clears the Air After Marvel's Wolverine Fans Confuse Lady Deathstrike for Psylocke",
-      "link": "https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke",
-      "pubDate": "05.09.2026 um 21:34 Uhr",
-      "timestamp": 1788644090.0,
-      "source": "IGN All",
-      "summary": "Insomniac Games has cleared the air after a new trailer for Marvel's Wolverine had fans confusing Lady Deathstrike for Psylocke."
-    },
-    {
-      "title": "Former Old School RuneScape Developer Sentenced For Stealing In-Game Gold From Players",
-      "link": "https://kotaku.com/former-old-school-runescape-developer-sentenced-for-stealing-in-game-gold-from-players-2000731568",
-      "pubDate": "05.09.2026 um 20:52 Uhr",
-      "timestamp": 1788641541.0,
-      "source": "Kotaku",
-      "summary": "Under investigation since 2019, Andrew ‘Mod Jed’ Lakeman could face three years in prison after crypto laundering half a million worth of in-game loot"
-    },
-    {
-      "title": "Laser Guy is a twin-stick \"anti-shooter\" about a stressed out game developer who can't stop shooting laser beams from his eye",
-      "link": "https://www.rockpapershotgun.com/laser-guy-is-a-twin-stick-anti-shooter-about-a-stressed-out-game-developer-who-cant-stop-shooting-laser-beams-from-his-eyes",
-      "pubDate": "05.09.2026 um 20:33 Uhr",
-      "timestamp": 1788640405.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Do I need to explain how Cyclops from the X-Men's powers work? I'm going to anyway just in case. He shoots beams from his eyes! More or less, I think ..."
     }
   ],
   "sim": [
