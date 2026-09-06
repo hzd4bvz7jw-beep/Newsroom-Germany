@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Welcome to Sunnybrook für Steam – Einbruchssim trifft Dino-Survival-Horror",
+      "link": "https://www.playcentral.de/welcome-to-sunnybrook-fuer-steam-einbruchssim-trifft-dino-survival-horror/",
+      "pubDate": "06.09.2026 um 01:31 Uhr",
+      "timestamp": 1788658305.0,
+      "source": "PlayCentral",
+      "summary": "Mit Welcome to Sunnybrook kündigt sich für Steam ein ungewöhnliches Dinosaurier-Horrorspiel an. Der Einzelspieler-Titel von Breaking Dimensions und Po..."
+    },
+    {
       "title": "Pokémon GO Fest 2026 Mega-Finale endet – letzte Chance auf fünf Raritäten",
       "link": "https://www.playcentral.de/pokemon-go-fest-2026-mega-finale-endet-letzte-chance-auf-fuenf-raritaeten/",
       "pubDate": "06.09.2026 um 00:32 Uhr",
@@ -63,14 +71,6 @@
       "timestamp": 1788634440.0,
       "source": "ComputerBase",
       "summary": "Crimson Desert Enhanced erhält mit „Charting the Unknown“ den ersten DLC. Spieler dürfen sich neben neuen Ländern auf die Erkundung der Meere mit Schi..."
-    },
-    {
-      "title": "Palworld 1.1 angekündigt – Pocketpair teasert lang gewünschte Funktion",
-      "link": "https://www.playcentral.de/palworld-1-1-angekuendigt-pocketpair-teasert-lang-gewuenschte-funktion/",
-      "pubDate": "05.09.2026 um 18:32 Uhr",
-      "timestamp": 1788633147.0,
-      "source": "PlayCentral",
-      "summary": "Pocketpair arbeitet bereits am nächsten größeren Update für Palworld und hat nun einen besonders spannenden Vorgeschmack geliefert. Version 1.1 soll e..."
     },
     {
       "title": "GMKtec EVO-X5 Pro: AMD Ryzen AI Max+ 495 Pro trifft 192 GB RAM im Mini-PC",
@@ -155,12 +155,28 @@
       "summary": "Fortunes Weave mechanics like turn rewinding and dungeon crawling all came from one of Fire Emblem's few remakes, Echoes: Shadows of Valentia"
     },
     {
+      "title": "How to Watch the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
+      "link": "https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
+      "pubDate": "06.09.2026 um 00:04 Uhr",
+      "timestamp": 1788653056.0,
+      "source": "IGN All",
+      "summary": "Nintendo is going big this September with two Nintendo Direct showcases airing on back-to-back days. Here's everything you need to know."
+    },
+    {
       "title": "17 Years Ago, Quentin Tarantino's Wildly Audacious WWII Action Classic Broke the Genre's Biggest Rule",
       "link": "https://www.polygon.com/quentin-tarantino-inglourious-basterds-streaming-on-hulu/",
       "pubDate": "06.09.2026 um 00:00 Uhr",
       "timestamp": 1788652814.0,
       "source": "Polygon.com",
       "summary": "Quentin Tarantino’s WWII revenge movie Inglourious Basterds is now streaming on Hulu, and its rewritten history still delivers."
+    },
+    {
+      "title": "Left 4 Dead 2 Dev Admits Valve Intentionally Leaked Its Own Trailer After the ESRB Blocked It from Release",
+      "link": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
+      "pubDate": "05.09.2026 um 23:03 Uhr",
+      "timestamp": 1788649385.0,
+      "source": "IGN All",
+      "summary": "Former Valve writer Chet Faliszek has a confession to make: Valve intentionally leaked its own Left 4 Dead 2 trailer."
     },
     {
       "title": "The Blood of Dawnwalker Fixes the Worst Thing About Open-World Games",
@@ -264,7 +280,7 @@
       "pubDate": "05.09.2026 um 19:42 Uhr",
       "timestamp": 1788637325.0,
       "source": "IGN All",
-      "summary": "Resident Evil movie director Zach Cregger is days away from his survival horror adaptation's theatrical premiere, but don't expect to help bring anoth..."
+      "summary": "Resident Evil movie director Zach Cregger is days away from his survival horror adaptation's theatrical premiere, but don't expect him to help bring a..."
     },
     {
       "title": "Dwarf Fortress co-creator Tarn Adams was amazed other devs had heard of his game the first time he went to a convention: 'I didn't know that anyone knew what we were doing'",
@@ -273,22 +289,6 @@
       "timestamp": 1788635662.0,
       "source": "PCGamer latest",
       "summary": "\"I try to have good moral qualities, but I am apparently subject to all forms of flattery and vanity and such.\""
-    },
-    {
-      "title": "Go grandmaster becomes first human to win series against advanced AI engine in 3-hour match",
-      "link": "https://www.pcgamer.com/software/ai/go-grandmaster-becomes-first-human-to-win-series-against-advanced-ai-engine-in-3-hour-match/",
-      "pubDate": "05.09.2026 um 19:11 Uhr",
-      "timestamp": 1788635462.0,
-      "source": "PCGamer latest",
-      "summary": "We've still got some fight left in us."
-    },
-    {
-      "title": "7 R-Rated Action Movies That Are 10/10, No Notes",
-      "link": "https://www.polygon.com/r-rated-action-movies-perfect-no-notes/",
-      "pubDate": "05.09.2026 um 19:00 Uhr",
-      "timestamp": 1788634814.0,
-      "source": "Polygon.com",
-      "summary": "From The Matrix to John Wick, these seven R-rated action movies pair spectacular violence with compelling characters and genuine stakes."
     }
   ],
   "sim": [
