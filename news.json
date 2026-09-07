@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Xbox Game Pass Ultimate – Microsoft testet persönliche Rückkehr-Rabatte",
+      "link": "https://www.playcentral.de/xbox-game-pass-ultimate-microsoft-testet-persoenliche-rueckkehr-rabatte/",
+      "pubDate": "07.09.2026 um 19:31 Uhr",
+      "timestamp": 1788809497.0,
+      "source": "PlayCentral",
+      "summary": "Microsoft scheint beim Xbox Game Pass Ultimate mit personalisierten Rückkehrangeboten zu experimentieren. Ehemalige Abonnenten berichten, dass ihnen f..."
+    },
+    {
       "title": "LEGO Golden Retriever Welpe wird zum Star-Wars-Diorama auf Tatooine umgebaut",
       "link": "https://www.playcentral.de/lego-golden-retriever-welpe-wird-zum-star-wars-diorama-auf-tatooine-umgebaut/",
       "pubDate": "07.09.2026 um 18:31 Uhr",
@@ -89,14 +97,6 @@
       "summary": "Sony Interactive Entertainment sorgt mit einer neuen Stellungnahme zur digitalen Spielebibliothek auf PlayStation für Diskussionen. In einem laufenden..."
     },
     {
-      "title": "Zelda-Direct zum 40. Jubiläum – Nintendo zeigt mehr zu Ocarina of Time Switch 2",
-      "link": "https://www.playcentral.de/zelda-direct-zum-40-jubilaeum-nintendo-zeigt-mehr-zu-ocarina-of-time-switch-2/",
-      "pubDate": "07.09.2026 um 16:31 Uhr",
-      "timestamp": 1788798705.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo hat kurz vor der großen Jubiläumsshow zwei konkrete Programmpunkte für die The Legend of Zelda 40th Anniversary Direct bestätigt. Die rund 30..."
-    },
-    {
       "title": "Steam hat Berichten zufolge fast 11 Milliarden Euro in diesem Jahr eingenommen",
       "link": "https://www.eurogamer.de/steam-15-milliarden-umsatz-2026-forza",
       "pubDate": "07.09.2026 um 15:45 Uhr",
@@ -146,6 +146,38 @@
     }
   ],
   "int": [
+    {
+      "title": "World End Syndrome Has A Fascinating Story If You Can Get Past Its Frustrating Game Mechanics",
+      "link": "https://kotaku.com/world-end-syndrome-has-a-fascinating-story-if-you-can-get-past-its-frustrating-game-mechanics-2000730975",
+      "pubDate": "07.09.2026 um 20:00 Uhr",
+      "timestamp": 1788811219.0,
+      "source": "Kotaku",
+      "summary": "A powerful narrative marred by some odd game mechanics."
+    },
+    {
+      "title": "Cemetery Boys Sequel Reveals a Critical Role Connection New Reveal",
+      "link": "https://www.polygon.com/cemetery-boys-espiritu-excerpt-aiden-thomas/",
+      "pubDate": "07.09.2026 um 20:00 Uhr",
+      "timestamp": 1788811214.0,
+      "source": "Polygon.com",
+      "summary": "Aiden Thomas's supernatural romance is here. Celebrate by listening to an audiobook excerpt from Critical Role's Vico Ortiz."
+    },
+    {
+      "title": "Total War: Warhammer 40K will include Traitor Guard \"causing trouble\" at launch, confirms dev",
+      "link": "https://www.gamesradar.com/games/total-war/total-war-warhammer-40k-traitor-guard-factions/",
+      "pubDate": "07.09.2026 um 20:00 Uhr",
+      "timestamp": 1788811200.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Heresy? In my Imperium? It's more likely than you think, Creative Assembly tells GamesRadar+"
+    },
+    {
+      "title": "GTA 6's Criminal Profile system sounds pretty interesting, includes a 'shattered' state for players who DGAF",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/",
+      "pubDate": "07.09.2026 um 19:19 Uhr",
+      "timestamp": 1788808763.0,
+      "source": "PCGamer latest",
+      "summary": "There are reportedly four main states, Professional, Aggressive, Violent, and Psycho, plus a hard-to-reach state you can't come back from."
+    },
     {
       "title": "Persona 1 and 2 remakes are \"something we'll probably eventually do,\" series producer says",
       "link": "https://www.eurogamer.net/persona-1-and-2-remakes-are-something-well-probably-eventually-do-series-producer-says",
@@ -257,38 +289,6 @@
       "timestamp": 1788800441.0,
       "source": "Kotaku",
       "summary": "Suikoden 3 has one of the best instances I’ve seen of branching narratives"
-    },
-    {
-      "title": "Practical Magic 2 First Look: A New Generation of Witches Emerges",
-      "link": "https://www.polygon.com/practical-magic-2-exclusive-image/",
-      "pubDate": "07.09.2026 um 17:00 Uhr",
-      "timestamp": 1788800414.0,
-      "source": "Polygon.com",
-      "summary": "Check out this exclusive image of Practical Magic 2, showing some of the new characters that are introduced to the franchise."
-    },
-    {
-      "title": "Walmart’s Bricktember Sale Includes the LEGO Mario Kart Luigi & Mach 8 Set at Its Lowest Price Yet",
-      "link": "https://www.ign.com/articles/walmarts-bricktember-sale-includes-the-lego-mario-kart-luigi-mach-8-set-at-its-lowest-price-yet",
-      "pubDate": "07.09.2026 um 17:00 Uhr",
-      "timestamp": 1788800400.0,
-      "source": "IGN All",
-      "summary": "LEGO’s Mario Kart Luigi & Mach 8 set has hit its lowest price yet at Walmart during its Bricktember sale event, with the retailer knocking $29.99 off ..."
-    },
-    {
-      "title": "OpenAI publicly acknowledges the German 'wiki incident' weeks after first finding out about it",
-      "link": "https://www.pcgamer.com/software/ai/openai-publicly-acknowledges-the-german-wiki-incident-weeks-after-first-finding-out-about-it/",
-      "pubDate": "07.09.2026 um 16:56 Uhr",
-      "timestamp": 1788800161.0,
-      "source": "PCGamer latest",
-      "summary": "Back on track?"
-    },
-    {
-      "title": "Sudden wave of Switch 2 online bans reportedly caused by a Nintendo server issue, and are now being fixed",
-      "link": "https://www.gamesradar.com/games/sudden-wave-of-switch-2-online-bans-reportedly-caused-by-a-nintendo-server-issue-and-are-now-being-fixed/",
-      "pubDate": "07.09.2026 um 16:45 Uhr",
-      "timestamp": 1788799536.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "No official reason's been given publicly, though"
     }
   ],
   "sim": [
