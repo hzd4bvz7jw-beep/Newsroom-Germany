@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "LEGO Golden Retriever Welpe wird zum Star-Wars-Diorama auf Tatooine umgebaut",
+      "link": "https://www.playcentral.de/lego-golden-retriever-welpe-wird-zum-star-wars-diorama-auf-tatooine-umgebaut/",
+      "pubDate": "07.09.2026 um 18:31 Uhr",
+      "timestamp": 1788805914.0,
+      "source": "PlayCentral",
+      "summary": "Aus einem niedlichen LEGO-Hund wird eine staubige Kulisse aus einer weit, weit entfernten Galaxis. Der LEGO-Fan JamesTton33 hat das Set LEGO Icons Gol..."
+    },
+    {
+      "title": "Sonys Call of Duty: Killzone kommt als altes Spiel zurück",
+      "link": "https://www.computerbase.de/news/gaming/sonys-call-of-duty-killzone-kommt-als-altes-spiel-zurueck.99292/",
+      "pubDate": "07.09.2026 um 20:30 Uhr",
+      "timestamp": 1788805800.0,
+      "source": "ComputerBase",
+      "summary": "Sony belebt seinen Call-of-Duty-Konkurrenten wieder. Geplant ist ein neues Projekt unter Leitung von Guerilla Games, aber kein gänzlich neues Spiel. U..."
+    },
+    {
+      "title": "Vampire in Warhammer sind noch brutaler als Dracula, aber wie entstanden sie überhaupt?",
+      "link": "https://mein-mmo.de/warhammer-woher-kommen-vampire/",
+      "pubDate": "07.09.2026 um 18:15 Uhr",
+      "timestamp": 1788804900.0,
+      "source": "Mein-MMO",
+      "summary": "Neue Vampire entstehen in Warhammer durch den „Blutkuss“, aber was ist das für ein Ritual und wer war eigentlich die erste Vampirin? Der Beitrag Vampi..."
+    },
+    {
       "title": "Rockstar versteckt die Story von GTA 6 direkt vor eurer Nase: Das haben die Trailer und der Netflix-Reveal verraten",
       "link": "https://mein-mmo.de/gta-6-rockstar-verraet-story-in-trailer-und-netflix-einblick/",
       "pubDate": "07.09.2026 um 18:00 Uhr",
@@ -113,39 +137,47 @@
       "summary": "W&auml;hrend die westliche Videospielindustrie weiterhin strauchelt, scheint die Branche in China regelrecht zu explodieren. Im Jahr 2025 erreichte de..."
     },
     {
-      "title": "Palworld Update 1.0.4 bringt neue Missionen, Balance und 74 Bugfixes",
-      "link": "https://www.playcentral.de/palworld-update-1-0-4-bringt-neue-missionen-balance-und-74-bugfixes/",
-      "pubDate": "07.09.2026 um 14:31 Uhr",
-      "timestamp": 1788791506.0,
-      "source": "PlayCentral",
-      "summary": "Palworld erhält am 7. September 2026 mit Version 1.0.4 ein umfangreiches neues Update. Entwickler Pocketpair konzentriert sich dabei auf Balance-Anpas..."
-    },
-    {
       "title": "OpenAI: KI-Agenten beschleu­­nigen interne Forschung und verkürzen Zeiten",
       "link": "https://www.computerbase.de/news/apps/openai-ki-agenten-beschleunigen-interne-forschung-und-verkuerzen-zeiten.99281/",
       "pubDate": "07.09.2026 um 16:21 Uhr",
       "timestamp": 1788790860.0,
       "source": "ComputerBase",
       "summary": "OpenAI erkennt zunehmend Hinweise darauf, dass KI-Agenten die eigene Forschung erheblich beschleunigen. Das Ziel eines automatisierten „Research Inter..."
-    },
-    {
-      "title": "Nutzer lässt ChatGPT das erste Portal von Valve durchspielen, muss dafür rund 500 Euro zahlen",
-      "link": "https://mein-mmo.de/nutzer-chatgpt-portal-durchspielen-hohe-kosten/",
-      "pubDate": "07.09.2026 um 14:15 Uhr",
-      "timestamp": 1788790500.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Nutzer lässt die neuste Version von ChatGPT den Titel Portal durchspielen. Das dauert fast 24 Stunden.  Der Beitrag Nutzer lässt ChatGPT das erste..."
-    },
-    {
-      "title": "Monopoly GO: Alle gratis Würfel im September 2026 – Die neuen Codes von heute",
-      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
-      "pubDate": "07.09.2026 um 14:04 Uhr",
-      "timestamp": 1788789863.0,
-      "source": "Mein-MMO",
-      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
     }
   ],
   "int": [
+    {
+      "title": "Persona 1 and 2 remakes are \"something we'll probably eventually do,\" series producer says",
+      "link": "https://www.eurogamer.net/persona-1-and-2-remakes-are-something-well-probably-eventually-do-series-producer-says",
+      "pubDate": "07.09.2026 um 19:05 Uhr",
+      "timestamp": 1788807937.0,
+      "source": "Eurogamer.net News",
+      "summary": "With Persona 3 Reload out the door and Persona 4 Revival next in line, series producer Kazuhisa Wada has said remakes of the first two games will \"pro..."
+    },
+    {
+      "title": "The History of Ultima VII, One Of The Greatest RPGs Ever Made",
+      "link": "https://kotaku.com/the-history-of-ultima-vii-one-of-the-greatest-rpgs-ever-made-2000731070",
+      "pubDate": "07.09.2026 um 19:00 Uhr",
+      "timestamp": 1788807648.0,
+      "source": "Kotaku",
+      "summary": "Exploring the history and legacy of Ultima VII: The Black Gate."
+    },
+    {
+      "title": "Lovecraft Horror Meets Snowpiercer in One of 2026’s Biggest Hidden Gems",
+      "link": "https://www.polygon.com/dreadline-express-preview-gamescom-2026/",
+      "pubDate": "07.09.2026 um 19:00 Uhr",
+      "timestamp": 1788807614.0,
+      "source": "Polygon.com",
+      "summary": "Dreadline Express is a psychological horror adventure game about unravelling the mysteries of the last human train."
+    },
+    {
+      "title": "GTA 5 left Rockstar feeling \"slightly nervous\" about Red Dead Redemption 2 as devs worried fans \"were going to be bored\" by only having one protagonist to play as",
+      "link": "https://www.gamesradar.com/games/action/gta-5-left-rockstar-feeling-slightly-nervous-about-red-dead-redemption-2-as-devs-worried-fans-were-going-to-be-bored-by-only-having-one-protagonist-to-play-as/",
+      "pubDate": "07.09.2026 um 19:00 Uhr",
+      "timestamp": 1788807600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Suffering from success"
+    },
     {
       "title": "Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande",
       "link": "https://www.eurogamer.net/final-fantasy-resonance-mod-ariana-grande-mobile-game",
@@ -161,6 +193,14 @@
       "timestamp": 1788804042.0,
       "source": "Kotaku",
       "summary": "The incredible art made Wind Waker feel like playing a cartoon"
+    },
+    {
+      "title": "GTA 6 Will Launch Digitally at Midnight Around the World, So Of Course Fans Are Already Planning to Set Their Console Locations to New Zealand",
+      "link": "https://www.ign.com/articles/gta-6-will-launch-digitally-at-midnight-around-the-world-so-of-course-fans-are-already-planning-to-set-their-console-locations-to-new-zealand",
+      "pubDate": "07.09.2026 um 18:00 Uhr",
+      "timestamp": 1788804031.0,
+      "source": "IGN All",
+      "summary": "Rockstar will launch Grand Theft Auto 6 at midnight local time in most countries on November 19 — meaning some fans are already planning to adjust the..."
     },
     {
       "title": "10 Best New TV Shows to Watch This Fall 2026",
@@ -227,6 +267,14 @@
       "summary": "Check out this exclusive image of Practical Magic 2, showing some of the new characters that are introduced to the franchise."
     },
     {
+      "title": "Walmart’s Bricktember Sale Includes the LEGO Mario Kart Luigi & Mach 8 Set at Its Lowest Price Yet",
+      "link": "https://www.ign.com/articles/walmarts-bricktember-sale-includes-the-lego-mario-kart-luigi-mach-8-set-at-its-lowest-price-yet",
+      "pubDate": "07.09.2026 um 17:00 Uhr",
+      "timestamp": 1788800400.0,
+      "source": "IGN All",
+      "summary": "LEGO’s Mario Kart Luigi & Mach 8 set has hit its lowest price yet at Walmart during its Bricktember sale event, with the retailer knocking $29.99 off ..."
+    },
+    {
       "title": "OpenAI publicly acknowledges the German 'wiki incident' weeks after first finding out about it",
       "link": "https://www.pcgamer.com/software/ai/openai-publicly-acknowledges-the-german-wiki-incident-weeks-after-first-finding-out-about-it/",
       "pubDate": "07.09.2026 um 16:56 Uhr",
@@ -241,54 +289,6 @@
       "timestamp": 1788799536.0,
       "source": "Latest from GamesRadar+",
       "summary": "No official reason's been given publicly, though"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation director personally vetoed having to unlock new jobs for each character throughout the game",
-      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-director-personally-vetoed-having-to-unlock-new-jobs-for-each-character-throughout-the-game/",
-      "pubDate": "07.09.2026 um 16:30 Uhr",
-      "timestamp": 1788798648.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Everyone will get the four FITS right away"
-    },
-    {
-      "title": "The Secretlab Labor Day Sale Has Big Discounts on Its Titan Gaming Chairs Including the Nanogen Edition",
-      "link": "https://www.ign.com/articles/secretlab-labor-day-sale-2026-best-deals-on-titan-gaming-chairs",
-      "pubDate": "07.09.2026 um 16:15 Uhr",
-      "timestamp": 1788797700.0,
-      "source": "IGN All",
-      "summary": "The Secretlab Titan Evo is our top gaming chair pick for 2026."
-    },
-    {
-      "title": "Patrice Désilets vows to make a sequel to Ancestors: The Humankind Odyssey",
-      "link": "https://www.eurogamer.net/ancestors-humankind-odyssey-sequel-patrice-desilets",
-      "pubDate": "07.09.2026 um 16:12 Uhr",
-      "timestamp": 1788797533.0,
-      "source": "Eurogamer.net News",
-      "summary": "Patrice D&eacute;silets, the creator of the Assassin's Creed series and director of 1666: Amsterdam, has said he will make a sequel to open-world huma..."
-    },
-    {
-      "title": "New horror game The Well Is Not Empty combines photophobic monsters with timer light switches and a lot of frenzied digging",
-      "link": "https://www.rockpapershotgun.com/new-horror-game-the-well-is-not-empty-combines-photophobic-monsters-with-timer-light-switches-and-a-lot-of-frenzied-digging",
-      "pubDate": "07.09.2026 um 16:06 Uhr",
-      "timestamp": 1788797182.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "\"Never show the monster,\" horror film-makers, game-makers and other creepozoids have chanted, over the decades. The Well Is Not Empty wastes no time s..."
-    },
-    {
-      "title": "Persona 1 and 2 remakes will \"probably\" happen for the sake of \"cultural preservation,\" says Persona 4 Revival producer: \"It's your duty to take the things you've done and make sure they're not lost\"",
-      "link": "https://www.gamesradar.com/games/persona/persona-1-and-2-remakes-will-probably-happen-for-the-sake-of-cultural-preservation-says-persona-4-revival-producer-its-your-duty-to-take-the-things-youve-done-and-make-sure-theyre-not-lost/",
-      "pubDate": "07.09.2026 um 16:02 Uhr",
-      "timestamp": 1788796969.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Kazuhisa Wada says devs have to ensure their games \"are still around in the modern day\""
-    },
-    {
-      "title": "All Sanzhana locations in The Blood of Dawnwalker",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-sanzhana/",
-      "pubDate": "07.09.2026 um 16:01 Uhr",
-      "timestamp": 1788796868.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "There are five blue Sanzhana fairies found around Dawnwalker, unlocking extra time"
     }
   ],
   "sim": [
