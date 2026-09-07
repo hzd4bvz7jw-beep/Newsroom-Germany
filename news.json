@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "3 Risiken: Wieso Top-Modelle wie GPT-6 immer schwerer zu kontrollieren sind",
+      "link": "https://www.computerbase.de/artikel/apps/3-risiken-top-modelle-gpt-6-kontrolle.98886/",
+      "pubDate": "07.09.2026 um 13:00 Uhr",
+      "timestamp": 1788778800.0,
+      "source": "ComputerBase",
+      "summary": "Über 1.200 Agenten organisierten sich in einer Testumgebung von OpenAI, 700 griffen Hugging Face an. Der Auslöser: Fehlanreize beim KI-Training, die M..."
+    },
+    {
+      "title": "Onimusha: Way of the Sword erreicht schon am Release-Tag einen wichtigen Meilenstein",
+      "link": "https://www.eurogamer.de/onimusha-way-sword-1-million-verkaeufe",
+      "pubDate": "07.09.2026 um 10:23 Uhr",
+      "timestamp": 1788776604.0,
+      "source": "Eurogamer.de News",
+      "summary": "Falls ihr gehofft hattet, Onimusha: Way of the Sword k&ouml;nnte die ruhende Serie wiederbeleben, d&uuml;rften eure W&uuml;nsche in Erf&uuml;llung geh..."
+    },
+    {
+      "title": "Aion 2: 11 Fehler, die ihr beim Start auf jeden Fall vermeiden müsst",
+      "link": "https://mein-mmo.de/aion-2-fehler-vermeiden-einsteiger-tipps/",
+      "pubDate": "07.09.2026 um 10:22 Uhr",
+      "timestamp": 1788776557.0,
+      "source": "Mein-MMO",
+      "summary": "Wer ganz neu mit Aion 2 anfängt, kann schnell in die eine oder andere Falle tappen. MeinMMO hilft dabei, Fehler zu vermeiden. Der Beitrag Aion 2: 11 F..."
+    },
+    {
+      "title": "Ein unterschätztes Item lässt euch in Wardogs dominieren, ihr müsst euch nur einen wichtigen Skill aus anderen Shootern abgewöhnen",
+      "link": "https://mein-mmo.de/wardogs-munition-gegen-ziele-ohne-panzer/",
+      "pubDate": "07.09.2026 um 10:17 Uhr",
+      "timestamp": 1788776274.0,
+      "source": "Mein-MMO",
+      "summary": "In Wardogs gibt es verschiedenste Waffen, Aufsätze und Munitionsarten. Eine davon klingt erstmal sinnlos, kann aber, richtig genutzt, richtig mächtig ..."
+    },
+    {
       "title": "WoW: Patch 12.1.5 – Alles zum neuen Boss, Labyrinthen, Release-Datum und mehr",
       "link": "https://mein-mmo.de/wow-patch-1215-alle-infos/",
       "pubDate": "07.09.2026 um 10:09 Uhr",
@@ -111,41 +143,105 @@
       "timestamp": 1788767116.0,
       "source": "PlayCentral",
       "summary": "Zum Launch von GTA 6 könnte Rockstar Games die Grenze zwischen Spielwelt und Realität verschwimmen lassen: Der Publisher führt Gespräche mit dem Miami..."
-    },
-    {
-      "title": "Zelda gegen GTA 6: Ocarina-of-Time-Remake könnte zeitgleich erscheinen",
-      "link": "https://www.playcentral.de/zelda-ocarina-of-time-remake-gta-6-release-november/",
-      "pubDate": "07.09.2026 um 07:34 Uhr",
-      "timestamp": 1788766483.0,
-      "source": "PlayCentral",
-      "summary": "Im November 2026 könnte es zu einem ungewöhnlichen Aufeinandertreffen kommen: Nintendo soll die Veröffentlichung des Remakes von The Legend of Zelda: ..."
-    },
-    {
-      "title": "GTA 6 deutlich brutaler als seine Vorgänger? Augenzeuge berichtet von Enthauptung",
-      "link": "https://www.playcentral.de/gta-6-gore-system-enthauptungen-gewalt/",
-      "pubDate": "07.09.2026 um 07:28 Uhr",
-      "timestamp": 1788766117.0,
-      "source": "PlayCentral",
-      "summary": "GTA 6 könnte die bislang expliziteste Gewaltdarstellung innerhalb der gesamten Reihe bieten. Der spanische YouTuber und Streamer El Rubius berichtet v..."
-    },
-    {
-      "title": "The Blood of Dawnwalker startet stark: Eine Million Verkäufe in zwei Tagen",
-      "link": "https://www.playcentral.de/the-blood-of-dawnwalker-eine-million-verkaeufe/",
-      "pubDate": "07.09.2026 um 07:23 Uhr",
-      "timestamp": 1788765807.0,
-      "source": "PlayCentral",
-      "summary": "Mit The Blood of Dawnwalker hat das polnische Entwicklerstudio Rebel Wolves einen beeindruckenden Einstand hingelegt. Das düstere Action-Rollenspiel v..."
-    },
-    {
-      "title": "Die Mini-Map aus GTA 6 wird jetzt mehr wie Google Maps um euch bei euren Verbrechen zu helfen",
-      "link": "https://mein-mmo.de/gta-6-mini-map-aenderungen/",
-      "pubDate": "07.09.2026 um 07:18 Uhr",
-      "timestamp": 1788765524.0,
-      "source": "Mein-MMO",
-      "summary": "Die neue Version der Mini-Map in GTA 6 hat seit dem Vorgänger einige Änderungen erhalten, doch nicht nur, um euch alles leichter zu machen. Der Beitra..."
     }
   ],
   "int": [
+    {
+      "title": "Dreamworks Unveils Its Dreamiest Animated Character Since Shrek",
+      "link": "https://www.polygon.com/forgotten-island-exclusive-image/",
+      "pubDate": "07.09.2026 um 11:00 Uhr",
+      "timestamp": 1788778814.0,
+      "source": "Polygon.com",
+      "summary": "Say hello to Forgotten Island's hunky blue Prince Mermahn in this mesmerizing reveal"
+    },
+    {
+      "title": "VisionQuest's Tommy Shepherd star almost landed another Marvel role before playing Speed, but he doesn't actually know what he auditioned for",
+      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquests-tommy-shepherd-star-almost-landed-another-marvel-role-before-playing-speed-but-he-doesnt-actually-know-what-he-auditioned-for/",
+      "pubDate": "07.09.2026 um 11:00 Uhr",
+      "timestamp": 1788778800.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "VisionQuest's Tommy Shepherd star reveals he previously auditioned for another MCU role"
+    },
+    {
+      "title": "An Iconic Playstation FPS Is Coming Back, Claims New Report",
+      "link": "https://www.polygon.com/killzone-remaster-guerilla-games-people-can-fly-report-2026/",
+      "pubDate": "07.09.2026 um 10:50 Uhr",
+      "timestamp": 1788778227.0,
+      "source": "Polygon.com",
+      "summary": "A new report claims that Killzone is coming back soon, in the form of a remaster from both Guerilla Games and People Can Fly"
+    },
+    {
+      "title": "The Blood of Dawnwalker Home Sweet Home quest walkthrough",
+      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-home-sweet-home/",
+      "pubDate": "07.09.2026 um 10:46 Uhr",
+      "timestamp": 1788777960.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Home Sweet Home is a quest in The Blood of Dawnwalker that traps you in a looping nightmare"
+    },
+    {
+      "title": "Onimusha: Way of the Sword continues the 2026 hot streak Capcom started with Resident Evil Requiem and Pragmata by selling 1 million copies in a single day",
+      "link": "https://www.gamesradar.com/games/action/onimusha-way-of-the-sword-continues-the-2026-hot-streak-capcom-started-with-resident-evil-requiem-and-pragmata-by-selling-1-million-copies-in-a-single-day/",
+      "pubDate": "07.09.2026 um 10:33 Uhr",
+      "timestamp": 1788777201.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Capcom says it's \"focusing\" on reviving more dormant series"
+    },
+    {
+      "title": "\"Took my interest in the set from 0 to 100\": Lego Astro Bot leaks as a free gift for the PlayStation kit",
+      "link": "https://www.gamesradar.com/toys-collectibles/took-my-interest-in-the-set-from-0-to-100-lego-astro-bot-leaks-as-a-free-gift-for-the-playstation-set/",
+      "pubDate": "07.09.2026 um 10:31 Uhr",
+      "timestamp": 1788777070.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Fans agree leaked Lego Astro Bot is \"too good\" to just be a gift-with-purchase for the new PlayStation set"
+    },
+    {
+      "title": "Onimusha Sells 1 million in a Day as Capcom Vows to 'Re-activate' More Old Series",
+      "link": "https://www.polygon.com/onimusha-way-of-the-sword-sales-1-million-capcom-run/",
+      "pubDate": "07.09.2026 um 10:30 Uhr",
+      "timestamp": 1788777032.0,
+      "source": "Polygon.com",
+      "summary": "Onimusha: Way of the Sword is a critical and commercial hit after a 20-year hiatus for the series. Mega Man is next; maybe Dino Crisis too?"
+    },
+    {
+      "title": "Onimusha: Way of the Sword has already sold over 1 million copies",
+      "link": "https://www.eurogamer.net/onimusha-way-of-the-sword-one-million-sales",
+      "pubDate": "07.09.2026 um 10:19 Uhr",
+      "timestamp": 1788776355.0,
+      "source": "Eurogamer.net News",
+      "summary": "If you were hoping Onimusha: Way of the Sword would revive the dormant series, you may get your wish. Capcom today announced the latest installment in..."
+    },
+    {
+      "title": "Robert Pattinson describes The Batman 2 as a \"radical retelling\" of Batman, and fans think that means he's joining the DCU",
+      "link": "https://www.gamesradar.com/entertainment/dc-movies/robert-pattinson-describes-the-batman-2-as-a-radical-retelling-of-batman-and-fans-think-that-means-hes-joining-the-dcu/",
+      "pubDate": "07.09.2026 um 10:18 Uhr",
+      "timestamp": 1788776298.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "According to Robert Pattinson, The Batman 2 is \"just amazing\" and \"quite a radical change\" from the first movie"
+    },
+    {
+      "title": "As Sony plans to kill discs, PS3 emulator RPCS3 is bringing them back – you can now play physical games on PC straight from your disc drive",
+      "link": "https://www.gamesradar.com/games/as-sony-plans-to-kill-discs-ps3-emulator-rpcs3-is-bringing-them-back-you-can-now-play-physical-games-on-pc-straight-from-your-disc-drive/",
+      "pubDate": "07.09.2026 um 10:13 Uhr",
+      "timestamp": 1788776017.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Plug and play\""
+    },
+    {
+      "title": "Square Enix's \"graphical goal\" for Final Fantasy 7 remakes was 2005 spin-off film Advent Children as it's the \"ideal version\" of the 29-year-old JRPG",
+      "link": "https://www.gamesradar.com/games/final-fantasy/square-enixs-graphical-goal-for-final-fantasy-7-remakes-was-2005-spin-off-film-advent-children-as-its-the-ideal-version-of-the-29-year-old-jrpg/",
+      "pubDate": "07.09.2026 um 10:10 Uhr",
+      "timestamp": 1788775825.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We wanted to bring the appeal of that visual piece to life as a game that gamers themselves could experience,\" says Remake lead Naoki Hamaguchi"
+    },
+    {
+      "title": "Nicolas Cage gives classiest possible response to Spider-Noir cancellation",
+      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/nicolas-cage-gives-classiest-possible-response-to-spider-noir-cancellation/",
+      "pubDate": "07.09.2026 um 10:08 Uhr",
+      "timestamp": 1788775694.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Spider-Noir will not be returning"
+    },
     {
       "title": "\"You'll be able to engage in these high stakes arms races\": Civilization's Arc of Tomorrow update is trying to make the threat of nuclear apocalypse more interesting",
       "link": "https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting",
@@ -187,108 +283,12 @@
       "summary": "From Grand Theft Auto 6 to Barbie Rewind, these 15 video games are leading a packed field this fall."
     },
     {
-      "title": "Despite dying twice, Vision's MCU story might not be over as Paul Bettany teases VisionQuest is \"a really exciting springboard\"",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/despite-dying-twice-visions-mcu-story-might-not-be-over-as-paul-bettany-teases-visionquest-is-a-really-exciting-springboard/",
-      "pubDate": "07.09.2026 um 08:00 Uhr",
-      "timestamp": 1788768000.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "VisionQuest may not be the end for Vision"
-    },
-    {
       "title": "Brandon Sanderson Reveals the Fatal Fantasy Mistake That Derailed Game of Thrones",
       "link": "https://www.polygon.com/brandon-sanderson-game-of-thrones-fantasy-mistake/",
       "pubDate": "07.09.2026 um 04:23 Uhr",
       "timestamp": 1788754994.0,
       "source": "Polygon.com",
       "summary": "Game of Thrones illustrates one of epic fantasy's biggest storytelling challenges, and Brandon Sanderson broke it down in great detail."
-    },
-    {
-      "title": "Steam Week in Review: 54 idle games released on Steam last week, and many look eerily similar",
-      "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-54-idle-games-released-on-steam-last-week-and-many-look-eerily-similar/",
-      "pubDate": "07.09.2026 um 04:12 Uhr",
-      "timestamp": 1788754356.0,
-      "source": "PCGamer latest",
-      "summary": "All the interesting Steam facts for the week ending September 6."
-    },
-    {
-      "title": "How to Watch Nintendo's Zelda 40th Anniversary Direct",
-      "link": "https://www.polygon.com/nintendo-zelda-direct-date-time-september-2026/",
-      "pubDate": "07.09.2026 um 03:16 Uhr",
-      "timestamp": 1788750977.0,
-      "source": "Polygon.com",
-      "summary": "A new Nintendo Direct about The Legend of Zelda arrives on Sept. 8, promising details on the Ocarina of Time remake and 2027's Legend of Zelda movie."
-    },
-    {
-      "title": "8 Best Games Like The Witcher 3",
-      "link": "https://www.polygon.com/witcher-3-best-games-like/",
-      "pubDate": "07.09.2026 um 03:00 Uhr",
-      "timestamp": 1788750014.0,
-      "source": "Polygon.com",
-      "summary": "If you're craving something like The Witcher 3, these eight games are the best at matching CD Projekt Red's masterpiece in terms of story, structure,"
-    },
-    {
-      "title": "'Hereditary' Meets 'Parasite' in This Unforgettable Mystery Thriller That’s Free on Streaming",
-      "link": "https://www.polygon.com/hope-is-the-perfect-excuse-to-revisit-na-hong-jins-best-movie/",
-      "pubDate": "07.09.2026 um 03:00 Uhr",
-      "timestamp": 1788750014.0,
-      "source": "Polygon.com",
-      "summary": "Na Hong-jin’s The Wailing remains a strange, supernatural mystery worth revisiting after his latest movie, Hope."
-    },
-    {
-      "title": "Lanterns Episode 4 Explained: Who Is Hector Hammond?",
-      "link": "https://www.polygon.com/lanterns-hector-hammond-explainer/",
-      "pubDate": "07.09.2026 um 02:00 Uhr",
-      "timestamp": 1788746424.0,
-      "source": "Polygon.com",
-      "summary": "The villain from the 2011 Ryan Reynolds film returns"
-    },
-    {
-      "title": "Lanterns Season 1, Episode 4 Review & Recap: \"The Weenie\"",
-      "link": "https://www.ign.com/articles/lanterns-season-1-episode-4-review-recap-the-weenie",
-      "pubDate": "07.09.2026 um 02:00 Uhr",
-      "timestamp": 1788746400.0,
-      "source": "IGN All",
-      "summary": "Lanterns stumbles a bit in Episode 4 as it fails to take full advantage of some key DC characters, but the series’ core strengths remain. Read our ful..."
-    },
-    {
-      "title": "'If you're designing an RPG, you have to go back to the source:' The post-apocalyptic RPG Entropy takes notes from Fallout and a long-abandoned Warhammer spinoff",
-      "link": "https://www.pcgamer.com/games/rpg/if-youre-designing-an-rpg-you-have-to-go-back-to-the-source-the-post-apocalyptic-rpg-entropy-takes-notes-from-fallout-and-a-long-abandoned-warhammer-spinoff/",
-      "pubDate": "07.09.2026 um 01:50 Uhr",
-      "timestamp": 1788745845.0,
-      "source": "PCGamer latest",
-      "summary": "Consulting the foundational texts."
-    },
-    {
-      "title": "Fans Suspect DC's Official Wonder Woman Replacement Has Been Revealed",
-      "link": "https://www.polygon.com/wonder-woman-dcu-james-gunn-adria-arjona-maxima/",
-      "pubDate": "07.09.2026 um 01:04 Uhr",
-      "timestamp": 1788743074.0,
-      "source": "Polygon.com",
-      "summary": "Adria Arjona is playing Wonder Woman, fans believe, not the obscure alien Maxima in 2027's Superman sequel, Man of Tomorrow."
-    },
-    {
-      "title": "The Tetris Company confirms it had nothing to do with the White House's racist rip-off: 'we believe in the power of connection and bringing people together, not dividing them'",
-      "link": "https://www.pcgamer.com/gaming-industry/the-tetris-company-confirms-it-had-nothing-to-do-with-the-white-houses-racist-rip-off-we-believe-in-the-power-of-connection-and-bringing-people-together-not-dividing-them/",
-      "pubDate": "06.09.2026 um 23:53 Uhr",
-      "timestamp": 1788738792.0,
-      "source": "PCGamer latest",
-      "summary": "Also, \"We take copyright infringement very seriously.\""
-    },
-    {
-      "title": "Despite being billed as the conclusion to the WandaVision trilogy, VisionQuest showrunner says it's more of a sequel, and he has ideas for more seasons",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/despite-being-billed-as-the-conclusion-to-the-wandavision-trilogy-visionquest-showrunner-says-its-more-of-a-sequel-and-he-has-ideas-for-more-seasons/",
-      "pubDate": "06.09.2026 um 23:01 Uhr",
-      "timestamp": 1788735660.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "He also definitively says Wanda is not in the show"
-    },
-    {
-      "title": "A hobby dev built a free, 3D galaxy map for Warhammer 40K that loads like lightning in your browser",
-      "link": "https://www.pcgamer.com/games/rpg/a-hobby-dev-built-a-free-3d-galaxy-map-for-warhammer-40k-that-loads-like-lightning-in-your-browser/",
-      "pubDate": "06.09.2026 um 22:11 Uhr",
-      "timestamp": 1788732669.0,
-      "source": "PCGamer latest",
-      "summary": "I just think it's neat."
     }
   ],
   "sim": [
