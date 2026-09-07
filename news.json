@@ -1,6 +1,78 @@
 {
   "de": [
     {
+      "title": "League of Legends: Für Entwickler ist das MMO die große Hoffnung, Fans fürchten nach 2XKO ein Desaster",
+      "link": "https://www.eurogamer.de/riot-mmo-marc-merrill-2xko",
+      "pubDate": "07.09.2026 um 12:14 Uhr",
+      "timestamp": 1788783253.0,
+      "source": "Eurogamer.de News",
+      "summary": "Marc Merrill ist Mitgr&uuml;nder und aktueller CPO von Riot Games. Nach dem pl&ouml;tzlichen Entwicklungsstopp des Fighting-Games 2XKO hat er sich nun..."
+    },
+    {
+      "title": "Nach einer Stunde Persona 4 weiß ich wieder, wieso das Spiel nach 18 Jahren noch perfekt funktioniert",
+      "link": "https://mein-mmo.de/persona-4-18-jahre-spaeter-funktioniert/",
+      "pubDate": "07.09.2026 um 11:52 Uhr",
+      "timestamp": 1788781976.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteurin Jasmin konnte sich das Remake zu Persona 4 auf der gamescom 2026 ansehen. Vor allem das Konzept der Persona fasziniert sie dabei. ..."
+    },
+    {
+      "title": "GTA 6: Die Mini-Map wird jetzt mehr wie Google Maps, um euch bei euren Verbrechen zu helfen",
+      "link": "https://mein-mmo.de/gta-6-mini-map-aenderungen/",
+      "pubDate": "07.09.2026 um 11:50 Uhr",
+      "timestamp": 1788781800.0,
+      "source": "Mein-MMO",
+      "summary": "Die neue Version der Mini-Map in GTA 6 hat seit dem Vorgänger einige Änderungen erhalten, doch nicht nur, um euch alles leichter zu machen. Der Beitra..."
+    },
+    {
+      "title": "LEGO Harry Potter Collection kommt am 16. Oktober 2026 für Nintendo Switch 2",
+      "link": "https://www.playcentral.de/lego-harry-potter-collection-kommt-am-16-oktober-2026-fuer-nintendo-switch-2/",
+      "pubDate": "07.09.2026 um 11:33 Uhr",
+      "timestamp": 1788780791.0,
+      "source": "PlayCentral",
+      "summary": "Die Rückkehr nach Hogwarts ist offiziell: LEGO Harry Potter Collection erscheint am 16. Oktober 2026 für Nintendo Switch 2. Warner Bros. Games, TT Gam..."
+    },
+    {
+      "title": "Final Fantasy VII Revelation – Zwei Story-DLCs zu Sephiroth und Vincent geplant",
+      "link": "https://www.playcentral.de/final-fantasy-vii-revelation-zwei-story-dlcs-zu-sephiroth-und-vincent-geplant/",
+      "pubDate": "07.09.2026 um 11:31 Uhr",
+      "timestamp": 1788780710.0,
+      "source": "PlayCentral",
+      "summary": "Square Enix plant für Final Fantasy VII Revelation bereits umfangreiche Inhalte nach dem Release. Director Naoki Hamaguchi bestätigte zwei Story-Erwei..."
+    },
+    {
+      "title": "Stalker 2: Cost of Hope – Wie lang ist die Spielzeit?",
+      "link": "https://www.playcentral.de/stalker-2-cost-of-hope-spielzeit-umfang/",
+      "pubDate": "07.09.2026 um 11:26 Uhr",
+      "timestamp": 1788780410.0,
+      "source": "PlayCentral",
+      "summary": "Rund 16,5 Stunden für die Story, etwa 28 Stunden mit Extras: So viel Zeit solltet ihr für Stalker 2: Cost of Hope einplanen."
+    },
+    {
+      "title": "Wegen eines Fehlers in einem Rechenzentrum mussten Schulen, Geschäfte und Ämter geschlossen bleiben",
+      "link": "https://mein-mmo.de/fehler-rechenzentrum-schulen-geschafte-geschlossen/",
+      "pubDate": "07.09.2026 um 11:16 Uhr",
+      "timestamp": 1788779760.0,
+      "source": "Mein-MMO",
+      "summary": "Millionen Liter Wasser treten aus einem Rechenzentrum aus. Das sorgt dafür, dass etliche Geschäfte und Schulen geschlossen bleiben müssen. Der Beitrag..."
+    },
+    {
+      "title": "Chuwi × AMD: Mini-PC mit Gorgon Halo und 192 GByte RAM im „Mac-Kleid“",
+      "link": "https://www.computerbase.de/news/pc-systeme/chuwi-x-amd-mini-pc-mit-gorgon-halo-und-192-gbyte-ram-im-mac-kleid.99286/",
+      "pubDate": "07.09.2026 um 13:15 Uhr",
+      "timestamp": 1788779700.0,
+      "source": "ComputerBase",
+      "summary": "Auch Chuwi springt auf den AMD-Gorgon-Halo-Zug mit 192 GByte RAM für KI. Das Gehäuse im etwas größeren Format erinnert entfernt an ältere Apple Mac un..."
+    },
+    {
+      "title": "Stalker 2: Cost of Hope – Alle Trophäen und Erfolge im Überblick",
+      "link": "https://www.playcentral.de/stalker-2-cost-of-hope-trophaeen-erfolge/",
+      "pubDate": "07.09.2026 um 11:14 Uhr",
+      "timestamp": 1788779675.0,
+      "source": "PlayCentral",
+      "summary": "18 PS5-Trophäen, keine eigene Platin und 400 Gamerscore: Hier findet ihr die Liste zu Cost of Hope und offene Fragen zu Verpassbarkeit und Durchgängen..."
+    },
+    {
       "title": "3 Risiken: Wieso Top-Modelle wie GPT-6 immer schwerer zu kontrollieren sind",
       "link": "https://www.computerbase.de/artikel/apps/3-risiken-top-modelle-gpt-6-kontrolle.98886/",
       "pubDate": "07.09.2026 um 13:00 Uhr",
@@ -71,81 +143,129 @@
       "timestamp": 1788774808.0,
       "source": "Mein-MMO",
       "summary": "Die Prüfung des Chaos in Path of Exile 2 wurde überarbeitet und ein Bug direkt ausgenutzt. Ein Hotfix folgt prompt. Der Beitrag Spieler besorgen sich ..."
-    },
-    {
-      "title": "Xbox Game Pass – Diese 10 Spiele fliegen am 15. September 2026 raus",
-      "link": "https://www.playcentral.de/xbox-game-pass-diese-10-spiele-fliegen-am-15-september-2026-raus/",
-      "pubDate": "07.09.2026 um 09:31 Uhr",
-      "timestamp": 1788773495.0,
-      "source": "PlayCentral",
-      "summary": "Für Abonnenten des Xbox Game Pass steht am 15. September 2026 eine besonders umfangreiche Katalogbereinigung an. Microsoft entfernt gleich zehn Spiele..."
-    },
-    {
-      "title": "Nuklear-Experte erklärt, wie lange man wirklich in einem Bunker wie in Fallout verweilen sollte: Gar nicht mal so lang",
-      "link": "https://mein-mmo.de/fallout-vaults-bunker-experte-alex-wellerstein-evergreen/",
-      "pubDate": "07.09.2026 um 09:00 Uhr",
-      "timestamp": 1788771600.0,
-      "source": "Mein-MMO",
-      "summary": "Jeder kennt die Vaults in der Serie und den Spielen zu Fallout, doch in denen soll man gar nicht so lange verweilen. Der Beitrag Nuklear-Experte erklä..."
-    },
-    {
-      "title": "The Blood of Dawnwalker: So hebelt ihr die umstrittene Zeitmechanik des neuen Rollenspiels einfach aus",
-      "link": "https://www.eurogamer.de/blood-dawnwalker-mod-zeitlimit-deaktivieren",
-      "pubDate": "07.09.2026 um 08:54 Uhr",
-      "timestamp": 1788771299.0,
-      "source": "Eurogamer.de News",
-      "summary": "Es d&uuml;rfte euch kaum &uuml;berraschen, dass ihr die umstrittenste Mechanik von The Blood of Dawnwalker bereits aushebeln k&ouml;nnt. Falls ihr es ..."
-    },
-    {
-      "title": "Palworld macht mit neuem Patch eure Begleiter zu effizienteren Kampfmaschinen und ihr müsst nichts dafür tun",
-      "link": "https://mein-mmo.de/palworld-patch-notes-1-0-4/",
-      "pubDate": "07.09.2026 um 08:49 Uhr",
-      "timestamp": 1788770975.0,
-      "source": "Mein-MMO",
-      "summary": "Patch v1.0.4 zu Palworld ist online und bringt einige wichtige Anpassungen, aber auch ein paar neue Inhalte mit sich. Wir haben für euch die Highlight..."
-    },
-    {
-      "title": "Ausgerechnet die hohen Hardware-Preise könnten dafür sorgen, dass GTA 6 schneller für euren PC erscheint",
-      "link": "https://mein-mmo.de/gta-6-hohe-hardware-preise-pc-release-frueher/",
-      "pubDate": "07.09.2026 um 08:25 Uhr",
-      "timestamp": 1788769518.0,
-      "source": "Mein-MMO",
-      "summary": "Kommt GTA 6 schneller für den PC heraus? Einige Experten schätzen, das die aktuellen hohen Hardware-Preise selbst Rockstar zu schaffen machen Der Beit..."
-    },
-    {
-      "title": "Jackery Plus-Serie: Neue Powerstations liefern Strom kompakter und leichter",
-      "link": "https://www.computerbase.de/news/smart-home/jackery-plus-serie-neue-powerstations-liefern-strom-kompakter-und-leichter.99270/",
-      "pubDate": "07.09.2026 um 10:20 Uhr",
-      "timestamp": 1788769200.0,
-      "source": "ComputerBase",
-      "summary": "Jackery hat zur IFA drei neue Powerstations in der Plus-Serie vorgestellt. Jackery Explorer 1000 Plus V2, 2000 Plus V2 und die gänzlich neue Explorer ..."
-    },
-    {
-      "title": "Killzone: Ein Remake des Shooters soll bei People Can Fly in Arbeit sein",
-      "link": "https://www.eurogamer.de/killzone-remake-people-can-fly",
-      "pubDate": "07.09.2026 um 07:59 Uhr",
-      "timestamp": 1788767947.0,
-      "source": "Eurogamer.de News",
-      "summary": "Einem aktuellen Bericht zufolge befindet sich ein neues Killzone-Projekt in einer sehr fr&uuml;hen Entwicklungsphase. Mehr"
-    },
-    {
-      "title": "Marvel’s Wolverine vor Release geleakt – erste Spieler streamen bereits die PS5-Version",
-      "link": "https://www.playcentral.de/marvels-wolverine-vor-release-geleakt-ps5-spoiler/",
-      "pubDate": "07.09.2026 um 07:51 Uhr",
-      "timestamp": 1788767491.0,
-      "source": "PlayCentral",
-      "summary": "Wenige Tage vor der offiziellen Veröffentlichung von Marvel’s Wolverine sind offenbar erste Exemplare der PS5-Version in Umlauf geraten. Gameplay und ..."
-    },
-    {
-      "title": "Miami könnte für GTA 6 zu Vice City werden – doch die Polizei stellt sich quer",
-      "link": "https://www.playcentral.de/gta-6-miami-echtes-vice-city-marketing/",
-      "pubDate": "07.09.2026 um 07:45 Uhr",
-      "timestamp": 1788767116.0,
-      "source": "PlayCentral",
-      "summary": "Zum Launch von GTA 6 könnte Rockstar Games die Grenze zwischen Spielwelt und Realität verschwimmen lassen: Der Publisher führt Gespräche mit dem Miami..."
     }
   ],
   "int": [
+    {
+      "title": "The Activision Super Pocket is the cutest Evercade portable yet, but I wouldn't pick it over Banjo",
+      "link": "https://www.gamesradar.com/hardware/retro/the-activision-super-pocket-is-the-cutest-evercade-portable-yet-but-i-wouldnt-pick-it-over-banjo/",
+      "pubDate": "07.09.2026 um 12:10 Uhr",
+      "timestamp": 1788783043.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "After spending a weekend on the Activision Super Pocket, I'm convinced it could become my main Evercade handheld based on looks alone."
+    },
+    {
+      "title": "28 Days Later director Danny Boyle admits using \"about 30 seconds\" of AI in his upcoming Netflix movie: \"It's a useful tool... provided you use it respectfully\"",
+      "link": "https://www.gamesradar.com/entertainment/drama-movies/28-days-later-director-danny-boyle-admits-using-about-30-seconds-of-ai-in-his-upcoming-netflix-movie-its-a-useful-tool-provided-you-use-it-respectfully/",
+      "pubDate": "07.09.2026 um 12:04 Uhr",
+      "timestamp": 1788782677.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Danny Boyle is the latest filmmaker to experiment with AI for Ink"
+    },
+    {
+      "title": "League of Legends MMO is Riot's \"Grail quest\" and \"many a brave knight are going to die,\" boss says, but fans aren't confident after 2XKO's fate: \"Hope this time you don't cancel it\"",
+      "link": "https://www.gamesradar.com/games/mmo/league-of-legends-mmo-is-riots-grail-quest-and-many-a-brave-knight-are-going-to-die-boss-says-but-fans-arent-confident-after-2xkos-fate-hope-this-time-you-dont-cancel-it/",
+      "pubDate": "07.09.2026 um 12:02 Uhr",
+      "timestamp": 1788782564.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Marc Merrill calls it a \"worthy quest\""
+    },
+    {
+      "title": "GTA 6 boss says \"there will always be things to satirize,\" but Rockstar has to \"be careful about what we pick\" because after 11 years of development \"it could be gone, it could change, it could be dated\"",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-there-will-always-be-things-to-satirize-but-rockstar-has-to-be-careful-about-what-we-pick-because-after-11-years-of-development-it-could-be-gone-it-could-change-it-could-be-dated/",
+      "pubDate": "07.09.2026 um 12:02 Uhr",
+      "timestamp": 1788782531.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The next Grand Theft Auto game has been in development since 2015, but most developers didn't join until Red Dead Redemption wrapped up in 2018"
+    },
+    {
+      "title": "Slay the Spire Fans Need to Devour This New Game for Art Alone",
+      "link": "https://www.polygon.com/shroom-gloom-new-deckbuilder-2026-preview/",
+      "pubDate": "07.09.2026 um 12:00 Uhr",
+      "timestamp": 1788782414.0,
+      "source": "Polygon.com",
+      "summary": "Shroom and Gloom is ready for Early Access release in September 2026 and our preview shows off all the art."
+    },
+    {
+      "title": "Mr. Jambo's Kyle Gordon Reveals His Terrible Video Game Inspirations",
+      "link": "https://www.polygon.com/mr-jambo-kyle-gordon-shelf-quest/",
+      "pubDate": "07.09.2026 um 12:00 Uhr",
+      "timestamp": 1788782414.0,
+      "source": "Polygon.com",
+      "summary": "Planet of the Bass creator Kyle Gordon has a new album in fall 2026. Before that, he joined Shelf Quest."
+    },
+    {
+      "title": "You can play cyberpunk RPG No Law like Dishonored in Night City, or strap grenades to a Roomba and start blasting",
+      "link": "https://www.gamesradar.com/games/rpg/no-law-cyberpunk-rpg-preview/",
+      "pubDate": "07.09.2026 um 12:00 Uhr",
+      "timestamp": 1788782400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Our hands-off preview reveals an immersive first-person RPG that's all about doing things your way"
+    },
+    {
+      "title": "Super Mario Odyssey was a big inspiration for Capcom's latest hit Onimusha: Way of the Sword, director reveals",
+      "link": "https://www.gamesradar.com/games/action/super-mario-odyssey-was-a-big-inspiration-for-capcoms-latest-hit-onimusha-way-of-the-sword-director-reveals/",
+      "pubDate": "07.09.2026 um 11:59 Uhr",
+      "timestamp": 1788782367.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The series producer shouts out Gundam as a core inspiration"
+    },
+    {
+      "title": "New DLSS 5 mod offloads Neural Rendering to a second card massively cutting the AI filter's performance hit",
+      "link": "https://www.pcgamer.com/hardware/graphics-cards/new-dlss-5-mod-offloads-neural-rendering-to-a-second-card-massively-cutting-the-ai-filters-performance-hit/",
+      "pubDate": "07.09.2026 um 11:56 Uhr",
+      "timestamp": 1788782171.0,
+      "source": "PCGamer latest",
+      "summary": "DLSS Neural Rendering is being developed hard in the modding community."
+    },
+    {
+      "title": "Fan makes Lego GTA 6 set, and it's so perfect I'm gutted there isn't an official version",
+      "link": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
+      "pubDate": "07.09.2026 um 11:52 Uhr",
+      "timestamp": 1788781926.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be"
+    },
+    {
+      "title": "As the western games industry struggles, China's games industry is booming, a new report shows",
+      "link": "https://www.eurogamer.net/china-games-market-50-billion-dollars-value",
+      "pubDate": "07.09.2026 um 11:35 Uhr",
+      "timestamp": 1788780939.0,
+      "source": "Eurogamer.net News",
+      "summary": "As the western video games industry continues to struggle, the Chinese industry appears to be booming, revealing a worth of more than $50bn in 2025 - ..."
+    },
+    {
+      "title": "Once again, it is genuinely cheaper for me to fly to PAX West and track down Nvidia's 'GeForce Evangelist' rather than buy the RTX 5090 anywhere else",
+      "link": "https://www.pcgamer.com/hardware/graphics-cards/once-again-it-is-genuinely-cheaper-for-me-to-fly-to-pax-west-and-track-down-nvidias-geforce-evangelist-rather-than-buy-the-rtx-5090-anywhere-else/",
+      "pubDate": "07.09.2026 um 11:34 Uhr",
+      "timestamp": 1788780866.0,
+      "source": "PCGamer latest",
+      "summary": "They didn't even have boxed GPUs at the event this time."
+    },
+    {
+      "title": "Best Pokemon TCG Pocket Mega Sharpedo ex deck",
+      "link": "https://www.gamesradar.com/games/pokemon/pokemon-tcg-pocket-mega-sharpedo-ex-deck/",
+      "pubDate": "07.09.2026 um 11:29 Uhr",
+      "timestamp": 1788780548.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Sharpedo and Gyarados team up for a powerful Water deck in PTCGP"
+    },
+    {
+      "title": "\"We believe in the power of connection\": Donald Trump Tetris parody game rouses the mildly worded wrath of the Tetris Company",
+      "link": "https://www.rockpapershotgun.com/we-believe-in-the-power-of-connection-donald-trump-tetris-parody-game-rouses-the-mildly-worded-wrath-of-the-tetris-company",
+      "pubDate": "07.09.2026 um 11:23 Uhr",
+      "timestamp": 1788780201.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Those terrible firebrands at the Tetris Company have publicly rebuked the US government for publishing a Tetris parody game that promotes the Trump ad..."
+    },
+    {
+      "title": "Amazon Restocks Rare Pokémon TCG Sets for Labor Day",
+      "link": "https://www.ign.com/articles/amazon-pokemon-tcg-labor-day-restock",
+      "pubDate": "07.09.2026 um 11:20 Uhr",
+      "timestamp": 1788780056.0,
+      "source": "IGN All",
+      "summary": "Amazon has restocked rare Pokémon TCG products for Labor Day, including Prismatic Evolutions Super-Premium Collections and Destined Rivals Elite Train..."
+    },
     {
       "title": "Dreamworks Unveils Its Dreamiest Animated Character Since Shrek",
       "link": "https://www.polygon.com/forgotten-island-exclusive-image/",
@@ -153,14 +273,6 @@
       "timestamp": 1788778814.0,
       "source": "Polygon.com",
       "summary": "Say hello to Forgotten Island's hunky blue Prince Mermahn in this mesmerizing reveal"
-    },
-    {
-      "title": "VisionQuest's Tommy Shepherd star almost landed another Marvel role before playing Speed, but he doesn't actually know what he auditioned for",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquests-tommy-shepherd-star-almost-landed-another-marvel-role-before-playing-speed-but-he-doesnt-actually-know-what-he-auditioned-for/",
-      "pubDate": "07.09.2026 um 11:00 Uhr",
-      "timestamp": 1788778800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "VisionQuest's Tommy Shepherd star reveals he previously auditioned for another MCU role"
     },
     {
       "title": "An Iconic Playstation FPS Is Coming Back, Claims New Report",
@@ -171,127 +283,23 @@
       "summary": "A new report claims that Killzone is coming back soon, in the form of a remaster from both Guerilla Games and People Can Fly"
     },
     {
-      "title": "The Blood of Dawnwalker Home Sweet Home quest walkthrough",
-      "link": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-home-sweet-home/",
-      "pubDate": "07.09.2026 um 10:46 Uhr",
-      "timestamp": 1788777960.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Home Sweet Home is a quest in The Blood of Dawnwalker that traps you in a looping nightmare"
-    },
-    {
-      "title": "Onimusha: Way of the Sword continues the 2026 hot streak Capcom started with Resident Evil Requiem and Pragmata by selling 1 million copies in a single day",
-      "link": "https://www.gamesradar.com/games/action/onimusha-way-of-the-sword-continues-the-2026-hot-streak-capcom-started-with-resident-evil-requiem-and-pragmata-by-selling-1-million-copies-in-a-single-day/",
-      "pubDate": "07.09.2026 um 10:33 Uhr",
-      "timestamp": 1788777201.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Capcom says it's \"focusing\" on reviving more dormant series"
-    },
-    {
-      "title": "\"Took my interest in the set from 0 to 100\": Lego Astro Bot leaks as a free gift for the PlayStation kit",
-      "link": "https://www.gamesradar.com/toys-collectibles/took-my-interest-in-the-set-from-0-to-100-lego-astro-bot-leaks-as-a-free-gift-for-the-playstation-set/",
-      "pubDate": "07.09.2026 um 10:31 Uhr",
-      "timestamp": 1788777070.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Fans agree leaked Lego Astro Bot is \"too good\" to just be a gift-with-purchase for the new PlayStation set"
-    },
-    {
-      "title": "Onimusha Sells 1 million in a Day as Capcom Vows to 'Re-activate' More Old Series",
-      "link": "https://www.polygon.com/onimusha-way-of-the-sword-sales-1-million-capcom-run/",
-      "pubDate": "07.09.2026 um 10:30 Uhr",
-      "timestamp": 1788777032.0,
-      "source": "Polygon.com",
-      "summary": "Onimusha: Way of the Sword is a critical and commercial hit after a 20-year hiatus for the series. Mega Man is next; maybe Dino Crisis too?"
-    },
-    {
-      "title": "Onimusha: Way of the Sword has already sold over 1 million copies",
-      "link": "https://www.eurogamer.net/onimusha-way-of-the-sword-one-million-sales",
-      "pubDate": "07.09.2026 um 10:19 Uhr",
-      "timestamp": 1788776355.0,
-      "source": "Eurogamer.net News",
-      "summary": "If you were hoping Onimusha: Way of the Sword would revive the dormant series, you may get your wish. Capcom today announced the latest installment in..."
-    },
-    {
-      "title": "Robert Pattinson describes The Batman 2 as a \"radical retelling\" of Batman, and fans think that means he's joining the DCU",
-      "link": "https://www.gamesradar.com/entertainment/dc-movies/robert-pattinson-describes-the-batman-2-as-a-radical-retelling-of-batman-and-fans-think-that-means-hes-joining-the-dcu/",
-      "pubDate": "07.09.2026 um 10:18 Uhr",
-      "timestamp": 1788776298.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "According to Robert Pattinson, The Batman 2 is \"just amazing\" and \"quite a radical change\" from the first movie"
-    },
-    {
-      "title": "As Sony plans to kill discs, PS3 emulator RPCS3 is bringing them back – you can now play physical games on PC straight from your disc drive",
-      "link": "https://www.gamesradar.com/games/as-sony-plans-to-kill-discs-ps3-emulator-rpcs3-is-bringing-them-back-you-can-now-play-physical-games-on-pc-straight-from-your-disc-drive/",
-      "pubDate": "07.09.2026 um 10:13 Uhr",
-      "timestamp": 1788776017.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Plug and play\""
-    },
-    {
-      "title": "Square Enix's \"graphical goal\" for Final Fantasy 7 remakes was 2005 spin-off film Advent Children as it's the \"ideal version\" of the 29-year-old JRPG",
-      "link": "https://www.gamesradar.com/games/final-fantasy/square-enixs-graphical-goal-for-final-fantasy-7-remakes-was-2005-spin-off-film-advent-children-as-its-the-ideal-version-of-the-29-year-old-jrpg/",
-      "pubDate": "07.09.2026 um 10:10 Uhr",
-      "timestamp": 1788775825.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"We wanted to bring the appeal of that visual piece to life as a game that gamers themselves could experience,\" says Remake lead Naoki Hamaguchi"
-    },
-    {
-      "title": "Nicolas Cage gives classiest possible response to Spider-Noir cancellation",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/nicolas-cage-gives-classiest-possible-response-to-spider-noir-cancellation/",
-      "pubDate": "07.09.2026 um 10:08 Uhr",
-      "timestamp": 1788775694.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Spider-Noir will not be returning"
-    },
-    {
-      "title": "\"You'll be able to engage in these high stakes arms races\": Civilization's Arc of Tomorrow update is trying to make the threat of nuclear apocalypse more interesting",
-      "link": "https://www.rockpapershotgun.com/youll-be-able-to-engage-in-these-high-stakes-arms-races-civilizations-arc-of-tomorrow-update-is-trying-to-make-the-threat-of-nuclear-apocalypse-more-interesting",
-      "pubDate": "07.09.2026 um 09:38 Uhr",
-      "timestamp": 1788773910.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Civilization 7 is getting a new free update that takes the 4X strategy series into the atomic age, while trying to make nuclear era conflict a little ..."
-    },
-    {
-      "title": "\"Many a brave knight are going to die\" - Riot Games head Marc Merrill speaks on in-development MMO after 2XKO's untimely demise",
-      "link": "https://www.eurogamer.net/riot-games-mmo-the-grail-pax-2xko",
-      "pubDate": "07.09.2026 um 09:30 Uhr",
-      "timestamp": 1788773434.0,
-      "source": "Eurogamer.net News",
-      "summary": "Marc Merrill - one of the co-founders of Riot Games and its current CPO - has spoken about the in-development MMO, describing it as \"the grail\" follow..."
-    },
-    {
-      "title": "The 10 Most Important Movies Coming This Fall",
-      "link": "https://www.polygon.com/top-10-most-anticipated-movies-of-fall-2026/",
-      "pubDate": "07.09.2026 um 09:00 Uhr",
-      "timestamp": 1788771614.0,
-      "source": "Polygon.com",
-      "summary": "From indie delights to huge franchises, here's the top 10 movies releasing this fall 2026 that you owe yourself to head to the theater for."
-    },
-    {
-      "title": "The Blood of Dawnwalker's most popular mod right now nullifies its main hook",
-      "link": "https://www.eurogamer.net/the-blood-of-dawnwalkers-most-popular-mod-right-now-nullifies-its-main-hook",
-      "pubDate": "07.09.2026 um 08:43 Uhr",
-      "timestamp": 1788770631.0,
-      "source": "Eurogamer.net News",
-      "summary": "It may not surprise you to learn that The Blood of Dawnwalker's most contentious mechanic can already be removed. If you're unfamiliar, the open-world..."
-    },
-    {
-      "title": "15 Biggest New Video Games Releasing This Fall That Will Define 2026",
-      "link": "https://www.polygon.com/new-video-games-fall-2026/",
-      "pubDate": "07.09.2026 um 08:00 Uhr",
-      "timestamp": 1788768014.0,
-      "source": "Polygon.com",
-      "summary": "From Grand Theft Auto 6 to Barbie Rewind, these 15 video games are leading a packed field this fall."
-    },
-    {
-      "title": "Brandon Sanderson Reveals the Fatal Fantasy Mistake That Derailed Game of Thrones",
-      "link": "https://www.polygon.com/brandon-sanderson-game-of-thrones-fantasy-mistake/",
-      "pubDate": "07.09.2026 um 04:23 Uhr",
-      "timestamp": 1788754994.0,
-      "source": "Polygon.com",
-      "summary": "Game of Thrones illustrates one of epic fantasy's biggest storytelling challenges, and Brandon Sanderson broke it down in great detail."
+      "title": "PlayStation Reportedly Plotting New Killzone — but Is It a Remake or a Remaster?",
+      "link": "https://www.ign.com/articles/playstation-reportedly-plotting-new-killzone-but-is-it-a-remake-or-a-remaster",
+      "pubDate": "07.09.2026 um 10:34 Uhr",
+      "timestamp": 1788777260.0,
+      "source": "IGN All",
+      "summary": "Sony is reportedly in the early stages of bringing its first-person shooter series, Killzone, back from the dead."
     }
   ],
   "sim": [
+    {
+      "title": "THIS WEEK: iRacing DTM Series at Sachsenring",
+      "link": "https://www.iracing.com/this-week-iracing-dtm-series-at-sachsenring-2026/",
+      "pubDate": "07.09.2026 um 12:00 Uhr",
+      "timestamp": 1788782403.0,
+      "source": "iRacing.com",
+      "summary": "The iRacing DTM Series brings the excitement of one of Germany’s premier road racing championships to iRacing. Races will be spread across Thursday ev..."
+    },
     {
       "title": "Meet iRacing’s All-New Week 13 “Fun” Series",
       "link": "https://www.iracing.com/meet-iracings-all-new-week-13-fun-series/",
@@ -403,14 +411,6 @@
       "timestamp": 1788271253.0,
       "source": "iRacing.com",
       "summary": "The road to $500,000 winds through the Irish Hills of Michigan as 10 drivers prepare to battle for four seats at the Championship table on Tuesday nig..."
-    },
-    {
-      "title": "This Week in iRacing | September 1st to September 7th, 2026",
-      "link": "https://www.iracing.com/this-week-in-iracing-september-1st-to-september-7th-2026/",
-      "pubDate": "31.08.2026 um 21:00 Uhr",
-      "timestamp": 1788210045.0,
-      "source": "iRacing.com",
-      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
     },
     {
       "title": "Gran Turismo 7 Daily Races: EK-ing Out a Win",
