@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "DevDay 2026: OpenAI bereitet offenbar neue Managed-Agent-Plattform vor",
+      "link": "https://www.computerbase.de/news/apps/devday-2026-openai-bereitet-offenbar-neue-managed-agent-plattform-vor.99303/",
+      "pubDate": "08.09.2026 um 11:01 Uhr",
+      "timestamp": 1788858060.0,
+      "source": "ComputerBase",
+      "summary": "OpenAI soll für den am 29. September geplanten DevDay 2026 eine Plattform für sogenannte Managed Agents vorbereiten. Ähnlich wie bei Anthropics Konzep..."
+    },
+    {
+      "title": "Nintendo Switch 2: Fälschliche Banns sperren grundlos zahlreiche Spieler aus",
+      "link": "https://www.eurogamer.de/nintendo-switch-2-unberechtigte-banns",
+      "pubDate": "08.09.2026 um 08:57 Uhr",
+      "timestamp": 1788857824.0,
+      "source": "Eurogamer.de News",
+      "summary": "F&uuml;r manche Spielerinnen und Spieler auf der Nintendo Switch 2 gab es am vergangenen Wochenende offenbar eine b&ouml;se &Uuml;berraschung. Mehr"
+    },
+    {
+      "title": "Uns erwartet die spannendste BlizzCon seit 12 Jahren, hoffentlich gibt’s kein zweites Immortalgate",
+      "link": "https://mein-mmo.de/blizzcon-2026-vorschau/",
+      "pubDate": "08.09.2026 um 08:55 Uhr",
+      "timestamp": 1788857754.0,
+      "source": "Mein-MMO",
+      "summary": "Es ist lange her, dass bei MeinMMO-Redakteur Karsten Scholz die Vorfreude auf eine BlizzCon so groß war wie jetzt. Das hat Gründe. Der Beitrag Uns erw..."
+    },
+    {
+      "title": "WoW-Spieler treffen und verlieben sich im Spiel, bei der Hochzeit ist die Gilde anwesend",
+      "link": "https://mein-mmo.de/wow-hochzeit-druidisch-verliebt/",
+      "pubDate": "08.09.2026 um 08:49 Uhr",
+      "timestamp": 1788857395.0,
+      "source": "Mein-MMO",
+      "summary": "WoW als Dating-Plattform – für manche funktioniert das. Manchmal ist das sogar die Liebe des Lebens, die dann zu einer Hochzeit führt. Der Beitrag WoW..."
+    },
+    {
+      "title": "UM750 Neo mit Ryzen Z1: Minisforum verfrachtet AMDs Handheld-Chip in einen Mini-PC",
+      "link": "https://www.computerbase.de/news/gaming/um750-neo-minisforum-verfrachtet-amds-handheld-chip-z1-in-einen-mini-pc.99300/",
+      "pubDate": "08.09.2026 um 10:34 Uhr",
+      "timestamp": 1788856440.0,
+      "source": "ComputerBase",
+      "summary": "Mit dem Minisforum UM750 Neo bringt das chinesische Unternehmen den eigentlich für Gaming-Handhelds gedachten AMD Ryzen Z1 in einen Mini-PC. Das mutet..."
+    },
+    {
       "title": "XL-Flash Gen 3 und PCIe 7.0: Kioxias 100-Millionen-IOPS-SSD kommt 2028",
       "link": "https://www.computerbase.de/news/storage/xl-flash-gen-3-und-pcie-7-0-kioxias-100-millionen-iops-ssd-kommt-2028.99297/",
       "pubDate": "08.09.2026 um 10:00 Uhr",
@@ -103,49 +143,25 @@
       "timestamp": 1788848837.0,
       "source": "Eurogamer.de News",
       "summary": "Die PlayStation-5-Umsetzung des Rennspiels Forza Horizon 6 soll weiterhin in diesem Jahr erscheinen. Mehr"
-    },
-    {
-      "title": "Ancestors The Humankind Odyssey - Assassin's-Creed-Schöpfer kündigt Sequel an",
-      "link": "https://www.eurogamer.de/ancestors-2-sequel-patrice-desilets",
-      "pubDate": "08.09.2026 um 06:26 Uhr",
-      "timestamp": 1788848777.0,
-      "source": "Eurogamer.de News",
-      "summary": "Patrice D&eacute;silets, der Sch&ouml;pfer der Assassin's-Creed-Reihe und Director von 1666: Amsterdam, hat eine Fortsetzung angek&uuml;ndigt. Er plan..."
-    },
-    {
-      "title": "Neues MMORPG zeigt erstmals langes Gameplay und die Community so: Willkommen zurück, New World!",
-      "link": "https://mein-mmo.de/archeage-chronicles-erstes-langes-gameplay-community-reaktion/",
-      "pubDate": "08.09.2026 um 06:19 Uhr",
-      "timestamp": 1788848380.0,
-      "source": "Mein-MMO",
-      "summary": "ArcheAge Chronicles hat sich bisher mit langen Eindrücken aus dem MMORPG zurückgehalten. Umso spannender ist das neue Gameplay-Material. Der Beitrag N..."
-    },
-    {
-      "title": "SLI-Comeback: DLSS-5-Mod verteilt die Arbeit auf zwei Grafikkarten",
-      "link": "https://www.computerbase.de/news/grafikkarten/sli-comeback-dlss-5-mod-verteilt-die-arbeit-auf-zwei-grafikkarten.99291/",
-      "pubDate": "08.09.2026 um 08:00 Uhr",
-      "timestamp": 1788847200.0,
-      "source": "ComputerBase",
-      "summary": "Mit MGPU Bridge erhält die Zweit-Grafikkarte eine neue Aufgabe: Während eine GPU das Spiel rendert, übernimmt die andere DLSS 5 Neural Rendering. Der ..."
-    },
-    {
-      "title": "Eine Figur in The Big Bang Theory war so unbeliebt, dass sie aus der Serie herausgeschrieben wurde",
-      "link": "https://mein-mmo.de/eine-figur-in-big-bang-theory-unbeliebt-wenige-folgen-evergreen/",
-      "pubDate": "08.09.2026 um 06:00 Uhr",
-      "timestamp": 1788847200.0,
-      "source": "Mein-MMO",
-      "summary": "In The Big Bang Theory gibt es viele Nebenfiguren, die den Weg der Nerds kreuzen. Eine scheint dabei bei den Fans unbeliebt gewesen zu sein. Der Beitr..."
-    },
-    {
-      "title": "Monopoly GO: Alle gratis Würfel im September 2026 – Die neuen Codes von heute",
-      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
-      "pubDate": "08.09.2026 um 05:52 Uhr",
-      "timestamp": 1788846766.0,
-      "source": "Mein-MMO",
-      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
     }
   ],
   "int": [
+    {
+      "title": "Sebastian Stan pitched a \"Sicario-esque\" Winter Soldier movie to Kevin Feige, and it sounds incredible",
+      "link": "https://www.gamesradar.com/entertainment/marvel-movies/sebastian-stan-pitched-a-sicario-esque-winter-soldier-movie-to-kevin-feige-and-it-sounds-incredible/",
+      "pubDate": "08.09.2026 um 09:08 Uhr",
+      "timestamp": 1788858532.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Marvel meets Sicario?"
+    },
+    {
+      "title": "Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood",
+      "link": "https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer",
+      "pubDate": "08.09.2026 um 08:49 Uhr",
+      "timestamp": 1788857356.0,
+      "source": "Eurogamer.net News",
+      "summary": "Capcom has released a gameplay trailer for its next DLC character: Arjun. An Indian fighter and framed policeman on the run, he'll be coming to the po..."
+    },
     {
       "title": "Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out",
       "link": "https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026",
@@ -273,22 +289,6 @@
       "timestamp": 1788817429.0,
       "source": "IGN All",
       "summary": "The Winter Soldier himself, Sebastian Stan, recently pitched a \"Sicario-esque\" Bucky Barnes movie to Marvel Studios leadership."
-    },
-    {
-      "title": "How Ys VIII’s Unique Take On The Apocalypse Made It So Compelling",
-      "link": "https://kotaku.com/how-ys-viiis-unique-take-on-the-apocalypse-made-it-so-compelling-2000730391",
-      "pubDate": "07.09.2026 um 21:00 Uhr",
-      "timestamp": 1788814835.0,
-      "source": "Kotaku",
-      "summary": "Ys VIII is one of the best action RPGs of the past generation"
-    },
-    {
-      "title": "Where to Play Every Grand Theft Auto Game in 2026",
-      "link": "https://www.polygon.com/gta-games-grand-theft-auto-where-to-play-all-2026/",
-      "pubDate": "07.09.2026 um 21:00 Uhr",
-      "timestamp": 1788814814.0,
-      "source": "Polygon.com",
-      "summary": "Rockstar Games GTA might be the most popular game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every game"
     }
   ],
   "sim": [
