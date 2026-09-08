@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "WARDOGS startet im Early Access ohne Linux-Support, Proton bleibt unklar",
+      "link": "https://www.playcentral.de/wardogs-startet-im-early-access-ohne-linux-support-proton-bleibt-unklar/",
+      "pubDate": "08.09.2026 um 19:31 Uhr",
+      "timestamp": 1788895911.0,
+      "source": "PlayCentral",
+      "summary": "Mit WARDOGS steht einer der derzeit meistbeachteten Militär-Shooter auf Steam kurz vor dem Start. Das Multiplayer-Spiel von Bulkhead verbindet taktisc..."
+    },
+    {
+      "title": "SteelSeries Aeon Pro: Gamepad setzt auf Wechsel-Akku für „Infinite Power“",
+      "link": "https://www.computerbase.de/news/gaming/steelseries-aeon-pro-gamepad-setzt-auf-wechsel-akku-fuer-infinite-power.99314/",
+      "pubDate": "08.09.2026 um 21:25 Uhr",
+      "timestamp": 1788895500.0,
+      "source": "ComputerBase",
+      "summary": "Luxuscontroller zu sein heißt bei SteelSeries auch, den Akku wechseln zu können. Auch ein Display ist mit an Board. Der neue Aeon Pro für den PC, die ..."
+    },
+    {
       "title": "Ocarina of Time: Zelda-Klassiker kehrt nach 28 Jahren mit schicker Grafik zurück",
       "link": "https://www.computerbase.de/news/gaming/ocarina-of-time-zelda-klassiker-kehrt-nach-28-jahren-mit-schicker-grafik-zurueck.99313/",
       "pubDate": "08.09.2026 um 20:52 Uhr",
@@ -127,25 +143,73 @@
       "timestamp": 1788879293.0,
       "source": "Eurogamer.de News",
       "summary": "Kaum zu glauben, oder? Link (der gr&uuml;ne Kerl) wird dieses Jahr 40, doch seine grenzenlose Abenteuerlust ist noch immer nicht verflogen. Zur Feier ..."
-    },
-    {
-      "title": "Ocarina of Time Remake spielt sich deutlich moderner: Nintendo zeigt die größten Änderungen",
-      "link": "https://www.playcentral.de/ocarina-of-time-remake-gameplay-aenderungen/",
-      "pubDate": "08.09.2026 um 14:53 Uhr",
-      "timestamp": 1788879234.0,
-      "source": "PlayCentral",
-      "summary": "Mit dem Remake von The Legend of Zelda: Ocarina of Time möchte Nintendo einen der bekanntesten Klassiker der eigenen Geschichte für die Nintendo Switc..."
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Remake zeigt erstes Gameplay und bestätigt Termin",
-      "link": "https://www.eurogamer.de/zelda-ocarina-of-time-remake-gameplay-features-release",
-      "pubDate": "08.09.2026 um 14:28 Uhr",
-      "timestamp": 1788877715.0,
-      "source": "Eurogamer.de News",
-      "summary": "Produzent Eiji Aonuma pr&auml;sentierte am Nachmittag w&auml;hrend der Zelda-Direct-Pr&auml;sentation erstes Gameplay zum Remake von The Legend of Zel..."
     }
   ],
   "int": [
+    {
+      "title": "The Zelda: Ocarina of Time Remake's Art Style Has Completed Divided Fans. Everyone Is Right",
+      "link": "https://www.polygon.com/legend-zelda-ocarina-time-art-style-debate/",
+      "pubDate": "08.09.2026 um 20:04 Uhr",
+      "timestamp": 1788897878.0,
+      "source": "Polygon.com",
+      "summary": "The Legend of Zelda: Ocarina of Time's remade art style is already stirring debates among Nintendo fans, and for fair reasons on both sides."
+    },
+    {
+      "title": "25 Zelda: Ocarina Of Time Comparison Shots Showing How Lovely The Remake Looks Compared To The Original",
+      "link": "https://kotaku.com/25-ocarina-of-time-zelda-remake-screenshots-comparison-2000732231",
+      "pubDate": "08.09.2026 um 20:00 Uhr",
+      "timestamp": 1788897652.0,
+      "source": "Kotaku",
+      "summary": "Song of time"
+    },
+    {
+      "title": "15 New Fall Video Game Releases That You Don't Know About Yet",
+      "link": "https://www.polygon.com/new-indie-games-releases-fall-2026/",
+      "pubDate": "08.09.2026 um 20:00 Uhr",
+      "timestamp": 1788897614.0,
+      "source": "Polygon.com",
+      "summary": "The best indie games of fall 2026 include cozy puzzle games, farming sims, action adventures, and more."
+    },
+    {
+      "title": "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year",
+      "link": "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391",
+      "pubDate": "08.09.2026 um 19:49 Uhr",
+      "timestamp": 1788896944.0,
+      "source": "Kotaku",
+      "summary": "The Nova Games Foundation is a new philanthropic initiative aimed at supporting the next generation of game makers"
+    },
+    {
+      "title": "The Blood of Dawnwalker studio is hiring for a sequel after selling 1 million copies in 3 days: \"We're not resting on our laurels\"",
+      "link": "https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-studio-is-hiring-for-a-sequel-after-selling-1-million-copies-in-3-days-were-not-resting-on-our-laurels/",
+      "pubDate": "08.09.2026 um 19:36 Uhr",
+      "timestamp": 1788896201.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We're looking for someone who, to put it bluntly, writes EXCEPTIONALLY well\""
+    },
+    {
+      "title": "Breaking Benjamin frontman pauses concert to rant about Fallout 4 modding beef: 'There was a modder in the community that was really mean to me'",
+      "link": "https://www.pcgamer.com/games/fallout/breaking-benjamin-frontman-pauses-concert-to-rant-about-fallout-4-modding-beef-there-was-a-modder-in-the-community-that-was-really-mean-to-me/",
+      "pubDate": "08.09.2026 um 19:36 Uhr",
+      "timestamp": 1788896187.0,
+      "source": "PCGamer latest",
+      "summary": "The singer and guitarist spent several minutes asking fans to download his Fallout 4 'True First Person' mod after another modder criticized it."
+    },
+    {
+      "title": "I Wish Blood Of Dawnwalker Would Stop Bailing Me Out Of Tough Choices",
+      "link": "https://kotaku.com/blood-of-the-dawnwalker-hard-choices-rebel-wolves-2000732321",
+      "pubDate": "08.09.2026 um 19:30 Uhr",
+      "timestamp": 1788895809.0,
+      "source": "Kotaku",
+      "summary": "Let me sit with my discomfort, damnit"
+    },
+    {
+      "title": "CD Projekt Red fans stay loyal: About 58% of The Blood of Dawnwalker's Steam player base also played The Witcher 3",
+      "link": "https://www.gamesradar.com/games/rpg/cd-projekt-red-fans-stay-loyal-about-58-percent-of-the-blood-of-dawnwalkers-steam-player-base-also-played-the-witcher-3/",
+      "pubDate": "08.09.2026 um 19:16 Uhr",
+      "timestamp": 1788894975.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Witcher 3 players are fully embracing Rebel Wolves' new RPG"
+    },
     {
       "title": "New FPS Is For All You Fans Of PS2/Xbox-Era Shooters Like Killzone, Halo, Black, and FEAR",
       "link": "https://kotaku.com/new-fps-is-for-all-you-fans-of-ps2-xbox-era-shooters-like-killzone-halo-black-and-fear-2000732337",
@@ -156,7 +220,7 @@
     },
     {
       "title": "Marvel's Ex-Blade Director Finally Made the Mahershala Ali Movie of His Dreams",
-      "link": "https://www.polygon.com/blade-didnt-happen-what-mahershala-ali-and-bassam-tariq-made-instead-might-be-even-better/",
+      "link": "https://www.polygon.com/your-mother-your-mother-your-mother-bassam-tariq-after-blade-interview/",
       "pubDate": "08.09.2026 um 19:00 Uhr",
       "timestamp": 1788894015.0,
       "source": "Polygon.com",
@@ -225,70 +289,6 @@
       "timestamp": 1788889604.0,
       "source": "Polygon.com",
       "summary": "Andrew Garfield plays Sam Altman in Artificial, Luca Guadagnino's new movie about the chaotic rise of OpenAI."
-    },
-    {
-      "title": "ROLLA is evil, fleshy, monstrous, B-movie-esque Katamari Damacy, and is out this month",
-      "link": "https://www.rockpapershotgun.com/rolla-is-evil-fleshy-monstrous-b-movie-esque-katamari-damacy-and-is-out-this-month",
-      "pubDate": "08.09.2026 um 17:45 Uhr",
-      "timestamp": 1788889523.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Is Katamari Damacy an evil game? I realised as soon as I wrote the heading for this one that calling one game an evil version of Katamari might not be..."
-    },
-    {
-      "title": "'Zelda: Ocarina of Time' Remake and Switch 2 Console Pre-Orders Will Be a Bloodbath",
-      "link": "https://www.polygon.com/preorder-zelda-ocarina-of-time-switch-2-console-foil-where-how-when/",
-      "pubDate": "08.09.2026 um 17:43 Uhr",
-      "timestamp": 1788889404.0,
-      "source": "Polygon.com",
-      "summary": "Nintendo revealed a special foil cover, a themed Switch 2, and console accessories that scalpers and Zelda fans alike will want to buy"
-    },
-    {
-      "title": "OpenAI’s GPT-6 Astra Lets People Remake Existing Games, But Worse",
-      "link": "https://kotaku.com/ai-openai-gpt-6-astra-games-knockoffs-sonic-smash-bros-2000731943",
-      "pubDate": "08.09.2026 um 17:40 Uhr",
-      "timestamp": 1788889224.0,
-      "source": "Kotaku",
-      "summary": "All while the technology required to actually play these games gets more expensive"
-    },
-    {
-      "title": "Even without Winds and Waves, Pokemon just had its best ever year with $3.4 billion in net sales probably thanks to Pokopia, FireRed and LeafGreen",
-      "link": "https://www.gamesradar.com/games/pokemon/even-without-winds-and-waves-pokemon-just-had-its-best-ever-year-with-usd3-4-billion-in-net-sales-probably-thanks-to-pokopia-firered-and-leafgreen/",
-      "pubDate": "08.09.2026 um 17:34 Uhr",
-      "timestamp": 1788888855.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "So much Pokemoney!"
-    },
-    {
-      "title": "Marvel Rivals’ New Character Reveal Explains Why Loki Was Removed From the Game",
-      "link": "https://www.polygon.com/marvel-rivals-season-10-gorr-release-date-revealed-loki-removed/",
-      "pubDate": "08.09.2026 um 17:32 Uhr",
-      "timestamp": 1788888752.0,
-      "source": "Polygon.com",
-      "summary": "Marvel Rival season 10 confirms Gorr the God Butcher, and he's already claimed Loki as his first victim"
-    },
-    {
-      "title": "'Magic' Just Revealed 26 New Reality Fracture Cards, Including 5 Overpowered Sphinx Commanders",
-      "link": "https://www.polygon.com/mtg-reality-fracture-new-cards-preview/",
-      "pubDate": "08.09.2026 um 17:30 Uhr",
-      "timestamp": 1788888614.0,
-      "source": "Polygon.com",
-      "summary": "The latest Reality Fracture previews include a closer look at Hexhaven's five founder sphinxes, Echoverse versions of Karn and Ghalta, and more."
-    },
-    {
-      "title": "LEGO Reveals Its Biggest Book Nook Set So Far and It's Not Connected to Any Major Franchises",
-      "link": "https://www.ign.com/articles/lego-reveals-its-bookstore-book-nook-set-for-october-2026",
-      "pubDate": "08.09.2026 um 17:23 Uhr",
-      "timestamp": 1788888214.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Fans Are More Convinced Than Ever That Robert Pattinson Is Starring in Hideo Kojima’s Physint Game",
-      "link": "https://www.ign.com/articles/fans-are-more-convinced-than-ever-that-robert-pattinson-is-starring-in-hideo-kojimas-physint-game",
-      "pubDate": "08.09.2026 um 17:22 Uhr",
-      "timestamp": 1788888155.0,
-      "source": "IGN All",
-      "summary": "Robert Pattinson's latest performances in critically-acclaimed films are bringing up an old theory that's gaining more traction as hype builds for Hid..."
     }
   ],
   "sim": [
