@@ -1,12 +1,28 @@
 {
   "de": [
     {
+      "title": "Arm Neoverse CSS N4: Baukasten für Server-CPUs mit 128 Kernen und PCIe 7.0",
+      "link": "https://www.computerbase.de/news/prozessoren/arm-neoverse-css-n4-baukasten-fuer-server-cpus-mit-128-kernen-und-pcie-7-0.99284/",
+      "pubDate": "08.09.2026 um 06:00 Uhr",
+      "timestamp": 1788840000.0,
+      "source": "ComputerBase",
+      "summary": "Neben neuen Smartphone-Kernen wird Arm in Kürze auch mit neuen Kernen nach Baukastenprinzip für Profichips nachlegen. Zuerst kommen dabei die neuen Ne..."
+    },
+    {
       "title": "Steam-Plattformer Hayfever ist jetzt dauerhaft kostenlos spielbar",
       "link": "https://www.playcentral.de/steam-plattformer-hayfever-ist-jetzt-dauerhaft-kostenlos-spielbar/",
       "pubDate": "08.09.2026 um 02:31 Uhr",
       "timestamp": 1788834717.0,
       "source": "PlayCentral",
       "summary": "Ein kleiner Indie-Geheimtipp bekommt auf Steam eine zweite Chance: Der Retro-Plattformer Hayfever kann ab sofort vollständig kostenlos heruntergeladen..."
+    },
+    {
+      "title": "Arm Mali G2 NX: GPUs rendern nur noch ein Achtel der Grafik, der Rest ist KI",
+      "link": "https://www.computerbase.de/news/grafikkarten/arm-mali-g2-nx-gpus-mit-beschleunigern-fuer-upscaling-und-frame-generation.99005/",
+      "pubDate": "08.09.2026 um 04:00 Uhr",
+      "timestamp": 1788832800.0,
+      "source": "ComputerBase",
+      "summary": "Arm stattet die GPUs der Mali-G2-NX-Generation erstmals mit dedizierten Neural-Beschleunigern aus, die Aufgaben wie Upscaling, Frame Generation und De..."
     },
     {
       "title": "Arm CSS for Mobile 2: C2-Ultra macht die CPU zum Orchestrator für KI‑Agenten",
@@ -127,22 +143,6 @@
       "timestamp": 1788793740.0,
       "source": "ComputerBase",
       "summary": "Wer eine GeForce RTX 5090, 5080 oder 5070 FE zum offiziellen Listenpreis kaufen möchte, braucht inzwischen nicht nur Geduld gepaart mit Glück, sondern..."
-    },
-    {
-      "title": "Tau (τ) Scaling Law: Huawei Kirin 9050 Pro im Stapel-Prozess ist 42 % schneller",
-      "link": "https://www.computerbase.de/news/prozessoren/tau-scaling-law-huawei-kirin-9050-pro-im-stapel-prozess-ist-42-prozent-schneller.99288/",
-      "pubDate": "07.09.2026 um 16:45 Uhr",
-      "timestamp": 1788792300.0,
-      "source": "ComputerBase",
-      "summary": "Der Huawei Kirin 9050 Pro ist der erste Chip mit dem neuen Tau Scaling. Dieser bringt so deutlich mehr Performance, wenngleich er westliche Flaggschif..."
-    },
-    {
-      "title": "Chinas Spielindustrie boomt, während die westliche Branche kämpfen muss",
-      "link": "https://www.eurogamer.de/chinas-gaming-markt-rekord-umsatz-2025",
-      "pubDate": "07.09.2026 um 14:42 Uhr",
-      "timestamp": 1788792120.0,
-      "source": "Eurogamer.de News",
-      "summary": "W&auml;hrend die westliche Videospielindustrie weiterhin strauchelt, scheint die Branche in China regelrecht zu explodieren. Im Jahr 2025 erreichte de..."
     }
   ],
   "int": [
