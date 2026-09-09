@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "RAMageddon: Alle alten iPhone-Modelle kosten jetzt deutlich mehr",
+      "link": "https://www.computerbase.de/news/smartphones/ramageddon-alle-alten-iphone-modelle-kosten-jetzt-deutlich-mehr.99132/",
+      "pubDate": "09.09.2026 um 22:54 Uhr",
+      "timestamp": 1788987240.0,
+      "source": "ComputerBase",
+      "summary": "Die iPhones waren bislang von Apples Preiserhöhungen ausgenommen. Mit Ankün­digung des iPhone 18 Pro, iPhone 18 Pro Max und iPhone Duo kosten aber nic..."
+    },
+    {
       "title": "iPhone Duo: Erstes Apple-Foldable kostet 2.299 Euro und kommt im Oktober",
       "link": "https://www.computerbase.de/news/smartphones/iphone-duo-erstes-apple-foldable-kostet-2-299-euro-und-kommt-im-oktober.99325/",
       "pubDate": "09.09.2026 um 21:48 Uhr",
@@ -135,17 +143,73 @@
       "timestamp": 1788969158.0,
       "source": "Eurogamer.de News",
       "summary": "Nintendo schickt Mario Kart World noch einmal zur&uuml;ck zu seinen Wurzeln. Mit dem kostenlosen Update 1.8.0 k&ouml;nnt ihr ab sofort zehn Strecken a..."
-    },
-    {
-      "title": "Patch 1.0 erschienen: Wikinger-Survival-Game Valheim ist fertig",
-      "link": "https://www.computerbase.de/news/gaming/patch-1-0-erschienen-wikinger-survival-game-valheim-ist-fertig.99329/",
-      "pubDate": "09.09.2026 um 17:46 Uhr",
-      "timestamp": 1788968760.0,
-      "source": "ComputerBase",
-      "summary": "Nach über fünf Jahren im Early Access auf Steam ist Valheim mit dem Erscheinen von Version 1.0 nun offiziell fertig. Das hochdekorierte Survival-Spiel..."
     }
   ],
   "int": [
+    {
+      "title": "Zelda: Ocarina of Time Is the Last Game That Needs a Jump Button",
+      "link": "https://www.polygon.com/zelda-ocarina-of-time-doesnt-need-a-jump-button/",
+      "pubDate": "09.09.2026 um 21:00 Uhr",
+      "timestamp": 1788987614.0,
+      "source": "Polygon.com",
+      "summary": "The Legend of Zelda: Ocarina of Time is coming back with a new feature it could do without: a dedicated jump button."
+    },
+    {
+      "title": "Fallout co-creator tells new devs terrified of layoffs they're \"wrong\" to expect making games to be a \"stable job\": \"Art itself is inherently unstable\"",
+      "link": "https://www.gamesradar.com/games/fallout-co-creator-tells-new-devs-terrified-of-layoffs-theyre-wrong-to-expect-making-games-to-be-a-stable-job-art-itself-is-inherently-unstable/",
+      "pubDate": "09.09.2026 um 20:59 Uhr",
+      "timestamp": 1788987560.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Get used to what you could never be used to"
+    },
+    {
+      "title": "New Professor Layton Game Finally Gets a Release Date After Years of Delays",
+      "link": "https://www.polygon.com/professor-layton-new-world-of-steam-release-date-nintendo-direct-reveal/",
+      "pubDate": "09.09.2026 um 20:44 Uhr",
+      "timestamp": 1788986673.0,
+      "source": "Polygon.com",
+      "summary": "The release date for Professor Layton and the New World of Steam has finally been announced at the September Nintendo Direct."
+    },
+    {
+      "title": "Nintendo Direct Just Proved Fans Will Be Eating Good in 2027",
+      "link": "https://www.polygon.com/nintendo-direct-eating-2027/",
+      "pubDate": "09.09.2026 um 20:28 Uhr",
+      "timestamp": 1788985707.0,
+      "source": "Polygon.com",
+      "summary": "Metroid Ravenous, Kirby and the World Beyond, and Ondeh Ondeh: Kaya's Tasty Tale hint at an emerging trend of food-oriented games coming next year"
+    },
+    {
+      "title": "4,000 hours into Elden Ring, streamer commissions a custom mod so he can beat FromSoftware's finest RPG another 726 times",
+      "link": "https://www.gamesradar.com/games/action-rpg/4-000-hours-into-elden-ring-streamer-commissions-a-custom-mod-so-he-can-beat-fromsoftwares-finest-rpg-another-726-times/",
+      "pubDate": "09.09.2026 um 20:25 Uhr",
+      "timestamp": 1788985536.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Every last weapon, spell, and skill must be tested"
+    },
+    {
+      "title": "2025's Best Psychological Horror Game is Getting an Official Sequel",
+      "link": "https://www.polygon.com/konami-silent-hill-f-sequel-prequel/",
+      "pubDate": "09.09.2026 um 20:23 Uhr",
+      "timestamp": 1788985418.0,
+      "source": "Polygon.com",
+      "summary": "Silent Hill f is getting a sequel manga that will focus on Kotoyuki, Konami and Weekly Famitsu announced"
+    },
+    {
+      "title": "Lord of the Rings Gets Official New 4K Releases in 2026",
+      "link": "https://www.polygon.com/lotr-rings-of-power-4k-release-november-2026/",
+      "pubDate": "09.09.2026 um 20:16 Uhr",
+      "timestamp": 1788985013.0,
+      "source": "Polygon.com",
+      "summary": "Amazon's The Rings of Power is getting 4K, Blu-ray and DVD releases, with Season 3 arriving on Prime Video in November."
+    },
+    {
+      "title": "Beast locations for Beastmaster's bestiary in FFXIV",
+      "link": "https://www.polygon.com/ffxiv-beastmaster-bst-beast-bestiary-locations-list-skills/",
+      "pubDate": "09.09.2026 um 20:12 Uhr",
+      "timestamp": 1788984739.0,
+      "source": "Polygon.com",
+      "summary": "If you want to play the new Beastmaster job in FFXIV, here's where to unlock it and where to find beasts to capture."
+    },
     {
       "title": "Milki Delivery Looks Cozy, But the Ghibli-Inspired Game Has a Dark Secret",
       "link": "https://www.polygon.com/milki-delivery-preview-nov-2026-cozy-game-release/",
@@ -211,22 +275,6 @@
       "summary": "This week's dual-pronged Nintendo Direct shows were stuffed with huge games. Kirby and the World Beyond! Metroid Ravenous! The Legend of Zelda: Ocarin..."
     },
     {
-      "title": "Four Years Later, Community Star Gives 'Hopeful' Update on Peacock Movie",
-      "link": "https://www.polygon.com/community-movie-danny-pudi-update/",
-      "pubDate": "09.09.2026 um 19:31 Uhr",
-      "timestamp": 1788982308.0,
-      "source": "Polygon.com",
-      "summary": "Danny Pudi remains hopeful that the long-awaited Community movie will happen, four years after Peacock announced the project."
-    },
-    {
-      "title": "Usual June Preview: Gaming's Secret Tastemakers Are Back with Spectral Crab Action",
-      "link": "https://www.polygon.com/usual-june-fall-preview/",
-      "pubDate": "09.09.2026 um 19:30 Uhr",
-      "timestamp": 1788982214.0,
-      "source": "Polygon.com",
-      "summary": "Finji has published some of the biggest indie games ever. Usual June is the company's next game, developed in-house, and looks awesome."
-    },
-    {
       "title": "Call of Duty introduces a gun skin that you can only see on an Xbox console",
       "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-introduces-a-gun-skin-that-you-can-only-see-on-an-xbox-console/",
       "pubDate": "09.09.2026 um 19:11 Uhr",
@@ -241,54 +289,6 @@
       "timestamp": 1788980455.0,
       "source": "Kotaku",
       "summary": "The free mini-game is playable now in your browser"
-    },
-    {
-      "title": "'Nosferatu' Director's New Gothic Thriller Is Already the Biggest Horror Movie of 2026",
-      "link": "https://www.polygon.com/robert-eggers-interview-werwulf/",
-      "pubDate": "09.09.2026 um 19:00 Uhr",
-      "timestamp": 1788980414.0,
-      "source": "Polygon.com",
-      "summary": "Nosferatu's Robert Eggers goes deeper into the darkness with Werwulf: 'The forest has its own rules'"
-    },
-    {
-      "title": "Pile cards on top of each other and watch the magic happen in the textured and chunky roguelike deckbuilder Stack Order",
-      "link": "https://www.rockpapershotgun.com/pile-cards-on-top-of-each-other-and-watch-the-magic-happen-in-the-textured-and-chunky-roguelike-deckbuilder-stack-order",
-      "pubDate": "09.09.2026 um 19:00 Uhr",
-      "timestamp": 1788980400.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "I find it to be quite rare that when a game says it has a graphic novel art style that it actually has one. There's often just something that reads as..."
-    },
-    {
-      "title": "New Pokémon Confirmed For 'Pokémon Pokopia' In Stylish New Preview",
-      "link": "https://www.polygon.com/pokemon-pokopia-dlc-nintendo-direct-switch-2-new-monsters-items/",
-      "pubDate": "09.09.2026 um 18:48 Uhr",
-      "timestamp": 1788979707.0,
-      "source": "Polygon.com",
-      "summary": "Switch 2 owners who purchase the Pokopia Expansion Pass have much to look forward to in the DLC according to the recent Nintendo DIrect"
-    },
-    {
-      "title": "Valheim 1.0's Steam player count soars to a huge 5-year high, but it's not enough to beat the viral survival game's early access peak",
-      "link": "https://www.eurogamer.net/valheim-steam-count-huge-survival-game-early-access",
-      "pubDate": "09.09.2026 um 18:45 Uhr",
-      "timestamp": 1788979530.0,
-      "source": "Eurogamer.net News",
-      "summary": "The five-year wait for Valheim 1.0 doesn't seem to have hurt the survival game behemoth's popularity all that much. After leaving early access, the cr..."
-    },
-    {
-      "title": "Eldrazi Officially Return to 'Magic: The Gathering' in a Way Players Didn’t Expect",
-      "link": "https://www.polygon.com/mtg-reality-fracture-leaks-emrakul-spoilers-trapped-in-the-moon/",
-      "pubDate": "09.09.2026 um 18:33 Uhr",
-      "timestamp": 1788978799.0,
-      "source": "Polygon.com",
-      "summary": "Emrakul returns in MTG’s Reality Fracture story and a new card, potentially setting up the Eldrazi titan to destroy Jace’s Echoverse."
-    },
-    {
-      "title": "Yikes, Some Switch 2 Ports In That New Direct Looked Rough",
-      "link": "https://kotaku.com/yikes-some-switch-2-ports-in-that-new-direct-looked-rough-2000732852",
-      "pubDate": "09.09.2026 um 18:20 Uhr",
-      "timestamp": 1788978058.0,
-      "source": "Kotaku",
-      "summary": "Lego Batman and Kingdom Come don't seem to be running very well on Nintendo's newest console"
     }
   ],
   "sim": [
