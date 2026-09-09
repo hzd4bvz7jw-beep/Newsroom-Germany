@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Game Preservation Program: GOG rettet den großen Spiele-Karton",
+      "link": "https://www.computerbase.de/news/gaming/game-preservation-program-gog-rettet-den-grossen-spiele-karton.99316/",
+      "pubDate": "09.09.2026 um 06:00 Uhr",
+      "timestamp": 1788926400.0,
+      "source": "ComputerBase",
+      "summary": "Zu alten Spielen gehörten früher riesige Umverpackungen aus Karton für Datenträger, Anleitungen und Goodies, die es heute allenfalls noch in Sammlered..."
+    },
+    {
+      "title": "Kingdom Hearts 4 Leak – Steam-Achievements sollen neue Welten verraten",
+      "link": "https://www.playcentral.de/kingdom-hearts-4-leak-steam-achievements-sollen-neue-welten-verraten/",
+      "pubDate": "09.09.2026 um 03:31 Uhr",
+      "timestamp": 1788924714.0,
+      "source": "PlayCentral",
+      "summary": "Ein umfangreicher Leak zu Kingdom Hearts 4 sorgt für reichlich Gesprächsstoff. Angeblich wurden über Steam Achievements entdeckt, deren Namen und Frei..."
+    },
+    {
       "title": "Life is Strange-Studio Dont Nod in Finanzkrise – bis zu 90 Jobs bedroht",
       "link": "https://www.playcentral.de/life-is-strange-studio-dont-nod-in-finanzkrise-bis-zu-90-jobs-bedroht/",
       "pubDate": "08.09.2026 um 22:31 Uhr",
@@ -113,14 +129,6 @@
       "summary": "Square Enix hat Patch 7.56 für Final Fantasy 14 am 8. September 2026 veröffentlicht. Das Update beendet den aktuellen Dawntrail-Zyklus mit vier neuen ..."
     },
     {
-      "title": "Neue Amiibo zu Ocarina of Time Remake – Link und Zelda mit Maskenbonus",
-      "link": "https://www.playcentral.de/neue-amiibo-zu-ocarina-of-time-remake-link-und-zelda-mit-maskenbonus/",
-      "pubDate": "08.09.2026 um 15:31 Uhr",
-      "timestamp": 1788881500.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo erweitert sein Amiibo-Angebot rund um The Legend of Zelda um zwei neue Sammelfiguren. Im Mittelpunkt stehen der junge Link und die junge Zeld..."
-    },
-    {
       "title": "Shift Up nimmt Stellar Blade: Blood Rains KI-Kontroverse und eure Bedenken \"ernst\"",
       "link": "https://www.eurogamer.de/stellar-blade-blood-rain-ki-kritik-shift-up",
       "pubDate": "08.09.2026 um 15:21 Uhr",
@@ -135,17 +143,25 @@
       "timestamp": 1788879600.0,
       "source": "Eurogamer.de News",
       "summary": "Manche behaupten, dass REDSEC &ndash; der Battle-Royale-Ableger von Battlefield 6 &ndash; die direkte Antwort auf den popul&auml;ren Warzone-Modus von..."
-    },
-    {
-      "title": "Zelda-Direct im Überblick: Ocarina of Time Remake, Switch-2-Edition und Kino-Update",
-      "link": "https://www.eurogamer.de/zelda-direct-zusammenfassung-ocarina-remake-switch-2",
-      "pubDate": "08.09.2026 um 14:54 Uhr",
-      "timestamp": 1788879293.0,
-      "source": "Eurogamer.de News",
-      "summary": "Kaum zu glauben, oder? Link (der gr&uuml;ne Kerl) wird dieses Jahr 40, doch seine grenzenlose Abenteuerlust ist noch immer nicht verflogen. Zur Feier ..."
     }
   ],
   "int": [
+    {
+      "title": "60 Years Later, the Best 'Great Pumpkin, Charlie Brown' Quote Is Still an All-Time 'Peanuts' Classic",
+      "link": "https://www.polygon.com/great-pumpkin-charlie-brown-best-quote-peanuts/",
+      "pubDate": "09.09.2026 um 04:00 Uhr",
+      "timestamp": 1788926419.0,
+      "source": "Polygon.com",
+      "summary": "The 1966 TV special, It's the Great Pumpkin, Charlie Brown, written by Charles Schulz is full of classic lines. Here is the most iconic."
+    },
+    {
+      "title": "Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners",
+      "link": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+      "pubDate": "09.09.2026 um 02:50 Uhr",
+      "timestamp": 1788922201.0,
+      "source": "IGN All",
+      "summary": "Netflix is adapting Larry McMurtry’s iconic Western novel Lonesome Dove into a new TV series from East of Eden co-showrunners Zoe Kazan and Jeb Stuart..."
+    },
     {
       "title": "'Zelda' 40th Anniversary Switch 2 Consoles Sell Out Everywhere, With One Exception",
       "link": "https://www.polygon.com/zelda-switch-2-preorder-amazon-best-buy-target-ebay-in-stock-ocarina/",
@@ -201,6 +217,14 @@
       "timestamp": 1788911677.0,
       "source": "PCGamer latest",
       "summary": "It's now much easier to take the DIY approach."
+    },
+    {
+      "title": "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
+      "link": "https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us",
+      "pubDate": "08.09.2026 um 23:33 Uhr",
+      "timestamp": 1788910415.0,
+      "source": "IGN All",
+      "summary": "The 2026 Rocket League World Championship Finals will be broadcast at 50 AMC Theaters across the United States."
     },
     {
       "title": "SteelSeries Aeon Pro Review So Far",
@@ -265,30 +289,6 @@
       "timestamp": 1788906600.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "Beat the End-of-Summer Extreme Heat Surge With This $6 Portable Turbo Fan",
-      "link": "https://www.ign.com/articles/lerat-portable-turbo-fan-deal-september-2026",
-      "pubDate": "08.09.2026 um 22:15 Uhr",
-      "timestamp": 1788905700.0,
-      "source": "IGN All",
-      "summary": "Stay frosty, both indoors and out."
-    },
-    {
-      "title": "Breaking Benjamin Frontman Stops His Own Concert to Rant About His Feud With a Fallout 4 Modder",
-      "link": "https://www.ign.com/articles/breaking-benjamin-frontman-pauses-his-own-concert-to-rant-about-his-with-a-fallout-4-modder",
-      "pubDate": "08.09.2026 um 22:10 Uhr",
-      "timestamp": 1788905409.0,
-      "source": "IGN All",
-      "summary": "Benjamin Burnley, lead singer and guitarist of the rock band Breaking Benjamin, took five minutes during a concert in Holmdel, New Jersey, to rant abo..."
-    },
-    {
-      "title": "20 best board wipes in Magic: The Gathering",
-      "link": "https://www.polygon.com/best-board-wipes-mtg-magic-gathering/",
-      "pubDate": "08.09.2026 um 22:00 Uhr",
-      "timestamp": 1788904823.0,
-      "source": "Polygon.com",
-      "summary": "From Wrath of God to Cyclonic Rift, these are the spells that turn crowded battlefields into devestation."
     }
   ],
   "sim": [
