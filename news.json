@@ -1,12 +1,68 @@
 {
   "de": [
     {
+      "title": "Apple Watch 12 und Ultra 4: Neue Gesund­heits­sensoren erfassen bis zu 60x mehr",
+      "link": "https://www.computerbase.de/news/wearables/apple-watch-12-und-ultra-4-neue-gesundheitssensoren-erfassen-bis-zu-60x-mehr.99321/",
+      "pubDate": "09.09.2026 um 20:48 Uhr",
+      "timestamp": 1788979680.0,
+      "source": "ComputerBase",
+      "summary": "Mit der Apple Watch 12 und Apple Watch Ultra 4 stellt Apple neue Smartwatches vor. Vor allem der Gesundheitssensor für die Erfassung der Herzfrequenz ..."
+    },
+    {
+      "title": "iPhone 18 Pro (Max): A20 Pro, variable Kamera-Blende und längere Laufzeiten",
+      "link": "https://www.computerbase.de/news/smartphones/iphone-18-pro-max-a20-pro-variable-kamera-blende-und-laengere-laufzeiten.99323/",
+      "pubDate": "09.09.2026 um 20:42 Uhr",
+      "timestamp": 1788979320.0,
+      "source": "ComputerBase",
+      "summary": "Apple hat für das iPhone 18 Pro und iPhone 18 Pro Max die Kamera im bekannten „Plateau-Design“ erneuert und diese erstmals mit einer variablen Blende ..."
+    },
+    {
+      "title": "Apple will echte Fotos beweisen: iPhone 18 Pro bekommt digitalen Echtheitsnachweis",
+      "link": "https://www.playcentral.de/iphone-18-pro-echte-fotos-reference-image/",
+      "pubDate": "09.09.2026 um 18:39 Uhr",
+      "timestamp": 1788979159.0,
+      "source": "PlayCentral",
+      "summary": "Apple Reference Image verknüpft Kameraaufnahmen mit einem Herkunftsnachweis. SynthID soll zusätzlich KI-Inhalte kennzeichnen. Das unterscheidet die Ve..."
+    },
+    {
+      "title": "iPhone 18 Pro bekommt echte variable Blende: Das steckt hinter Apples neuer Kamera",
+      "link": "https://www.playcentral.de/iphone-18-pro-variable-blende-kamera/",
+      "pubDate": "09.09.2026 um 18:36 Uhr",
+      "timestamp": 1788979015.0,
+      "source": "PlayCentral",
+      "summary": "Apple stattet iPhone 18 Pro und Pro Max mit einer variablen Blende aus. So arbeiten die sechs Lamellen und die neuen manuellen Pro Controls."
+    },
+    {
+      "title": "Apple Watch hört mit: Live Rewind holt die letzten 15 Sekunden zurück",
+      "link": "https://www.playcentral.de/apple-watch-live-rewind-siri-recap/",
+      "pubDate": "09.09.2026 um 18:33 Uhr",
+      "timestamp": 1788978818.0,
+      "source": "PlayCentral",
+      "summary": "Live Rewind macht gerade Gesagtes als Text zugänglich. Siri Recap fasst Gespräche zusammen – mit optionaler Aktivierung und lokaler Verarbeitung laut ..."
+    },
+    {
+      "title": "PS5 im September 2026 – Marvels Wolverine und Silent Hill Townfall exklusiv",
+      "link": "https://www.playcentral.de/ps5-im-september-2026-marvels-wolverine-und-silent-hill-townfall-exklusiv/",
+      "pubDate": "09.09.2026 um 18:31 Uhr",
+      "timestamp": 1788978709.0,
+      "source": "PlayCentral",
+      "summary": "Der September 2026 entwickelt sich für PS5-Fans zu einem besonders starken Monat. Mit Marvel’s Wolverine und Silent Hill: Townfall erscheinen innerhal..."
+    },
+    {
+      "title": "Ich habe den letzten Boss von Valheim bekämpft und keine Ahnung, wie das ohne Cheats funktionieren soll",
+      "link": "https://mein-mmo.de/valheim-1-0-endboss-zu-hart/",
+      "pubDate": "09.09.2026 um 18:15 Uhr",
+      "timestamp": 1788977700.0,
+      "source": "Mein-MMO",
+      "summary": "Ein echter Wikinger fürchtet den Tod nicht, aber Valheim gibt sich mit dem neuen Endboss mühe, die Sache zu beschleunigen. Der Beitrag Ich habe den le..."
+    },
+    {
       "title": "iPhone Duo offiziell vorgestellt: Apples erstes faltbares iPhone ist da",
       "link": "https://www.playcentral.de/iphone-duo-apple-faltbares-iphone/",
       "pubDate": "09.09.2026 um 18:10 Uhr",
       "timestamp": 1788977405.0,
       "source": "PlayCentral",
-      "summary": "Apple enthüllt sein erstes faltbares iPhone: Das iPhone Duo bringt ein 7,6-Zoll-Innendisplay, Multitasking, Titanrahmen und Touch ID. Alle bestätigten..."
+      "summary": "Das iPhone Duo startet mit 256 GB bei 1.999 US-Dollar und erscheint am 23. Oktober. Alle Details zu Apples Foldable, A20 Pro, Displays, Akku und Kamer..."
     },
     {
       "title": "Apple Watch Series 12 und Ultra 4 vorgestellt: Neuerungen, Preise und Release",
@@ -31,14 +87,6 @@
       "timestamp": 1788975166.0,
       "source": "PlayCentral",
       "summary": "Sony hat den PlayStation Plus-Spielekatalog für September 2026 vorgestellt. Insgesamt erweitert sich das Angebot um zehn Titel, von denen acht für Pla..."
-    },
-    {
-      "title": "Ashfield Hollow – Stardew-Farming trifft Zombie-Survival, Demo auf Steam verfügbar",
-      "link": "https://www.playcentral.de/ashfield-hollow-stardew-farming-trifft-zombie-survival-demo-auf-steam-verfuegbar/",
-      "pubDate": "09.09.2026 um 17:31 Uhr",
-      "timestamp": 1788975097.0,
-      "source": "PlayCentral",
-      "summary": "Gemütlich Gemüse anbauen, angeln und Tiere versorgen, während außerhalb des eigenen Hofes ganze Zombiehorden lauern: Ashfield Hollow verbindet vertrau..."
     },
     {
       "title": "Spieler schickt seine RTX 4090 zur Reparatur ein, aber der Verkäufer verschrottet die Grafikkarte einfach",
@@ -89,63 +137,87 @@
       "summary": "Nach über fünf Jahren im Early Access auf Steam ist Valheim mit dem Erscheinen von Version 1.0 nun offiziell fertig. Das hochdekorierte Survival-Spiel..."
     },
     {
-      "title": "Clair Obscur A Painted Symphony kehrt 2027 zurück – Termine in Deutschland",
-      "link": "https://www.playcentral.de/clair-obscur-a-painted-symphony-kehrt-2027-zurueck-termine-in-deutschland/",
-      "pubDate": "09.09.2026 um 15:37 Uhr",
-      "timestamp": 1788968250.0,
-      "source": "PlayCentral",
-      "summary": "Fans von Clair Obscur: Expedition 33 dürfen sich 2027 auf eine neue offizielle Veröffentlichung rund um das gefeierte Rollenspiel freuen. Dabei handel..."
-    },
-    {
-      "title": "Crisis Core Final Fantasy VII Reunion – native Switch 2-Version ab sofort da",
-      "link": "https://www.playcentral.de/crisis-core-final-fantasy-vii-reunion-native-switch-2-version-ab-sofort-da/",
-      "pubDate": "09.09.2026 um 15:36 Uhr",
-      "timestamp": 1788968172.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo hat während der Nintendo Direct am 9. September 2026 für eine handfeste Überraschung gesorgt. CRISIS CORE: FINAL FANTASY VII REUNION ist ab s..."
-    },
-    {
-      "title": "Metroid Ravenous angekündigt – Release am 28. Januar 2027 für Switch 2",
-      "link": "https://www.playcentral.de/metroid-ravenous-angekuendigt-release-am-28-januar-2027-fuer-switch-2/",
-      "pubDate": "09.09.2026 um 15:34 Uhr",
-      "timestamp": 1788968086.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo hat Metroid Ravenous offiziell angekündigt und Samus Arans nächstes großes Abenteuer direkt mit einem Erscheinungstermin versehen. Der neue T..."
-    },
-    {
       "title": "Stage Fright: Die Overcooked-Macher zeigen erstes Gameplay zu ihrem gruseligen Koop-Abenteuer",
       "link": "https://www.eurogamer.de/stage-fright-gameplay-koop-overcooked",
       "pubDate": "09.09.2026 um 15:00 Uhr",
       "timestamp": 1788966000.0,
       "source": "Eurogamer.de News",
       "summary": "Erinnert ihr euch noch an den Dezember 2024? Vielleicht habt ihr damals den spa&szlig;igen kleinen Teaser zu Stage Fright gesehen. Das ist ein faszini..."
-    },
-    {
-      "title": "Google-Suche in der EU: Vorgaben sollen Qualität von Ergebnissen deutlich senken",
-      "link": "https://www.computerbase.de/news/apps/google-suche-in-der-eu-vorgaben-sollen-qualitaet-von-ergebnissen-deutlich-senken.99330/",
-      "pubDate": "09.09.2026 um 16:50 Uhr",
-      "timestamp": 1788965400.0,
-      "source": "ComputerBase",
-      "summary": "Um die Vorgaben des EU-Gesetzes über digitale Märkte (DMA) einzuhalten, baut Google seine Suchmaschine umfassend um und will damit weiteren Kartellstr..."
-    },
-    {
-      "title": "Kirby and the World Beyond offiziell angekündigt: Switch 2 bekommt noch offenere Welten",
-      "link": "https://www.eurogamer.de/kirby-world-beyond-switch-2-angekuendigt",
-      "pubDate": "09.09.2026 um 14:48 Uhr",
-      "timestamp": 1788965332.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ein neues Kirby-Spiel wurde soeben w&auml;hrend der Nintendo Direct angek&uuml;ndigt. Mehr"
-    },
-    {
-      "title": "Sega-Präsident: Immer mehr Fans spielen unsere Spiele gar nicht – sie sind trotzdem echte Gamer",
-      "link": "https://www.eurogamer.de/sega-fans-ohne-controller-echte-gamer",
-      "pubDate": "09.09.2026 um 14:41 Uhr",
-      "timestamp": 1788964884.0,
-      "source": "Eurogamer.de News",
-      "summary": "Bei SEGA freut man sich aktuell &uuml;ber eine neue Popularit&auml;t seiner Marken. Dabei spielt ein gewisser Teil der neueren Fans die entsprechenden..."
     }
   ],
   "int": [
+    {
+      "title": "Silent Hill f Just Collaborated With Japan’s Biggest Indie Game Of 2025",
+      "link": "https://kotaku.com/silent-hill-f-urban-myth-dissolution-center-crossover-collaboration-free-minigame-2000732691",
+      "pubDate": "09.09.2026 um 19:00 Uhr",
+      "timestamp": 1788980455.0,
+      "source": "Kotaku",
+      "summary": "The free mini-game is playable now in your browser"
+    },
+    {
+      "title": "'Nosferatu' Director's New Gothic Thriller Is Already the Biggest Horror Movie of 2026",
+      "link": "https://www.polygon.com/robert-eggers-interview-werwulf/",
+      "pubDate": "09.09.2026 um 19:00 Uhr",
+      "timestamp": 1788980414.0,
+      "source": "Polygon.com",
+      "summary": "Nosferatu's Robert Eggers goes deeper into the darkness with Werwulf: 'The forest has its own rules'"
+    },
+    {
+      "title": "Pile cards on top of each other and watch the magic happen in the textured and chunky roguelike deckbuilder Stack Order",
+      "link": "https://www.rockpapershotgun.com/pile-cards-on-top-of-each-other-and-watch-the-magic-happen-in-the-textured-and-chunky-roguelike-deckbuilder-stack-order",
+      "pubDate": "09.09.2026 um 19:00 Uhr",
+      "timestamp": 1788980400.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "I find it to be quite rare that when a game says it has a graphic novel art style that it actually has one. There's often just something that reads as..."
+    },
+    {
+      "title": "New Pokémon Confirmed For 'Pokémon Pokopia' In Stylish New Preview",
+      "link": "https://www.polygon.com/pokemon-pokopia-dlc-nintendo-direct-switch-2-new-monsters-items/",
+      "pubDate": "09.09.2026 um 18:48 Uhr",
+      "timestamp": 1788979707.0,
+      "source": "Polygon.com",
+      "summary": "Switch 2 owners who purchase the Pokopia Expansion Pass have much to look forward to in the DLC according to the recent Nintendo DIrect"
+    },
+    {
+      "title": "Valheim 1.0's Steam player count soars to a huge 5-year high, but it's not enough to beat the viral survival game's early access peak",
+      "link": "https://www.eurogamer.net/valheim-steam-count-huge-survival-game-early-access",
+      "pubDate": "09.09.2026 um 18:45 Uhr",
+      "timestamp": 1788979530.0,
+      "source": "Eurogamer.net News",
+      "summary": "The five-year wait for Valheim 1.0 doesn't seem to have hurt the survival game behemoth's popularity all that much. After leaving early access, the cr..."
+    },
+    {
+      "title": "Eldrazi Officially Return to 'Magic: The Gathering' in a Way Players Didn’t Expect",
+      "link": "https://www.polygon.com/mtg-reality-fracture-leaks-emrakul-spoilers-trapped-in-the-moon/",
+      "pubDate": "09.09.2026 um 18:33 Uhr",
+      "timestamp": 1788978799.0,
+      "source": "Polygon.com",
+      "summary": "Emrakul returns in MTG’s Reality Fracture story and a new card, potentially setting up the Eldrazi titan to destroy Jace’s Echoverse."
+    },
+    {
+      "title": "Yikes, Some Switch 2 Ports In That New Direct Looked Rough",
+      "link": "https://kotaku.com/yikes-some-switch-2-ports-in-that-new-direct-looked-rough-2000732852",
+      "pubDate": "09.09.2026 um 18:20 Uhr",
+      "timestamp": 1788978058.0,
+      "source": "Kotaku",
+      "summary": "Lego Batman and Kingdom Come don't seem to be running very well on Nintendo's newest console"
+    },
+    {
+      "title": "Metroid Ravenous Looks Like Nintendo Is Finally Letting Samus Off The Leash",
+      "link": "https://kotaku.com/metroid-ravenous-samus-personality-feminine-rage-2000732816",
+      "pubDate": "09.09.2026 um 18:20 Uhr",
+      "timestamp": 1788978001.0,
+      "source": "Kotaku",
+      "summary": "I'm happy Samus is done being cool, calm, and collected"
+    },
+    {
+      "title": "ASUS ROG gaming laptops show a computer is more than its components",
+      "link": "https://www.pcgamer.com/hardware/gaming-laptops/potent-components-power-display-rog-strix-scar-asus/",
+      "pubDate": "09.09.2026 um 18:14 Uhr",
+      "timestamp": 1788977686.0,
+      "source": "PCGamer latest",
+      "summary": "The ASUS ROG Strix SCAR 18 feeds potent components with ample power into a brilliant display for a next-level gaming experience on the go."
+    },
     {
       "title": "Beloved Fantasy Book Series Redfall Officially Returns in 2027",
       "link": "https://www.polygon.com/redwall-orphans-of-mossflower-final-book-release-date-announced/",
@@ -217,78 +289,6 @@
       "timestamp": 1788974400.0,
       "source": "Kotaku",
       "summary": "'I have given Kirby the chance to lead a normal life'"
-    },
-    {
-      "title": "Nintendo Reveals Rare Switch 2 Game That Can't Be Played on a TV",
-      "link": "https://www.polygon.com/nintendo-direct-onyx-dark-grip-horror-game-bloober/",
-      "pubDate": "09.09.2026 um 17:16 Uhr",
-      "timestamp": 1788974178.0,
-      "source": "Polygon.com",
-      "summary": "Announced during Wednesday's Nintendo Direct, Onyx: The Dark Grip is already being compared to some legendary horror games"
-    },
-    {
-      "title": "Almost 1,900 Blizzard workers vote through a \"historic\" union contract securing protections against layoffs and gen-AI",
-      "link": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
-      "pubDate": "09.09.2026 um 17:15 Uhr",
-      "timestamp": 1788974106.0,
-      "source": "Eurogamer.net News",
-      "summary": "Around 1,900 unionised workers at Blizzard Entertainment have voted to ratify their first contract with the World of Warcraft publisher after years of..."
-    },
-    {
-      "title": "After 33 years, Japan's most beloved Dragon Quest spin-off and the progenitor of the entire roguelike Mystery Dungeon series is out in English for the first time",
-      "link": "https://www.gamesradar.com/games/roguelike/after-33-years-japans-most-beloved-dragon-quest-spin-off-and-the-progenitor-of-the-entire-roguelike-mystery-dungeon-series-is-out-in-english-for-the-first-time/",
-      "pubDate": "09.09.2026 um 17:15 Uhr",
-      "timestamp": 1788974106.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Torneko's Mystery Dungeon is out today"
-    },
-    {
-      "title": "Pretend to be shocked: scalpers are already reselling the Zelda Ocarina of Time Switch 2 for over $850 as demand immediately outstrips supply",
-      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/pretend-to-be-shocked-scalpers-are-already-reselling-the-zelda-ocarina-of-time-switch-2-for-over-usd850-as-demand-immediately-outstrips-supply/",
-      "pubDate": "09.09.2026 um 17:13 Uhr",
-      "timestamp": 1788974014.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Don't indulge, however large your FOMO is"
-    },
-    {
-      "title": "Stephen King's 1974 Horror Classic Returns in First Look at Prime Video's New 8-Episode Series",
-      "link": "https://www.polygon.com/carrie-mike-flanagan-prime-video-trailer/",
-      "pubDate": "09.09.2026 um 17:12 Uhr",
-      "timestamp": 1788973922.0,
-      "source": "Polygon.com",
-      "summary": "Mike Flanagan brings Carrie to the 21st century in his latest Stephen King adaptation for Prime Video."
-    },
-    {
-      "title": "What time does Wardogs release in your time zone?",
-      "link": "https://www.polygon.com/wardogs-release-time-edt-pdt-preload/",
-      "pubDate": "09.09.2026 um 17:07 Uhr",
-      "timestamp": 1788973669.0,
-      "source": "Polygon.com",
-      "summary": "A guide explaining exactly when Wardogs will be released in Steam Early Access in your time zone."
-    },
-    {
-      "title": "There’s Still No Sign Of A New 3D Mario On Switch 2, Bucking 30-Year Trend",
-      "link": "https://kotaku.com/mario-is-missing-nintendo-switch-2-2000732836",
-      "pubDate": "09.09.2026 um 17:00 Uhr",
-      "timestamp": 1788973229.0,
-      "source": "Kotaku",
-      "summary": "Feel like pure shiitake, just want him back x"
-    },
-    {
-      "title": "Legend of Zelda Master Sword replica by Hasbro goes up for pre-order, and it's cheaper than I thought it'd be",
-      "link": "https://www.gamesradar.com/toys-collectibles/legend-of-zelda-master-sword-replica-by-hasbro-goes-up-for-pre-order-and-its-cheaper-than-i-thought-itd-be/",
-      "pubDate": "09.09.2026 um 17:00 Uhr",
-      "timestamp": 1788973200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "You can now pre-order the replica Master Sword by Hasbro from a variety of retailers - here's where"
-    },
-    {
-      "title": "Tomb Raider Legacy of Atlantis pre-orders have arrived on the Switch 2, and I want that carnivorous collector's edition",
-      "link": "https://www.gamesradar.com/games/tomb-raider-legacy-of-atlantis-pre-orders-have-arrived-on-the-switch-2-and-i-want-that-carnivorous-collectors-edition/",
-      "pubDate": "09.09.2026 um 16:54 Uhr",
-      "timestamp": 1788972868.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Nintendo unveiled that Tomb Raider Legacy of Atlantis is coming to Switch 2, and I've gathered the best US and UK links to secure your copy."
     }
   ],
   "sim": [
