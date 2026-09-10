@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "Nvidia baute sie nie: Modder bastelt RTX 3070 Ti mit 16 GB",
+      "link": "https://www.computerbase.de/news/grafikkarten/nvidia-baute-sie-nie-modder-bastelt-rtx-3070-ti-mit-16-gb.99328/",
+      "pubDate": "10.09.2026 um 07:00 Uhr",
+      "timestamp": 1789016400.0,
+      "source": "ComputerBase",
+      "summary": "Nvidia brachte die GeForce RTX 3070 Ti lediglich mit 8 GB GDDR6X auf den Markt, obwohl zwischenzeitlich auch eine Variante mit 16 GB erwartet wurde. E..."
+    },
+    {
+      "title": "Advance Wars: Der Rundenstrategie-Meilenstein für den GBA feiert seinen 25. Geburtstag",
+      "link": "https://www.eurogamer.de/advance-wars-25-geburtstag",
+      "pubDate": "10.09.2026 um 05:00 Uhr",
+      "timestamp": 1789016400.0,
+      "source": "Eurogamer.de News",
+      "summary": "Mit Advance Wars &uuml;bten Nintendo und das Entwicklerstudio Intelligent Systems im Jahr 2001 auf dem Game Boy Advance einen nachhaltigen Einfluss au..."
+    },
+    {
+      "title": "Reddit hackt gerne auf Diablo 4 herum, ein neuer Spieler traut sich kaum zu fragen, ob er das Spiel mögen darf",
+      "link": "https://mein-mmo.de/reddit-hackt-auf-diablo-4-herum-neuer-spieler-will-es-moegen/",
+      "pubDate": "10.09.2026 um 05:00 Uhr",
+      "timestamp": 1789016400.0,
+      "source": "Mein-MMO",
+      "summary": "Ein neuer Spieler fragt verunsichert auf Reddit, ob er Diablo 4 überhaupt gut finden darf – und bekommt überraschende Antworten. Der Beitrag Reddit ha..."
+    },
+    {
+      "title": "Retroid Pocket Duo: Weitere Details zum neuen Dual-Screen-Handheld be­kannt",
+      "link": "https://www.computerbase.de/news/gaming/retroid-pocket-duo-weitere-details-zum-neuen-dual-screen-handheld-bekannt.99333/",
+      "pubDate": "10.09.2026 um 06:30 Uhr",
+      "timestamp": 1789014600.0,
+      "source": "ComputerBase",
+      "summary": "Auch Retroid bedient sich der oft kritisierten Praxis, Details zu neuen Modellen in homöopathischen Dosen zu verabreichen. Ein neuer Trailer liefert n..."
+    },
+    {
+      "title": "WoW hat für viele die Freude aus einem Features gepatcht",
+      "link": "https://mein-mmo.de/wow-freude-aus-schatzkammer-weg/",
+      "pubDate": "10.09.2026 um 04:30 Uhr",
+      "timestamp": 1789014600.0,
+      "source": "Mein-MMO",
+      "summary": "Ein langjähriges, tolles Feature von World of Warcraft ist mit Patch 12.1 richtig langweilig geworden. Dabei wollte man es nur lohnenswerter machen. D..."
+    },
+    {
       "title": "Monster Hunter Wilds: Hardwarefresser kommt auf die Switch 2",
       "link": "https://www.computerbase.de/news/gaming/monster-hunter-wilds-hardwarefresser-kommt-auf-die-switch-2.99336/",
       "pubDate": "10.09.2026 um 06:00 Uhr",
@@ -103,49 +143,17 @@
       "timestamp": 1788977405.0,
       "source": "PlayCentral",
       "summary": "Das iPhone Duo startet mit 256 GB bei 1.999 US-Dollar und erscheint am 23. Oktober. Alle Details zu Apples Foldable, A20 Pro, Displays, Akku und Kamer..."
-    },
-    {
-      "title": "Apple Watch Series 12 und Ultra 4 vorgestellt: Neuerungen, Preise und Release",
-      "link": "https://www.playcentral.de/apple-watch-series-12-ultra-4-neuerungen/",
-      "pubDate": "09.09.2026 um 17:57 Uhr",
-      "timestamp": 1788976676.0,
-      "source": "PlayCentral",
-      "summary": "Apple Watch Series 12 und Ultra 4 starten am 18. September: Alle Details zu S11, Gesundheitsfunktionen, Siri, Farben, Akku und US-Preisen."
-    },
-    {
-      "title": "Spieler schickt seine RTX 4090 zur Reparatur ein, aber der Verkäufer verschrottet die Grafikkarte einfach",
-      "link": "https://mein-mmo.de/spieler-grafikkarte-reparatur-verkaeufer-verschrottet/",
-      "pubDate": "09.09.2026 um 17:30 Uhr",
-      "timestamp": 1788975000.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Spieler will seine kaputte Grafikkarte reparieren lassen und schickt sie ein. Der Hersteller löst das Problem auf seine eigene Art. Der Beitrag Sp..."
-    },
-    {
-      "title": "Ex-Chef von Path of Exile gibt zu, dass er die Spieler getrollt hat – Aber nur, wenn sie zu neugierig wurden",
-      "link": "https://mein-mmo.de/path-of-exile-chris-wilson-trollt-dataminer/",
-      "pubDate": "09.09.2026 um 17:04 Uhr",
-      "timestamp": 1788973441.0,
-      "source": "Mein-MMO",
-      "summary": "Dataminer können Spielen wie Path of Exile schaden, meint der Ex-Chef. Sein Plan dagegen: Köder im Code. Der Beitrag Ex-Chef von Path of Exile gibt zu..."
-    },
-    {
-      "title": "Resident Evil 2, 3 und 4 kommen auf die Switch 2 – und zwar schon sehr bald",
-      "link": "https://www.eurogamer.de/resident-evil-2-3-4-remakes-nintendo-switch-2-release",
-      "pubDate": "09.09.2026 um 16:12 Uhr",
-      "timestamp": 1788970363.0,
-      "source": "Eurogamer.de News",
-      "summary": "Capcom bringt gleich drei weitere Resident-Evil-Spiele auf die Nintendo Switch 2. Die Remakes von Resident Evil 2, Resident Evil 3 und Resident Evil 4..."
-    },
-    {
-      "title": "Alle Spiele der Nintendo Direct: Die riesige Release-Liste für die Switch 2",
-      "link": "https://www.eurogamer.de/nintendo-direct-zusammenfassung-switch-2-spiele",
-      "pubDate": "09.09.2026 um 15:55 Uhr",
-      "timestamp": 1788969325.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die heutige Nintendo Direct war vollgepackt mit allerlei Neuigkeiten und Ank&uuml;ndigungen rund um die Nintendo Switch 2. Mehr"
     }
   ],
   "int": [
+    {
+      "title": "31 Years Later, Matthew Lillard’s Fan-Favorite Techno-Thriller Is Officially Free on Streaming",
+      "link": "https://www.polygon.com/one-of-matthew-lillards-wildest-movies-is-free-right-now-on-pluto-tv/",
+      "pubDate": "10.09.2026 um 04:30 Uhr",
+      "timestamp": 1789014614.0,
+      "source": "Polygon.com",
+      "summary": "Matthew Lillard steals the spotlight in this wildly stylish ’90s cyber-thriller, now free to watch on Pluto TV."
+    },
     {
       "title": "Mare of Easttown Meets Killing Eve in Hulu's 8-Part Crime Thriller Series",
       "link": "https://www.polygon.com/furious-hulu-crime-drama/",
@@ -281,14 +289,6 @@
       "timestamp": 1788995262.0,
       "source": "PCGamer latest",
       "summary": "The Deep North's big brute doesn't fall down when he dies. Here's what to do about it."
-    },
-    {
-      "title": "Person Fed Up With Xbox Named ‘FVCKAsha&Phil’ Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie",
-      "link": "https://kotaku.com/person-fed-up-with-xbox-named-fvckashaphil-just-leaked-an-alleged-prototype-of-the-canceled-snes-rpg-that-became-banjo-kazooie-2000732965",
-      "pubDate": "09.09.2026 um 23:01 Uhr",
-      "timestamp": 1788994912.0,
-      "source": "Kotaku",
-      "summary": "Project Dream, the long sought after canceled fantasy game from Rare, is now available online and playable"
     }
   ],
   "sim": [
