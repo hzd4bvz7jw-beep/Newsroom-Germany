@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Sony cancelt neues Spiel von Mastermind Kojima, ausgerechnet die Konkurrenz springt als Retter ein",
+      "link": "https://mein-mmo.de/hideo-kojima-physint-sony-xbox/",
+      "pubDate": "10.09.2026 um 07:11 Uhr",
+      "timestamp": 1789024289.0,
+      "source": "Mein-MMO",
+      "summary": "Hideo Kojimas neustes Projekt wurde von Sony abgelehnt. Jetzt ist der legendäre Entwickler einfach zur Konkurrenz gewechselt. Der Beitrag Sony cancelt..."
+    },
+    {
+      "title": "Wardogs: Preload, Uhrzeit und Patch Notes – Alles, was ihr zum Start wissen solltet",
+      "link": "https://mein-mmo.de/wardogs-preload-start/",
+      "pubDate": "10.09.2026 um 06:55 Uhr",
+      "timestamp": 1789023350.0,
+      "source": "Mein-MMO",
+      "summary": "Heute geht's los mit der Battlefield-Alternative Wardogs! Wann ihr loszocken könnt und wie es mit dem Preload aussieht, erfahrt ihr hier. Der Beitrag ..."
+    },
+    {
+      "title": "AirPods 5: ANC wird „50 Prozent besser“ und 50 Euro günstiger",
+      "link": "https://www.computerbase.de/news/wearables/airpods-5-geraeuschunterdrueckung-wird-50-prozent-besser-und-50-euro-guenstiger.99327/",
+      "pubDate": "10.09.2026 um 08:45 Uhr",
+      "timestamp": 1789022700.0,
+      "source": "ComputerBase",
+      "summary": "Auf dem Apple-Event wurden auch die neuen AirPods 5 vorgestellt: ANC ist nun serienmäßig ab 149 Euro verbaut und unterdrückt bis zu 50 Prozent mehr Lä..."
+    },
+    {
+      "title": "Kojima geht weg von Sony und nimmt PHYSINT mit zu Xbox",
+      "link": "https://www.eurogamer.de/physint-xbox-kojima-sony-wechsel",
+      "pubDate": "10.09.2026 um 06:29 Uhr",
+      "timestamp": 1789021767.0,
+      "source": "Eurogamer.de News",
+      "summary": "Gute, nein, spektakul&auml;re Exklusivtitel sind das Wichtigste &uuml;berhaupt f&uuml;r eine Plattform, fragt einfach Nintendo. Sony bricht nun einer ..."
+    },
+    {
       "title": "Wooting 80HE+: Wooting verbessert den Tastatur-König",
       "link": "https://www.computerbase.de/news/tastaturen/wooting-80he-plus-wooting-verbessert-den-tastatur-koenig.99334/",
       "pubDate": "10.09.2026 um 08:00 Uhr",
@@ -111,41 +143,17 @@
       "timestamp": 1788983280.0,
       "source": "ComputerBase",
       "summary": "Apple hat sein erstes Foldable vorgestellt: Beim iPhone Duo wurde iOS umfangreich angepasst, die Dynamic Island mit Kamera hinter dem Display versteck..."
-    },
-    {
-      "title": "Apple Watch 12 und Ultra 4: Neue Gesund­heits­sensoren erfassen bis zu 60x mehr",
-      "link": "https://www.computerbase.de/news/wearables/apple-watch-12-und-ultra-4-neue-gesundheitssensoren-erfassen-bis-zu-60x-mehr.99321/",
-      "pubDate": "09.09.2026 um 20:48 Uhr",
-      "timestamp": 1788979680.0,
-      "source": "ComputerBase",
-      "summary": "Mit der Apple Watch 12 und Apple Watch Ultra 4 stellt Apple neue Smartwatches vor. Vor allem der Gesundheitssensor für die Erfassung der Herzfrequenz ..."
-    },
-    {
-      "title": "iPhone 18 Pro (Max): A20 Pro, variable Kamera-Blende und längere Laufzeiten",
-      "link": "https://www.computerbase.de/news/smartphones/iphone-18-pro-max-a20-pro-variable-kamera-blende-und-laengere-laufzeiten.99323/",
-      "pubDate": "09.09.2026 um 20:42 Uhr",
-      "timestamp": 1788979320.0,
-      "source": "ComputerBase",
-      "summary": "Apple hat für das iPhone 18 Pro und iPhone 18 Pro Max die Kamera im bekannten „Plateau-Design“ erneuert und diese erstmals mit einer variablen Blende ..."
-    },
-    {
-      "title": "Apple will echte Fotos beweisen: iPhone 18 Pro bekommt digitalen Echtheitsnachweis",
-      "link": "https://www.playcentral.de/iphone-18-pro-echte-fotos-reference-image/",
-      "pubDate": "09.09.2026 um 18:39 Uhr",
-      "timestamp": 1788979159.0,
-      "source": "PlayCentral",
-      "summary": "Apple Reference Image verknüpft Kameraaufnahmen mit einem Herkunftsnachweis. SynthID soll zusätzlich KI-Inhalte kennzeichnen. Das unterscheidet die Ve..."
-    },
-    {
-      "title": "iPhone 18 Pro bekommt echte variable Blende: Das steckt hinter Apples neuer Kamera",
-      "link": "https://www.playcentral.de/iphone-18-pro-variable-blende-kamera/",
-      "pubDate": "09.09.2026 um 18:36 Uhr",
-      "timestamp": 1788979015.0,
-      "source": "PlayCentral",
-      "summary": "Apple stattet iPhone 18 Pro und Pro Max mit einer variablen Blende aus. So arbeiten die sechs Lamellen und die neuen manuellen Pro Controls."
     }
   ],
   "int": [
+    {
+      "title": "Hideo Kojima's Physint now being published by Xbox, as PlayStation severs ties with Kojima Productions and Microsoft steps in to take over",
+      "link": "https://www.eurogamer.net/physint-kojima-playstation-xbox-publishing-changes",
+      "pubDate": "10.09.2026 um 06:56 Uhr",
+      "timestamp": 1789023379.0,
+      "source": "Eurogamer.net News",
+      "summary": "It looks like Hideo Kojima has made some big changes behind-the-scenes with his upcoming \"action espionage\" title, Physint. The game, which was announ..."
+    },
     {
       "title": "The Internet Reacts To PlayStation Breaking Up With Hideo Kojima",
       "link": "https://kotaku.com/the-internet-reacts-to-playstation-breaking-up-with-hideo-kojima-2000733001",
@@ -281,14 +289,6 @@
       "timestamp": 1788998871.0,
       "source": "Latest from GamesRadar+",
       "summary": "\"Your dollar is the only thing that counts in our late stage capitalist hellscape\""
-    },
-    {
-      "title": "If I Were to Buy a (Near) 100\" TV Right Now, I Would Get TCL's QM8L SQD Mini-LED TV Over OLED",
-      "link": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
-      "pubDate": "09.09.2026 um 23:10 Uhr",
-      "timestamp": 1788995400.0,
-      "source": "IGN All",
-      "summary": "Better than OLED and better than home theater projectors."
     }
   ],
   "sim": [
