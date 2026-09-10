@@ -3,10 +3,26 @@
     {
       "title": "Wardogs Server-Status: Warteschlangen und Fehlercodes im Live-Ticker",
       "link": "https://mein-mmo.de/wardogs-start-live-ticker/",
-      "pubDate": "10.09.2026 um 19:06 Uhr",
-      "timestamp": 1789067181.0,
+      "pubDate": "10.09.2026 um 19:59 Uhr",
+      "timestamp": 1789070343.0,
       "source": "Mein-MMO",
       "summary": "Wardogs startet in den Early Access, aber die ersten Spieler müssen in Warteschlangen rumsitzen. Hier erfahrt ihr, wie es um die Server steht. Der Bei..."
+    },
+    {
+      "title": "Dimraeth startet am 15. September 2026 in Early Access – mit 8er-Koop",
+      "link": "https://www.playcentral.de/dimraeth-startet-am-15-september-2026-in-early-access-mit-8er-koop/",
+      "pubDate": "10.09.2026 um 19:31 Uhr",
+      "timestamp": 1789068713.0,
+      "source": "PlayCentral",
+      "summary": "Mit Dimraeth steht auf Steam ein ungewöhnlicher Genre-Mix vor dem Start, der die gefährliche Erkundung und das taktische Kampfsystem von Elden Ring mi..."
+    },
+    {
+      "title": "Bundesweiter Warntag 2026: BKK sieht Test für Warn­sys­teme als bestanden an",
+      "link": "https://www.computerbase.de/news/netzpolitik/bundesweiter-warntag-2026-bkk-sieht-test-fuer-warnsysteme-als-bestanden-an.99356/",
+      "pubDate": "10.09.2026 um 21:20 Uhr",
+      "timestamp": 1789068000.0,
+      "source": "ComputerBase",
+      "summary": "Der sechste Bundesweite Warntag ist am 10. September 2026 nach ersten Einschätzungen des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe (BBK..."
     },
     {
       "title": "Nintendo nutzt umstrittene Zoll-Rückerstattungen für riesigen Rabatt-Sale",
@@ -127,25 +143,65 @@
       "timestamp": 1789054329.0,
       "source": "PlayCentral",
       "summary": "Der Epic Games Store hat die nächsten beiden Gratis-Spiele für PC angekündigt. Ab dem 17. September 2026 können sich Nutzer mit Shogun Showdown und Mi..."
-    },
-    {
-      "title": "Valheim lockt über 168.000 Wikinger zurück ins Nachleben, die bescheren dem Spiel einen zweiten Durchbruch auf Steam",
-      "link": "https://mein-mmo.de/valheim-steam-relaese-1-0-kommt-gut-an/",
-      "pubDate": "10.09.2026 um 15:24 Uhr",
-      "timestamp": 1789053867.0,
-      "source": "Mein-MMO",
-      "summary": "Die höchsten Spielerzahlen seit dem Early Access: Valheim ist endlich fertig und kommt mit fast perfekten Wertungen bei Spielern an. Der Beitrag Valhe..."
-    },
-    {
-      "title": "Ein ikonischer Mount treibt die Spieler in FFXIV jetzt in einen der unbeliebtesten Inhalte überhaupt",
-      "link": "https://mein-mmo.de/final-fantasy-xiv-neues-reittier-pvp/",
-      "pubDate": "10.09.2026 um 14:55 Uhr",
-      "timestamp": 1789052139.0,
-      "source": "Mein-MMO",
-      "summary": "In Final Fantasy XIV gibt es jetzt ein neues Reittier, das sehr viele Leute haben möchten und dafür sogar eigentlich unbeliebten Content grinden. Der ..."
     }
   ],
   "int": [
+    {
+      "title": "PS5 Heist Shooter Fairgames Makes Surprising Return Under New Name",
+      "link": "https://www.polygon.com/sony-fairgames-ps5-project-espresso-playtest-haven-studios/",
+      "pubDate": "10.09.2026 um 20:09 Uhr",
+      "timestamp": 1789070986.0,
+      "source": "Polygon.com",
+      "summary": "Project Espresso looks to be the PlayStation 5 and PC multiplayer game Fairgames, which was announced in 2023."
+    },
+    {
+      "title": "A Mystery Playtest Could Be For PlayStation’s Fairgames, Giving Us Our First New Look At The MIA Shooter In Over Three Years",
+      "link": "https://kotaku.com/sonys-next-live-service-game-is-holding-playtests-giving-us-our-first-look-at-the-mia-shooter-2000733297",
+      "pubDate": "10.09.2026 um 20:00 Uhr",
+      "timestamp": 1789070450.0,
+      "source": "Kotaku",
+      "summary": "We've not seen much about i>Fairgames since it was first revealed in 2023"
+    },
+    {
+      "title": "Netflix's New 6-Part Thriller Is 'John Carpenter Meets H.P. Lovecraft' With a Canadian Twist",
+      "link": "https://www.polygon.com/interview-below-netflix/",
+      "pubDate": "10.09.2026 um 20:00 Uhr",
+      "timestamp": 1789070414.0,
+      "source": "Polygon.com",
+      "summary": "'It's Jaws, but in rural Newfoundland'"
+    },
+    {
+      "title": "Wardogs servers go down as over 300,000 people rush to play on launch day",
+      "link": "https://www.pcgamer.com/games/fps/wardogs-servers-go-down-as-over-300-000-people-rush-to-play-on-launch-day/",
+      "pubDate": "10.09.2026 um 19:59 Uhr",
+      "timestamp": 1789070368.0,
+      "source": "PCGamer latest",
+      "summary": "Update: \"Please prepare to download a new Steam client.\""
+    },
+    {
+      "title": "The New Apothecary Diaries Game Will Fill The Ace Attorney-Shaped Hole Left In My Heart",
+      "link": "https://kotaku.com/the-new-apothecary-diaries-game-will-fill-the-ace-attorney-shaped-hole-left-in-my-heart-2000733242",
+      "pubDate": "10.09.2026 um 19:44 Uhr",
+      "timestamp": 1789069468.0,
+      "source": "Kotaku",
+      "summary": "If Capcom won't release a new Ace Attorney game, Koei Tecmo has the next best thing"
+    },
+    {
+      "title": "Thanks to leaked photos, DC fans think the ape on set of The People v. Gorilla Grodd is a different character altogether",
+      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/thanks-to-leaked-photos-dc-fans-think-the-ape-on-set-of-the-people-v-gorilla-grodd-is-a-different-character-altogether/",
+      "pubDate": "10.09.2026 um 19:25 Uhr",
+      "timestamp": 1789068351.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Comic book fans think that might be King Solomon instead"
+    },
+    {
+      "title": "Rebounder Is A Celeste-like That Has Me Throwing Caution To The Alien Wind",
+      "link": "https://kotaku.com/rebounder-celeste-throwing-caution-alien-wind-2000732934",
+      "pubDate": "10.09.2026 um 19:22 Uhr",
+      "timestamp": 1789068153.0,
+      "source": "Kotaku",
+      "summary": "Whee!"
+    },
     {
       "title": "Virtue and a Sledgehammer hits different. We asked a neuroscientist to explain why.",
       "link": "https://www.polygon.com/virtue-sledgehammer-neuroscientist-interview/",
@@ -233,65 +289,17 @@
       "timestamp": 1789063251.0,
       "source": "Kotaku",
       "summary": "Sony really likes to use the word \"owned\" despite claiming nobody would ever think they owned a digital game"
-    },
-    {
-      "title": "The 5 best new shows and movies streaming this week on Netflix, HBO Max, Apple TV, and more (September 11-13)",
-      "link": "https://www.gamesradar.com/entertainment/streaming-services/new-shows-movies-to-stream-hbo-max-netflix-apple-tv-september-11-13/",
-      "pubDate": "10.09.2026 um 18:00 Uhr",
-      "timestamp": 1789063200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "From the latest entry in the DCU to the return of a beloved Australian comedy, there's plenty to stream this weekend"
-    },
-    {
-      "title": "GTA 6 fans track down real-life nudist resort featured in leaks just to write unflattering fake reviews that are driving its owner to madness: \"A nudist resort DENYING exposure?\"",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-track-down-real-life-nudist-resort-featured-in-leaks-just-to-write-unflattering-fake-reviews-that-are-driving-its-owner-to-madness-a-nudist-resort-denying-exposure/",
-      "pubDate": "10.09.2026 um 17:53 Uhr",
-      "timestamp": 1789062803.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Leave these nice naked people alone"
-    },
-    {
-      "title": "Netflix’s 'Below' Gets a New Trailer for Its Terrifying Sea Monster Thriller",
-      "link": "https://www.polygon.com/netflix-below-trailer-sea-monster-horror-series/",
-      "pubDate": "10.09.2026 um 17:41 Uhr",
-      "timestamp": 1789062093.0,
-      "source": "Polygon.com",
-      "summary": "Netflix’s Below follows Josh Hartnett as a Newfoundland fisherman battling a mysterious sea creature in the new six-episode horror thriller."
-    },
-    {
-      "title": "Netflix’s 6-Hour Exclusivity Window For GTA 6 Reportedly Only Led To Its Third Highest Sign-Up Bump Of The Year",
-      "link": "https://kotaku.com/grand-theft-auto-6-gta6-netflix-deal-subscribers-2000733229",
-      "pubDate": "10.09.2026 um 17:40 Uhr",
-      "timestamp": 1789062026.0,
-      "source": "Kotaku",
-      "summary": "A modest 100,000 new subscribers paid up to see Jason and Lucia in action"
-    },
-    {
-      "title": "A month after buying EA, Saudi Arabia is reportedly looking to merge EA into a new mega-corporation",
-      "link": "https://www.gamesradar.com/games/a-month-after-buying-ea-saudi-arabia-is-reportedly-looking-to-merge-ea-into-a-new-mega-corporation/",
-      "pubDate": "10.09.2026 um 17:28 Uhr",
-      "timestamp": 1789061317.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "EA could be paired with mobile giant Scopely under Saudi Arabia's Savvy Games"
-    },
-    {
-      "title": "American Horror Story Season 13 Teases an Avengers-Level Crossover",
-      "link": "https://www.polygon.com/american-horror-story-season-13-trailer/",
-      "pubDate": "10.09.2026 um 17:28 Uhr",
-      "timestamp": 1789061310.0,
-      "source": "Polygon.com",
-      "summary": "FX teases a massive series crossover in first trailer for American Horror Story season 13"
-    },
-    {
-      "title": "Saudi Arabia Reportedly Considering Merging EA With Savvy Games Group",
-      "link": "https://kotaku.com/electronic-arts-ea-savvy-saudi-arabia-merger-acquisition-2000733275",
-      "pubDate": "10.09.2026 um 17:23 Uhr",
-      "timestamp": 1789060992.0,
-      "source": "Kotaku",
-      "summary": "The Madden publisher's acquisition was finalized in August"
     }
   ],
   "sim": [
+    {
+      "title": "Gran Turismo 7 Online Time Trial: Free Willow",
+      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-free-willow-20260910/",
+      "pubDate": "10.09.2026 um 19:32 Uhr",
+      "timestamp": 1789068755.0,
+      "source": "GTPlanet",
+      "summary": "This week's new Gran Turismo 7 Online Time Trial sends the Mercedes-Benz SLS AMG Gr..."
+    },
     {
       "title": "Gran Turismo 7 Weekly Challenges: Ioniq Boom",
       "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-ioniq-boom-20260910/",
@@ -411,14 +419,6 @@
       "timestamp": 1788446253.0,
       "source": "GTPlanet",
       "summary": "Polyphony Digital has announced Gran Turismo 7 Spec IV at PlayStation's State of Play, adding Sportsland Sugo, six new cars, the return of Shuffle Rac..."
-    },
-    {
-      "title": "PlayStation State of Play September 3, 2026 Live Stream",
-      "link": "https://www.gtplanet.net/playstation-state-of-play-september-3-2026-live-stream-20260902/",
-      "pubDate": "02.09.2026 um 17:06 Uhr",
-      "timestamp": 1788368778.0,
-      "source": "GTPlanet",
-      "summary": "Sony's next State of Play airs Thursday, September 3..."
     }
   ]
 }
