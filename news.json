@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "GTA 6 DualSense-Controller – Händler teils ausverkauft, Sony limitiert in DE",
+      "link": "https://www.playcentral.de/gta-6-dualsense-controller-haendler-teils-ausverkauft-sony-limitiert-in-de/",
+      "pubDate": "11.09.2026 um 16:31 Uhr",
+      "timestamp": 1789144319.0,
+      "source": "PlayCentral",
+      "summary": "Kaum haben die Vorbestellungen für die limitierten DualSense-Controller zu Grand Theft Auto VI begonnen, sind erste Händler bereits ausverkauft. Vor a..."
+    },
+    {
+      "title": "Kojimas Physint: PlayStation hatte wohl Angst vor dem nächsten teuren Flopp",
+      "link": "https://www.computerbase.de/news/gaming/kojimas-physint-playstation-hatte-wohl-angst-vor-dem-naechsten-teuren-flopp.99369/",
+      "pubDate": "11.09.2026 um 18:31 Uhr",
+      "timestamp": 1789144260.0,
+      "source": "ComputerBase",
+      "summary": "Überraschend hat Sonys PlayStation-Sparte dem neuen Spieleprojekt Physint von Hideo Kojima den Rücken gekehrt, ohne öffentlich Gründe dafür zu nennen...."
+    },
+    {
       "title": "Stalker 2 Cost of Hope: So besiegt ihr den Tobsüchtigen in „Fernes Trugbild“",
       "link": "https://www.playcentral.de/stalker-2-cost-of-hope-tobsuechtigen-besiegen/",
       "pubDate": "11.09.2026 um 16:08 Uhr",
@@ -127,25 +143,105 @@
       "timestamp": 1789130700.0,
       "source": "Mein-MMO",
       "summary": "Zur Verteidigung der Marketingkampagne von GTA 6 muss eine Stadtkommissarin von Miami Beach erklären, dass das Spiel kein Aufruf zur Gewalt ist. Der B..."
-    },
-    {
-      "title": "Nintendo und Panini zeigen Zelda Master Collection – Sammelkarten zum Jubiläum",
-      "link": "https://www.playcentral.de/nintendo-und-panini-zeigen-zelda-master-collection-sammelkarten-zum-jubilaeum/",
-      "pubDate": "11.09.2026 um 12:31 Uhr",
-      "timestamp": 1789129904.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo erweitert die Feierlichkeiten zum 40. Jubiläum von The Legend of Zelda um ein neues Sammlerstück. Gemeinsam mit Panini bringt das Unternehmen..."
-    },
-    {
-      "title": "MediaMarkt-Tiefpreistage: Gaming-Zubehör ab 13,99 Euro und acht Angebote im Check",
-      "link": "https://www.playcentral.de/mediamarkt-tiefpreistage-gaming-technik/",
-      "pubDate": "11.09.2026 um 11:47 Uhr",
-      "timestamp": 1789127241.0,
-      "source": "PlayCentral",
-      "summary": "HyperX für 13,99 Euro, Superlight 2 für 96,59 Euro und weitere Technik-Angebote: Wir prüfen Ausstattung, Mitgliederrabatte, Versand und Vergleichsprei..."
     }
   ],
   "int": [
+    {
+      "title": "What is Avengers: Endgame Encore? Marvel's new re-release, explained",
+      "link": "https://www.gamesradar.com/entertainment/marvel-movies/what-is-avengers-endgame-encore-marvels-new-re-release-explained/",
+      "pubDate": "11.09.2026 um 17:04 Uhr",
+      "timestamp": 1789146254.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Should you go see Avengers: Endgame Encore?"
+    },
+    {
+      "title": "Brutal Cult-Favorite Indie Survival Game Is Almost Free After Years Of Legal Limbo With Adult Swim’s Defunct Publishing Label",
+      "link": "https://kotaku.com/indie-rain-world-years-legal-adult-swim-akupara-2000732904",
+      "pubDate": "11.09.2026 um 17:00 Uhr",
+      "timestamp": 1789146026.0,
+      "source": "Kotaku",
+      "summary": "Start of a new cycle"
+    },
+    {
+      "title": "Star Wars' Andor Prequel Highlights Its Most Relentless Rebel in New Look",
+      "link": "https://www.polygon.com/star-wars-reign-of-the-empire-edge-by-of-the-abyss-excerpt/",
+      "pubDate": "11.09.2026 um 17:00 Uhr",
+      "timestamp": 1789146014.0,
+      "source": "Polygon.com",
+      "summary": "Star Wars: Edge of the Abyss reveals just how far its most radical and uncompromising character is willing to go to ensure victory against the Empire"
+    },
+    {
+      "title": "'GTA 6' Fans Are Harassing The IRL Nudist Resort That Inspired The Game",
+      "link": "https://www.polygon.com/gta-6-nudist-resort-cypress-cove-florida-where-is-google-reviews/",
+      "pubDate": "11.09.2026 um 16:52 Uhr",
+      "timestamp": 1789145520.0,
+      "source": "Polygon.com",
+      "summary": "The owners of Cypress Cove Resort are dealing with GTA 6 pranksters who are misleading people on Google and Trip Advisor"
+    },
+    {
+      "title": "Supergirl Soars to No. 1 on Streaming After Bombing at Box Office",
+      "link": "https://www.polygon.com/supergirl-streaming-hbo-max/",
+      "pubDate": "11.09.2026 um 16:38 Uhr",
+      "timestamp": 1789144730.0,
+      "source": "Polygon.com",
+      "summary": "'Supergirl' is off to a strong start on HBO Max, debuting at the streamer's #1 spot for film"
+    },
+    {
+      "title": "When will Wardogs come to PS5 or Xbox Series X?",
+      "link": "https://www.gamesradar.com/games/fps/wardogs-ps5-xbox/",
+      "pubDate": "11.09.2026 um 16:37 Uhr",
+      "timestamp": 1789144651.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Wardogs isn't on consoles yet"
+    },
+    {
+      "title": "After another scalping disaster, Nintendo is restocking the Legend of Zelda Switch 2 – but seemingly only in the UK",
+      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/after-another-scalping-disaster-nintendo-is-restocking-the-legend-of-zelda-switch-2-but-seemingly-only-in-the-uk/",
+      "pubDate": "11.09.2026 um 16:34 Uhr",
+      "timestamp": 1789144489.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Everyone else: good luck"
+    },
+    {
+      "title": "New FPS Wardogs makes Steam explode with 340,000 peak players, then explodes on Steam after the servers break and negative reviews roll in",
+      "link": "https://www.gamesradar.com/games/fps/new-fps-wardogs-makes-steam-explode-with-340-000-peak-players-then-explodes-on-steam-after-the-servers-break-and-negative-reviews-roll-in/",
+      "pubDate": "11.09.2026 um 16:31 Uhr",
+      "timestamp": 1789144295.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It'll all be fixed in time, we're sure"
+    },
+    {
+      "title": "A Fan Project To Decompile Dragon Age: Origins’ Source Code Might Be The Closest We Ever Get To A Remaster",
+      "link": "https://kotaku.com/dragon-age-origins-source-code-decompile-project-2000733509",
+      "pubDate": "11.09.2026 um 16:30 Uhr",
+      "timestamp": 1789144213.0,
+      "source": "Kotaku",
+      "summary": "The project is currently 60-percent complete and will give modders the opportunity to make much-needed improvements"
+    },
+    {
+      "title": "\"Why do we need more graphics?\": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer",
+      "link": "https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer",
+      "pubDate": "11.09.2026 um 16:29 Uhr",
+      "timestamp": 1789144181.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Former Thief: The Dark Project designer, Ion Storm game director, and sometime Spielberg collaborator Randy Smith Evergreen has shared his probably-in..."
+    },
+    {
+      "title": "Shroom and Gloom is my new deckbuilder obsession thanks to its fantastic fights, beautiful artwork, and tasty mushrooms",
+      "link": "https://www.pcgamer.com/games/roguelike/shroom-and-gloom-is-my-new-deckbuilder-obsession-thanks-to-its-fantastic-fights-beautiful-artwork-and-tasty-mushrooms/",
+      "pubDate": "11.09.2026 um 16:29 Uhr",
+      "timestamp": 1789144142.0,
+      "source": "PCGamer latest",
+      "summary": "I've never been so happy to be killed by a mushroom."
+    },
+    {
+      "title": "\"The more aroused the fly is the harder it tries to shoot\" - Google's fully mapped fly brain is now playing Doom, Beat Saber, and more",
+      "link": "https://www.eurogamer.net/google-fly-brain-doom-beat-saber",
+      "pubDate": "11.09.2026 um 16:14 Uhr",
+      "timestamp": 1789143291.0,
+      "source": "Eurogamer.net News",
+      "summary": "It's science-fiction Friday as Google's fully mapped fly brain, which was revealed last week, has been engineered to play Doom and rhythm-action game ..."
+    },
     {
       "title": "Nintendo wins legal battle against Mig Switch cards in the Netherlands, says the decision will benefit \"many video game developers globally\"",
       "link": "https://www.gamesradar.com/games/nintendo-wins-legal-battle-against-mig-switch-cards-in-the-netherlands-says-the-decision-will-benefit-many-video-game-developers-globally/",
@@ -153,6 +249,14 @@
       "timestamp": 1789143047.0,
       "source": "Latest from GamesRadar+",
       "summary": "\"Nintendo promotes and fosters game development and creativity\""
+    },
+    {
+      "title": "Framework cancels custom low profile keyboard module for its laptops: 'We weren’t able to bring costs to a place where the product economics worked'",
+      "link": "https://www.pcgamer.com/hardware/gaming-keyboards/framework-cancels-custom-low-profile-keyboard-module-for-its-laptops-we-werent-able-to-bring-costs-to-a-place-where-the-product-economics-worked/",
+      "pubDate": "11.09.2026 um 16:10 Uhr",
+      "timestamp": 1789143003.0,
+      "source": "PCGamer latest",
+      "summary": "When 'custom' comes at too high a cost."
     },
     {
       "title": "PlayStation's Shock Cancelation of Kojima's New Game Now Makes Perfect Sense",
@@ -185,110 +289,6 @@
       "timestamp": 1789142484.0,
       "source": "Polygon.com",
       "summary": "There's a version of the Switch 2 game that looks like the original Nintendo 64 Zelda box cover, and it's a region exclusive pre-order"
-    },
-    {
-      "title": "How Stardew Valley Inspired A Game About Blasting Freaky Monsters Into Piles Of Guts",
-      "link": "https://kotaku.com/stardew-valley-serious-sam-shatterverse-2000733300",
-      "pubDate": "11.09.2026 um 16:00 Uhr",
-      "timestamp": 1789142441.0,
-      "source": "Kotaku",
-      "summary": "'I'm going to be like a regular man and just go fishing'"
-    },
-    {
-      "title": "Game of the Week – The Blood of Dawnwalker is the ultimate vampire RPG fantasy",
-      "link": "https://www.gamesradar.com/games/rpg/game-of-the-week-the-blood-of-dawnwalker-is-the-ultimate-vampire-rpg-fantasy/",
-      "pubDate": "11.09.2026 um 16:00 Uhr",
-      "timestamp": 1789142400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Coen has 30 days to save his family, but I bet you can do it in a weekend"
-    },
-    {
-      "title": "How to Watch BlizzCon 2026 and What to Expect",
-      "link": "https://www.polygon.com/blizzcon-2026-schedule-when-live-stream-start-time/",
-      "pubDate": "11.09.2026 um 15:47 Uhr",
-      "timestamp": 1789141632.0,
-      "source": "Polygon.com",
-      "summary": "News on StarCraft, Warcraft, Diablo, WoW, and Overwatch is coming at BlizzCon 2026 this weekend, here's how to watch Blizzard's opening ceremony."
-    },
-    {
-      "title": "Sony reportedly ditched Hideo Kojima's Physint following missed deadlines, bloated budgets, and Death Stranding 1&2 missing sales expectations",
-      "link": "https://www.eurogamer.net/sony-cancelled-physint-budget-profitability-exclusivity-missed-deadlines",
-      "pubDate": "11.09.2026 um 15:38 Uhr",
-      "timestamp": 1789141092.0,
-      "source": "Eurogamer.net News",
-      "summary": "Following Sony's announcement earlier this week that it had \"stepped away\"  from Kojima Production's previously PlayStation-exclusive \"action espionag..."
-    },
-    {
-      "title": "Search for the Needle codes (September 2026) for Gems",
-      "link": "https://www.gamesradar.com/games/simulation/search-for-the-needle-codes/",
-      "pubDate": "11.09.2026 um 15:37 Uhr",
-      "timestamp": 1789141058.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "You'll need to redeem the latest Search for the Needle codes if you want a useful boost to your hay moving abilities"
-    },
-    {
-      "title": "The Witcher 3 was meant to give Geralt a chain weapon 11 years ago, Songs of the Past just made it possible today for \"various technological reasons\"",
-      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-was-meant-to-give-geralt-a-chain-weapon-11-years-ago-songs-of-the-past-just-made-it-possible-today-for-various-technological-reasons/",
-      "pubDate": "11.09.2026 um 15:36 Uhr",
-      "timestamp": 1789141011.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Worth the wait?"
-    },
-    {
-      "title": "'No fuss, no greater meaning, only fans': Corsair shares 3D print files for its April Fools mini fan cube",
-      "link": "https://www.pcgamer.com/hardware/cooling/no-fuss-no-greater-meaning-only-fans-corsair-shares-3d-print-files-for-its-april-fools-mini-fan-cube/",
-      "pubDate": "11.09.2026 um 15:34 Uhr",
-      "timestamp": 1789140844.0,
-      "source": "PCGamer latest",
-      "summary": "Need I say more?"
-    },
-    {
-      "title": "Rockstar had a mole in the union worker Discord server \"for over two and a half years\", GTA 6 company reveals during legal battle",
-      "link": "https://www.rockpapershotgun.com/rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-and-a-half-years-gta-6-company-reveals-during-legal-battle",
-      "pubDate": "11.09.2026 um 15:31 Uhr",
-      "timestamp": 1789140684.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Back in October 2025, GTA 6 developers Rockstar fired a group of 34, mostly UK-based employees on a charge of \"gross misconduct\", alleging that they h..."
-    },
-    {
-      "title": "For Some Reason, An Acclaimed Maker Of Visual Novels Has Announced An AI-Generated Quake Clone",
-      "link": "https://kotaku.com/steins-gate-mages-visual-novel-ai-shooter-juggernaut-2000733010",
-      "pubDate": "11.09.2026 um 15:30 Uhr",
-      "timestamp": 1789140602.0,
-      "source": "Kotaku",
-      "summary": "The studio behind celebrated visual novels like Steins;Gate admits to 'developing' the shooter almost entirely with AI"
-    },
-    {
-      "title": "Legacy Piece codes (September 2026) for Chests, Shards, and more",
-      "link": "https://www.gamesradar.com/games/rpg/legacy-piece-codes/",
-      "pubDate": "11.09.2026 um 15:27 Uhr",
-      "timestamp": 1789140476.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Be sure to redeem these Legacy Piece codes to level up, buy more weapons, and obtain some powerful fish"
-    },
-    {
-      "title": "'Metroid Ravenous' Developer All but Confirms It's Behind Switch 2 Game",
-      "link": "https://www.polygon.com/metroid-ravenous-developer-nintendo-direct/",
-      "pubDate": "11.09.2026 um 15:22 Uhr",
-      "timestamp": 1789140171.0,
-      "source": "Polygon.com",
-      "summary": "Based on a LinkedIn post, it seems that 'Metroid Dread' developer MercurySteam will be developing its sequel 'Metroid Ravenous.'"
-    },
-    {
-      "title": "Politicians dig up Grand Theft Auto's \"hot coffee\" incident and grill Rockstar for violence, but clear $3m in GTA 6 Miami Beach marketing anyway: \"It's a video game, it's fake\"",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/politicians-dig-up-grand-theft-autos-hot-coffee-incident-and-grill-rockstar-for-violence-but-clear-usd3m-in-gta-6-miami-beach-marketing-anyway-its-a-video-game-its-fake/",
-      "pubDate": "11.09.2026 um 15:06 Uhr",
-      "timestamp": 1789139216.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "A commissioner who loves Rockstar's series says \"I'm not going to play the game and then go on a crime spree\""
-    },
-    {
-      "title": "Resident Evil Director Reveals He ‘Stripped Out’ A Bunch Of Jokes Because Test Audiences Found It ‘Too Funny’",
-      "link": "https://kotaku.com/resident-evil-movie-jokes-funny-zach-cregger-2000733489",
-      "pubDate": "11.09.2026 um 15:00 Uhr",
-      "timestamp": 1789138833.0,
-      "source": "Kotaku",
-      "summary": "Cregger stated that he 'also liked the movie a lot more' after following test audiences' advice, and that he doesn't miss 'a single joke' that was rem..."
     }
   ],
   "sim": [
