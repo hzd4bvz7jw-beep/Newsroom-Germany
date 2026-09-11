@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WARDOGS startet im Early Access durch – 1,25 Mio Verkäufe, 340.000 online",
+      "link": "https://www.playcentral.de/wardogs-startet-im-early-access-durch-125-mio-verkaeufe-340-000-online/",
+      "pubDate": "11.09.2026 um 17:31 Uhr",
+      "timestamp": 1789147902.0,
+      "source": "PlayCentral",
+      "summary": "Mit WARDOGS ist am 10. September 2026 ein neuer Multiplayer-Shooter in den Early Access auf Steam gestartet, der innerhalb kürzester Zeit beeindrucken..."
+    },
+    {
       "title": "GTA 6 DualSense-Controller – Händler teils ausverkauft, Sony limitiert in DE",
       "link": "https://www.playcentral.de/gta-6-dualsense-controller-haendler-teils-ausverkauft-sony-limitiert-in-de/",
       "pubDate": "11.09.2026 um 16:31 Uhr",
@@ -135,17 +143,81 @@
       "timestamp": 1789131600.0,
       "source": "Mein-MMO",
       "summary": "MeinMMO wollte von euch wissen, ob ihr in GTA 6 lieber Jason oder Lucia spielen werdet. Das Ergebnis bestätigt Rockstars Plan. Der Beitrag GTA 6: Ihr ..."
-    },
-    {
-      "title": "Wegen GTA 6 muss das echte Miami Beach jetzt darüber diskutieren, ob die Stadt Pistolen und Drogen verschenkt",
-      "link": "https://mein-mmo.de/gta-6-stadtkommission-miami-beach-marketing-debatte/",
-      "pubDate": "11.09.2026 um 12:45 Uhr",
-      "timestamp": 1789130700.0,
-      "source": "Mein-MMO",
-      "summary": "Zur Verteidigung der Marketingkampagne von GTA 6 muss eine Stadtkommissarin von Miami Beach erklären, dass das Spiel kein Aufruf zur Gewalt ist. Der B..."
     }
   ],
   "int": [
+    {
+      "title": "Final Fantasy 7 Revelation director says Square Enix would have to compromise \"the quality of the final chapter\" to ship the game fully on disc",
+      "link": "https://www.eurogamer.net/final-fantasy-7-revelation-compromise-quality-physical-disc",
+      "pubDate": "11.09.2026 um 18:08 Uhr",
+      "timestamp": 1789150086.0,
+      "source": "Eurogamer.net News",
+      "summary": "Physical versions of Final Fantasy 7 Revelation require a download anyway because Square Enix would've had to compromise the game in some fashion to c..."
+    },
+    {
+      "title": "A Game About A Delivery Raccoon On A BMX Bike Is Making Me Nostalgic For My Childhood Summers",
+      "link": "https://kotaku.com/tanuki-pons-summer-childhood-nostalgia-summer-2000733507",
+      "pubDate": "11.09.2026 um 18:00 Uhr",
+      "timestamp": 1789149625.0,
+      "source": "Kotaku",
+      "summary": "Tanuki: Pon's Summer reminds me of a particular kind of freedom I'm unlikely to have again"
+    },
+    {
+      "title": "Metroid Ravenous’ Surprise Reveal Was Secretly the Star of Nintendo’s Busy Week",
+      "link": "https://www.polygon.com/metroid-ravenous-nintendo-remakes/",
+      "pubDate": "11.09.2026 um 18:00 Uhr",
+      "timestamp": 1789149614.0,
+      "source": "Polygon.com",
+      "summary": "Metroid Ravenous was the star of Nintendo's busy week, proving why remakes like Zelda: Ocarina of Time can be a bridge to something bigger."
+    },
+    {
+      "title": "GTA 6's PS5 Controller Pre-Orders Are Already Getting Ruined by Scalpers",
+      "link": "https://www.polygon.com/gta-6-ps5-controller-preorder-ebay-dualsense-scalpers/",
+      "pubDate": "11.09.2026 um 17:55 Uhr",
+      "timestamp": 1789149310.0,
+      "source": "Polygon.com",
+      "summary": "Scalpers have set their sights on pre-orders for the limited-edition GTA 6 DualSense controller."
+    },
+    {
+      "title": "If you use devcommands to cheat in Valheim but want your achievements anyway, you can get them by using the new devcommand 'yesiuseddevcommandsbutiwantmyachievementsanyway'",
+      "link": "https://www.pcgamer.com/games/survival-crafting/if-you-use-devcommands-to-cheat-in-valheim-but-want-your-achievements-anyway-you-can-get-them-by-using-the-new-devcommand-yesiuseddevcommandsbutiwantmyachievementsanyway/",
+      "pubDate": "11.09.2026 um 17:35 Uhr",
+      "timestamp": 1789148137.0,
+      "source": "PCGamer latest",
+      "summary": "Valheim 1.0 has its first batch of patches, including one for cheaters."
+    },
+    {
+      "title": "Nintendo has quietly updated the Zelda timeline, and somehow the Ocarina of Time remake has made it even more complicated",
+      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-has-quietly-updated-the-zelda-timeline-and-somehow-the-ocarina-of-time-remake-has-made-it-even-more-complicated/",
+      "pubDate": "11.09.2026 um 17:35 Uhr",
+      "timestamp": 1789148136.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Refounding confirmed?"
+    },
+    {
+      "title": "Professor Layton Fans Are In Full Panic Mode After Studio Presentation They Worry Is Full Of ‘AI Slop’",
+      "link": "https://kotaku.com/professor-layton-ai-level-5-curious-village-remake-inazuma-eleven-2000733548",
+      "pubDate": "11.09.2026 um 17:31 Uhr",
+      "timestamp": 1789147894.0,
+      "source": "Kotaku",
+      "summary": "Given that Level-5's CEO previously stated that 'around 80~90% of games are made by AI,' this level of scrutiny should come as no surprise"
+    },
+    {
+      "title": "How to fly helicopters in Wardogs",
+      "link": "https://www.polygon.com/wardogs-fly-helicopters-how-to/",
+      "pubDate": "11.09.2026 um 17:12 Uhr",
+      "timestamp": 1789146741.0,
+      "source": "Polygon.com",
+      "summary": "A guide explaining how to fly helicopters in Wardogs without crashing and killing everybody on board."
+    },
+    {
+      "title": "More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs",
+      "link": "https://www.eurogamer.net/xbox-game-pass-playstation-plus-nintendo-cancellations-rising-costs",
+      "pubDate": "11.09.2026 um 17:08 Uhr",
+      "timestamp": 1789146492.0,
+      "source": "Eurogamer.net News",
+      "summary": "Players cancelling their subscriptions to video game services like Xbox Game Pass and PlayStation Plus are more likely to blame rising costs today tha..."
+    },
     {
       "title": "What is Avengers: Endgame Encore? Marvel's new re-release, explained",
       "link": "https://www.gamesradar.com/entertainment/marvel-movies/what-is-avengers-endgame-encore-marvels-new-re-release-explained/",
@@ -217,78 +289,6 @@
       "timestamp": 1789144213.0,
       "source": "Kotaku",
       "summary": "The project is currently 60-percent complete and will give modders the opportunity to make much-needed improvements"
-    },
-    {
-      "title": "\"Why do we need more graphics?\": 2010's Alan Wake was as photoreal as videogames ever needed to be, reckons original Thief designer",
-      "link": "https://www.rockpapershotgun.com/why-do-we-need-more-graphics-2010s-alan-wake-was-as-photoreal-as-videogames-ever-needed-to-be-reckons-original-thief-designer",
-      "pubDate": "11.09.2026 um 16:29 Uhr",
-      "timestamp": 1789144181.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Former Thief: The Dark Project designer, Ion Storm game director, and sometime Spielberg collaborator Randy Smith Evergreen has shared his probably-in..."
-    },
-    {
-      "title": "Shroom and Gloom is my new deckbuilder obsession thanks to its fantastic fights, beautiful artwork, and tasty mushrooms",
-      "link": "https://www.pcgamer.com/games/roguelike/shroom-and-gloom-is-my-new-deckbuilder-obsession-thanks-to-its-fantastic-fights-beautiful-artwork-and-tasty-mushrooms/",
-      "pubDate": "11.09.2026 um 16:29 Uhr",
-      "timestamp": 1789144142.0,
-      "source": "PCGamer latest",
-      "summary": "I've never been so happy to be killed by a mushroom."
-    },
-    {
-      "title": "\"The more aroused the fly is the harder it tries to shoot\" - Google's fully mapped fly brain is now playing Doom, Beat Saber, and more",
-      "link": "https://www.eurogamer.net/google-fly-brain-doom-beat-saber",
-      "pubDate": "11.09.2026 um 16:14 Uhr",
-      "timestamp": 1789143291.0,
-      "source": "Eurogamer.net News",
-      "summary": "It's science-fiction Friday as Google's fully mapped fly brain, which was revealed last week, has been engineered to play Doom and rhythm-action game ..."
-    },
-    {
-      "title": "Nintendo wins legal battle against Mig Switch cards in the Netherlands, says the decision will benefit \"many video game developers globally\"",
-      "link": "https://www.gamesradar.com/games/nintendo-wins-legal-battle-against-mig-switch-cards-in-the-netherlands-says-the-decision-will-benefit-many-video-game-developers-globally/",
-      "pubDate": "11.09.2026 um 16:10 Uhr",
-      "timestamp": 1789143047.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Nintendo promotes and fosters game development and creativity\""
-    },
-    {
-      "title": "Framework cancels custom low profile keyboard module for its laptops: 'We weren’t able to bring costs to a place where the product economics worked'",
-      "link": "https://www.pcgamer.com/hardware/gaming-keyboards/framework-cancels-custom-low-profile-keyboard-module-for-its-laptops-we-werent-able-to-bring-costs-to-a-place-where-the-product-economics-worked/",
-      "pubDate": "11.09.2026 um 16:10 Uhr",
-      "timestamp": 1789143003.0,
-      "source": "PCGamer latest",
-      "summary": "When 'custom' comes at too high a cost."
-    },
-    {
-      "title": "PlayStation's Shock Cancelation of Kojima's New Game Now Makes Perfect Sense",
-      "link": "https://www.polygon.com/kojima-physint-why-playstation-canceled-budget-concerns-death-stranding/",
-      "pubDate": "11.09.2026 um 16:05 Uhr",
-      "timestamp": 1789142727.0,
-      "source": "Polygon.com",
-      "summary": "PlayStation canceled Hideo Kojima's Physint, leading it to being picked up by Xbox. A new report shares insight as to why Sony may have canned it."
-    },
-    {
-      "title": "Hori has unveiled a legendary-looking set of new Ocarina of Time remake Switch 2 accessories, and I need them now",
-      "link": "https://www.gamesradar.com/hardware/accessories/hori-has-unveiled-a-legendary-looking-set-of-new-ocarina-of-time-remake-switch-2-accessories-and-i-need-them-now/",
-      "pubDate": "11.09.2026 um 16:04 Uhr",
-      "timestamp": 1789142673.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The Ocarina of Time hype continues as Hori Japan has unveiled a new batch of Switch 2 accessories themed around the upcoming remake."
-    },
-    {
-      "title": "Sony reportedly dropped Hideo Kojima's next game because it kept missing deadlines, was over budget, and would eventually come to other platforms",
-      "link": "https://www.pcgamer.com/gaming-industry/sony-reportedly-dropped-hideo-kojimas-next-game-because-it-kept-missing-deadlines-was-over-budget-and-would-eventually-come-to-other-platforms/",
-      "pubDate": "11.09.2026 um 16:03 Uhr",
-      "timestamp": 1789142611.0,
-      "source": "PCGamer latest",
-      "summary": "A few good reasons, and one really exhausting one."
-    },
-    {
-      "title": "Nintendo's Zelda: Ocarina of Time Remake Gets More Pre-order Bonuses",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-edition-preorder-bonus-ebgames/",
-      "pubDate": "11.09.2026 um 16:01 Uhr",
-      "timestamp": 1789142484.0,
-      "source": "Polygon.com",
-      "summary": "There's a version of the Switch 2 game that looks like the original Nintendo 64 Zelda box cover, and it's a region exclusive pre-order"
     }
   ],
   "sim": [
