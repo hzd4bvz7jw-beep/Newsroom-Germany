@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "In Solo Leveling Ragnarok erfahren wir ein schreckliches Geheimnis, das zu düster für den Vorgänger war",
+      "link": "https://mein-mmo.de/solo-leveling-geheimnis-duester-nachfolger-ragnarok/",
+      "pubDate": "11.09.2026 um 09:39 Uhr",
+      "timestamp": 1789119588.0,
+      "source": "Mein-MMO",
+      "summary": "In Solo Leveling wird das Konzept der Welt gar nicht erklärt. Der Autor hat dafür eine klare Begründung.  Der Beitrag In Solo Leveling Ragnarok erfahr..."
+    },
+    {
+      "title": "Abgekündigt: Google trägt das Pixel Tablet zu Grabe",
+      "link": "https://www.computerbase.de/news/tablets/abgekuendigt-google-traegt-das-pixel-tablet-zu-grabe.99362/",
+      "pubDate": "11.09.2026 um 11:30 Uhr",
+      "timestamp": 1789119000.0,
+      "source": "ComputerBase",
+      "summary": "Das Pixel Tablet ist Geschichte, die Produktseite im Google Store und damit auch die Tablet-Kategorie verschwunden – nur das Zubehör verkauft Google n..."
+    },
+    {
+      "title": "Wardogs bringt in letzter Minute wohl Update für Anti-Cheat, schließt damit bestimmte Spieler aus",
+      "link": "https://mein-mmo.de/wardogs-update-anti-cheat-bestimmte-spieler/",
+      "pubDate": "11.09.2026 um 09:30 Uhr",
+      "timestamp": 1789119000.0,
+      "source": "Mein-MMO",
+      "summary": "Der neue Shooter Wardogs bringt zum Release ein Update für sein Anti-Cheat-System. Damit erwischt man wohl einige harmlose Spieler. Der Beitrag Wardog..."
+    },
+    {
       "title": "GTA Online schenkt GTA+-Mitgliedern den neuen Pegassi Horus schon vor dem regulären Start",
       "link": "https://www.playcentral.de/gta-online-gta-plus-september-2026-pegassi-horus/",
       "pubDate": "11.09.2026 um 09:06 Uhr",
@@ -119,33 +143,49 @@
       "timestamp": 1789112959.0,
       "source": "Mein-MMO",
       "summary": "Die BlizzCon ruft! Verfolgt am 12. und 13. September alle großen Ankündigungen im exklusiven GameStar-Livestream auf Twitch.  Der Beitrag Die BlizzCon..."
-    },
-    {
-      "title": "Star Wars: Zero Company: Erstes großes Update fixt Abstürze und den Beskar-Modus",
-      "link": "https://www.eurogamer.de/star-wars-zero-company-erstes-update",
-      "pubDate": "11.09.2026 um 07:41 Uhr",
-      "timestamp": 1789112480.0,
-      "source": "Eurogamer.de News",
-      "summary": "Der erste gro&szlig;e Patch f&uuml;r Star Wars: Zero Company ist da und behebt einige l&auml;stige Performance-Probleme im Taktikspiel. Mehr"
-    },
-    {
-      "title": "Wardogs: Multiplayer-Shooter feiert gewaltigen Early-Access-Start auf Steam",
-      "link": "https://www.eurogamer.de/wardogs-early-access-release-verkaufszahlen",
-      "pubDate": "11.09.2026 um 07:40 Uhr",
-      "timestamp": 1789112429.0,
-      "source": "Eurogamer.de News",
-      "summary": "Bulkheads Multiplayer-Shooter Wardogs hat auf Steam einen Raketenstart hingelegt. Mehr"
-    },
-    {
-      "title": "Wardogs verkauft sich an Tag 1 über eine Million Mal, ein Drittel von ihnen sprengt zum Start prompt die Server",
-      "link": "https://mein-mmo.de/wardogs-launch-spieler-zahlen-wertung/",
-      "pubDate": "11.09.2026 um 07:23 Uhr",
-      "timestamp": 1789111438.0,
-      "source": "Mein-MMO",
-      "summary": "Wardogs ist in den Early Access gestartet. Die Server auf Steam wurden regelrecht von den Spielern geflutet.  Der Beitrag Wardogs verkauft sich an Tag..."
     }
   ],
   "int": [
+    {
+      "title": "A decade on from Civil War, Captain America star Chris Evans thinks he might be team Iron Man",
+      "link": "https://www.gamesradar.com/entertainment/marvel-movies/a-decade-on-from-civil-war-captain-america-star-chris-evans-thinks-he-might-be-team-iron-man/",
+      "pubDate": "11.09.2026 um 10:03 Uhr",
+      "timestamp": 1789121027.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Steve Rogers is switching sides"
+    },
+    {
+      "title": "PSA: Keep social media trends away from your laptops, unless you want broken hinges",
+      "link": "https://www.pcgamer.com/hardware/gaming-laptops/psa-keep-social-media-trends-away-from-your-laptops-unless-you-want-broken-hinges/",
+      "pubDate": "11.09.2026 um 09:58 Uhr",
+      "timestamp": 1789120714.0,
+      "source": "PCGamer latest",
+      "summary": "One Redditor found this out the hard way."
+    },
+    {
+      "title": "Final Fantasy 7 Revelation boss Naoki Hamaguchi is also \"pushing\" Kingdom Hearts 4 forward, and it sounds like he wants the JRPG to have a physical edition too",
+      "link": "https://www.gamesradar.com/games/kingdom-hearts/final-fantasy-7-revelation-boss-naoki-hamaguchi-is-also-pushing-kingdom-hearts-4-forward-and-it-sounds-like-he-wants-the-jrpg-to-have-a-physical-edition-too/",
+      "pubDate": "11.09.2026 um 09:53 Uhr",
+      "timestamp": 1789120420.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"That’s really all on my watch now\""
+    },
+    {
+      "title": "Even HBO Max is having fun with Aaron Pierre's Lanterns accent slip-up",
+      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/even-hbo-max-is-having-fun-with-aaron-pierres-lanterns-accent-slip-up/",
+      "pubDate": "11.09.2026 um 09:53 Uhr",
+      "timestamp": 1789120381.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Aaron Pierre's accent slip in Lanterns is still doing the rounds, and HBO has now joined in on the fun"
+    },
+    {
+      "title": "EA's Saudi Arabian owners are reportedly considering forming an ubermegacorp by merging them with Savvy Games",
+      "link": "https://www.rockpapershotgun.com/eas-saudi-arabian-owners-are-reportedly-considering-forming-an-ubermegacorp-by-merging-them-with-savvy-games",
+      "pubDate": "11.09.2026 um 09:46 Uhr",
+      "timestamp": 1789120016.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Just over a month on from a consortium led by the Saudi Arabian government's Public Investment Fund taking over EA, in a buyout worth $55 billion, sai..."
+    },
     {
       "title": "13 Horror Movies Coming Out This October",
       "link": "https://www.polygon.com/13-horror-movies-coming-out-this-october/",
@@ -249,65 +289,9 @@
       "timestamp": 1789087800.0,
       "source": "IGN All",
       "summary": "Wireless free with zero downtime."
-    },
-    {
-      "title": "The Retroid Pocket Duo Looks Perfect for DS and 3DS Emulation",
-      "link": "https://www.ign.com/articles/the-retroid-pocket-duo-looks-perfect-for-ds-and-3ds-emulation",
-      "pubDate": "11.09.2026 um 00:46 Uhr",
-      "timestamp": 1789087577.0,
-      "source": "IGN All",
-      "summary": "It’s no secret that handheld gaming is in a bit of a renaissance right now. Ushered in by the Nintendo Switch and carried forward by the Steam Deck. A..."
-    },
-    {
-      "title": "Hasbro Responds to DHS Using AI Optimus Prime in Deportation Posts",
-      "link": "https://www.ign.com/articles/hasbro-dhs-ai-optimus-prime-deportation-response",
-      "pubDate": "11.09.2026 um 00:10 Uhr",
-      "timestamp": 1789085400.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "How to increase your inventory in Valheim",
-      "link": "https://www.pcgamer.com/games/survival-crafting/valheim-increase-inventory-size/",
-      "pubDate": "11.09.2026 um 00:08 Uhr",
-      "timestamp": 1789085281.0,
-      "source": "PCGamer latest",
-      "summary": "Valheim 1.0 finally lets you deepen your pockets, but it'll cost you."
-    },
-    {
-      "title": "The 34\" AOC Agon Pro QD-OLED Gaming Monitor With Massive 4 Year Warranty Drops to $399.99",
-      "link": "https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal",
-      "pubDate": "10.09.2026 um 23:15 Uhr",
-      "timestamp": 1789082100.0,
-      "source": "IGN All",
-      "summary": "The least expensive ultra-wide OLED gaming monitor also happens to have the longest warranty."
-    },
-    {
-      "title": "Star Wars Zero Company gets much-needed first patch so you won't miss shots with a 100% chance to hit any more",
-      "link": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-gets-much-needed-first-patch-so-you-wont-miss-shots-with-a-100-percent-chance-to-hit-any-more/",
-      "pubDate": "10.09.2026 um 23:08 Uhr",
-      "timestamp": 1789081731.0,
-      "source": "PCGamer latest",
-      "summary": "It should be less prone to crashing too."
     }
   ],
   "sim": [
-    {
-      "title": "Gran Turismo 7 Online Time Trial: Free Willow",
-      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-free-willow-20260910/",
-      "pubDate": "10.09.2026 um 19:32 Uhr",
-      "timestamp": 1789068755.0,
-      "source": "GTPlanet",
-      "summary": "This week's new Gran Turismo 7 Online Time Trial sends the Mercedes-Benz SLS AMG Gr..."
-    },
-    {
-      "title": "Gran Turismo 7 Weekly Challenges: Ioniq Boom",
-      "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-ioniq-boom-20260910/",
-      "pubDate": "10.09.2026 um 16:59 Uhr",
-      "timestamp": 1789059579.0,
-      "source": "GTPlanet",
-      "summary": "A new set of Gran Turismo 7 Weekly Challenges arrives Friday, September 11, headlined by a Hyundai Ioniq 6 N one-make at Road Atlanta and a 140,000cr ..."
-    },
     {
       "title": "iRacing Weekly Tune-in | eSports & Community Events | September 12th to September 15th, 2026",
       "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-september-12th-to-september-15th-2026/",
@@ -349,14 +333,6 @@
       "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
     },
     {
-      "title": "Gran Turismo 7 Daily Races: Pug Life",
-      "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-pug-life-20260907/",
-      "pubDate": "07.09.2026 um 16:45 Uhr",
-      "timestamp": 1788799524.0,
-      "source": "GTPlanet",
-      "summary": "A one-make Peugeot RCZ Gr..."
-    },
-    {
       "title": "THIS WEEK: iRacing Creventic Endurance Series at Nurburgring",
       "link": "https://www.iracing.com/this-week-iracing-creventic-endurance-series-at-nurburgring-2026/",
       "pubDate": "07.09.2026 um 14:00 Uhr",
@@ -379,46 +355,6 @@
       "timestamp": 1788782403.0,
       "source": "iRacing.com",
       "summary": "The iRacing DTM Series brings the excitement of one of Germany’s premier road racing championships to iRacing. Races will be spread across Thursday ev..."
-    },
-    {
-      "title": "Next Level Racing Discount Code “GTPLANET” Saves 5% On Cockpits and Rigs",
-      "link": "https://www.gtplanet.net/next-level-racing-discount-code-gtplanet-takes-5-off-cockpits-and-rigs-20260905/",
-      "pubDate": "05.09.2026 um 20:00 Uhr",
-      "timestamp": 1788638449.0,
-      "source": "GTPlanet",
-      "summary": "GTPlanet readers can save 5% on Next Level Racing cockpits, wheel stands, seats, and flight sim gear with the code GTPLANET at the official store..."
-    },
-    {
-      "title": "Fanatec Releases Hotfix for Gran Turismo DD Pro Issues in GT7",
-      "link": "https://www.gtplanet.net/fanatec-releases-hotfix-for-gran-turismo-dd-pro-issues-in-gt7-20260904/",
-      "pubDate": "04.09.2026 um 17:13 Uhr",
-      "timestamp": 1788541996.0,
-      "source": "GTPlanet",
-      "summary": "Fanatec App V1..."
-    },
-    {
-      "title": "Gran Turismo 7 Online Time Trial: Genesis Exodus",
-      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-genesis-exodus-20260903/",
-      "pubDate": "03.09.2026 um 18:53 Uhr",
-      "timestamp": 1788461635.0,
-      "source": "GTPlanet",
-      "summary": "This week's new GT7 Online Time Trial opens the whole Gr..."
-    },
-    {
-      "title": "Gran Turismo 7 Weekly Challenges: GTAm I Right?",
-      "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-gtam-i-right-20260903/",
-      "pubDate": "03.09.2026 um 17:38 Uhr",
-      "timestamp": 1788457138.0,
-      "source": "GTPlanet",
-      "summary": "This week's GT7 Weekly Challenges pair a Giulia GTAm Time Trial at Trial Mountain Reverse with a 300,000cr Gr..."
-    },
-    {
-      "title": "Gran Turismo 7 Spec IV: Autumn Ring,  Sugo Circuit, 12 Cars, Shuffle Racing, and More",
-      "link": "https://www.gtplanet.net/gran-turismo-7-spec-iv-autumn-ring-sugo-circuit-12-cars-shuffle-racing-and-more-20260903/",
-      "pubDate": "03.09.2026 um 14:37 Uhr",
-      "timestamp": 1788446253.0,
-      "source": "GTPlanet",
-      "summary": "Polyphony Digital has announced Gran Turismo 7 Spec IV at PlayStation's State of Play, adding Sportsland Sugo, six new cars, the return of Shuffle Rac..."
     }
   ]
 }
