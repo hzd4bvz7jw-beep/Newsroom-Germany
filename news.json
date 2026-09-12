@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Die Xbox gewinnt gerade den Konsolenkrieg, weil Sony nicht aufhören kann, sich selbst ins Knie zu schießen",
+      "link": "https://mein-mmo.de/xbox-ist-nicht-besser-als-sony/",
+      "pubDate": "12.09.2026 um 08:00 Uhr",
+      "timestamp": 1789200000.0,
+      "source": "Mein-MMO",
+      "summary": "Weil sich Sony einen Patzer nach dem anderen leistet steht Xbox als strahlender Held da. Dabei macht Xbox genauso viel Mist. Nur anderen. Der Beitrag ..."
+    },
+    {
+      "title": "The Witcher 3 – Songs of the Past: Erweiterung wäre ohne Remaster unmöglich gewesen",
+      "link": "https://www.playcentral.de/the-witcher-3-songs-of-the-past-erweiterung-waere-ohne-remaster-unmoeglich-gewesen/",
+      "pubDate": "12.09.2026 um 07:46 Uhr",
+      "timestamp": 1789199164.0,
+      "source": "PlayCentral",
+      "summary": "Es war eine der meistgefeierten Ankündigungen der diesjährigen Gamescom: Schon am 29. September soll das Remaster von The Witcher 3: Wild Hunt für den..."
+    },
+    {
+      "title": "Spieler sammelt 418-mal das gleiche Spiel und weiß selbst nicht so genau, was er damit eigentlich machen soll",
+      "link": "https://mein-mmo.de/spieler-kauft-hunderte-gleiche-spiel-was-damit-machen/",
+      "pubDate": "12.09.2026 um 07:30 Uhr",
+      "timestamp": 1789198200.0,
+      "source": "Mein-MMO",
+      "summary": "Er kaufte ein Spiel nicht einmal, sondern gleich mehr als 400-mal. Die Community ist überrascht, er selbst sammelt weiterhin weiter. Der Beitrag Spiel..."
+    },
+    {
+      "title": "Steam-Spieler freuen sich: Ubisoft schafft den eigenen Launcher ab",
+      "link": "https://www.computerbase.de/news/gaming/steam-spieler-freuen-sich-ubisoft-schafft-den-eigenen-launcher-ab.99370/",
+      "pubDate": "12.09.2026 um 09:17 Uhr",
+      "timestamp": 1789197420.0,
+      "source": "ComputerBase",
+      "summary": "Wer ein Ubisoft-Spiel über Steam startet, muss bislang häufig noch einen Umweg über Ubisoft Connect nehmen. Damit soll künftig zumindest teilweise Sch..."
+    },
+    {
       "title": "Ich erwarte die spannendste BlizzCon seit 12 Jahren, vielleicht sogar seit immer",
       "link": "https://mein-mmo.de/blizzcon-2026-vorschau/",
       "pubDate": "12.09.2026 um 06:39 Uhr",
@@ -111,41 +143,17 @@
       "timestamp": 1789136220.0,
       "source": "ComputerBase",
       "summary": "Zum Start des taktischen First-Person-Shooters Wardogs haben sowohl Intel als auch Nvidia ihre Grafikkartentreiber aktualisiert und für den Multiplaye..."
-    },
-    {
-      "title": "Die aktuellsten News zur BlizzCon 2026 am 11. September – Alle Leaks und relevanten Gerüchte",
-      "link": "https://mein-mmo.de/blizzcon-2026-leaks-geruechte/",
-      "pubDate": "11.09.2026 um 14:00 Uhr",
-      "timestamp": 1789135200.0,
-      "source": "Mein-MMO",
-      "summary": "In wenigen Tagen findet die BlizzCon 2026 statt. Wir haben alle wichtigen Vorab-Infos für euch zusammengetragen. Der Beitrag Die aktuellsten News zur ..."
-    },
-    {
-      "title": "Mehr Grind als in jedem Dungeon: Warum ich meinen Ehrgeiz lieber in Bauernhöfe, als MMOs stecke",
-      "link": "https://mein-mmo.de/ich-tryharde-in-farming-sims-mehr-als-in-jedem-mmo/",
-      "pubDate": "11.09.2026 um 13:37 Uhr",
-      "timestamp": 1789133849.0,
-      "source": "Mein-MMO",
-      "summary": "Mary spiel Farming-Spiele nicht zur Entspannung, sondern um zu gewinnen. Der Beitrag Mehr Grind als in jedem Dungeon: Warum ich meinen Ehrgeiz lieber ..."
-    },
-    {
-      "title": "Skyrim bekommt Begleiter von IKEA: Warum ein sprechendes Kallax-Regal gegen Inventar-Chaos hilft",
-      "link": "https://www.eurogamer.de/skyrim-ikea-kallax-regal-begleiter-mod",
-      "pubDate": "11.09.2026 um 13:36 Uhr",
-      "timestamp": 1789133810.0,
-      "source": "Eurogamer.de News",
-      "summary": "Habt ihr mal wieder Lust auf einen Skyrim-Durchgang und braucht daf&uuml;r einen neuen Begleiter? Say no more! Mehr"
-    },
-    {
-      "title": "Warhammer 40.000: Space Marine 3: Fortsetzung profitiert von der Technik aus Toxic Commando",
-      "link": "https://www.eurogamer.de/space-marine-3-technik-engine-toxic-commando",
-      "pubDate": "11.09.2026 um 13:35 Uhr",
-      "timestamp": 1789133735.0,
-      "source": "Eurogamer.de News",
-      "summary": "Das kommende Warhammer 40.000: Space Marine 3 soll auf technischer Seite von Arbeit profitieren, die zuvor vom Entwicklerstudio Saber Interactive f&uu..."
     }
   ],
   "int": [
+    {
+      "title": "Netflix’s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess",
+      "link": "https://www.polygon.com/steps-netflix-interview/",
+      "pubDate": "12.09.2026 um 08:00 Uhr",
+      "timestamp": 1789200014.0,
+      "source": "Polygon.com",
+      "summary": "The twisted fairy tale steps focuses on Cinderella’s misunderstood stepsister"
+    },
     {
       "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
       "link": "https://www.polygon.com/best-nintendo-nes-games/",
@@ -281,14 +289,6 @@
       "timestamp": 1789163807.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "Steam’s Latest Super Hit Is A Massive 100-Player Warzone Simulator Fueled By Cash That Has Me Hooked",
-      "link": "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568",
-      "pubDate": "11.09.2026 um 21:54 Uhr",
-      "timestamp": 1789163689.0,
-      "source": "Kotaku",
-      "summary": "Wardogs is a slower, bigger and in many ways better Battlefield-like military shooter that won't appeal to everyone"
     }
   ],
   "sim": [
