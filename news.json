@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Eine Waffe in Diablo 4 lässt euch Bosse einfach auslöschen, sieht nicht beabsichtigt aus",
+      "link": "https://mein-mmo.de/diablo-4-waffe-laesst-euch-bosse-einfach-ausloeschen/",
+      "pubDate": "12.09.2026 um 13:04 Uhr",
+      "timestamp": 1789218286.0,
+      "source": "Mein-MMO",
+      "summary": "Eine Waffe in Diablo 4 erhält in Season 15 ein heimliches Rework. Damit könnt ihr lästige Phasen von Bossen einfach überspringen. Der Beitrag Eine Waf..."
+    },
+    {
+      "title": "iPhone 18 Pro und Pro Max bei Vodafone: Tarife, Kosten und Tauschbonus",
+      "link": "https://www.playcentral.de/iphone-18-pro-pro-max-vodafone-tarife-tauschbonus/",
+      "pubDate": "12.09.2026 um 12:47 Uhr",
+      "timestamp": 1789217223.0,
+      "source": "PlayCentral",
+      "summary": "iPhone 18 Pro und Pro Max bei Vodafone: Mobil M, Geräteraten, Tauschbonus und Garantieverlängerung verständlich erklärt."
+    },
+    {
+      "title": "Mayday The Survival Island – Cozy-Survival mit Demo, Release am 2. November 2026",
+      "link": "https://www.playcentral.de/mayday-the-survival-island-cozy-survival-mit-demo-release-am-2-november-2026/",
+      "pubDate": "12.09.2026 um 12:32 Uhr",
+      "timestamp": 1789216325.0,
+      "source": "PlayCentral",
+      "summary": "Mit Mayday: The Survival Island kündigt sich auf Steam ein Cozy-Game an, das entspannte Landwirtschaft mit einem ungewöhnlichen Survival-Szenario verb..."
+    },
+    {
+      "title": "Sony sagt Fans digitale Spiele gehören ihnen nicht - Verbraucherschutzorganisation schlägt zurück",
+      "link": "https://www.eurogamer.de/sony-playstation-store-digitaler-besitz-klage",
+      "pubDate": "12.09.2026 um 12:30 Uhr",
+      "timestamp": 1789216200.0,
+      "source": "Eurogamer.de News",
+      "summary": "Letzten Monat argumentierte Sony, dass &bdquo;vern&uuml;nftige Verbraucher&ldquo; l&auml;ngst wissen, dass ihnen ihre bezahlten digitalen G&uuml;ter g..."
+    },
+    {
       "title": "iPhone 18 Pro und Pro Max: Vorbestellungen bei Amazon und MediaMarkt gestartet",
       "link": "https://www.playcentral.de/iphone-18-pro-pro-max-vorbestellungen-amazon-mediamarkt-gestartet/",
       "pubDate": "12.09.2026 um 12:13 Uhr",
@@ -105,47 +137,23 @@
       "summary": "Wer ein Ubisoft-Spiel über Steam startet, muss bislang häufig noch einen Umweg über Ubisoft Connect nehmen. Damit soll künftig zumindest teilweise Sch..."
     },
     {
-      "title": "Ich erwarte die spannendste BlizzCon seit 12 Jahren, vielleicht sogar seit immer",
-      "link": "https://mein-mmo.de/blizzcon-2026-vorschau/",
-      "pubDate": "12.09.2026 um 06:39 Uhr",
-      "timestamp": 1789195158.0,
-      "source": "Mein-MMO",
-      "summary": "Es ist lange her, dass bei MeinMMO-Redakteur Karsten Scholz die Vorfreude auf eine BlizzCon so groß war wie jetzt. Das hat Gründe. Der Beitrag Ich erw..."
-    },
-    {
       "title": "Pokémon Go: Der Community Day Classic mit Kaumalat bringt Shinys und eine exklusive Attacke",
       "link": "https://www.eurogamer.de/pokemon-go-community-day-kaumalat",
       "pubDate": "12.09.2026 um 05:30 Uhr",
       "timestamp": 1789191000.0,
       "source": "Eurogamer.de News",
       "summary": "Heute findet in Pok&eacute;mon Go der n&auml;chste Community Day Classic statt, dabei dreht sich alles um das Landhai-Pok&eacute;mon Kaumalat. Mehr"
-    },
-    {
-      "title": "Cheats frei Haus: GameSir wehrt sich gegen Vorwürfe zu seinen Controllern",
-      "link": "https://www.computerbase.de/news/gaming/cheats-frei-haus-gamesir-wehrt-sich-gegen-vorwuerfe-zu-seinen-controllern.99371/",
-      "pubDate": "12.09.2026 um 07:08 Uhr",
-      "timestamp": 1789189680.0,
-      "source": "ComputerBase",
-      "summary": "Eine Diskussion unter Call-of-Duty-Profis beschert GameSir derzeit ungewollte Aufmerksamkeit. Controller des Herstellers sollen angeblich Funktionen b..."
-    },
-    {
-      "title": "Kingdom Hearts 4 entsteht bei Square Enix in Creative Studio 1 – offiziell bestätigt",
-      "link": "https://www.playcentral.de/kingdom-hearts-4-entsteht-bei-square-enix-in-creative-studio-1-offiziell-bestaetigt/",
-      "pubDate": "12.09.2026 um 00:31 Uhr",
-      "timestamp": 1789173118.0,
-      "source": "PlayCentral",
-      "summary": "Nach langer Unklarheit steht nun offiziell fest, welches interne Team bei Square Enix an Kingdom Hearts 4 arbeitet. Das kommende Action-RPG entsteht i..."
-    },
-    {
-      "title": "RAM-Preise sinken: Framework zahlt Kunden Geld zurück",
-      "link": "https://www.computerbase.de/news/notebooks/ram-preise-sinken-framework-zahlt-kunden-geld-zurueck.99366/",
-      "pubDate": "11.09.2026 um 22:04 Uhr",
-      "timestamp": 1789157040.0,
-      "source": "ComputerBase",
-      "summary": "Die Preise für Arbeitsspeicher kennen seit Monaten fast nur eine Richtung: nach oben. Framework kann nun zumindest bei LPCAMM2 gegen den Trend schwimm..."
     }
   ],
   "int": [
+    {
+      "title": "Ace Combat 8’s Developers Are on a Mission To Create the Perfect Clouds",
+      "link": "https://www.polygon.com/ace-combat-8-wings-of-theve-cloud-interview/",
+      "pubDate": "12.09.2026 um 13:00 Uhr",
+      "timestamp": 1789218015.0,
+      "source": "Polygon.com",
+      "summary": "The brains behind Ace Combat 8: Wings of Theve explain how the team created more realistic clouds through a new tech innovation."
+    },
     {
       "title": "All Genshin Impact 7.1 livestream codes",
       "link": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream/",
@@ -281,14 +289,6 @@
       "timestamp": 1789199123.0,
       "source": "IGN All",
       "summary": "A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ab..."
-    },
-    {
-      "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
-      "link": "https://www.polygon.com/best-nintendo-nes-games/",
-      "pubDate": "12.09.2026 um 07:00 Uhr",
-      "timestamp": 1789196416.0,
-      "source": "Polygon.com",
-      "summary": "A lot of old NES games have something to offer modern players, but only a select few of them are fun from beginning to end."
     }
   ],
   "sim": [
