@@ -1,12 +1,36 @@
 {
   "de": [
     {
-      "title": "BlizzCon 2026 – Alle Ankündigungen, Highlights, Trailer und mehr aus dem Stream im Live-Ticker",
+      "title": "WoW: In Patch 12.2 erreicht Xal’atath ihr Ziel – und Untote werden Paladine",
+      "link": "https://mein-mmo.de/wow-patch-122-xalatath-erreicht-ihr-ziel/",
+      "pubDate": "12.09.2026 um 21:08 Uhr",
+      "timestamp": 1789247339.0,
+      "source": "Mein-MMO",
+      "summary": "Der nächste Patch von World of Warcraft wurde auf der BlizzCon enthüllt. Wir wissen, was uns bevorsteht – denn Xal&#8217;atath erreicht ihr Ziel. Auf ..."
+    },
+    {
+      "title": "BlizzCon 2026 – Alle Ankündigungen, Highlights, Trailer und mehr aus dem Stream – Live-Ticker ist beendet",
       "link": "https://mein-mmo.de/blizzcon-2026-live-ticker/",
-      "pubDate": "12.09.2026 um 20:09 Uhr",
-      "timestamp": 1789243781.0,
+      "pubDate": "12.09.2026 um 21:02 Uhr",
+      "timestamp": 1789246971.0,
       "source": "Mein-MMO",
       "summary": "Während der Opening Ceremony der BlizzCon wird es wieder spannende Reveals geben. Danach gibt es Deep Dives. Wir von MeinMMO sind für euch live dabei!..."
+    },
+    {
+      "title": "WoW Forever wird der Knaller, wenn Blizzard aus einem krassen Fehler von WoW Classic lernt",
+      "link": "https://mein-mmo.de/wow-forever-vorfreude-karsten-scholz/",
+      "pubDate": "12.09.2026 um 20:57 Uhr",
+      "timestamp": 1789246630.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteur Karsten Scholz freut sich riesig auf WoW: Forever. Classic bleibt einfach eine ganze besondere MMO-Erfahrung. Der Beitrag WoW Foreve..."
+    },
+    {
+      "title": "WoW – Midnight Update Eclipse und The Last Titan führen zurück nach Nordend",
+      "link": "https://www.playcentral.de/wow-midnight-update-eclipse-und-the-last-titan-fuehren-zurueck-nach-nordend/",
+      "pubDate": "12.09.2026 um 20:31 Uhr",
+      "timestamp": 1789245108.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard hat auf der BlizzCon am 12. September 2026 die nächsten großen Etappen für World of Warcraft enthüllt. Im Mittelpunkt stehen Midnight: Eclips..."
     },
     {
       "title": "Warcraft III bekommt nach 23 Jahren eine neue Kampagne, ist direkt live",
@@ -119,33 +143,41 @@
       "timestamp": 1789238900.0,
       "source": "PlayCentral",
       "summary": "WoW Patch 12.2 Eclipse: Xal’atath sprengt das Tor am World Core. Blizzard gibt außerdem Ausblicke auf The Last Titan, einen neuen Spielmodus und Remix..."
-    },
-    {
-      "title": "Diablo 4: Blizzard kündigt auf der Blizzcon die Amazone als neue DLC-Klasse an",
-      "link": "https://www.eurogamer.de/diablo-4-amazone-klasse-dlc-2027",
-      "pubDate": "12.09.2026 um 18:37 Uhr",
-      "timestamp": 1789238243.0,
-      "source": "Eurogamer.de News",
-      "summary": "W&auml;hrend seiner Blizzcon-Er&ouml;ffnungszeremonie k&uuml;ndigte Blizzard am Abend die Amazone als neue Klasse f&uuml;r Diablo 4 an. Mehr"
-    },
-    {
-      "title": "Zelda Switch 2 Edition ausverkauft – Nintendo stellt neue Kontingente in Aussicht",
-      "link": "https://www.playcentral.de/zelda-switch-2-edition-ausverkauft-nintendo-stellt-neue-kontingente-in-aussicht/",
-      "pubDate": "12.09.2026 um 18:33 Uhr",
-      "timestamp": 1789238037.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo reagiert auf die enorme Nachfrage nach der Nintendo Switch 2 im Design von The Legend of Zelda. Nachdem erste Vorbestellkontingente der Jubil..."
-    },
-    {
-      "title": "Diablo 5: Blizzard überrascht auf der Blizzcon mit der Ankündigung des Nachfolgers",
-      "link": "https://www.eurogamer.de/diablo-5-ankuendigung-release-2029",
-      "pubDate": "12.09.2026 um 18:24 Uhr",
-      "timestamp": 1789237492.0,
-      "source": "Eurogamer.de News",
-      "summary": "W&auml;hrend der Blizzcon-Er&ouml;ffnungszeremonie hat Blizzard &uuml;berraschend Diablo 5 angek&uuml;ndigt. Mehr"
     }
   ],
   "int": [
+    {
+      "title": "StarCraft: Everything we know so far about Blizzard's new open-world, story-driven shooter",
+      "link": "https://www.gamesradar.com/games/third-person-shooter/starcraft-guide/",
+      "pubDate": "12.09.2026 um 20:53 Uhr",
+      "timestamp": 1789246425.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Blizzard Entertainment just revealed a new StarCraft game, and here's everything we know about the 2030 release"
+    },
+    {
+      "title": "Overwatch Reveals First Look at New Omnic Hero for BlizzCon 2026",
+      "link": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-for-blizzcon-2026",
+      "pubDate": "12.09.2026 um 20:28 Uhr",
+      "timestamp": 1789244938.0,
+      "source": "IGN All",
+      "summary": "Blizzard has released a sneaky tease for another new Overwatch Hero after revealing Doctrine just moments ago."
+    },
+    {
+      "title": "Diablo 5 Forging the Next Era Panel: Everything Announced (Updating Live)",
+      "link": "https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced",
+      "pubDate": "12.09.2026 um 19:56 Uhr",
+      "timestamp": 1789243010.0,
+      "source": "IGN All",
+      "summary": "BlizzCon 2026 came with a lot of surprises, but few were as big as the Diablo 5 reveal – and we're about to learn even more."
+    },
+    {
+      "title": "X-Men Star Inde Navarrette Teases Her Plan to Nail Rogue’s Southern Accent",
+      "link": "https://www.ign.com/articles/x-men-star-inde-navarrette-teases-her-plan-to-nail-rogues-southern-accent",
+      "pubDate": "12.09.2026 um 19:44 Uhr",
+      "timestamp": 1789242261.0,
+      "source": "IGN All",
+      "summary": "Obsession breakout Inde Navarrette already has a plan to make sure she nails Rogue's iconic Southern accent in the new X-Men movie."
+    },
     {
       "title": "50 Years Later, Star Wars Is Officially Remaking the Original Trilogy in a Shocking New Style",
       "link": "https://www.polygon.com/star-wars-original-trilogy-graphic-novel/",
@@ -235,6 +267,14 @@
       "summary": "It's out soon, too, with a beta starting this week."
     },
     {
+      "title": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
+      "link": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever",
+      "pubDate": "12.09.2026 um 18:57 Uhr",
+      "timestamp": 1789239459.0,
+      "source": "IGN All",
+      "summary": "Blizzard ended its BlizzCon 2026 Opening Ceremony with the announcement of World of Warcraft Forever."
+    },
+    {
       "title": "Overwatch's newest hero is a robo-vampire, and reworks are on the way for Roadhog and Sombra",
       "link": "https://www.pcgamer.com/games/fps/overwatchs-newest-hero-is-a-robo-vampire-and-reworks-are-on-the-way-for-roadhog-and-sombra/",
       "pubDate": "12.09.2026 um 18:55 Uhr",
@@ -249,46 +289,6 @@
       "timestamp": 1789239270.0,
       "source": "Latest from GamesRadar+",
       "summary": "The Worldsoul Saga comes to an end next year"
-    },
-    {
-      "title": "Blizzard just dropped a new Warcraft 3 campaign, the first in 23 years",
-      "link": "https://www.pcgamer.com/games/rts/blizzard-just-dropped-a-new-warcraft-3-campaign-the-first-in-23-years/",
-      "pubDate": "12.09.2026 um 18:51 Uhr",
-      "timestamp": 1789239099.0,
-      "source": "PCGamer latest",
-      "summary": "The year of the surprise old game expansion."
-    },
-    {
-      "title": "Warcraft 3: Reforged To Get A New Campaign Starring Arthas And Sylvanas, Out Today",
-      "link": "https://kotaku.com/warcraft-3-reforged-new-campaign-paid-dlc-free-overhaul-2000733793",
-      "pubDate": "12.09.2026 um 18:51 Uhr",
-      "timestamp": 1789239070.0,
-      "source": "Kotaku",
-      "summary": "Reforged reforged"
-    },
-    {
-      "title": "World Of Warcraft’s Next Expansion, The Last Titan, Is Out Next Year",
-      "link": "https://kotaku.com/world-of-warcrafts-next-expansion-the-last-titan-is-out-next-year-2000733784",
-      "pubDate": "12.09.2026 um 18:45 Uhr",
-      "timestamp": 1789238727.0,
-      "source": "Kotaku",
-      "summary": "RIP to Wyrmrest Temple I guess"
-    },
-    {
-      "title": "Hearthstone just got its first new class in four years: Warcraft's fire-breathing panda Monk",
-      "link": "https://www.pcgamer.com/games/card-games/hearthstone-just-got-its-first-new-class-in-four-years-warcrafts-fire-breathing-panda-monk/",
-      "pubDate": "12.09.2026 um 18:40 Uhr",
-      "timestamp": 1789238405.0,
-      "source": "PCGamer latest",
-      "summary": "Have keg, will shuffle."
-    },
-    {
-      "title": "Hearthstone's Next Expansion and New Class Officially Revealed at BlizzCon",
-      "link": "https://www.polygon.com/hearthstone-update-monk-class-blizzcon-2026/",
-      "pubDate": "12.09.2026 um 18:37 Uhr",
-      "timestamp": 1789238252.0,
-      "source": "Polygon.com",
-      "summary": "Hearthstone players can look forward to the Reign of the Black Empire expansion and a new Monk class soon, according to BlizzCon 2026."
     }
   ],
   "sim": [
