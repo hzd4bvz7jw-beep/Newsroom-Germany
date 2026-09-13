@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WoW Midnight – Patch 12.2 macht Nachtelfen, Trolle und Untote zu Paladinen",
+      "link": "https://www.playcentral.de/wow-midnight-patch-12-2-macht-nachtelfen-trolle-und-untote-zu-paladinen/",
+      "pubDate": "13.09.2026 um 01:31 Uhr",
+      "timestamp": 1789263110.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard erweitert die Möglichkeiten bei der Charaktererstellung in World of Warcraft: Midnight deutlich. Mit dem kommenden Inhaltsupdate Midnight: Ec..."
+    },
+    {
       "title": "WoW: Talebound – Neuer Spielmodus wird wie Hades und Vampire Survivors",
       "link": "https://mein-mmo.de/wow-talebound-neuer-spielmodus/",
       "pubDate": "12.09.2026 um 23:45 Uhr",
@@ -105,14 +113,6 @@
       "summary": "Mit SlashZero zeichnet sich ein neuer Action-Plattformer ab, der zwei auffällige Einflüsse miteinander verbindet. Die neonbeleuchtete Cyberpunk-Welt e..."
     },
     {
-      "title": "Diablo bekommt eine animierte Netflix-Serie",
-      "link": "https://www.playcentral.de/diablo-netflix-serie/",
-      "pubDate": "12.09.2026 um 19:32 Uhr",
-      "timestamp": 1789241571.0,
-      "source": "PlayCentral",
-      "summary": "Diablo kommt zu Netflix: Blizzard kündigt auf der BlizzCon 2026 eine neue animierte Serie zur Action-Rollenspielreihe an."
-    },
-    {
       "title": "Diablo 5 ist bestätigt! Vorher soll Diablo 4 aber noch beliebte Klasse aus Diablo 2 bekommen",
       "link": "https://mein-mmo.de/diablo-5-bestaetigt-diablo-4-neue-klasse/",
       "pubDate": "12.09.2026 um 19:32 Uhr",
@@ -146,6 +146,30 @@
     }
   ],
   "int": [
+    {
+      "title": "The 10 Best Tomb Raider Levels of All Time",
+      "link": "https://www.polygon.com/best-tomb-raider-levels/",
+      "pubDate": "13.09.2026 um 02:01 Uhr",
+      "timestamp": 1789264874.0,
+      "source": "Polygon.com",
+      "summary": "From St. Francis' Folly's four-god gauntlet to Paititi's sprawling jungle hub, these are the 10 Tomb Raider levels worth remembering"
+    },
+    {
+      "title": "Playing RTS with a controller? Total War: Warhammer 40,000 dev says it 'really does work' in their game: 'I think we've landed in a really solid spot'",
+      "link": "https://www.pcgamer.com/games/rts/playing-rts-with-a-controller-total-war-warhammer-40-000-dev-says-it-really-does-work-in-their-game-i-think-weve-landed-in-a-really-solid-spot/",
+      "pubDate": "13.09.2026 um 01:31 Uhr",
+      "timestamp": 1789263078.0,
+      "source": "PCGamer latest",
+      "summary": "But how will we press \"J\" to make a unit about-face?"
+    },
+    {
+      "title": "Stranger Things Officially Returns Next Week With 10 New Episodes",
+      "link": "https://www.polygon.com/stranger-things-new-episodes-season-2-tales-from-85-release-date/",
+      "pubDate": "13.09.2026 um 01:15 Uhr",
+      "timestamp": 1789262114.0,
+      "source": "Polygon.com",
+      "summary": "Netflix is bringing back Stranger Things with a second 10-episode season of Stranger Things: Tales from 85 on Sept. 17."
+    },
     {
       "title": "World Of Warcraft Is About To Remix Its Most Beloved Expansion",
       "link": "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867",
@@ -265,30 +289,6 @@
       "timestamp": 1789244938.0,
       "source": "IGN All",
       "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago."
-    },
-    {
-      "title": "Diablo 5 Forging the Next Era Panel: Everything Announced",
-      "link": "https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced",
-      "pubDate": "12.09.2026 um 19:56 Uhr",
-      "timestamp": 1789243010.0,
-      "source": "IGN All",
-      "summary": "Blizzard has revealed three classes for Diablo 5, a first look at its UI, and shown off even more as part of its Forging the Next Era panel at BlizzCo..."
-    },
-    {
-      "title": "X-Men Star Inde Navarrette Teases Her Plan to Nail Rogue’s Southern Accent",
-      "link": "https://www.ign.com/articles/x-men-star-inde-navarrette-teases-her-plan-to-nail-rogues-southern-accent",
-      "pubDate": "12.09.2026 um 19:44 Uhr",
-      "timestamp": 1789242261.0,
-      "source": "IGN All",
-      "summary": "Obsession breakout Inde Navarrette already has a plan to make sure she nails Rogue's iconic Southern accent in the new X-Men movie."
-    },
-    {
-      "title": "50 Years Later, Star Wars Is Officially Remaking the Original Trilogy in a Shocking New Style",
-      "link": "https://www.polygon.com/star-wars-original-trilogy-graphic-novel/",
-      "pubDate": "12.09.2026 um 19:33 Uhr",
-      "timestamp": 1789241594.0,
-      "source": "Polygon.com",
-      "summary": "A new take on the classic Star Wars story of A New Hope, The Empire Strikes Back, and Return of the Jedi."
     }
   ],
   "sim": [
