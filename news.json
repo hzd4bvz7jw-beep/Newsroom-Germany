@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "DLSS-5-Mod für Fallout New Vegas zeigt, was das offizielle Remaster liefern muss",
+      "link": "https://www.playcentral.de/dlss-5-mod-fuer-fallout-new-vegas-zeigt-was-das-offizielle-remaster-liefern-muss/",
+      "pubDate": "13.09.2026 um 14:31 Uhr",
+      "timestamp": 1789309899.0,
+      "source": "PlayCentral",
+      "summary": "Fallout: New Vegas gehört auch mehr als 15 Jahre nach seiner Veröffentlichung am 19. Oktober 2010 zu den beliebtesten Rollenspielen der Reihe. Entspre..."
+    },
+    {
+      "title": "Blizzard belebt sein bestes Spiel endlich wieder und ich werde bald kaum etwas anderes spielen",
+      "link": "https://mein-mmo.de/heroes-of-the-storm-is-back-baby/",
+      "pubDate": "13.09.2026 um 14:31 Uhr",
+      "timestamp": 1789309892.0,
+      "source": "Mein-MMO",
+      "summary": "Völlig aus dem Nichts bringt Blizzard zwei neue Helden für Heroes of the Storm. Ein Feiertag für so manchen Fan. Der Beitrag Blizzard belebt sein best..."
+    },
+    {
       "title": "Star Fox Adventures: GameCube-Klassiker bietet Widescreen-Modus auf der Switch 2",
       "link": "https://www.eurogamer.de/star-fox-adventures-switch-2-widescreen-release",
       "pubDate": "13.09.2026 um 14:05 Uhr",
@@ -127,25 +143,65 @@
       "timestamp": 1789297200.0,
       "source": "Mein-MMO",
       "summary": "Valheim und Enshrouded hatten beide riesigen Erfolg auf Steam und verlassen den Early Access. Wir vergleichen die Hits. Der Beitrag 2 der besten Survi..."
-    },
-    {
-      "title": "Ich wollte WoW Forever nicht spielen, aber jetzt muss ich es",
-      "link": "https://mein-mmo.de/wow-forever-muss-es-spielen/",
-      "pubDate": "13.09.2026 um 10:41 Uhr",
-      "timestamp": 1789296089.0,
-      "source": "Mein-MMO",
-      "summary": "WoW-Dämon Cortyn wollte einen Bogen um Classic+ machen. Doch ein paar Details sorgen jetzt dafür, dass doch gespielt werden muss. Der Beitrag Ich woll..."
-    },
-    {
-      "title": "Nach 20 Jahren: WarCraft 3 bekommt neue Kampagnen-Erweiterung",
-      "link": "https://www.computerbase.de/news/gaming/forsaken-kingdoms-warcraft-3-reforged-bekommt-neue-kampagne.99382/",
-      "pubDate": "13.09.2026 um 12:30 Uhr",
-      "timestamp": 1789295400.0,
-      "source": "ComputerBase",
-      "summary": "Überraschung: Blizzard veröffentlicht zur Blizzcon 2026 eine neue Kampagne für WarCraft 3: Reforged. Forsaken Kingdoms ist nach den Ereignissen im Hau..."
     }
   ],
   "int": [
+    {
+      "title": "Ex-Far Cry Boss Has Big Ambitions For New StarCraft Shooter: ‘If We Were To Make Something That Felt Like A Deadwood In Space I Think That’s Got Something’",
+      "link": "https://kotaku.com/ex-far-cry-boss-has-big-ambitions-for-new-starcraft-shooter-if-we-were-to-make-something-that-felt-like-a-deadwood-in-space-i-think-thats-got-something-2000733978",
+      "pubDate": "13.09.2026 um 15:08 Uhr",
+      "timestamp": 1789312129.0,
+      "source": "Kotaku",
+      "summary": "Dan Hay has stayed mostly tight-lipped about the newly revealed spin-off"
+    },
+    {
+      "title": "Netflix’s Biggest Cyberpunk Series Is Doing Something Completely Different in Season 2",
+      "link": "https://www.polygon.com/cyberpunk-edgerunners-2-new-director-interview/",
+      "pubDate": "13.09.2026 um 15:00 Uhr",
+      "timestamp": 1789311614.0,
+      "source": "Polygon.com",
+      "summary": "Cyberpunk: Edgerunners 2 director Kai Ikarashi explains how light, music, and a fallen legend give the Netflix series a striking new identity."
+    },
+    {
+      "title": "Ashly Burch, voice of Horizon's Aloy and star of Mythic Quest, is currently obsessed with Slay the Spire 2 and thinks videogames have too many stoic characters: 'I want more sh*tty little b*tches'",
+      "link": "https://www.pcgamer.com/gaming-industry/ashly-burch-voice-of-horizons-aloy-and-star-of-mythic-quest-is-currently-obsessed-with-slay-the-spire-2-and-thinks-videogames-have-too-many-stoic-characters-i-want-more-sh-tty-little-b-tches/",
+      "pubDate": "13.09.2026 um 15:00 Uhr",
+      "timestamp": 1789311600.0,
+      "source": "PCGamer latest",
+      "summary": "The actress behind Tiny Tina and Life is Strange's Chloe guides us through the games on her Steam Deck."
+    },
+    {
+      "title": "Final Fantasy 7 Revelation's Knights of the Round boss battle wasn't hard enough, so the devs had an \"emergency meeting\" to rebuild the iconic summon \"from scratch\"",
+      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-knights-of-the-round-boss-battle-wasnt-hard-enough-so-the-devs-had-an-emergency-meeting-to-rebuild-the-iconic-summon-from-scratch/",
+      "pubDate": "13.09.2026 um 14:56 Uhr",
+      "timestamp": 1789311386.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It should kick our butts enough now"
+    },
+    {
+      "title": "Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us'",
+      "link": "https://www.pcgamer.com/games/rpg/upcoming-vampire-rpg-nighthawks-has-been-removed-from-steam-search-and-delisted-in-certain-countries-as-valve-classifies-it-adults-only-its-very-bad-news-for-us/",
+      "pubDate": "13.09.2026 um 14:16 Uhr",
+      "timestamp": 1789308989.0,
+      "source": "PCGamer latest",
+      "summary": "The label \"immediately makes the game persona non grata in several important countries like Germany\"."
+    },
+    {
+      "title": "Diablo 4 Annual Expansions Are Done As Blizzard Focuses On Seasonal Stories Leading Up To Diablo 5",
+      "link": "https://kotaku.com/diablo-4-annual-expansions-are-done-as-blizzard-focuses-on-seasonal-stories-leading-up-to-diablo-5-2000733975",
+      "pubDate": "13.09.2026 um 14:15 Uhr",
+      "timestamp": 1789308941.0,
+      "source": "Kotaku",
+      "summary": "Three years in, a new sequel lies on the horizon"
+    },
+    {
+      "title": "Sony is the Bad Guy of 2026, but it’s Going to Win Anyway",
+      "link": "https://www.polygon.com/patch-notes-fall-preview-nintendo-sony-bad-guy/",
+      "pubDate": "13.09.2026 um 14:14 Uhr",
+      "timestamp": 1789308898.0,
+      "source": "Polygon.com",
+      "summary": "Polygon previews an exciting but lopsided fall, dominated by GTA 6 and Zelda, with PlayStation playing the role of villain"
+    },
     {
       "title": "After announcing StarCraft and Diablo 5 years in advance, Blizzard president promises \"to ship, and ship big, and ship on time\"",
       "link": "https://www.gamesradar.com/games/diablo/after-announcing-starcraft-and-diablo-5-years-in-advance-blizzard-president-promises-to-ship-and-ship-big-and-ship-on-time/",
@@ -161,6 +217,14 @@
       "timestamp": 1789308014.0,
       "source": "Polygon.com",
       "summary": "Echo Weaver fuses a variety of genres to provide a unique platforming experience with time loops."
+    },
+    {
+      "title": "Scooby-Doo: Origins Reveals Cute New Photo of the Live-Action Dog",
+      "link": "https://www.ign.com/articles/scooby-doo-origins-new-dog-photo",
+      "pubDate": "13.09.2026 um 14:00 Uhr",
+      "timestamp": 1789308000.0,
+      "source": "IGN All",
+      "summary": ""
     },
     {
       "title": "As an OG Crazy Taxi lover, its new remake might just not be crazy enough",
@@ -225,70 +289,6 @@
       "timestamp": 1789300814.0,
       "source": "Polygon.com",
       "summary": "Vivziepop says Helluva Boss season 3 will feature at least one Hazbin Hotel Easter egg. The new season launches Oct. 14, with part one of two."
-    },
-    {
-      "title": "After countless memes, Final Fantasy 7 Revelation boss confirms that, yes, Fortnite partly inspired jumping out of the Highwind",
-      "link": "https://www.gamesradar.com/games/final-fantasy/after-countless-memes-final-fantasy-7-revelation-boss-confirms-that-yes-fortnite-partly-inspired-jumping-out-of-the-highwind/",
-      "pubDate": "13.09.2026 um 12:00 Uhr",
-      "timestamp": 1789300800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Where we droppin' Soldier"
-    },
-    {
-      "title": "StarCraft is back, but it's not the RTS you remember - it's an open-world shooter coming spring 2030",
-      "link": "https://www.eurogamer.net/starcraft-open-world-shooter-announced-blizzcon-2026",
-      "pubDate": "13.09.2026 um 11:57 Uhr",
-      "timestamp": 1789300643.0,
-      "source": "Eurogamer.net News",
-      "summary": "Blizzard's next StarCraft game will be an original open-world shooter and it's coming spring 2030. Read more"
-    },
-    {
-      "title": "Former Far Cry boss says it's \"an honor\" to take over StarCraft: \"We won the cosmic lottery\"",
-      "link": "https://www.gamesradar.com/games/fps/former-far-cry-boss-says-its-an-honor-to-take-over-starcraft-we-won-the-cosmic-lottery/",
-      "pubDate": "13.09.2026 um 11:54 Uhr",
-      "timestamp": 1789300477.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"We get to make something new, but that feels familiar, and that's powerful.\""
-    },
-    {
-      "title": "This remarkable mod transforms the most frightening horror game of the decade into Mirror's Edge",
-      "link": "https://www.pcgamer.com/games/horror/this-remarkable-mod-transforms-the-most-frightening-horror-game-of-the-decade-into-mirrors-edge/",
-      "pubDate": "13.09.2026 um 11:32 Uhr",
-      "timestamp": 1789299171.0,
-      "source": "PCGamer latest",
-      "summary": "Have faith in Bunker's Edge."
-    },
-    {
-      "title": "Diablo 4: Lord of Hatred is the game's final expansion as Blizzard focuses on \"getting to Diablo 5\"",
-      "link": "https://www.gamesradar.com/games/diablo/diablo-4-lord-of-hatred-is-the-games-final-expansion-as-blizzard-focuses-on-getting-to-diablo-5/",
-      "pubDate": "13.09.2026 um 11:25 Uhr",
-      "timestamp": 1789298755.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"We are moving towards telling the Story of Terror.\""
-    },
-    {
-      "title": "Diablo 5 is coming spring 2029, and a Netflix show is in development",
-      "link": "https://www.eurogamer.net/diablo-5-announced-blizzcon-2026-spring-2029",
-      "pubDate": "13.09.2026 um 11:06 Uhr",
-      "timestamp": 1789297600.0,
-      "source": "Eurogamer.net News",
-      "summary": "Blizzard has officially announced Diablo 5, confirming the next mainline entry in the series is expected to arrive in spring 2029. Read more"
-    },
-    {
-      "title": "'Godzilla Minus Zero' Director Reveals How Steven Spielberg Inspired the Sci-Fi Sequel",
-      "link": "https://www.polygon.com/godzilla-minus-zero-director-interview/",
-      "pubDate": "13.09.2026 um 11:00 Uhr",
-      "timestamp": 1789297214.0,
-      "source": "Polygon.com",
-      "summary": "Takashi Yamazaki talks Godzilla Minus Zero for Polygon's 2026 Fall Preview"
-    },
-    {
-      "title": "75 Years Later, Disney's Bonkers Fantasy Masterpiece Officially Gets a New Sequel",
-      "link": "https://www.polygon.com/wondrous-exclusive-excerpt/",
-      "pubDate": "13.09.2026 um 10:00 Uhr",
-      "timestamp": 1789293614.0,
-      "source": "Polygon.com",
-      "summary": "‘Wondrous’ sends Alice on a strange new adventure"
     }
   ],
   "sim": [
