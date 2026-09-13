@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Moss-Entwickler Polyarc schließt nach 12 Jahren endgültig seine Pforten",
+      "link": "https://www.eurogamer.de/polyarc-moss-entwickler-schliesst-vr-studio",
+      "pubDate": "13.09.2026 um 05:00 Uhr",
+      "timestamp": 1789275600.0,
+      "source": "Eurogamer.de News",
+      "summary": "Polyarc, das Studio aus Seattle hinter der gefeierten VR-Reihe Moss, schlie&szlig;t nach fast 12 Jahren seine Pforten. Mehr"
+    },
+    {
+      "title": "Warnung vor Agenten-Schwärmen: Anthropic-Chef Dario Amodei will KI-Entwicklung bremsen",
+      "link": "https://www.computerbase.de/news/apps/warnung-vor-agenten-schwaermen-anthropic-chef-dario-amodei-will-ki-entwicklung-bremsen.99380/",
+      "pubDate": "13.09.2026 um 06:00 Uhr",
+      "timestamp": 1789272000.0,
+      "source": "ComputerBase",
+      "summary": "Anthropic-Chef Dario Amodei warnt: Bereits in sechs bis zwölf Monaten könnte es passieren, dass Agenten-Schwärme das Internet übernehmen und Schäden v..."
+    },
+    {
       "title": "Diablo 5 setzt auf Diablo 2-Systeme – Inventarraster, Attribute, Runen",
       "link": "https://www.playcentral.de/diablo-5-setzt-auf-diablo-2-systeme-inventarraster-attribute-runen/",
       "pubDate": "13.09.2026 um 02:31 Uhr",
@@ -127,25 +143,57 @@
       "timestamp": 1789241296.0,
       "source": "Mein-MMO",
       "summary": "Die Opening Ceremony der BlizzCon 2026 ist vorbei. MeinMMO hat die wichtigsten Ankündigungen, Reveals und Trailer für euch in der Übersicht. Der Beitr..."
-    },
-    {
-      "title": "96 GB statt 32 GB: Chinesische RTX 5090 mit ultimativem Speicherausbau",
-      "link": "https://www.computerbase.de/news/grafikkarten/96-gb-statt-32-gb-chinesische-rtx-5090-mit-ultimativem-speicherausbau.99377/",
-      "pubDate": "12.09.2026 um 21:23 Uhr",
-      "timestamp": 1789240980.0,
-      "source": "ComputerBase",
-      "summary": "Die GeForce RTX 5090 bringt ab Werk bereits üppige 32 GB Grafikspeicher mit. Auf Alibaba finden sich nun gleich mehrere Angebote für Varianten mit sat..."
-    },
-    {
-      "title": "World of Warcraft Forever: Blizzard kündigt Classic-Plus-Version mit nahendem Beta-Start an",
-      "link": "https://www.eurogamer.de/world-of-warcraft-forever-classic-plus-beta-release",
-      "pubDate": "12.09.2026 um 19:01 Uhr",
-      "timestamp": 1789239687.0,
-      "source": "Eurogamer.de News",
-      "summary": "Blizzard hat w&auml;hrend seiner Blizzzon-Er&ouml;ffnungszeremonie World of WarCraft Forever angek&uuml;ndigt. Mehr"
     }
   ],
   "int": [
+    {
+      "title": "GTA 6 Is About to Totally Reinvent One of the Best Experiences in Video Games",
+      "link": "https://www.polygon.com/gta-6-stealing-cars/",
+      "pubDate": "13.09.2026 um 05:00 Uhr",
+      "timestamp": 1789275614.0,
+      "source": "Polygon.com",
+      "summary": "Rockstar's GTA 6 aims to make the act of stealing cars more immersive and surprising than any Grand Theft Auto game before it"
+    },
+    {
+      "title": "35 Years Later, the Greatest Detective Thriller Series of All Time Is Officially Free on Streaming",
+      "link": "https://www.polygon.com/twin-peaks-streaming-free-pluto-tv/",
+      "pubDate": "13.09.2026 um 04:31 Uhr",
+      "timestamp": 1789273874.0,
+      "source": "Polygon.com",
+      "summary": "One of the best detective shows ever made is free to stream on Pluto TV."
+    },
+    {
+      "title": "'Strange Things' Officially Returns to Netflix This Week with 10 New Episodes",
+      "link": "https://www.polygon.com/strange-things-tales-85-season-2-release-date-1-week/",
+      "pubDate": "13.09.2026 um 04:27 Uhr",
+      "timestamp": 1789273634.0,
+      "source": "Polygon.com",
+      "summary": "The Party is back for another adventure. Here's everything you need to know about Stranger Things: Tales From '85 season 2."
+    },
+    {
+      "title": "63 Years Later, the Best 'Peanuts' Sally Quote Is Still an Iconic Comic Strip Line",
+      "link": "https://www.polygon.com/sally-brown-best-line-peanuts/",
+      "pubDate": "13.09.2026 um 04:00 Uhr",
+      "timestamp": 1789272018.0,
+      "source": "Polygon.com",
+      "summary": "The best lines from Peanuts' anti-school activist Sally Brown"
+    },
+    {
+      "title": "Your Mother Your Mother Your Mother Review",
+      "link": "https://www.ign.com/articles/your-mother-your-mother-your-mother-review",
+      "pubDate": "13.09.2026 um 03:22 Uhr",
+      "timestamp": 1789269720.0,
+      "source": "IGN All",
+      "summary": "Your Mother Your Mother Your Mother review: Mahershala Ali joins his would-be Blade director as a devout sword-wielding assassin."
+    },
+    {
+      "title": "Why is Blizzard still announcing games years ahead of release? 'We want to convey confidence in some of our biggest bets coming forward'",
+      "link": "https://www.pcgamer.com/games/rts/why-is-blizzard-still-announcing-games-years-ahead-of-release-we-want-to-convey-confidence-in-some-of-our-biggest-bets-coming-forward/",
+      "pubDate": "13.09.2026 um 03:11 Uhr",
+      "timestamp": 1789269083.0,
+      "source": "PCGamer latest",
+      "summary": "Maybe it's the fact it sounds like a year from the opening crawl of a sci-fi movie, but 2030 sure feels a long way off."
+    },
     {
       "title": "The 10 Best Tomb Raider Levels of All Time",
       "link": "https://www.polygon.com/best-tomb-raider-levels/",
@@ -203,14 +251,6 @@
       "summary": "\"The date is a frame, and we're very serious about it\""
     },
     {
-      "title": "10 Near-Perfect Nintendo 3DS Games Nobody Played",
-      "link": "https://www.polygon.com/best-3ds-games-underrated/",
-      "pubDate": "13.09.2026 um 00:00 Uhr",
-      "timestamp": 1789257614.0,
-      "source": "Polygon.com",
-      "summary": "The 3DS came and went, leaving behind 10 near-perfect games most players overlooked, but shouldn't have."
-    },
-    {
       "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
       "link": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
       "pubDate": "12.09.2026 um 23:08 Uhr",
@@ -227,28 +267,12 @@
       "summary": "Blizzard has offered up a surprising amount of detail about the action RPG sequel, which won't be out until 2029."
     },
     {
-      "title": "Blue Lock Director Reveals Why Crunchyroll’s New Action Series Goes Old-School",
-      "link": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pubDate": "12.09.2026 um 23:00 Uhr",
-      "timestamp": 1789254014.0,
-      "source": "Polygon.com",
-      "summary": "The Vermilion Mask director Tetsuaki Watanabe looked to the ’90s and early 2000s to make its supernatural battles easy to follow."
-    },
-    {
       "title": "Diablo 5's first confirmed classes are the Demon Hunter, Monk, and the all-new Plague Knight: Blizzard says the sequel has \"more classes than ever before\"",
       "link": "https://www.gamesradar.com/games/diablo/diablo-5s-first-confirmed-classes-are-the-demon-hunter-monk-and-the-all-new-plague-knight-blizzard-says-the-sequel-has-more-classes-than-ever-before/",
       "pubDate": "12.09.2026 um 22:20 Uhr",
       "timestamp": 1789251636.0,
       "source": "Latest from GamesRadar+",
       "summary": "Diablo 5's Plague Knight is \"a walking death\""
-    },
-    {
-      "title": "Diablo 5 Shows Off Its Brand New Plague Knight Class",
-      "link": "https://www.polygon.com/diablo-5-plague-knight/",
-      "pubDate": "12.09.2026 um 22:01 Uhr",
-      "timestamp": 1789250483.0,
-      "source": "Polygon.com",
-      "summary": "The Plague Knight and more new Diablo 5 classes are on the way in the 2029 sequel, Blizzard confirmed during a BlizzCon panel"
     },
     {
       "title": "No more Diablo 4 expansions are planned, but there's 'a lot of room' for more storytelling in the lead-up to Diablo 5",
@@ -259,36 +283,12 @@
       "summary": "The Diablo team is \"all focused on seasons and getting to Diablo 5,\" support for Diablo 4 will continue \"for a very long time,\" says Blizzard."
     },
     {
-      "title": "Overwatch's New Hero Doctrine: Full Ability Kit and Perks Revealed at BlizzCon",
-      "link": "https://www.polygon.com/overwatch-doctrine-abilities-kit-new-hero-54-blizzcon-2026/",
-      "pubDate": "12.09.2026 um 21:33 Uhr",
-      "timestamp": 1789248806.0,
-      "source": "Polygon.com",
-      "summary": "Overwatch's 54th hero Doctrine is here and playable ahead of season 5. Here's Doctrine's full kit and ability suite."
-    },
-    {
       "title": "Warcraft 3 Reforged: Forsaken Kingdom Review So Far",
       "link": "https://www.ign.com/articles/warcraft-3-forsaken-kingdom-review",
       "pubDate": "12.09.2026 um 21:05 Uhr",
       "timestamp": 1789247126.0,
       "source": "IGN All",
       "summary": "A surprise single-player campaign that maintains the feel of classic Warcraft 3 while mixing in some new ideas."
-    },
-    {
-      "title": "StarCraft: Everything we know so far about Blizzard's new open-world, story-driven shooter",
-      "link": "https://www.gamesradar.com/games/third-person-shooter/starcraft-guide/",
-      "pubDate": "12.09.2026 um 20:53 Uhr",
-      "timestamp": 1789246425.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Blizzard Entertainment just revealed a new StarCraft game, and here's everything we know about the 2030 release"
-    },
-    {
-      "title": "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
-      "link": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
-      "pubDate": "12.09.2026 um 20:28 Uhr",
-      "timestamp": 1789244938.0,
-      "source": "IGN All",
-      "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago."
     }
   ],
   "sim": [
