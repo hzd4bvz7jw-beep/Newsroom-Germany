@@ -147,12 +147,52 @@
   ],
   "int": [
     {
+      "title": "World Of Warcraft Is About To Remix Its Most Beloved Expansion",
+      "link": "https://kotaku.com/world-of-warcraft-wrath-of-the-lich-king-remix-announce-2000733867",
+      "pubDate": "13.09.2026 um 01:05 Uhr",
+      "timestamp": 1789261543.0,
+      "source": "Kotaku",
+      "summary": "A cold, cold summer"
+    },
+    {
+      "title": "Diablo 4 On Switch 2: A Very Impressive Port That Supports Mouse Controls",
+      "link": "https://www.polygon.com/diablo-4-nintendo-switch-2-port-impressions/",
+      "pubDate": "13.09.2026 um 01:03 Uhr",
+      "timestamp": 1789261409.0,
+      "source": "Polygon.com",
+      "summary": "Blizzard confirmed to Polygon that the Nintendo Switch 2 port of Diablo 4 that we played at BlizzCon will support mouse controls"
+    },
+    {
+      "title": "10 Near-Perfect Fantasy Books Recommended by Brandon Sanderson",
+      "link": "https://www.polygon.com/brandon-sanderson-book-recommendations/",
+      "pubDate": "13.09.2026 um 01:01 Uhr",
+      "timestamp": 1789261274.0,
+      "source": "Polygon.com",
+      "summary": "There are so many other complex magic systems and rich worlds to explore"
+    },
+    {
+      "title": "StarCraft's 2030 release is proof \"we're serious,\" says project lead and former Far Cry boss, and it's \"a date that we feel really confident about\"",
+      "link": "https://www.gamesradar.com/games/open-world/starcrafts-2030-release-is-proof-were-serious-says-project-lead-and-former-far-cry-boss-and-its-a-date-that-we-feel-really-confident-about/",
+      "pubDate": "13.09.2026 um 00:23 Uhr",
+      "timestamp": 1789259002.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"The date is a frame, and we're very serious about it\""
+    },
+    {
       "title": "10 Near-Perfect Nintendo 3DS Games Nobody Played",
       "link": "https://www.polygon.com/best-3ds-games-underrated/",
       "pubDate": "13.09.2026 um 00:00 Uhr",
       "timestamp": 1789257614.0,
       "source": "Polygon.com",
       "summary": "The 3DS came and went, leaving behind 10 near-perfect games most players overlooked, but shouldn't have."
+    },
+    {
+      "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
+      "link": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
+      "pubDate": "12.09.2026 um 23:08 Uhr",
+      "timestamp": 1789254488.0,
+      "source": "IGN All",
+      "summary": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased so..."
     },
     {
       "title": "Diablo 5 gameplay details from BlizzCon: More classes than ever before, procedurally-generated dungeons, and Diablo 2-style loot",
@@ -249,46 +289,6 @@
       "timestamp": 1789241594.0,
       "source": "Polygon.com",
       "summary": "A new take on the classic Star Wars story of A New Hope, The Empire Strikes Back, and Return of the Jedi."
-    },
-    {
-      "title": "Diablo 4 is finally getting its big final boss next week, new Amazon class coming 2027",
-      "link": "https://www.gamesradar.com/games/diablo/diablo-4-is-finally-getting-its-big-final-boss-next-week-new-amazon-class-coming-2027/",
-      "pubDate": "12.09.2026 um 19:31 Uhr",
-      "timestamp": 1789241465.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Diablo is finally coming to Diablo 4"
-    },
-    {
-      "title": "5 Best Sci-fi Shows You Can Stream Online for Free",
-      "link": "https://www.polygon.com/best-sci-fi-shows-free-online-streaming/",
-      "pubDate": "12.09.2026 um 19:30 Uhr",
-      "timestamp": 1789241414.0,
-      "source": "Polygon.com",
-      "summary": "Some of the best entries in the genre don't require a paid subscription to be enjoyed."
-    },
-    {
-      "title": "World of Warcraft: Forever is a whole new WoW game launching in November that'll live alongside Classic and Vanilla",
-      "link": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-is-a-whole-new-wow-game-launching-in-november-thatll-live-alongside-classic-and-vanilla/",
-      "pubDate": "12.09.2026 um 19:12 Uhr",
-      "timestamp": 1789240322.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "With a beta starting in just a few days"
-    },
-    {
-      "title": "Blizzard Reveals First Look at World of Warcraft's Next Major Expansion",
-      "link": "https://www.polygon.com/wow-last-titan-reveal-worldsoul-saga-blizzcon-2026/",
-      "pubDate": "12.09.2026 um 19:10 Uhr",
-      "timestamp": 1789240253.0,
-      "source": "Polygon.com",
-      "summary": "World of Warcraft: The Last Titan will complete WoW's Worldsoul Saga. A first look at the expansion was revealed at BlizzCon 2026's opening ceremony."
-    },
-    {
-      "title": "Warcraft 3 Just Got Its First Official New Campaign in 23 years",
-      "link": "https://www.polygon.com/warcraft-3-blizzcon-2026/",
-      "pubDate": "12.09.2026 um 19:09 Uhr",
-      "timestamp": 1789240197.0,
-      "source": "Polygon.com",
-      "summary": "Forsaken Kingdom, a new campaign for Warcraft 3, just got a surprise launch at BlizzCon."
     }
   ],
   "sim": [
