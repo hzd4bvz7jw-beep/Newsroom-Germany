@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Diablo 4 bekommt eine neue Klasse und Veteranen kenne sie bereits, kommt sogar mit einer alten Einschränkung",
+      "link": "https://mein-mmo.de/diablo-4-neue-klasse-amazone-alle-infos/",
+      "pubDate": "13.09.2026 um 20:58 Uhr",
+      "timestamp": 1789333115.0,
+      "source": "Mein-MMO",
+      "summary": "Die Amazone kommt zu Diablo 4. Was die Klasse kann, wann sie ins Spiel kommt und wie ihr sie erwerben könnt, erfahrt ihr hier. Der Beitrag Diablo 4 be..."
+    },
+    {
+      "title": "Pokémon-Legenden Z-A – Saison 16 bringt bis zu 134 seltene Pokébälle",
+      "link": "https://www.playcentral.de/pokemon-legenden-z-a-saison-16-bringt-bis-zu-134-seltene-pokebaelle/",
+      "pubDate": "13.09.2026 um 20:32 Uhr",
+      "timestamp": 1789331537.0,
+      "source": "PlayCentral",
+      "summary": "Fans von Pokémon-Legenden: Z-A sollten sich beeilen, wenn sie ihren Vorrat an seltenen Pokébällen deutlich aufstocken möchten. Die laufende Saison 16 ..."
+    },
+    {
       "title": "WoW Forever lernt aus den Saisons und löst so das größte Problem von Classic",
       "link": "https://mein-mmo.de/wow-forever-klassen-design/",
       "pubDate": "13.09.2026 um 19:39 Uhr",
@@ -127,25 +143,41 @@
       "timestamp": 1789304580.0,
       "source": "ComputerBase",
       "summary": "Eigentlich sollte OpenAIs Billion-Dollar-Börsengang in diesem Jahr stattfinden. Das Unternehmen forcierte einen Wettlauf mit Anthropic um Investorenge..."
-    },
-    {
-      "title": "Diablo 4 ist schon zu Ende und trotz aller Freude über Diablo 5 könnte ich kaum enttäuschter sein",
-      "link": "https://mein-mmo.de/diablo-4-ist-zu-ende-aber-warum/",
-      "pubDate": "13.09.2026 um 12:55 Uhr",
-      "timestamp": 1789304149.0,
-      "source": "Mein-MMO",
-      "summary": "Blizzard wird Diablo 4 nur noch mit neuen Seasons versorgen, keine Erweiterungen mehr bringen. Ein großes Versäumnis. Der Beitrag Diablo 4 ist schon z..."
-    },
-    {
-      "title": "Diablo 4 endet nach Lord of Hatred – keine weiteren Erweiterungen geplant",
-      "link": "https://www.playcentral.de/diablo-4-endet-nach-lord-of-hatred-keine-weiteren-erweiterungen-geplant/",
-      "pubDate": "13.09.2026 um 12:32 Uhr",
-      "timestamp": 1789302725.0,
-      "source": "PlayCentral",
-      "summary": "Für Diablo 4 endet überraschend früh eine wichtige Ära. Blizzard plant nach aktuellem Stand keine weiteren vollwertigen Erweiterungen für das Action-R..."
     }
   ],
   "int": [
+    {
+      "title": "2026’s Best Puzzle Game Is an Even Trippier Take On Portal",
+      "link": "https://www.polygon.com/he-who-watches-impressions/",
+      "pubDate": "13.09.2026 um 21:00 Uhr",
+      "timestamp": 1789333214.0,
+      "source": "Polygon.com",
+      "summary": "He Who Watches is an excellent new game that keeps the spirit of Portal alive with mind-bending puzzles."
+    },
+    {
+      "title": "The Legend of Zelda: Majora’s Mask’s Art Director Gets Blow Back For Using AI In Prototyping Test",
+      "link": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
+      "pubDate": "13.09.2026 um 20:57 Uhr",
+      "timestamp": 1789333032.0,
+      "source": "Kotaku",
+      "summary": "Takaya Imamura was surprised that he was 'getting slammed this hard' for sharing a prototype made with the help of AI"
+    },
+    {
+      "title": "Warcraft 3: Reforged adds always-online requirement, removes LAN mode",
+      "link": "https://www.pcgamer.com/games/rts/warcraft-3-reforged-adds-always-online-requirement-removes-lan-mode/",
+      "pubDate": "13.09.2026 um 20:26 Uhr",
+      "timestamp": 1789331210.0,
+      "source": "PCGamer latest",
+      "summary": "A bit of a sour note."
+    },
+    {
+      "title": "\"Almost all of Diablo 1\" has been recreated in a new Diablo 4 activity taking you from Tristram Cathedral all the way down to Hell",
+      "link": "https://www.gamesradar.com/games/diablo/almost-all-of-diablo-1-has-been-recreated-in-a-new-diablo-4-activity-taking-you-from-tristram-cathedral-all-the-way-down-to-hell/",
+      "pubDate": "13.09.2026 um 20:19 Uhr",
+      "timestamp": 1789330744.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The new activity recreates \"key moments from previous Diablo games, but built in D4's art style with D4's compelling gameplay\""
+    },
     {
       "title": "Matchbox's Director Drove a Truck Off a 200-Foot Bridge: \"We Did It for Real!\"",
       "link": "https://www.polygon.com/matchbox-movie-director-interview-sam-hargrave-preview/",
@@ -219,7 +251,7 @@
       "summary": "\"Art and technology constantly changing makes the whole industry unstable.\""
     },
     {
-      "title": "World Of Warcraft: Forever Is An Alternate Universe Worth Exploring",
+      "title": "Hands-On With World Of Warcraft: Forever, An Alternate Universe Worth Exploring",
       "link": "https://kotaku.com/world-of-warcraft-forever-alternate-universe-worth-exploring-2000733865",
       "pubDate": "13.09.2026 um 17:40 Uhr",
       "timestamp": 1789321226.0,
@@ -257,38 +289,6 @@
       "timestamp": 1789317014.0,
       "source": "Kotaku",
       "summary": "Anthropic’s CEO and co-founder, Dario Amodei, states that 'a team of embedded third-party evaluators' must be put in place to curb AI's development, o..."
-    },
-    {
-      "title": "YouTuber runs onto the stage at Roblox Developers Conference shouting 'We deserve better,' gets tackled and ejected from show",
-      "link": "https://www.pcgamer.com/software/platforms/youtuber-runs-onto-the-stage-at-roblox-developers-conference-shouting-we-deserve-better-gets-tackled-and-ejected-from-show/",
-      "pubDate": "13.09.2026 um 16:19 Uhr",
-      "timestamp": 1789316376.0,
-      "source": "PCGamer latest",
-      "summary": "Mathieo shared the stunt online and explained his reasoning in a video."
-    },
-    {
-      "title": "Moss developer Polyarc share that they're shutting down just two months after releasing a VR-less port of the beloved mousey adventure games",
-      "link": "https://www.rockpapershotgun.com/moss-developer-polyarc-share-that-theyre-shutting-down-just-two-months-after-releasing-a-vr-less-port-of-the-beloved-mousey-adventure-games",
-      "pubDate": "13.09.2026 um 16:16 Uhr",
-      "timestamp": 1789316176.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Another sad one today, unfortunately. Back in July, Polyarc released Moss: The Forgotten Relic, a new version of the original two games combined toget..."
-    },
-    {
-      "title": "My favourite soundtrack of 2026 so far is tucked in one of this year's biggest sleeper hits",
-      "link": "https://www.pcgamer.com/games/puzzle/my-favourite-soundtrack-of-2026-so-far-is-tucked-in-one-of-this-years-biggest-sleeper-hits/",
-      "pubDate": "13.09.2026 um 16:15 Uhr",
-      "timestamp": 1789316112.0,
-      "source": "PCGamer latest",
-      "summary": "Australian duo aksfx have created something truly special."
-    },
-    {
-      "title": "BioWare crunched \"21 days on, one day off\" making Mass Effect, says former dev: \"That was really, really hard, but really worth it\"",
-      "link": "https://www.gamesradar.com/games/mass-effect/bioware-crunched-21-days-on-one-day-off-making-mass-effect-says-former-dev-that-was-really-really-hard-but-really-worth-it/",
-      "pubDate": "13.09.2026 um 16:00 Uhr",
-      "timestamp": 1789315200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Cinematic designer Armando Troisi says the RPG was developed with \"a level of ambition that I think was just unheard of at the time\""
     }
   ],
   "sim": [
