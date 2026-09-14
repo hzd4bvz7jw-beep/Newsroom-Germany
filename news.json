@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Palworld Card Game – drittes Booster-Set Eternal Ascent startet im Januar 2027",
+      "link": "https://www.playcentral.de/palworld-card-game-drittes-booster-set-eternal-ascent-startet-im-januar-2027/",
+      "pubDate": "13.09.2026 um 23:32 Uhr",
+      "timestamp": 1789342356.0,
+      "source": "PlayCentral",
+      "summary": "Das Palworld Official Card Game baut seinen Veröffentlichungsplan weiter aus. Bushiroad hat mit Eternal Ascent die dritte Booster Erweiterung angekünd..."
+    },
+    {
+      "title": "Blackwood erscheint 2026 auf Steam – Auftragskiller, Ladenalltag, Shooter-Action",
+      "link": "https://www.playcentral.de/blackwood-erscheint-2026-auf-steam-auftragskiller-ladenalltag-shooter-action/",
+      "pubDate": "13.09.2026 um 23:31 Uhr",
+      "timestamp": 1789342302.0,
+      "source": "PlayCentral",
+      "summary": "Mit Blackwood erscheint am 16. September 2026 ein ungewöhnlicher Third-Person-Shooter auf Steam, der gleich mehrere bekannte Einflüsse miteinander ver..."
+    },
+    {
       "title": "Fallout 5 ist in Vorproduktion – Bethesda nennt es langfristiges Ziel",
       "link": "https://www.playcentral.de/fallout-5-ist-in-vorproduktion-bethesda-nennt-es-langfristiges-ziel/",
       "pubDate": "13.09.2026 um 22:31 Uhr",
@@ -81,22 +97,6 @@
       "summary": "Blizzard schickt World of Warcraft erneut in den eisigen Norden Azeroths. Im Rahmen der BlizzCon 2026 wurde offiziell bestätigt, dass Wrath of the Lic..."
     },
     {
-      "title": "Final Fantasy 14 bekommt neue Spieluhr Bygone Serenity – Preis und Release﻿",
-      "link": "https://www.playcentral.de/final-fantasy-14-bekommt-neue-spieluhr-bygone-serenity-preis-und-release/",
-      "pubDate": "13.09.2026 um 15:31 Uhr",
-      "timestamp": 1789313498.0,
-      "source": "PlayCentral",
-      "summary": "Square Enix erweitert das Merchandise-Angebot zu Final Fantasy 14 um ein neues Sammlerstück. Hinter Final Fantasy 14: Bygone Serenity steckt allerding..."
-    },
-    {
-      "title": "DLSS-5-Mod für Fallout New Vegas zeigt, was das offizielle Remaster liefern muss",
-      "link": "https://www.playcentral.de/dlss-5-mod-fuer-fallout-new-vegas-zeigt-was-das-offizielle-remaster-liefern-muss/",
-      "pubDate": "13.09.2026 um 14:31 Uhr",
-      "timestamp": 1789309899.0,
-      "source": "PlayCentral",
-      "summary": "Fallout: New Vegas gehört auch mehr als 15 Jahre nach seiner Veröffentlichung am 19. Oktober 2010 zu den beliebtesten Rollenspielen der Reihe. Entspre..."
-    },
-    {
       "title": "Blizzard belebt sein bestes Spiel endlich wieder und ich werde bald kaum etwas anderes spielen",
       "link": "https://mein-mmo.de/heroes-of-the-storm-is-back-baby/",
       "pubDate": "13.09.2026 um 14:31 Uhr",
@@ -147,12 +147,36 @@
   ],
   "int": [
     {
+      "title": "10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/",
+      "pubDate": "14.09.2026 um 00:04 Uhr",
+      "timestamp": 1789344282.0,
+      "source": "PCGamer latest",
+      "summary": "The classic-ish MMO has a ton of changes to make the original experience much smoother."
+    },
+    {
+      "title": "Diablo 5 Has A Surprising Connection To Dragon Age",
+      "link": "https://www.polygon.com/diablo-5-interview-jennifer-hepler-blizzcon-2026/",
+      "pubDate": "13.09.2026 um 23:51 Uhr",
+      "timestamp": 1789343461.0,
+      "source": "Polygon.com",
+      "summary": "Former BioWare dev Jennifer Hepler tells Polygon, \"My experience with traditional RPGs has definitely been a strength\" during Diablo 5's development"
+    },
+    {
       "title": "Why StarCraft Isn't Coming Back Until 2030",
       "link": "https://www.polygon.com/starcraft-2030-release-date-dan-hay-blizzcon-2026/",
       "pubDate": "13.09.2026 um 22:55 Uhr",
       "timestamp": 1789340139.0,
       "source": "Polygon.com",
       "summary": "StarCraft general manager Dan Hay explains why Blizzard announced the new StarCraft and why it's aiming for a 2030 release."
+    },
+    {
+      "title": "This Popular RM1 CD Player Art Frame on Kickstarter Brings Back the Nostalgia I Needed and Offers to Up 55% Off in Late Pledge Rewards",
+      "link": "https://www.ign.com/articles/how-to-back-new-rm1-cd-player-art-frame-kickstarter-project",
+      "pubDate": "13.09.2026 um 22:30 Uhr",
+      "timestamp": 1789338622.0,
+      "source": "IGN All",
+      "summary": "Time to bust out my CD binder."
     },
     {
       "title": "Warcraft 3 Reforged’s Big Update Adds Two New Secret Levels That No One’s Found Yet",
@@ -265,30 +289,6 @@
       "timestamp": 1789326074.0,
       "source": "Polygon.com",
       "summary": "Without some key video game franchises livening up the 20th century, it wouldn't have been nearly as memorable."
-    },
-    {
-      "title": "StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game'",
-      "link": "https://www.pcgamer.com/games/fps/starcraft-is-a-narrative-driven-shooter-with-a-definitive-ending-and-not-a-seasonal-game/",
-      "pubDate": "13.09.2026 um 18:44 Uhr",
-      "timestamp": 1789325060.0,
-      "source": "PCGamer latest",
-      "summary": "The shooter will have a \"beginning, middle, and end,\" according to StarCraft GM Dan Hay."
-    },
-    {
-      "title": "World of Warcraft: Forever Devs Explain Why the Game Makes WoW 2 Unlikely",
-      "link": "https://www.ign.com/articles/world-of-warcraft-forever-wow-2-unlikely",
-      "pubDate": "13.09.2026 um 18:11 Uhr",
-      "timestamp": 1789323114.0,
-      "source": "IGN All",
-      "summary": "World of Warcraft: Forever developers Kris Zierhut and Mike Nuthals detail the game's new features and explain why a WoW 2 sequel is unnecessary."
-    },
-    {
-      "title": "Discussing 20 years of Company of Heroes with the team carrying its torch into the future",
-      "link": "https://www.pcgamer.com/games/rts/discussing-20-years-of-company-of-heroes-with-the-team-carrying-its-torch-into-the-future/",
-      "pubDate": "13.09.2026 um 18:08 Uhr",
-      "timestamp": 1789322918.0,
-      "source": "PCGamer latest",
-      "summary": "\"I'm really pleased that we're here, able to support the games, and able to celebrate this 20th anniversary.\""
     }
   ],
   "sim": [
