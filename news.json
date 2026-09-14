@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Fujitsu Monaka: 144-Kern-Prozessoren aus Japan kommen im November",
+      "link": "https://www.computerbase.de/news/prozessoren/fujitsu-monaka-144-kern-prozessoren-aus-japan-kommen-im-november.99403/",
+      "pubDate": "14.09.2026 um 20:42 Uhr",
+      "timestamp": 1789411320.0,
+      "source": "ComputerBase",
+      "summary": "Fujitsu kündigt die Verfügbarkeit der neuen CPU-Generation Monaka mit 144 Kernen für November 2026 an. Dann sollen die Chips separat für Rechenzentren..."
+    },
+    {
       "title": "Steam Sale: Valve rabattiert Spiele wie Baldur's Gate und Clair Obscure",
       "link": "https://www.computerbase.de/news/gaming/steam-sale-eine-woche-angebote-zu-gruppenbasierten-rollenspielen.99397/",
       "pubDate": "14.09.2026 um 19:30 Uhr",
@@ -9,7 +17,7 @@
       "summary": "Immer wieder hält Valve auf Steam abseits der vier großen jährlichen Steam Sales auch kleinere Rabattaktionen mit klarem Genre- oder Themenbezug ab. „..."
     },
     {
-      "title": "Apple: iOS 27, iPadOS 27, macOS 27 und watchOS 27 verfügbar",
+      "title": "Apple: iOS 27, iPadOS 27, macOS 27 und watchOS 27 verfügbar (Update)",
       "link": "https://www.computerbase.de/news/betriebssysteme/apple-ios-27-ipados-27-macos-27-und-watchos-27-verfuegbar.99398/",
       "pubDate": "14.09.2026 um 19:10 Uhr",
       "timestamp": 1789405800.0,
@@ -135,17 +143,65 @@
       "timestamp": 1789396339.0,
       "source": "PlayCentral",
       "summary": "Die PlayStation 6 bleibt vorerst ohne Veröffentlichungstermin. Sony-Chef Hiroki Totoki hat in einem aktuellen Interview erklärt, dass der Konzern bisl..."
-    },
-    {
-      "title": "WoW Forever: Die Beta startet bald – Alles zum Release, den Anmeldungen und Einschränkungen",
-      "link": "https://mein-mmo.de/wow-forever-beta/",
-      "pubDate": "14.09.2026 um 14:22 Uhr",
-      "timestamp": 1789395733.0,
-      "source": "Mein-MMO",
-      "summary": "WoW Forever bekommt vor dem Start am 4. November noch eine Beta, die sogar schon bald losgeht. Hier lest ihr alles zu deren Release, Anmeldungen und C..."
     }
   ],
   "int": [
+    {
+      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "link": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "pubDate": "14.09.2026 um 19:04 Uhr",
+      "timestamp": 1789412683.0,
+      "source": "Eurogamer.net News",
+      "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: S..."
+    },
+    {
+      "title": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
+      "link": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
+      "pubDate": "14.09.2026 um 19:00 Uhr",
+      "timestamp": 1789412400.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "The creators of military shooter Wardogs have announced that they will crack down heavily on players who use exploits and bugs to speedily farm in-gam..."
+    },
+    {
+      "title": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
+      "pubDate": "14.09.2026 um 19:00 Uhr",
+      "timestamp": 1789412400.0,
+      "source": "PCGamer latest",
+      "summary": "\"We also want to grow a healthy ecosystem for both the gamers and the game developers.\""
+    },
+    {
+      "title": "A Pokémon Fan May Have Found A Solution To The End Of Pokémon Bank",
+      "link": "https://kotaku.com/pokemon-bank-3ds-adapter-gba-switch-firered-leafgreen-2000734327",
+      "pubDate": "14.09.2026 um 18:35 Uhr",
+      "timestamp": 1789410917.0,
+      "source": "Kotaku",
+      "summary": "The end of the 3DS-based storage system is burning the bridge between old and new generations"
+    },
+    {
+      "title": "Bungie ends Marathon's seasonal schedule, delays a September update to December, and makes it more like Destiny 2",
+      "link": "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+      "pubDate": "14.09.2026 um 18:31 Uhr",
+      "timestamp": 1789410718.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Marathon is getting a social space, a firing range, and team deathmatch"
+    },
+    {
+      "title": "World of Warcraft Forever Will be the Easiest Way into WoW in 20 Years",
+      "link": "https://www.polygon.com/world-of-warcraft-forever-wow-approachable-casual-new-players/",
+      "pubDate": "14.09.2026 um 18:30 Uhr",
+      "timestamp": 1789410614.0,
+      "source": "Polygon.com",
+      "summary": "Blizzard's 'Classic Plus' concept could be more approachable for new, returning, and casual players than modern WoW"
+    },
+    {
+      "title": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features",
+      "link": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+      "pubDate": "14.09.2026 um 18:19 Uhr",
+      "timestamp": 1789409999.0,
+      "source": "PCGamer latest",
+      "summary": "Big changes are coming, but not until December."
+    },
     {
       "title": "Sekiro: No Defeat’s 2-Hour Movie Version Is A Disjointed Disappointment",
       "link": "https://kotaku.com/sekiro-no-defeat-anime-adaptation-film-movie-series-crunchyroll-2000731869",
@@ -195,7 +251,7 @@
       "summary": "Sure sounds like a sequel to me."
     },
     {
-      "title": "Marathon Looks Like Helldivers In First Peak At The Game’s PVE Future: ‘We Will Be Evolving Marathon Into A More Alien And Dynamic Survival Experience’",
+      "title": "Marathon Looks Like Helldivers In First Peek At The Game’s PVE Future: ‘We Will Be Evolving Marathon Into A More Alien And Dynamic Survival Experience’",
       "link": "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
       "pubDate": "14.09.2026 um 17:48 Uhr",
       "timestamp": 1789408086.0,
@@ -233,62 +289,6 @@
       "timestamp": 1789406887.0,
       "source": "Polygon.com",
       "summary": "Pokémon fans have a new, hassle-free way of buying 30th anniversary ETB as well as the Tech and Poster Collection, all for close to MSRP"
-    },
-    {
-      "title": "Rayman Legends Retold Officially Delayed Less Than a Month Before Release",
-      "link": "https://www.polygon.com/rayman-legends-retold-ubisoft-delay/",
-      "pubDate": "14.09.2026 um 17:26 Uhr",
-      "timestamp": 1789406760.0,
-      "source": "Polygon.com",
-      "summary": "Ubisoft has announced the remake of 2013's Rayman Legends is being pushed to December"
-    },
-    {
-      "title": "Rayman Legends Retold \"has officially gone gold,\" but Ubisoft's monkey paw curls – it's been delayed two months",
-      "link": "https://www.gamesradar.com/games/platformer/rayman-legends-retold-has-officially-gone-gold-but-ubisofts-monkey-paw-curls-its-been-delayed-two-months/",
-      "pubDate": "14.09.2026 um 17:23 Uhr",
-      "timestamp": 1789406629.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"We have decided to take extra time to make sure every detail gets the care it deserves\""
-    },
-    {
-      "title": "D&D head promises to fix \"very loud, very public missteps\" with \"a new spirit and energy\" for the game",
-      "link": "https://www.gamesradar.com/tabletop-gaming/d-and-d-head-promises-to-fix-very-loud-very-public-missteps-with-a-new-spirit-and-energy-for-the-game/",
-      "pubDate": "14.09.2026 um 17:22 Uhr",
-      "timestamp": 1789406547.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Dan Ayoub discusses how he plans to earn back the community's trust"
-    },
-    {
-      "title": "Wardogs devs are \"d*** heads,\" according to Wardogs devs feeling sorry for prioritizing streamers in the FPS' giant queue",
-      "link": "https://www.gamesradar.com/games/fps/wardogs-devs-are-d-heads-according-to-wardogs-devs-feeling-sorry-for-prioritizing-streamers-in-the-fps-giant-queue/",
-      "pubDate": "14.09.2026 um 17:17 Uhr",
-      "timestamp": 1789406256.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Self-awareness is the first step"
-    },
-    {
-      "title": "Lies of P Leak All but Confirms Where the Series Goes Next",
-      "link": "https://www.polygon.com/lies-of-p-2-sequel-title-leaked/",
-      "pubDate": "14.09.2026 um 17:15 Uhr",
-      "timestamp": 1789406152.0,
-      "source": "Polygon.com",
-      "summary": "Lies of P publisher Neowiz may have inadvertently confirmed what classic story will be adapted for the Soulslike sequel."
-    },
-    {
-      "title": "Marathon Delays New Content And Ditches Seasons As Bungie’s Extraction Shooter Fights For Its Life",
-      "link": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
-      "pubDate": "14.09.2026 um 17:12 Uhr",
-      "timestamp": 1789405936.0,
-      "source": "Kotaku",
-      "summary": "Things are looking bad"
-    },
-    {
-      "title": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
-      "pubDate": "14.09.2026 um 17:10 Uhr",
-      "timestamp": 1789405800.0,
-      "source": "PCGamer latest",
-      "summary": "I need this immediately, please and thank you."
     }
   ],
   "sim": [
