@@ -1,6 +1,62 @@
 {
   "de": [
     {
+      "title": "Apple: iOS 27, iPadOS 27, macOS 27 und watchOS 27 verfügbar",
+      "link": "https://www.computerbase.de/news/betriebssysteme/apple-ios-27-ipados-27-macos-27-und-watchos-27-verfuegbar.99398/",
+      "pubDate": "14.09.2026 um 19:10 Uhr",
+      "timestamp": 1789405800.0,
+      "source": "ComputerBase",
+      "summary": "Apple hat die Updates auf iOS 27, macOS 27, iPadOS 27, watchOS 27, tvOS 27 und visionOS 27 freigegeben. Wie üblich fiel der Startschuss um 19 Uhr deut..."
+    },
+    {
+      "title": "Fable hat überraschend niedrige PC-Anforderungen – zumindest wenn euch 30 FPS reichen",
+      "link": "https://www.eurogamer.de/fable-pc-systemanforderungen-30-fps",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405256.0,
+      "source": "Eurogamer.de News",
+      "summary": "Fable erscheint schon am 23. Februar 2027. Damit Spieler fr&uuml;hzeitig ihren PC aufr&uuml;sten k&ouml;nnen, hat Xbox bereits jetzt die Systemanforde..."
+    },
+    {
+      "title": "Steam Frame kaufen: Preise, Kauf mit Losverfahren und Gratisbeilage im Detail",
+      "link": "https://www.computerbase.de/artikel/gaming/steam-frame-kaufen-preise-losverfahren-gratisbeilage.99388/",
+      "pubDate": "14.09.2026 um 19:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "ComputerBase",
+      "summary": "Valves neues VR-System Steam Frame (Test) kann ab sofort zu Preisen ab 1.049 Euro „bestellt werden“. Valve geht dabei wie bei der Steam Machine vor: I..."
+    },
+    {
+      "title": "Auf Steam Frame: So läuft Half-Life: Alyx für Arm64 mit Foveated Rendering",
+      "link": "https://www.computerbase.de/artikel/gaming/valve-steam-frame-half-life-alyx-arm64-port.99351/",
+      "pubDate": "14.09.2026 um 19:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "ComputerBase",
+      "summary": "Die neue Steam Frame kann am Windows-PC gerenderte Spiele wiedergeben, aber sie kann auch selber Spiele rendern. Dafür muss ein Spiel entweder für Ste..."
+    },
+    {
+      "title": "Steam Frame im Test: Tracking, Bildqualität und Standalone vs. Streaming im Detail",
+      "link": "https://www.computerbase.de/artikel/gaming/valve-steam-frame-test.99312/",
+      "pubDate": "14.09.2026 um 19:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "ComputerBase",
+      "summary": "Nach dem neuen Steam-Controller im Mai und der Steam Machine (Test) im Juni/Juli schickt Valve heute auch die dritte und letzte für dieses Jahr angekü..."
+    },
+    {
+      "title": "Wardogs: Wenn ich den neuen Shooter-Hit auf Steam nicht schon lieben würde, hätte mich eine einzige Runde zum Fan gemacht",
+      "link": "https://mein-mmo.de/wardogs-dariusz-eine-runde-zum-verlieben/",
+      "pubDate": "14.09.2026 um 16:52 Uhr",
+      "timestamp": 1789404752.0,
+      "source": "Mein-MMO",
+      "summary": "Von der Eroberung einer feindlichen Festung über 5-Fach-Kills zum Comeback-Sieg. Wardogs hat diese ganz besonderen Runden, derentwegen ich überhaupt z..."
+    },
+    {
+      "title": "Avengers Doomsday bricht einen gewinnbringenden Rekord für Marvel, dabei ist der Film noch nicht einmal erschienen",
+      "link": "https://mein-mmo.de/marvel-bricht-mit-avengers-doomsday-bereits-einen-rekord/",
+      "pubDate": "14.09.2026 um 16:45 Uhr",
+      "timestamp": 1789404300.0,
+      "source": "Mein-MMO",
+      "summary": "Avengers: Doomsday erscheint im Dezember und die Erwartungen sind hoch. Finanziell sorgt der Film bereits jetzt für klingelnde Kassen. Der Beitrag Ave..."
+    },
+    {
       "title": "StarCraft: Blizzard setzt beim neuen Shooter auf eine abgeschlossene Story statt Seasons",
       "link": "https://www.playcentral.de/starcraft-shooter-story-ende-keine-seasons/",
       "pubDate": "14.09.2026 um 16:04 Uhr",
@@ -65,14 +121,6 @@
       "summary": "Mit der Saison des Höllenerbes verwandelt Blizzard Diablo 4 in eine große Jubiläumsfeier für die gesamte Action-Rollenspielreihe. Der Startschuss fäll..."
     },
     {
-      "title": "Wenn ich Wardogs nicht schon lieben würde, hätte mich eine einzige Runde zum Fan gemacht",
-      "link": "https://mein-mmo.de/wardogs-dariusz-eine-runde-zum-verlieben/",
-      "pubDate": "14.09.2026 um 14:32 Uhr",
-      "timestamp": 1789396374.0,
-      "source": "Mein-MMO",
-      "summary": "Von der Eroberung einer feindlichen Festung über 5-Fach-Kills zum Comeback-Sieg. Wardogs hat diese ganz besonderen Runden, derentwegen ich überhaupt z..."
-    },
-    {
       "title": "PS6-Release weiter offen, Sony nennt keinen Termin für die nächste PlayStation",
       "link": "https://www.playcentral.de/ps6-release-weiter-offen-sony-nennt-keinen-termin-fuer-die-naechste-playstation/",
       "pubDate": "14.09.2026 um 14:32 Uhr",
@@ -95,200 +143,152 @@
       "timestamp": 1789394400.0,
       "source": "ComputerBase",
       "summary": "Schon vor Jahren gab es Pläne zu einer animierten Serie im Diablo-Universum auf Netflix. Diese verliefen zwar im Sande, doch nun soll es doch eine geb..."
-    },
-    {
-      "title": "Diablo 5: Neues Karawanen-System bringt das Lager-Feeling aus Baldur's Gate ins Spiel",
-      "link": "https://www.eurogamer.de/diablo-5-karawane-baldurs-gate-staedte",
-      "pubDate": "14.09.2026 um 14:00 Uhr",
-      "timestamp": 1789394400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wie wir bereits im Zuge der Ank&uuml;ndigung von Diablo 5 am vergangenen Wochenende erfahren haben, wird es im neuen Teil keine gewohnten St&auml;dte ..."
-    },
-    {
-      "title": "Avengers Doomsday bricht bereits 93 Tage vor Release einen Rekord für Marvel",
-      "link": "https://mein-mmo.de/marvel-bricht-mit-avengers-doomsday-bereits-einen-rekord/",
-      "pubDate": "14.09.2026 um 14:00 Uhr",
-      "timestamp": 1789394400.0,
-      "source": "Mein-MMO",
-      "summary": "Avengers: Doomsday erscheint im Dezember und die Erwartungen sind hoch. Finanziell sorgt der Film bereits jetzt für klingelnde Kassen. Der Beitrag Ave..."
-    },
-    {
-      "title": "Fanprojekt dekompiliert Dragon Age Origins für PC-Update 2027 angepeilt",
-      "link": "https://www.playcentral.de/fanprojekt-dekompiliert-dragon-age-origins-fuer-pc-update-2027-angepeilt/",
-      "pubDate": "14.09.2026 um 13:31 Uhr",
-      "timestamp": 1789392715.0,
-      "source": "PlayCentral",
-      "summary": "Dragon Age: Origins könnte im Jahr 2027 auf dem PC ein bemerkenswertes Comeback feiern. Dahinter steckt allerdings kein offizielles Remaster von Elect..."
-    },
-    {
-      "title": "Tempest Rising: Release-Termin für die neue Erweiterung The Veti's Wrath steht fest",
-      "link": "https://www.eurogamer.de/tempest-rising-vetis-wrath-release",
-      "pubDate": "14.09.2026 um 13:26 Uhr",
-      "timestamp": 1789392369.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Erweiterung The Veti's Wrath f&uuml;r das Echtzeitstrategiespiel Tempest Rising wird noch in diesem Monat ver&ouml;ffentlicht. Mehr"
-    },
-    {
-      "title": "Grand Theft Auto 6: Erster offizieller Sprecher enthüllt seine Rolle",
-      "link": "https://www.eurogamer.de/gta-6-erster-sprecher-stephen-root",
-      "pubDate": "14.09.2026 um 13:25 Uhr",
-      "timestamp": 1789392305.0,
-      "source": "Eurogamer.de News",
-      "summary": "Der erste Synchronsprecher f&uuml;r Rockstars Open-World-Abenteuer Grand Theft Auto 6 steht fest. Mehr"
-    },
-    {
-      "title": "World of WarCraft Forever: Entwickler verzichten im Classic-Plus auf XP-Boosts und WoW-Marken",
-      "link": "https://www.eurogamer.de/wow-forever-xp-boosts-gestrichen",
-      "pubDate": "14.09.2026 um 13:23 Uhr",
-      "timestamp": 1789392238.0,
-      "source": "Eurogamer.de News",
-      "summary": "Am vergangenen Wochenende l&uuml;ftete Blizzard auf der BlizzCon das Geheimnis rund um World of WarCraft Forever, die offizielle Classic-Plus-Version ..."
     }
   ],
   "int": [
     {
-      "title": "Sombra's change to Support is the right move, but I fear some Overwatch players may take time to adjust",
-      "link": "https://www.pcgamer.com/games/fps/sombras-change-to-support-is-the-right-move-but-i-fear-some-overwatch-players-may-take-time-to-adjust/",
-      "pubDate": "14.09.2026 um 16:00 Uhr",
-      "timestamp": 1789401659.0,
+      "title": "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/",
+      "pubDate": "14.09.2026 um 17:10 Uhr",
+      "timestamp": 1789405800.0,
       "source": "PCGamer latest",
-      "summary": "The Sombra hatred runs deep."
+      "summary": "I need this immediately, please and thank you."
     },
     {
-      "title": "Scream star Courteney Cox wants to direct a sequel: \"Nobody knows more about that movie than I do\"",
-      "link": "https://www.gamesradar.com/entertainment/horror-movies/scream-star-courteney-cox-wants-to-direct-a-sequel-nobody-knows-more-about-that-movie-than-i-do/",
-      "pubDate": "14.09.2026 um 16:00 Uhr",
-      "timestamp": 1789401655.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Scream 8 is in the works"
-    },
-    {
-      "title": "World Of Warcraft Pizza Is A Perfect Reminder Of What Makes BlizzCon Special",
-      "link": "https://kotaku.com/night-elf-pizza-orc-pizza-blizzcon-2026-kotaku-review-2000734044",
-      "pubDate": "14.09.2026 um 16:00 Uhr",
-      "timestamp": 1789401635.0,
-      "source": "Kotaku",
-      "summary": "Put down a feast"
-    },
-    {
-      "title": "The World's Coolest New Indie Gaming Showcase Officially Returns Next Month",
-      "link": "https://www.polygon.com/triple-i-initiative-showcase-oct-8/",
-      "pubDate": "14.09.2026 um 16:00 Uhr",
-      "timestamp": 1789401616.0,
+      "title": "Jason Statham's 95-minute Action Thriller Officially Redeems Itself on Streaming",
+      "link": "https://www.polygon.com/jason-statham-mutiny-streaming-hit-amazon-apple-tv-september-2026/",
+      "pubDate": "14.09.2026 um 17:09 Uhr",
+      "timestamp": 1789405784.0,
       "source": "Polygon.com",
-      "summary": "After a successful spring outing, Evil Empire's Triple-i Initiative Showcase will return this fall, promising 'No ads, no host, just games.'"
+      "summary": "Jason Statham’s latest action thriller is finding a second life at home, topping both Amazon and Apple TV movie charts after its theatrical run."
     },
     {
-      "title": "The clever tweaks and new mechanics in Emerland prove that it's so much more than a fresh coat of paint on Everdell",
-      "link": "https://www.gamesradar.com/games/board-games/emerland-review/",
-      "pubDate": "14.09.2026 um 16:00 Uhr",
-      "timestamp": 1789401600.0,
+      "title": "The internet's new obsession: Gabe Newell explaining why Valve defied big tech by staying a private company and hiring \"the most expensive talent\"",
+      "link": "https://www.gamesradar.com/games/the-internets-new-obsession-gabe-newell-explaining-why-valve-defied-big-tech-by-staying-a-private-company-and-hiring-the-most-expensive-talent/",
+      "pubDate": "14.09.2026 um 17:03 Uhr",
+      "timestamp": 1789405386.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Our expert goes hands-on with the new Emerland board game, the jungle-themed follow-up to Everdell. Is it worth your time, and will it be the right fi..."
+      "summary": "For example, a Half-Life dev who was \"shipping 4,000 lines of code per day\" without AI"
     },
     {
-      "title": "I've learned to love Star Wars Zero Company's permadeath – by letting the new hires die",
-      "link": "https://www.gamesradar.com/games/strategy/ive-learned-to-love-star-wars-zero-companys-permadeath-by-letting-the-new-hires-die/",
-      "pubDate": "14.09.2026 um 16:00 Uhr",
-      "timestamp": 1789401600.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Bringing a Rogue One mindset into the XCOM-like Star Wars game is the best way to preserve authored characters"
-    },
-    {
-      "title": "Blizzard say Battle.net isn't looking to fight Steam and Epic for supermassive storefront supremacy, despite recently nabbing The Witcher 3 and Cyberpunk 2077",
-      "link": "https://www.rockpapershotgun.com/blizzard-say-battlenet-isnt-looking-to-fight-steam-and-epic-for-supermassive-storefront-supremacy-despite-recently-nabbing-the-witcher-3-and-cyberpunk-2077",
-      "pubDate": "14.09.2026 um 15:59 Uhr",
-      "timestamp": 1789401594.0,
+      "title": "Valve’s Steam Frame VR headset opens for orders, with the cheapest model priced at a lenswatering £889 / $1,059",
+      "link": "https://www.rockpapershotgun.com/valves-steam-frame-vr-headset-opens-for-orders-with-the-cheapest-model-priced-at-a-lenswatering-889-1059",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405241.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "No siree. We are not trying to fight those big bosses. It's arguably a bit of a weird thing for a publisher with Diablo and World of Warcraft in their..."
+      "summary": "Valve have just launched the Steam Frame wireless VR headset, finally completing the triumvirate of new hardware &ndash; along with the new Steam Mach..."
     },
     {
-      "title": "Blizzard isn't \"trying to do the Steam or Epic Games Store thing\" by putting Cyberpunk 2077 and The Witcher 3 Remastered on Battle.net, says exec",
-      "link": "https://www.gamesradar.com/games/blizzard-isnt-trying-to-do-the-steam-or-epic-games-store-thing-by-putting-cyberpunk-2077-and-the-witcher-3-remastered-on-battle-net-says-exec/",
-      "pubDate": "14.09.2026 um 15:52 Uhr",
-      "timestamp": 1789401141.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "CD Projekt Red's RPGs don't mean there's a substantial change happening"
-    },
-    {
-      "title": "\"They've taken about $250,000 of your money for a product that's not finished\" - Unico's faux CRT TV commits retro gaming cardinal sins during early testing",
-      "link": "https://www.gamesradar.com/hardware/retro/theyve-taken-about-usd250-000-of-your-money-for-a-product-thats-not-finished-unicos-faux-crt-tv-commits-retro-gaming-cardinal-sins-during-early-testing/",
-      "pubDate": "14.09.2026 um 15:49 Uhr",
-      "timestamp": 1789400997.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Early tests reveal that Unico's faux CRT Traveller ULW10 display has a serious lag issue, and it also seems to lack composite input and 240p resolutio..."
-    },
-    {
-      "title": "Costco Is Quietly Getting The Best Pokémon Trading Card Deal of 2026",
-      "link": "https://www.polygon.com/pokemon-tcg-ascended-heroes-etb-costco-price-restock-locations-when/",
-      "pubDate": "14.09.2026 um 15:48 Uhr",
-      "timestamp": 1789400899.0,
-      "source": "Polygon.com",
-      "summary": "The membership-only retailer receives Ascended Heroes ETBs on the same week that 30th anniversary TCG products release, and for cheaper than expected"
-    },
-    {
-      "title": "The RAMpocalypse support group",
-      "link": "https://www.pcgamer.com/hardware/the-rampocalypse-support-group/",
-      "pubDate": "14.09.2026 um 15:48 Uhr",
-      "timestamp": 1789400883.0,
-      "source": "PCGamer latest",
-      "summary": "Based on 60+ years of team experience and expert knowledge we're here helping PC gamers navigate the pricing crisis."
-    },
-    {
-      "title": "Metroid Ravenous reveal sees Metroid Dread surge to the top of Nintendo's eShop charts 5 years after launch",
-      "link": "https://www.gamesradar.com/games/metroid/metroid-ravenous-reveal-sees-metroid-dread-surge-to-the-top-of-nintendos-eshop-charts-5-years-after-launch/",
-      "pubDate": "14.09.2026 um 15:47 Uhr",
-      "timestamp": 1789400856.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "People are... Metroid ravenous"
-    },
-    {
-      "title": "Legendary Zelda and Star Fox artist is \"genuinely amazed\" by AI even as he catches backlash from Nintendo fans",
-      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/",
-      "pubDate": "14.09.2026 um 15:45 Uhr",
-      "timestamp": 1789400707.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "You've met with a terrible post, haven't you?"
-    },
-    {
-      "title": "Redfall co-director Harvey Smith thinks Arkane 'never should have been working on a games-as-a-service game'",
-      "link": "https://www.pcgamer.com/games/fps/redfall-co-director-harvey-smith-thinks-arkane-never-should-have-been-working-on-a-games-as-a-service-game/",
-      "pubDate": "14.09.2026 um 15:40 Uhr",
-      "timestamp": 1789400403.0,
-      "source": "PCGamer latest",
-      "summary": "Smith has since left Arkane and founded Black Pony Immersive last month."
-    },
-    {
-      "title": "Avengers: Doomsday star Kelsey Grammer shared his thoughts on Beast in resurfaced comments, and fans think he doesn't understand the character",
-      "link": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-star-kelsey-grammer-shared-his-thoughts-on-beast-in-resurfaced-comments-and-fans-think-he-doesnt-understand-the-character/",
-      "pubDate": "14.09.2026 um 15:38 Uhr",
-      "timestamp": 1789400302.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Fans are \"still hyped\" for Beast's return, but could he go \"full mad scientist\"?"
-    },
-    {
-      "title": "Zack Snyder’s Lifelong Passion Project Gets Terrible Reviews",
-      "link": "https://www.polygon.com/zack-snyder-last-photograph-reviews-rotten-tomatoes/",
-      "pubDate": "14.09.2026 um 15:36 Uhr",
-      "timestamp": 1789400198.0,
-      "source": "Polygon.com",
-      "summary": "Zack Snyder's new film, 'The Last Photograph,' just premiered at TIFF and it's getting horrible first reviews."
-    },
-    {
-      "title": "This week in PC games: become a magic girl in Kernel Hearts, a dog commando in Fright Train, or a capital class warship in Sublight",
-      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-become-a-magic-girl-in-kernel-hearts-a-dog-commando-in-fright-train-or-a-capital-class-warship-in-sublight",
-      "pubDate": "14.09.2026 um 15:34 Uhr",
-      "timestamp": 1789400087.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Happy new week all! Over the weekend I banished all thought of rocks, paper or shotguns and volunteered to pick apples at a local orchard. Many wonder..."
-    },
-    {
-      "title": "Tom Holland Is Now The Highest-Grossing Actor Of All Time As Spider-Man: Brand New Day Crosses $2.4 Billion Mark",
-      "link": "https://kotaku.com/tom-holland-highest-grossing-actor-mcu-box-office-spider-man-odyssey-zoe-saldana-robert-downey-jr-harrison-ford-2000734000",
-      "pubDate": "14.09.2026 um 15:30 Uhr",
-      "timestamp": 1789399845.0,
+      "title": "I Tested Valve’s New $1,000+ VR Headset And I Have No Idea Who It’s For In 2026",
+      "link": "https://kotaku.com/im-not-sure-about-valves-new-1000-vr-headset-2000734260",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405230.0,
       "source": "Kotaku",
-      "summary": "Thanks to a strong box-office weekend for both Spider-Man: Brand New Day and The Odyssey, Holland has overtaken Zoe Saldaña as the highest grossing le..."
+      "summary": "The Steam Frame is cool and has some good ideas, but it's hard to recommend it"
+    },
+    {
+      "title": "Valve's long-awaited standalone VR headset Steam Frame starts at £889 and sign-ups open today - but you'll need to be quick",
+      "link": "https://www.eurogamer.net/steam-frame-vr-price-where-how-to-buy",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "Eurogamer.net News",
+      "summary": "After years of rumours, and 10 months since its official unveiling, Valve's long-awaited standalone VR headset, Steam Frame, is poised to begin shippi..."
+    },
+    {
+      "title": "\"It's absolutely our goal to expand the market\" - Valve's new Steam Frame VR headset has a nifty idea for broader appeal",
+      "link": "https://www.eurogamer.net/valve-steam-frame-vr-demand-expand-market",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "Eurogamer.net News",
+      "summary": "Valve has said its new Steam Frame VR headset, despite costing nearly &pound;900 for a base model, is intended to \"expand the market\" of virtual reali..."
+    },
+    {
+      "title": "Steam Frame review",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-steam-frame-review/",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "PCGamer latest",
+      "summary": "The king of convenience."
+    },
+    {
+      "title": "Steam Frame starts at $1,059 and you'll want to enter the stock lottery before September 17 for a higher chance of getting one this year",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/steam-frame-starts-at-usd1-059-with-reservation-lottery-open-now-enter-before-september-17-for-best-chance-of-getting-one-this-year/",
+      "pubDate": "14.09.2026 um 17:00 Uhr",
+      "timestamp": 1789405200.0,
+      "source": "PCGamer latest",
+      "summary": "What do you make of these prices?"
+    },
+    {
+      "title": "Sega and Netflix partner for a \"cute yet cool\" Sonic TV Show, a Crazy Taxi film, and a \"badass action\" Stranger Than Heaven adaptation",
+      "link": "https://www.eurogamer.net/sega-netflix-sonic-tv-crazy-taxi-stranger-than-heaven-film",
+      "pubDate": "14.09.2026 um 16:58 Uhr",
+      "timestamp": 1789405139.0,
+      "source": "Eurogamer.net News",
+      "summary": "Netflix is binge-producing video game adaptations faster than a certain Blue Blur can chow down a chilli dog. The streamer has just announced a new pa..."
+    },
+    {
+      "title": "Fans Think Mortal Kombat Dev’s DC Fighting Game Is About to Make a Big Comeback",
+      "link": "https://www.polygon.com/injustice-3-dc-fighting-game-announcement-rumor-leak/",
+      "pubDate": "14.09.2026 um 16:58 Uhr",
+      "timestamp": 1789405102.0,
+      "source": "Polygon.com",
+      "summary": "Injustice fans are getting their hopes up after an unexpected potential leak for a new fighting game."
+    },
+    {
+      "title": "Mahershala Ali’s New Movie From Blade Director Is Getting Perfect Reviews",
+      "link": "https://www.polygon.com/your-mother-mahershala-ali-bassim-tariq-blade-rotten-tomatoes/",
+      "pubDate": "14.09.2026 um 16:53 Uhr",
+      "timestamp": 1789404794.0,
+      "source": "Polygon.com",
+      "summary": "Your Mother Your Mother Your Mother from Blade director and Mahershala Ali debuts to rousing success"
+    },
+    {
+      "title": "A Big Autumn Warhammer Preview show is on the way, here's what to expect",
+      "link": "https://www.gamesradar.com/tabletop-gaming/a-big-autumn-warhammer-preview-show-is-on-the-way-heres-what-to-expect/",
+      "pubDate": "14.09.2026 um 16:48 Uhr",
+      "timestamp": 1789404504.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Legion of the Damned, Age of Sigmar dwarves, Custodes, and more look set to appear in the upcoming Big Autumn Warhammer Preview show this week, so I'v..."
+    },
+    {
+      "title": "Someone made a copper gaming PC Frankensteined out of an old blowtorch and other assorted parts and is 'just going to let it tarnish over time'",
+      "link": "https://www.pcgamer.com/hardware/gaming-pcs/someone-made-a-copper-gaming-pc-frankensteined-out-of-an-old-blowtorch-and-other-assorted-parts-and-is-just-going-to-let-it-tarnish-over-time/",
+      "pubDate": "14.09.2026 um 16:43 Uhr",
+      "timestamp": 1789404184.0,
+      "source": "PCGamer latest",
+      "summary": "It lives!"
+    },
+    {
+      "title": "Netflix doubles down on video games by partnering with Sega for movie adaptations of Crazy Taxi and Stranger Than Heaven",
+      "link": "https://www.gamesradar.com/entertainment/live-action-movies/netflix-doubles-down-on-video-games-by-partnering-with-sega-for-movie-adaptations-of-crazy-taxi-and-stranger-than-heaven/",
+      "pubDate": "14.09.2026 um 16:36 Uhr",
+      "timestamp": 1789403797.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Streamer pays the fare to bring the arcade classic and upcoming crime saga to life"
+    },
+    {
+      "title": "One Of Ubisoft’s Only New Games Releasing This Fall Just Got A Two-Month Delay",
+      "link": "https://kotaku.com/ubisofts-only-new-game-releasing-this-fall-just-got-a-two-month-delay-2000734298",
+      "pubDate": "14.09.2026 um 16:33 Uhr",
+      "timestamp": 1789403595.0,
+      "source": "Kotaku",
+      "summary": "Rayman Legends Retold is getting pushed to the end of 2026"
+    },
+    {
+      "title": "Hear Me Out: What If Liam McIntyre Was Wolverine In The MCU?",
+      "link": "https://kotaku.com/wolverine-marvel-cinematic-universe-liam-mcintyre-hugh-jackman-2000734282",
+      "pubDate": "14.09.2026 um 16:30 Uhr",
+      "timestamp": 1789403437.0,
+      "source": "Kotaku",
+      "summary": "Filling Hugh Jackman’s shoes is a daunting task, but Liam McIntyre did a good job in Insomniac's game"
+    },
+    {
+      "title": "World of Warcraft 2 isn't happening because Blizzard isn't sure what a sequel to the MMO would \"give you that World of Warcraft: Forever isn't already giving you\"",
+      "link": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-2-isnt-happening-because-blizzard-isnt-sure-what-a-sequel-to-the-mmo-would-give-you-that-world-of-warcraft-forever-isnt-already-giving-you/",
+      "pubDate": "14.09.2026 um 16:28 Uhr",
+      "timestamp": 1789403308.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Why would you throw that away and start over?\""
     }
   ],
   "sim": [
