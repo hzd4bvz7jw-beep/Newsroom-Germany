@@ -1,6 +1,78 @@
 {
   "de": [
     {
+      "title": "Overwatch: Tracer bleibt das Maskottchen des Helden-Shooters",
+      "link": "https://www.eurogamer.de/overwatch-vampir-held-doctrine-tracer-maskottchen",
+      "pubDate": "14.09.2026 um 10:10 Uhr",
+      "timestamp": 1789380636.0,
+      "source": "Eurogamer.de News",
+      "summary": "Tracer ist nach wie vor das offizielle Maskottchen von Blizzards Helden-Shooter Overwatch. Mehr"
+    },
+    {
+      "title": "Beats: Apple plant Gaming-Con­trol­ler und Store-Neugestaltung",
+      "link": "https://www.computerbase.de/news/gaming/beats-apple-plant-gaming-controller-und-store-neugestaltung.99394/",
+      "pubDate": "14.09.2026 um 12:06 Uhr",
+      "timestamp": 1789380360.0,
+      "source": "ComputerBase",
+      "summary": "Für das iPhone werden von mehreren Drittherstellern Gaming-Controller angeboten, um das Spielen auf dem Smartphone mit physischen Tasten und Triggern ..."
+    },
+    {
+      "title": "Kontenzwang bei Windows 11: Setup-Lücke ermöglicht Installation mit lokalem Konto",
+      "link": "https://www.computerbase.de/news/betriebssysteme/kontenzwang-bei-windows-11-setup-luecke-ermoeglicht-installation-mit-lokalem-konto.99393/",
+      "pubDate": "14.09.2026 um 11:45 Uhr",
+      "timestamp": 1789379100.0,
+      "source": "ComputerBase",
+      "summary": "Eigentlich versucht Microsoft seit Jahren, den Kontenzwang bei Windows 11 mit immer strikteren Maßnahmen durchzusetzen. Bei Windows Latest berichtet m..."
+    },
+    {
+      "title": "WoW: Forever mit Controller spielen – Das funktioniert offenbar richtig gut",
+      "link": "https://mein-mmo.de/wow-forever-controller-support/",
+      "pubDate": "14.09.2026 um 09:38 Uhr",
+      "timestamp": 1789378691.0,
+      "source": "Mein-MMO",
+      "summary": "Einige Besucher der BlizzCon hatten bereits die Möglichkeit, den offiziellen Controller-Support von WoW: Forever auszuprobieren.  Der Beitrag WoW: For..."
+    },
+    {
+      "title": "Die Diablo-Community streitet, weil Diablo 5 der „richtige Move“ war, aber sich viele trotzdem wie Idioten fühlen",
+      "link": "https://mein-mmo.de/diablo-4-und-5-aerger-wegen-cosmetics-aber-richtig-so/",
+      "pubDate": "14.09.2026 um 09:36 Uhr",
+      "timestamp": 1789378606.0,
+      "source": "Mein-MMO",
+      "summary": "War die Ankündigung von Diablo 5 ein Fehler oder genau richtig so? Die Community ist sich uneinig, aber hat gute Argumente. Der Beitrag Die Diablo-Com..."
+    },
+    {
+      "title": "Nutzer will 6 Jahre altes MacBook reparieren lassen, bekommt stattdessen ein kostenlos M5 MacBook Air im Wert von 1.239 Euro",
+      "link": "https://mein-mmo.de/nutzer-altes-macbook-reparieren-stattdessen-kostenlos-macbook-euro/",
+      "pubDate": "14.09.2026 um 09:34 Uhr",
+      "timestamp": 1789378479.0,
+      "source": "Mein-MMO",
+      "summary": "Ein Nutzer hat großes Glück: Anstatt einer Reparatur bekommt er von Apple ein neues, teures MacBook zur Verfügung gestellt. Der Beitrag Nutzer will 6 ..."
+    },
+    {
+      "title": "Aniimo lässt euch am Anfang zwischen 2 Monstern wählen – welchen Starter solltet ihr nehmen?",
+      "link": "https://mein-mmo.de/aniimo-starter-wahl/",
+      "pubDate": "14.09.2026 um 09:23 Uhr",
+      "timestamp": 1789377816.0,
+      "source": "Mein-MMO",
+      "summary": "Aniimo lässt euch zu Beginn zwischen 2 Monstern entscheiden. MeinMMO verrät euch, welchen Starter ihr nehmen solltet. Der Beitrag Aniimo lässt euch am..."
+    },
+    {
+      "title": "Enttäuschter Papa will haufenweise Warhammer-Minis verschenken, weil sein Sohn kein Interesse hat – Die Community macht ihm Hoffnung",
+      "link": "https://mein-mmo.de/warhammer-papa-will-warhammer-minis-verschenken-sohn-hat-kein-interesse/",
+      "pubDate": "14.09.2026 um 09:16 Uhr",
+      "timestamp": 1789377395.0,
+      "source": "Mein-MMO",
+      "summary": "Der Sohn eines Warhammer-Fans kann sich nicht für das Hobby seines Vaters begeistern, doch in der Community melden sich weitere Spätzünder. Der Beitra..."
+    },
+    {
+      "title": "Microsoft-CEO Nadella: Superintelligenz muss unter menschlicher Kontrolle ste­hen",
+      "link": "https://www.computerbase.de/news/apps/microsoft-ceo-nadella-superintelligenz-muss-unter-menschlicher-kontrolle-stehen.99392/",
+      "pubDate": "14.09.2026 um 11:15 Uhr",
+      "timestamp": 1789377300.0,
+      "source": "ComputerBase",
+      "summary": "In den letzten Tagen warnte Anthropic-Chef Dario Amodei vor Agenten-Schwärmen, OpenAI sagte angesichts der aktuellen Krise bei der KI-Sicherheit den g..."
+    },
+    {
       "title": "Nein, das ist nicht das „alte Blizzard“ – es ist das Blizzard für Alte",
       "link": "https://mein-mmo.de/blizzard-fuer-alte-leute/",
       "pubDate": "14.09.2026 um 09:00 Uhr",
@@ -57,14 +129,6 @@
       "summary": "Seit einigen Tagen hat die Community in Pokémon GO eine Verschlechterung beobachtet. Nun gibt es ein Statement. Der Beitrag Trainer entdecken großen N..."
     },
     {
-      "title": "Marvel bricht mit Avengers Doomsday bereits einen Rekord, dabei ist der Film noch nicht erschienen",
-      "link": "https://mein-mmo.de/marvel-bricht-mit-avengers-doomsday-bereits-einen-rekord/",
-      "pubDate": "14.09.2026 um 08:11 Uhr",
-      "timestamp": 1789373508.0,
-      "source": "Mein-MMO",
-      "summary": "Avengers: Doomsday erscheint im Dezember und die Erwartungen sind hoch. Finanziell sorgt der Film bereits jetzt für klingelnde Kassen. Der Beitrag Mar..."
-    },
-    {
       "title": "StarCraft erscheint erst 2030: Blizzard erklärt die frühe Ankündigung und verrät erste Spieldetails",
       "link": "https://www.playcentral.de/starcraft-2030-release-open-world-shooter-details/",
       "pubDate": "14.09.2026 um 07:41 Uhr",
@@ -79,73 +143,57 @@
       "timestamp": 1789371071.0,
       "source": "PlayCentral",
       "summary": "Miami bekommt einen Vorgeschmack auf Vice City: Hinter dem Kaseya Center werden offenbar bereits große Werbeschilder für GTA 6 vorbereitet. Neue Lufta..."
-    },
-    {
-      "title": "The Last of Us Part 2: Sony stoppt ambitionierte Multiplayer-Mod kurz vor Release",
-      "link": "https://www.eurogamer.de/the-last-of-us-part-2-multiplayer-mod-stopp",
-      "pubDate": "14.09.2026 um 07:29 Uhr",
-      "timestamp": 1789370981.0,
-      "source": "Eurogamer.de News",
-      "summary": "Sony Interactive Entertainment hat sich eingeschaltet, um den Release einer geplanten PvP-Multiplayer-Mod f&uuml;r The Last of Us Part 2 auf dem PC zu..."
-    },
-    {
-      "title": "GTA 6 übernimmt etwas aus RDR2, das auf den ersten Blick gar nicht zur Reihe passen mag – doch das finde ich super",
-      "link": "https://mein-mmo.de/automatisch-gespeicherter-entwurfrockstar-interview-gta-6-lernt-von-rdr2/",
-      "pubDate": "14.09.2026 um 07:29 Uhr",
-      "timestamp": 1789370949.0,
-      "source": "Mein-MMO",
-      "summary": "Für GTA 6 nimmt sich Rockstar Inspiration aus ihrer eigenen Arbeit. Aus Red Dead Redemption 2 konnten sie einiges lernen. Der Beitrag GTA 6 übernimmt ..."
-    },
-    {
-      "title": "Der treueste Begleiter von Ruffy aus One Piece übertrifft sich gerade selbst, degradiert unbesiegbaren Gegner zur Trainingspuppe",
-      "link": "https://mein-mmo.de/one-piece-zorro-treue-hand-ruffy-kapitel-1193/",
-      "pubDate": "14.09.2026 um 07:26 Uhr",
-      "timestamp": 1789370809.0,
-      "source": "Mein-MMO",
-      "summary": "Zorro setzt in Kapitel 1193 von One Piece gerade seine stärkste Technik zum Üben ein. Er beweist, dass er zu Recht Ruffys rechte Hand ist.  Der Beitra..."
-    },
-    {
-      "title": "Xbox gewinnt gerade den Konsolenkrieg, weil Sony nicht aufhören kann, sich selbst ins Knie zu schießen",
-      "link": "https://mein-mmo.de/xbox-ist-nicht-besser-als-sony/",
-      "pubDate": "14.09.2026 um 06:58 Uhr",
-      "timestamp": 1789369091.0,
-      "source": "Mein-MMO",
-      "summary": "Weil sich Sony einen Patzer nach dem anderen leistet steht Xbox als strahlender Held da. Dabei macht Xbox genauso viel Mist. Nur anderen. Der Beitrag ..."
-    },
-    {
-      "title": "Deutsche Schüler schneiden immer schlechter ab, doch laut Forschern ist nicht das Handy das Problem",
-      "link": "https://mein-mmo.de/pisa-zeigt-schlechte-leistungen-in-deutschland-forscher-sehen-ein-groesseres-problem/",
-      "pubDate": "14.09.2026 um 06:30 Uhr",
-      "timestamp": 1789367400.0,
-      "source": "Mein-MMO",
-      "summary": "PISA: Junge Menschen haben so einfachen Zugang zu Wissen wie noch nie. Trotzdem schneiden sie beim Lesen und Rechnen immer schlechter ab. Der Beitrag ..."
-    },
-    {
-      "title": "Diablo 4 trifft The Witcher: Blizzard enthüllt Geralt-Skin für den Barbaren",
-      "link": "https://www.eurogamer.de/diablo-4-the-witcher-geralt-skin",
-      "pubDate": "14.09.2026 um 06:27 Uhr",
-      "timestamp": 1789367254.0,
-      "source": "Eurogamer.de News",
-      "summary": "CD Projekt Red hat nicht nur zu Cyberpunk 2077 Neuigkeiten mit auf die BlizzCon am Wochenende gebracht. Dar&uuml;ber hinaus wurde eine Kollaboration z..."
-    },
-    {
-      "title": "Cyberpunk 2077: CD Projekt Red bringt das RPG ins Battle.net und kündigt Overwatch-Crossover an",
-      "link": "https://www.eurogamer.de/cyberpunk-2077-battlenet-overwatch-crossover",
-      "pubDate": "14.09.2026 um 06:16 Uhr",
-      "timestamp": 1789366605.0,
-      "source": "Eurogamer.de News",
-      "summary": "Auf der diesj&auml;hrigen BlizzCon war auch das polnische Entwicklerstudio CD Projekt Red vertreten und hatte mehrere Neuigkeiten im Gep&auml;ck. Mehr"
-    },
-    {
-      "title": "Luigi's Mansion wird 25: Wie Marios Bruder mit dem Staubsauger zum Helden wurde",
-      "link": "https://www.eurogamer.de/luigis-mansion-25-geburtstag-jubilaeum-rueckblick",
-      "pubDate": "14.09.2026 um 05:30 Uhr",
-      "timestamp": 1789363800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Zusammen mit Nintendos GameCube gab damals die Luigi's-Mansion-Reihe ihr Deb&uuml;t. Damit trat Marios j&uuml;ngerer Bruder voll ins Rampenlicht, alle..."
     }
   ],
   "int": [
+    {
+      "title": "Sony reportedly stops The Last of Us Part 2 multiplayer mod in its tracks right before its launch: \"Extremely sad that this never got to see the light of day\"",
+      "link": "https://www.gamesradar.com/games/the-last-of-us/sony-reportedly-stops-the-last-of-us-part-2-multiplayer-mod-in-its-tracks-right-before-its-launch-extremely-sad-that-this-never-got-to-see-the-light-of-day/",
+      "pubDate": "14.09.2026 um 10:07 Uhr",
+      "timestamp": 1789380449.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The mod was supposed to be released soon after 9 months of work"
+    },
+    {
+      "title": "One of GTA 6's actors has finally been confirmed because it was already obvious: \"There are too many people who knew me from King of the Hill\"",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/one-of-gta-6s-actors-has-finally-been-confirmed-because-it-was-already-obvious-there-are-too-many-people-who-knew-me-from-king-of-the-hill/",
+      "pubDate": "14.09.2026 um 09:59 Uhr",
+      "timestamp": 1789379968.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "We got the Billdozer in GTA 6 before GTA 6"
+    },
+    {
+      "title": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\"",
+      "link": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
+      "pubDate": "14.09.2026 um 09:33 Uhr",
+      "timestamp": 1789378429.0,
+      "source": "Eurogamer.net News",
+      "summary": "Blizzard uncharacteristically announced two games at the weekend with release dates surprisingly far away. One was Diablo 5, which Blizzard plans to r..."
+    },
+    {
+      "title": "Blizzard Insists There Are 'Many Reasons to Keep Playing' Diablo 4 as Fans Debate End of Expansions and Diablo 5 in 2029",
+      "link": "https://www.ign.com/articles/blizzard-insists-there-are-many-reasons-to-keep-playing-diablo-4-as-fans-debate-end-of-expansions-and-diablo-5-in-2029",
+      "pubDate": "14.09.2026 um 09:19 Uhr",
+      "timestamp": 1789377597.0,
+      "source": "IGN All",
+      "summary": "Blizzard has insisted Diablo 4 still has “bright support” as the community debates the shock news that no more expansions will be released for the gam..."
+    },
+    {
+      "title": "'They Helped Pay For Our Movie, So Thank You': Marvel's Blade Might Be Scrapped, But Mahershala Ali Says He's Grateful He Got a Year of Free Training",
+      "link": "https://www.ign.com/articles/they-helped-pay-for-our-movie-so-thank-you-marvels-blade-might-be-scrapped-but-mahershala-ali-says-hes-grateful-he-got-a-year-of-free-training",
+      "pubDate": "14.09.2026 um 09:19 Uhr",
+      "timestamp": 1789377548.0,
+      "source": "IGN All",
+      "summary": "Mahershala Ali has thanked Marvel for a year of free physical training, and said his prep time for the now-cancelled Blade helped pay for his new movi..."
+    },
+    {
+      "title": "The Best Books Of September 2026",
+      "link": "https://www.ign.com/articles/the-best-books-of-september-2026",
+      "pubDate": "14.09.2026 um 09:09 Uhr",
+      "timestamp": 1789376971.0,
+      "source": "IGN All",
+      "summary": "From cyberpunk to fantasy and much more, these are our picks for the best new books of the month."
+    },
     {
       "title": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\"",
       "link": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
@@ -241,54 +289,6 @@
       "timestamp": 1789349891.0,
       "source": "PCGamer latest",
       "summary": "The 2029 action RPG won't have to be a completely solo experience, Blizzard says."
-    },
-    {
-      "title": "World of Warcraft Forever Officially Brings Gamepad Controls Blizzard's MMO",
-      "link": "https://www.polygon.com/world-of-warcraft-forever-gamepad-support-blizzcon-2026/",
-      "pubDate": "14.09.2026 um 01:30 Uhr",
-      "timestamp": 1789349410.0,
-      "source": "Polygon.com",
-      "summary": "World of Warcraft is usually played with a keyboard and mouse, but the new \"Classic Plus\" WoW release can be fully played with a gamepad."
-    },
-    {
-      "title": "Cyberpunk 2077 is coming to Battle.net for some reason, and Geralt will be in Diablo 4",
-      "link": "https://www.pcgamer.com/games/rpg/cyberpunk-2077-is-coming-to-battle-net-for-some-reason-and-geralt-will-be-in-diablo-4/",
-      "pubDate": "14.09.2026 um 01:05 Uhr",
-      "timestamp": 1789347950.0,
-      "source": "PCGamer latest",
-      "summary": "I don't know either."
-    },
-    {
-      "title": "Diablo 5's narrative lead is a BioWare vet who says the new caravan system gives the ARPG the \"best elements of traditional RPGs\" like Dragon Age and Baldur's Gate",
-      "link": "https://www.gamesradar.com/games/diablo/diablo-5s-narrative-lead-is-a-bioware-vet-who-says-the-new-caravan-system-gives-the-arpg-the-best-elements-of-traditional-rpgs-like-dragon-age-and-baldurs-gate/",
-      "pubDate": "14.09.2026 um 00:21 Uhr",
-      "timestamp": 1789345264.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"My experience with traditional RPGs has definitely been a strength in building that out\""
-    },
-    {
-      "title": "10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/",
-      "pubDate": "14.09.2026 um 00:04 Uhr",
-      "timestamp": 1789344282.0,
-      "source": "PCGamer latest",
-      "summary": "The classic-ish MMO has a ton of changes to make the original experience much smoother."
-    },
-    {
-      "title": "New Batman: Part 2 Set Photos Hint at the Court of Owls",
-      "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-court-of-owls-anarky",
-      "pubDate": "13.09.2026 um 23:35 Uhr",
-      "timestamp": 1789342544.0,
-      "source": "IGN All",
-      "summary": "New videos and photos from the London set of The Batman: Part II will only fuel the rumors that Gotham’s secret cabal of wealthy elites, the Court of ..."
-    },
-    {
-      "title": "This Popular RM1 CD Player Art Frame on Kickstarter Brings Back the Nostalgia I Needed and Offers to Up 55% Off in Late Pledge Rewards",
-      "link": "https://www.ign.com/articles/how-to-back-new-rm1-cd-player-art-frame-kickstarter-project",
-      "pubDate": "13.09.2026 um 22:30 Uhr",
-      "timestamp": 1789338622.0,
-      "source": "IGN All",
-      "summary": "Time to bust out my CD binder."
     }
   ],
   "sim": [
