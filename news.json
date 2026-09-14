@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Blizzard nennt frühe Release-Fenster für Diablo 5 und StarCraft – warum jetzt",
+      "link": "https://www.playcentral.de/blizzard-nennt-fruehe-release-fenster-fuer-diablo-5-und-starcraft-warum-jetzt/",
+      "pubDate": "14.09.2026 um 20:32 Uhr",
+      "timestamp": 1789417958.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard hat auf der BlizzCon 2026 überraschend weit in die Zukunft geblickt. Mit Diablo 5 und einem neuen StarCraft kündigte das Unternehmen gleich z..."
+    },
+    {
+      "title": "Huglings erscheint am 17. September 2026 – Cozy-Open-World ohne Kämpfe",
+      "link": "https://www.playcentral.de/huglings-erscheint-am-17-september-2026-cozy-open-world-ohne-kaempfe/",
+      "pubDate": "14.09.2026 um 20:31 Uhr",
+      "timestamp": 1789417901.0,
+      "source": "PlayCentral",
+      "summary": "Mit Huglings steht Cozy-Fans bereits in wenigen Tagen ein neues Open-World-Abenteuer ins Haus, das Elemente aus Stardew Valley und Animal Crossing mit..."
+    },
+    {
       "title": "Fujitsu Monaka: 144-Kern-Prozessoren aus Japan kommen im November",
       "link": "https://www.computerbase.de/news/prozessoren/fujitsu-monaka-144-kern-prozessoren-aus-japan-kommen-im-november.99403/",
       "pubDate": "14.09.2026 um 20:42 Uhr",
@@ -49,7 +65,7 @@
       "summary": "Die neue Steam Frame kann am Windows-PC gerenderte Spiele wiedergeben, aber sie kann auch selber Spiele rendern. Dafür muss ein Spiel entweder für Ste..."
     },
     {
-      "title": "Steam Frame im Test: Tracking, Bildqualität und Standalone vs. Streaming im Detail",
+      "title": "Steam Frame im Test: So gut ist Valves erste VR-Brille mit Inside-Out-Tracking",
       "link": "https://www.computerbase.de/artikel/gaming/valve-steam-frame-test.99312/",
       "pubDate": "14.09.2026 um 19:00 Uhr",
       "timestamp": 1789405200.0,
@@ -127,25 +143,105 @@
       "timestamp": 1789398000.0,
       "source": "Mein-MMO",
       "summary": "Der YouTuber Julien Bam war vor allem für seine aufwendigen YouTube-Videos bekannt. Die weitere Produktion stand jedoch mal auf der Kippe. Der Beitrag..."
-    },
-    {
-      "title": "Diablo 4 Saison des Höllenerbes – Diablo-1-Inhalte und Boss-Echos kehren zurück",
-      "link": "https://www.playcentral.de/diablo-4-saison-des-hoellenerbes-diablo-1-inhalte-und-boss-echos-kehren-zurueck/",
-      "pubDate": "14.09.2026 um 14:34 Uhr",
-      "timestamp": 1789396451.0,
-      "source": "PlayCentral",
-      "summary": "Mit der Saison des Höllenerbes verwandelt Blizzard Diablo 4 in eine große Jubiläumsfeier für die gesamte Action-Rollenspielreihe. Der Startschuss fäll..."
-    },
-    {
-      "title": "PS6-Release weiter offen, Sony nennt keinen Termin für die nächste PlayStation",
-      "link": "https://www.playcentral.de/ps6-release-weiter-offen-sony-nennt-keinen-termin-fuer-die-naechste-playstation/",
-      "pubDate": "14.09.2026 um 14:32 Uhr",
-      "timestamp": 1789396339.0,
-      "source": "PlayCentral",
-      "summary": "Die PlayStation 6 bleibt vorerst ohne Veröffentlichungstermin. Sony-Chef Hiroki Totoki hat in einem aktuellen Interview erklärt, dass der Konzern bisl..."
     }
   ],
   "int": [
+    {
+      "title": "Final Fantasy 7 Revelation is definitely \"the end of the series,\" says Square Enix director Yoshinori Kitase, but he won't rule out a spin-off if the \"fan reaction\" is right",
+      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-is-definitely-the-end-of-the-series-says-square-enix-director-yoshinori-kitase-but-he-wont-rule-out-a-spin-off-if-the-fan-reaction-is-right/",
+      "pubDate": "14.09.2026 um 21:05 Uhr",
+      "timestamp": 1789419919.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The trilogy could become a universe"
+    },
+    {
+      "title": "Magic: The Gathering Officially Reveals Jace's New Planeswalker Replacement",
+      "link": "https://www.polygon.com/mtg-magic-jace-planeswalker-spark-replacement-tam-new-hero/",
+      "pubDate": "14.09.2026 um 21:01 Uhr",
+      "timestamp": 1789419679.0,
+      "source": "Polygon.com",
+      "summary": "MTG’s Reality Fracture reveals Jace's Planeswalker replacement, and it seems like they'll be a major character moving forward."
+    },
+    {
+      "title": "Valve Says Mystery Plans For Steam Deck 2 Remain Unchanged Despite RAM Crisis",
+      "link": "https://kotaku.com/valve-says-its-steam-deck-2-plans-havent-changed-despite-ongoing-ram-crisis-2000734366",
+      "pubDate": "14.09.2026 um 21:00 Uhr",
+      "timestamp": 1789419602.0,
+      "source": "Kotaku",
+      "summary": "One rumor from a hardware leaker suggests 2028 is when to expect the handheld PC successor"
+    },
+    {
+      "title": "A Forgotten 2015 Shooter Just Got an Unexpected Revival",
+      "link": "https://www.polygon.com/evolve-revival-modders-multiplayer-launcher-2026/",
+      "pubDate": "14.09.2026 um 20:56 Uhr",
+      "timestamp": 1789419407.0,
+      "source": "Polygon.com",
+      "summary": "Modders are reviving Evolve, Turtle Rock’s 2015 asymmetrical shooter, with working multiplayer and a new community launcher."
+    },
+    {
+      "title": "After nearly a year of silence following its last-minute delay, Kingmakers resurfaces with an extended gameplay video and new playtest",
+      "link": "https://www.pcgamer.com/games/action/after-nearly-a-year-of-silence-following-its-last-minute-delay-kingmakers-resurfaces-with-an-extended-gameplay-video-and-new-playtest/",
+      "pubDate": "14.09.2026 um 20:48 Uhr",
+      "timestamp": 1789418895.0,
+      "source": "PCGamer latest",
+      "summary": "Still no new release date, though."
+    },
+    {
+      "title": "The Steam ripoff market is so bad that viral game Needle In A Haystack Simulator is facing 8 copycats before release and has slapped \"original\" on itself to clarify",
+      "link": "https://www.gamesradar.com/games/simulation/the-steam-ripoff-market-is-so-bad-that-viral-game-needle-in-a-haystack-simulator-is-facing-8-copycats-before-release-and-has-slapped-original-on-itself-to-clarify/",
+      "pubDate": "14.09.2026 um 20:31 Uhr",
+      "timestamp": 1789417917.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Valve's moderation in full effect"
+    },
+    {
+      "title": "'Spider-Man: Brand New Day' Has Been Officially Dethroned at the Box Office",
+      "link": "https://www.polygon.com/spider-man-brand-new-day-box-office-domestic-record-practical-magic-2/",
+      "pubDate": "14.09.2026 um 20:31 Uhr",
+      "timestamp": 1789417861.0,
+      "source": "Polygon.com",
+      "summary": "Spider-Man: Brand New Day has been bumped from #1 at the box office by Nicole Kidman and Sandra Bullock's new legacy sequel."
+    },
+    {
+      "title": "Magic’s 10 Best Alchemy Cards, Ranked Worst to Best",
+      "link": "https://www.polygon.com/magic-the-gatherings-10-best-alchemy-cards-ever-ranked/",
+      "pubDate": "14.09.2026 um 20:30 Uhr",
+      "timestamp": 1789417815.0,
+      "source": "Polygon.com",
+      "summary": "From Power Nine shenanigans to some of Arena’s most broken digital designs, these are Alchemy’s 10 most memorable cards."
+    },
+    {
+      "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts",
+      "link": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361",
+      "pubDate": "14.09.2026 um 20:21 Uhr",
+      "timestamp": 1789417276.0,
+      "source": "Kotaku",
+      "summary": "The top video game site keeps cutting"
+    },
+    {
+      "title": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
+      "link": "https://www.pcgamer.com/games/fps/wardogs-players-are-actively-avoiding-one-team-in-particular-they-are-literally-the-dumbest-people-on-the-planet/",
+      "pubDate": "14.09.2026 um 20:16 Uhr",
+      "timestamp": 1789416967.0,
+      "source": "PCGamer latest",
+      "summary": "Some are convinced one team is set up to fail."
+    },
+    {
+      "title": "The Nintendo curse was real: Only 2 of GameCube's 10 best-selling games in the US were third-party",
+      "link": "https://www.gamesradar.com/games/the-nintendo-curse-was-real-only-2-of-gamecubes-10-best-selling-games-in-the-us-were-third-party/",
+      "pubDate": "14.09.2026 um 20:16 Uhr",
+      "timestamp": 1789416961.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Somehow Resident Evil 4 couldn't even crack the top 20"
+    },
+    {
+      "title": "After ending Expeditions until 2027, Arc Raiders may \"scrap the whole system altogether\" following Frozen Trail",
+      "link": "https://www.gamesradar.com/games/third-person-shooter/after-ending-expeditions-until-2027-arc-raiders-may-scrap-the-whole-system-altogether-following-frozen-trail/",
+      "pubDate": "14.09.2026 um 20:13 Uhr",
+      "timestamp": 1789416803.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Arc Raiders Expeditions are going back to the drawing board one way or another"
+    },
     {
       "title": "Veteran Thief Designer Isn’t Convinced Games Need To Chase After AAA Visuals:  ‘Why Do We Need More Graphics?’",
       "link": "https://kotaku.com/veteran-thief-designer-isnt-convinced-games-needs-to-chase-after-aaa-visuals-why-do-we-need-more-graphics-2000734314",
@@ -193,102 +289,6 @@
       "timestamp": 1789412683.0,
       "source": "Eurogamer.net News",
       "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: S..."
-    },
-    {
-      "title": "One of My Favorite Commander Decks of the Year Just Hit a New Lowest Price",
-      "link": "https://www.ign.com/articles/one-of-my-favorite-commander-decks-of-the-year-just-hit-a-new-lowest-price",
-      "pubDate": "14.09.2026 um 19:00 Uhr",
-      "timestamp": 1789412400.0,
-      "source": "IGN All",
-      "summary": "Save big on Blight Curse and cause your opponents all kinds of headaches."
-    },
-    {
-      "title": "\"We track every server you enter\": the Wardogs devs are \"coming down hard\" on XP farms and cash exploits, even as they encourage people to grind",
-      "link": "https://www.rockpapershotgun.com/we-track-every-server-you-enter-the-wardogs-devs-are-coming-down-hard-on-xp-farms-and-cash-exploits-even-as-they-encourage-people-to-grind",
-      "pubDate": "14.09.2026 um 19:00 Uhr",
-      "timestamp": 1789412400.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "The creators of military shooter Wardogs have announced that they will crack down heavily on players who use exploits and bugs to speedily farm in-gam..."
-    },
-    {
-      "title": "The Steam Frame launches during one of the slowest periods for VR on Steam, but Valve hopes to 'rekindle the excitement' for PCVR",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/the-steam-frame-launches-during-one-of-the-slowest-periods-for-vr-on-steam-but-valve-hopes-to-rekindle-the-excitement-for-pcvr/",
-      "pubDate": "14.09.2026 um 19:00 Uhr",
-      "timestamp": 1789412400.0,
-      "source": "PCGamer latest",
-      "summary": "\"We also want to grow a healthy ecosystem for both the gamers and the game developers.\""
-    },
-    {
-      "title": "A Pokémon Fan May Have Found A Solution To The End Of Pokémon Bank",
-      "link": "https://kotaku.com/pokemon-bank-3ds-adapter-gba-switch-firered-leafgreen-2000734327",
-      "pubDate": "14.09.2026 um 18:35 Uhr",
-      "timestamp": 1789410917.0,
-      "source": "Kotaku",
-      "summary": "The end of the 3DS-based storage system is burning the bridge between old and new generations"
-    },
-    {
-      "title": "Bungie ends Marathon's seasonal schedule, delays a September update to December, and makes it more like Destiny 2",
-      "link": "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
-      "pubDate": "14.09.2026 um 18:31 Uhr",
-      "timestamp": 1789410718.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Marathon is getting a social space, a firing range, and team deathmatch"
-    },
-    {
-      "title": "World of Warcraft Forever Will be the Easiest Way into WoW in 20 Years",
-      "link": "https://www.polygon.com/world-of-warcraft-forever-wow-approachable-casual-new-players/",
-      "pubDate": "14.09.2026 um 18:30 Uhr",
-      "timestamp": 1789410614.0,
-      "source": "Polygon.com",
-      "summary": "Blizzard's 'Classic Plus' concept could be more approachable for new, returning, and casual players than modern WoW"
-    },
-    {
-      "title": "The OG Nintendo Switch Pro Controller Drops to $56 During Nintendo's Customer Appreciation Sale",
-      "link": "https://www.ign.com/articles/nintendo-switch-pro-controller-deal-customer-appreciation-sale-2026",
-      "pubDate": "14.09.2026 um 18:30 Uhr",
-      "timestamp": 1789410600.0,
-      "source": "IGN All",
-      "summary": "Switch 2 compatible."
-    },
-    {
-      "title": "Bungie delays next Marathon update and ends 'strict seasonal schedule' as it goes all-in on Destiny-like features",
-      "link": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
-      "pubDate": "14.09.2026 um 18:19 Uhr",
-      "timestamp": 1789409999.0,
-      "source": "PCGamer latest",
-      "summary": "Big changes are coming, but not until December."
-    },
-    {
-      "title": "Sekiro: No Defeat’s 2-Hour Movie Version Is A Disjointed Disappointment",
-      "link": "https://kotaku.com/sekiro-no-defeat-anime-adaptation-film-movie-series-crunchyroll-2000731869",
-      "pubDate": "14.09.2026 um 18:00 Uhr",
-      "timestamp": 1789408818.0,
-      "source": "Kotaku",
-      "summary": "A longer series is still coming to Crunchyroll, but the two-hour film released in Japanese cinemas is an awkward anime adaptation of Sekiro: Shadows D..."
-    },
-    {
-      "title": "Valve decided that cutting the Steam Frame’s specs to avoid price rises wasn't \"the right product choice\" for the VR headset",
-      "link": "https://www.rockpapershotgun.com/valve-decided-that-cutting-the-steam-frames-specs-to-avoid-price-rises-wasnt-the-right-product-choice-for-the-vr-headset",
-      "pubDate": "14.09.2026 um 18:00 Uhr",
-      "timestamp": 1789408814.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Surprising no-one, Valve&rsquo;s Steam Frame VR headset is launching with higher-than-expected prices, following the Steam Machine in having its budge..."
-    },
-    {
-      "title": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $75 With Hidden YMMV Coupon, 256GB for $37",
-      "link": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-september-2026",
-      "pubDate": "14.09.2026 um 18:00 Uhr",
-      "timestamp": 1789408800.0,
-      "source": "IGN All",
-      "summary": "You'll need to get this sooner or later if you're an avid Switch gamer."
-    },
-    {
-      "title": "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-      "link": "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-      "pubDate": "14.09.2026 um 18:00 Uhr",
-      "timestamp": 1789408800.0,
-      "source": "PCGamer latest",
-      "summary": "The versatile Steam Frame's focus is \"on being lightweight and being comfortable\"."
     }
   ],
   "sim": [
