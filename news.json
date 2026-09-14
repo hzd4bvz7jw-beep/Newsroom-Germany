@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Nintendo GameCube feiert 25. Geburtstag: Ein Rückblick auf die kultige Konsole",
+      "link": "https://www.eurogamer.de/nintendo-gamecube-25-geburtstag-jubilaeum-rueckblick",
+      "pubDate": "14.09.2026 um 05:00 Uhr",
+      "timestamp": 1789362000.0,
+      "source": "Eurogamer.de News",
+      "summary": "Anfang der 2000er eroberte Nintendo mit einem kleinen, lilafarbenen W&uuml;rfel die Wohnzimmer. Der unter dem Codenamen \"Project Dolphin\" entwickelte ..."
+    },
+    {
+      "title": "WoW entfernt alle Transmog-Restriktionen, lässt euch alle Rüstungs-Arten mischen",
+      "link": "https://mein-mmo.de/wow-transmog-restriktionen-fallen-aus/",
+      "pubDate": "14.09.2026 um 04:30 Uhr",
+      "timestamp": 1789360200.0,
+      "source": "Mein-MMO",
+      "summary": "Transmog-Fans auf ganz Azeroth jubeln. Eine der größten Einschränkungen in World of Warcraft fällt bald weg. Der Beitrag WoW entfernt alle Transmog-Re..."
+    },
+    {
+      "title": "SpruceOS 4.4.1: Update bringt große Hard­ware-Offensive für Retro-Hand­helds",
+      "link": "https://www.computerbase.de/news/gaming/spruceos-4-4-0-update-bringt-grosse-hardware-offensive-fuer-retro-handhelds.99389/",
+      "pubDate": "14.09.2026 um 06:19 Uhr",
+      "timestamp": 1789359540.0,
+      "source": "ComputerBase",
+      "summary": "Mit SpruceOS 4.4.1 weiten die Entwickler die alternative Firmware auf die H700-basierten RG-XX-Handhelds von Anbernic sowie den Powkiddy RGB30 aus. Da..."
+    },
+    {
       "title": "Agefield High will Bully-Gefühl liefern, PC-Version kassiert Kritik",
       "link": "https://www.playcentral.de/agefield-high-will-bully-gefuehl-liefern-pc-version-kassiert-kritik/",
       "pubDate": "14.09.2026 um 00:31 Uhr",
@@ -119,33 +143,33 @@
       "timestamp": 1789308000.0,
       "source": "Mein-MMO",
       "summary": "Wollt ihr wissen, wie viel ihr im Vergleich zu anderen Gamern zockt? Das hat Blizzard nun verraten – aber Achtung, das Ergebnis kann verstören. Der Be..."
-    },
-    {
-      "title": "Es muss nicht immer X3D sein: Starke CPU von AMD jetzt zum neuen Tiefpreis im Angebot",
-      "link": "https://mein-mmo.de/muss-nicht-immer-x3d-sein-starke-cpu-amd-neuer-tiefpreis-angebot/",
-      "pubDate": "13.09.2026 um 13:07 Uhr",
-      "timestamp": 1789304839.0,
-      "source": "Mein-MMO",
-      "summary": "Mit dem Achtkernprozessor Ryzen 7 9700X von AMD bekommt ihr jetzt eine sehr gute CPU für AM5-Mainboards besonders günstig im Angebot.  Der Beitrag Es ..."
-    },
-    {
-      "title": "Final Fantasy 7 Remake: Switch-2-Rückkehr ist für den Director reines Schicksal",
-      "link": "https://www.eurogamer.de/final-fantasy-7-remake-switch-2-nintendo-rueckkehr",
-      "pubDate": "13.09.2026 um 13:04 Uhr",
-      "timestamp": 1789304640.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Ver&ouml;ffentlichung der Final-Fantasy-7-Remake-Trilogie f&uuml;hlt sich f&uuml;r Naoki Hamaguchi, den Director der Reihe, \"fast wie Schicksal\" a..."
-    },
-    {
-      "title": "Krise bei KI-Sicherheit: OpenAI verschiebt den Billion-Dollar-Börsengang",
-      "link": "https://www.computerbase.de/news/wirtschaft/krise-bei-ki-sicherheit-openai-verschiebt-den-billion-dollar-boersengang.99385/",
-      "pubDate": "13.09.2026 um 15:03 Uhr",
-      "timestamp": 1789304580.0,
-      "source": "ComputerBase",
-      "summary": "Eigentlich sollte OpenAIs Billion-Dollar-Börsengang in diesem Jahr stattfinden. Das Unternehmen forcierte einen Wettlauf mit Anthropic um Investorenge..."
     }
   ],
   "int": [
+    {
+      "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
+      "link": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
+      "pubDate": "14.09.2026 um 05:06 Uhr",
+      "timestamp": 1789362415.0,
+      "source": "Polygon.com",
+      "summary": "The Final Fantasy inspired indie RPG from Sandfall Interactive was a surprise smash hit — so what's next for Clair Obscur?"
+    },
+    {
+      "title": "After 'Reacher' Season 4 Ends, Here Are Alan Ritchson's 10 Best Performances to Watch Next",
+      "link": "https://www.polygon.com/alan-ritchson-best-movies-tv-shows-ranked/",
+      "pubDate": "14.09.2026 um 05:04 Uhr",
+      "timestamp": 1789362254.0,
+      "source": "Polygon.com",
+      "summary": "From American Idol to Reacher, these are the performances that turned Alan Ritchson into one of Hollywood's biggest action stars."
+    },
+    {
+      "title": "9 Sci-Fi Series on Netflix That Are Perfect from Start to Finish",
+      "link": "https://www.polygon.com/best-sci-fi-shows-netflix-perfect/",
+      "pubDate": "14.09.2026 um 04:40 Uhr",
+      "timestamp": 1789360814.0,
+      "source": "Polygon.com",
+      "summary": "Unlike Stranger Things, these Netflix sci-fi shows won't leave you feeling unsatisfied"
+    },
     {
       "title": "‘Rick and Morty’ Creator Dan Harmon Reveals the Complex Leprechaun Lore Invented for His New Show",
       "link": "https://www.polygon.com/president-curtis-dan-harmon-leprechauns-interview/",
@@ -219,14 +243,6 @@
       "summary": "Even though The Witcher 3 Remastered and Cyberpunk 2077 are coming to Battle.net, Blizzard tells Polygon not to expect a flood of third-party games"
     },
     {
-      "title": "14 Years Later, TNT's Criminally Overlooked Action Series Is Officially Free on Streaming",
-      "link": "https://www.polygon.com/leverage-free-youtube/",
-      "pubDate": "14.09.2026 um 01:00 Uhr",
-      "timestamp": 1789347615.0,
-      "source": "Polygon.com",
-      "summary": "Check out of the best-kept secrets from the last heights of basic cable"
-    },
-    {
       "title": "Diablo 5's narrative lead is a BioWare vet who says the new caravan system gives the ARPG the \"best elements of traditional RPGs\" like Dragon Age and Baldur's Gate",
       "link": "https://www.gamesradar.com/games/diablo/diablo-5s-narrative-lead-is-a-bioware-vet-who-says-the-new-caravan-system-gives-the-arpg-the-best-elements-of-traditional-rpgs-like-dragon-age-and-baldurs-gate/",
       "pubDate": "14.09.2026 um 00:21 Uhr",
@@ -243,28 +259,12 @@
       "summary": "The classic-ish MMO has a ton of changes to make the original experience much smoother."
     },
     {
-      "title": "Diablo 5 Has A Surprising Connection To Dragon Age",
-      "link": "https://www.polygon.com/diablo-5-interview-jennifer-hepler-blizzcon-2026/",
-      "pubDate": "13.09.2026 um 23:51 Uhr",
-      "timestamp": 1789343461.0,
-      "source": "Polygon.com",
-      "summary": "Former BioWare dev Jennifer Hepler tells Polygon, \"My experience with traditional RPGs has definitely been a strength\" during Diablo 5's development"
-    },
-    {
       "title": "New Batman: Part 2 Set Photos Hint at the Court of Owls",
       "link": "https://www.ign.com/articles/the-batman-part-2-set-photos-court-of-owls-anarky",
       "pubDate": "13.09.2026 um 23:35 Uhr",
       "timestamp": 1789342544.0,
       "source": "IGN All",
       "summary": "New videos and photos from the London set of The Batman: Part II will only fuel the rumors that Gotham’s secret cabal of wealthy elites, the Court of ..."
-    },
-    {
-      "title": "Why StarCraft Isn't Coming Back Until 2030",
-      "link": "https://www.polygon.com/starcraft-2030-release-date-dan-hay-blizzcon-2026/",
-      "pubDate": "13.09.2026 um 22:55 Uhr",
-      "timestamp": 1789340139.0,
-      "source": "Polygon.com",
-      "summary": "StarCraft general manager Dan Hay explains why Blizzard announced the new StarCraft and why it's aiming for a 2030 release."
     },
     {
       "title": "This Popular RM1 CD Player Art Frame on Kickstarter Brings Back the Nostalgia I Needed and Offers to Up 55% Off in Late Pledge Rewards",
