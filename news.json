@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Steam Frame – Preise ab 1.049 Euro, Verkauf startet mit Zufallsreservierung",
+      "link": "https://www.playcentral.de/steam-frame-preise-ab-1-049-euro-verkauf-startet-mit-zufallsreservierung/",
+      "pubDate": "14.09.2026 um 21:31 Uhr",
+      "timestamp": 1789421495.0,
+      "source": "PlayCentral",
+      "summary": "Valve hat nach langer Wartezeit die Preise und den Verkaufsstart für Steam Frame bekannt gegeben. Das eigenständige VR-Headset erscheint in zwei Speic..."
+    },
+    {
       "title": "Blizzard nennt frühe Release-Fenster für Diablo 5 und StarCraft – warum jetzt",
       "link": "https://www.playcentral.de/blizzard-nennt-fruehe-release-fenster-fuer-diablo-5-und-starcraft-warum-jetzt/",
       "pubDate": "14.09.2026 um 20:32 Uhr",
@@ -135,17 +143,41 @@
       "timestamp": 1789398080.0,
       "source": "Eurogamer.de News",
       "summary": "In dieser Woche wird Sora endlich Fortnite beitreten und sich dem Battle Royale stellen. Epic Games hat nun offiziell best&auml;tigt, dass Sora ab dem..."
-    },
-    {
-      "title": "Deutscher YouTuber war bekannt für aufwendige Videos, aber jemand anders soll mit seinen Werken mehr Geld verdient haben",
-      "link": "https://mein-mmo.de/julien-bam-hauptvideos-reactions/",
-      "pubDate": "14.09.2026 um 15:00 Uhr",
-      "timestamp": 1789398000.0,
-      "source": "Mein-MMO",
-      "summary": "Der YouTuber Julien Bam war vor allem für seine aufwendigen YouTube-Videos bekannt. Die weitere Produktion stand jedoch mal auf der Kippe. Der Beitrag..."
     }
   ],
   "int": [
+    {
+      "title": "TCG Card Shop Simulator finally hits 1.0 on Steam after 4 million players, 96% positive reviews, and 2 years in early access",
+      "link": "https://www.gamesradar.com/games/simulation/tcg-card-shop-simulator-finally-hits-1-0-on-steam-after-4-million-players-96-percent-positive-reviews-and-2-years-in-early-access/",
+      "pubDate": "14.09.2026 um 21:51 Uhr",
+      "timestamp": 1789422672.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The viral Steam hit exits early access with 4,436 Pokemon-style cards to collect"
+    },
+    {
+      "title": "I Need This Fire Emblem: Fortune’s Weave Character To Be Romanceable, For Reasons",
+      "link": "https://kotaku.com/fire-emblem-fortunes-weave-jester-romance-charcter-design-2000734368",
+      "pubDate": "14.09.2026 um 21:42 Uhr",
+      "timestamp": 1789422164.0,
+      "source": "Kotaku",
+      "summary": "I don't wanna fix him, I want him to make me worse"
+    },
+    {
+      "title": "Arc Raiders Expeditions may not come back: 'Maybe we'll scrap the whole system'",
+      "link": "https://www.pcgamer.com/games/fps/arc-raiders-expeditions-may-not-come-back-maybe-well-scrap-the-whole-system/",
+      "pubDate": "14.09.2026 um 21:42 Uhr",
+      "timestamp": 1789422120.0,
+      "source": "PCGamer latest",
+      "summary": "Right now, all options are on the table."
+    },
+    {
+      "title": "Crypto traders rigged the market of classic MMO Old School RuneScape, so its developers came out with a \"zero-tolerance\" policy on market manipulation",
+      "link": "https://www.gamesradar.com/games/mmo/crypto-traders-rigged-the-market-of-classic-mmo-old-school-runescape-so-its-developers-came-out-with-a-zero-tolerance-policy-on-market-manipulation/",
+      "pubDate": "14.09.2026 um 21:12 Uhr",
+      "timestamp": 1789420341.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Recently, we've seen cryptocurrencies and meme coins appear\""
+    },
     {
       "title": "Final Fantasy 7 Revelation is definitely \"the end of the series,\" says Square Enix director Yoshinori Kitase, but he won't rule out a spin-off if the \"fan reaction\" is right",
       "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-is-definitely-the-end-of-the-series-says-square-enix-director-yoshinori-kitase-but-he-wont-rule-out-a-spin-off-if-the-fan-reaction-is-right/",
@@ -211,12 +243,20 @@
       "summary": "From Power Nine shenanigans to some of Arena’s most broken digital designs, these are Alchemy’s 10 most memorable cards."
     },
     {
-      "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts",
+      "title": "Sources: Brutal IGN Layoffs Hit Multiple Departments And Long-Time Hosts",
       "link": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361",
       "pubDate": "14.09.2026 um 20:21 Uhr",
       "timestamp": 1789417276.0,
       "source": "Kotaku",
       "summary": "The top video game site keeps cutting"
+    },
+    {
+      "title": "Dog Breeders Are Offering Puppies in Exchange for Pokemon Cards",
+      "link": "https://www.ign.com/articles/dog-breeders-are-offering-puppies-in-exchange-for-pokemon-cards",
+      "pubDate": "14.09.2026 um 20:16 Uhr",
+      "timestamp": 1789416973.0,
+      "source": "IGN All",
+      "summary": "The card collecting community is in an uproar after two dog breeders were caught offering to trade their French Bulldog puppies in exchange for Pokémo..."
     },
     {
       "title": "Wardogs players are actively avoiding one team in particular: 'They are literally the dumbest people on the planet'",
@@ -235,63 +275,31 @@
       "summary": "Somehow Resident Evil 4 couldn't even crack the top 20"
     },
     {
+      "title": "Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor",
+      "link": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026",
+      "pubDate": "14.09.2026 um 20:15 Uhr",
+      "timestamp": 1789416900.0,
+      "source": "IGN All",
+      "summary": "The ultimate ultra-portable laptop for students and professionals on the move."
+    },
+    {
       "title": "After ending Expeditions until 2027, Arc Raiders may \"scrap the whole system altogether\" following Frozen Trail",
       "link": "https://www.gamesradar.com/games/third-person-shooter/after-ending-expeditions-until-2027-arc-raiders-may-scrap-the-whole-system-altogether-following-frozen-trail/",
       "pubDate": "14.09.2026 um 20:13 Uhr",
       "timestamp": 1789416803.0,
       "source": "Latest from GamesRadar+",
       "summary": "Arc Raiders Expeditions are going back to the drawing board one way or another"
-    },
-    {
-      "title": "Veteran Thief Designer Isn’t Convinced Games Need To Chase After AAA Visuals:  ‘Why Do We Need More Graphics?’",
-      "link": "https://kotaku.com/veteran-thief-designer-isnt-convinced-games-needs-to-chase-after-aaa-visuals-why-do-we-need-more-graphics-2000734314",
-      "pubDate": "14.09.2026 um 20:00 Uhr",
-      "timestamp": 1789416004.0,
-      "source": "Kotaku",
-      "summary": "Randy Smith Evergreen isn't convinced immersive sims need $200+ million budgets to succeed"
-    },
-    {
-      "title": "The King Is Watching devs are making The Crab is Walking, this journalist is writing",
-      "link": "https://www.rockpapershotgun.com/the-king-is-watching-devs-are-making-the-crab-is-walking-this-journalist-is-writing",
-      "pubDate": "14.09.2026 um 20:00 Uhr",
-      "timestamp": 1789416000.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "The King Is Watching developers Hypnohead have announced The Crab Is Walking, a roguelite city-builder in which you alternate between arranging tetron..."
-    },
-    {
-      "title": "Nintendo Opens the Zelda: Ocarina of Time Pre-orders Fans Were Waiting For",
-      "link": "https://www.polygon.com/switch-2-zelda-ocarina-of-time-instrument-preorders-price-release-date/",
-      "pubDate": "14.09.2026 um 19:59 Uhr",
-      "timestamp": 1789415975.0,
-      "source": "Polygon.com",
-      "summary": "The Switch 2 accessory was conspicuously missing from Nintendo's official Zelda gameplay reveal, but now it's back with a date, price, and more"
-    },
-    {
-      "title": "Sora In Fortnite Wants To Know If You’ve Got Games On Your Phone",
-      "link": "https://kotaku.com/sora-kingdom-hearts-fortnite-skin-announcement-trailer-2000734340",
-      "pubDate": "14.09.2026 um 19:30 Uhr",
-      "timestamp": 1789414216.0,
-      "source": "Kotaku",
-      "summary": "I wish I could save all the characters I love from the crossover slop"
-    },
-    {
-      "title": "Wardogs Is a Hit on Steam, and It’s Already on Sale for $33",
-      "link": "https://www.ign.com/articles/wardogs-is-a-hit-on-steam-and-its-already-on-sale-for-33",
-      "pubDate": "14.09.2026 um 19:06 Uhr",
-      "timestamp": 1789412770.0,
-      "source": "IGN All",
-      "summary": "Wardogs is a new online first-person shooter that has been riding high on the Steam charts since it came out on September 10. You can get it for $33 r..."
-    },
-    {
-      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
-      "link": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
-      "pubDate": "14.09.2026 um 19:04 Uhr",
-      "timestamp": 1789412683.0,
-      "source": "Eurogamer.net News",
-      "summary": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: S..."
     }
   ],
   "sim": [
+    {
+      "title": "This Week in iRacing | September 15th to September 21st, 2026",
+      "link": "https://www.iracing.com/this-week-in-iracing-september-15th-to-september-21st-2026/",
+      "pubDate": "14.09.2026 um 21:00 Uhr",
+      "timestamp": 1789419603.0,
+      "source": "iRacing.com",
+      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
+    },
     {
       "title": "Gran Turismo 7 Daily Races: Stuck in the Meta With You",
       "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-stuck-in-the-meta-with-you-20260914/",
@@ -387,14 +395,6 @@
       "timestamp": 1788789615.0,
       "source": "iRacing.com",
       "summary": "The iRacing Creventic Endurance Series returns for 2026, bringing another season of team-based endurance racing across a selection of world-class circ..."
-    },
-    {
-      "title": "THIS WEEK: iRacing Suzuka 1000 presented by PIMAX | Special Event",
-      "link": "https://www.iracing.com/this-week-iracing-suzuka-1000-presented-by-pimax-special-event/",
-      "pubDate": "07.09.2026 um 13:00 Uhr",
-      "timestamp": 1788786008.0,
-      "source": "iRacing.com",
-      "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
     },
     {
       "title": "Next Level Racing Discount Code “GTPLANET” Saves 5% On Cockpits and Rigs",
