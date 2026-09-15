@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "HORI Arcade Classic Pro für Switch 2 – modularer Controller mit 4 Modulen",
+      "link": "https://www.playcentral.de/hori-arcade-classic-pro-fuer-switch-2-modularer-controller-mit-4-modulen/",
+      "pubDate": "15.09.2026 um 18:32 Uhr",
+      "timestamp": 1789497162.0,
+      "source": "PlayCentral",
+      "summary": "Hori hat mit dem HORI Arcade Classic Pro einen ungewöhnlichen neuen Controller für Nintendo Switch 2 vorgestellt. Das offiziell von Nintendo lizenzier..."
+    },
+    {
+      "title": "Emberville startet am 27. Oktober 2026 in Early Access – Diablo trifft Farmleben",
+      "link": "https://www.playcentral.de/emberville-startet-am-27-oktober-2026-in-early-access-diablo-trifft-farmleben/",
+      "pubDate": "15.09.2026 um 18:31 Uhr",
+      "timestamp": 1789497093.0,
+      "source": "PlayCentral",
+      "summary": "Mit Emberville kündigt sich auf Steam ein ungewöhnlicher Genre Mix an, der die Beutejagd und das Klassensystem von Diablo mit Landwirtschaft, Handwerk..."
+    },
+    {
+      "title": "Unerfahrene Wikinger bekommen in Valheim hart aufs Maul, Veteranen lachen und raten: Trinkt Met",
+      "link": "https://mein-mmo.de/valheim-1-0-neue-spieler-kassieren-hart/",
+      "pubDate": "15.09.2026 um 18:15 Uhr",
+      "timestamp": 1789496100.0,
+      "source": "Mein-MMO",
+      "summary": "Wer ein echter Krieger Odins sein will, muss Zähigkeit beweisen - auch in Valheim. Das lernen frische Gefallene gerade. Der Beitrag Unerfahrene Wiking..."
+    },
+    {
       "title": "Pixel Drop: Google legt im September mit VIP- und KI-Funktionen nach",
       "link": "https://www.computerbase.de/news/betriebssysteme/pixel-drop-google-legt-im-september-mit-vip-und-ki-funktionen-nach.99422/",
       "pubDate": "15.09.2026 um 20:00 Uhr",
@@ -119,33 +143,49 @@
       "timestamp": 1789488000.0,
       "source": "Mein-MMO",
       "summary": "Mit „Kodex der Schöpfung“ erreicht die Erweiterung „Visions of Eternity“ ihr episches Finale. Wir konnten für euch bereits einen ersten Eindruck gewin..."
-    },
-    {
-      "title": "Einer der mächtigsten Rivalen von Godzilla kehrt wohl bald ins Kino zurück, legt sich mit der neuesten Version der Riesenechse an",
-      "link": "https://mein-mmo.de/godzilla-minus-zero-neues-monster-im-november/",
-      "pubDate": "15.09.2026 um 15:52 Uhr",
-      "timestamp": 1789487529.0,
-      "source": "Mein-MMO",
-      "summary": "Im November kehrt Godzilla mit Godzilla Minus Zero zurück und Fans sind sich nach dem neuen Trailer sicher, dass er einen neuen Gegner hat. Der Beitra..."
-    },
-    {
-      "title": "Die Bosse im neuen Samurai-Spiel von Capcom sind so gut, dass ich selbst meine größten Kritikpunkte vergessen kann",
-      "link": "https://mein-mmo.de/onimusha-bosskaempfe-meinung/",
-      "pubDate": "15.09.2026 um 15:51 Uhr",
-      "timestamp": 1789487477.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteur Nikolas Hernes hatte richtig viel Spaß mit dem neuen Action-Kracher von Capcom. Das lag vor allem an den Bossen. Der Beitrag Die Bos..."
-    },
-    {
-      "title": "Diablo 4 Tier List: Beste Builds im Endgame von Season 15",
-      "link": "https://mein-mmo.de/diablo-4-season-15-tier-list/",
-      "pubDate": "15.09.2026 um 15:50 Uhr",
-      "timestamp": 1789487415.0,
-      "source": "Mein-MMO",
-      "summary": "Unsere Tier List für Season 15 in Diablo 4 liefert euch die besten Builds für alle Klassen im Endgame – inklusive Links zum Nachbauen. Der Beitrag Dia..."
     }
   ],
   "int": [
+    {
+      "title": "Nvidia CEO Asks Trump To Reassure Everyone That AI Isn’t A World-Ending House Of Cards As AI Stock Prices Fall: ‘It’s All A Hoax, The Data Centers Are Great’",
+      "link": "https://kotaku.com/nvidia-ceo-asks-trump-to-reassure-everyone-that-ai-isnt-a-world-ending-house-of-cards-as-ai-stock-prices-fall-its-all-a-hoax-the-data-centers-are-great-2000734601",
+      "pubDate": "15.09.2026 um 19:00 Uhr",
+      "timestamp": 1789498824.0,
+      "source": "Kotaku",
+      "summary": "Trump also stated that data centers are great because 'they make people wealthy,' and described AI as being 'bigger than the internet'"
+    },
+    {
+      "title": "Diablo 4 player discovers secret Diablo 2 easter egg in its new throwback season and now everyone is wondering what else Blizzard hid in there",
+      "link": "https://www.pcgamer.com/games/rpg/diablo-4-player-discovers-secret-diablo-2-easter-egg-in-its-new-throwback-season-and-now-everyone-is-wondering-what-else-blizzard-hid-in-there/",
+      "pubDate": "15.09.2026 um 18:55 Uhr",
+      "timestamp": 1789498537.0,
+      "source": "PCGamer latest",
+      "summary": "It's more than old bosses coming back for the Season of Hell's Legacy."
+    },
+    {
+      "title": "Target Will Be Unusually Strict For Pokémon's 30th Anniversary TCG Set Release",
+      "link": "https://www.polygon.com/target-pokemon-30th-anniversary-tcg-drop-limits-etb-new-rules/",
+      "pubDate": "15.09.2026 um 18:39 Uhr",
+      "timestamp": 1789497576.0,
+      "source": "Polygon.com",
+      "summary": "The popular retailer will enforce new rules for how customers buy Pokémon products, including measures for lines, security, and purchasing limits"
+    },
+    {
+      "title": "Games Like Warcraft 3 Are ‘The Best Storytelling Medium Warcraft Has Had,’ Says Director",
+      "link": "https://kotaku.com/warcraft-3-game-director-rts-rpg-storytelling-2000734419",
+      "pubDate": "15.09.2026 um 18:30 Uhr",
+      "timestamp": 1789497033.0,
+      "source": "Kotaku",
+      "summary": "'An MMO can be challenging in terms of building up and conveying a connection to characters'"
+    },
+    {
+      "title": "Marvel’s Wolverine’s Cartoon Suits Are a Crime Against Humanity",
+      "link": "https://www.polygon.com/marvels-wolverine-cartoon-suits-crime-against-humanity/",
+      "pubDate": "15.09.2026 um 18:20 Uhr",
+      "timestamp": 1789496452.0,
+      "source": "Polygon.com",
+      "summary": "The animated and cartoon-themed suits for Logan in Marvel's Wolverine are totally at odds with the theme of the game."
+    },
     {
       "title": "'Apex Legends' Is Officially Crossing Over With Fall’s Most-Anticipated Action Movie",
       "link": "https://www.polygon.com/street-fighter-6-apex-legends-crossover-release-date-skins/",
@@ -249,49 +289,17 @@
       "timestamp": 1789490657.0,
       "source": "PCGamer latest",
       "summary": "CD Projekt aims to make The Witcher 3 remaster feel like a 2026 game, and that means bigger changes than you might expect."
-    },
-    {
-      "title": "Skyblivion's release is \"getting closer\" as the massive Skyrim mod's makers start recruiting for a big final marketing push",
-      "link": "https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push",
-      "pubDate": "15.09.2026 um 16:33 Uhr",
-      "timestamp": 1789490006.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Skyblivion, that massive Oblivion remake mod which was originally set to release last year, finally seems to be on the verge of arrival. While they've..."
-    },
-    {
-      "title": "D&D Arcana Unleashed casts a spell with magical subclasses, and it finally gives us a good Necromancer build",
-      "link": "https://www.gamesradar.com/tabletop-gaming/d-and-d-arcana-unleashed-casts-a-spell-with-magical-subclasses-and-it-finally-gives-us-a-good-necromancer-build/",
-      "pubDate": "15.09.2026 um 16:30 Uhr",
-      "timestamp": 1789489845.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "I've been hands-on with both D&amp;D Arcana Unleashed books, and have come away impressed - here's why."
-    },
-    {
-      "title": "Today’s Top Deals: $13 Resident Evil for PS5, Samsung Switch 2 Memory Card, and MTG Lorwyn Eclipsed",
-      "link": "https://www.ign.com/articles/best-deals-for-september-15-2026",
-      "pubDate": "15.09.2026 um 16:30 Uhr",
-      "timestamp": 1789489800.0,
-      "source": "IGN All",
-      "summary": "Plus, be sure to check out new Pokemon TCG restocks and even more discounts"
-    },
-    {
-      "title": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'",
-      "link": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
-      "pubDate": "15.09.2026 um 16:30 Uhr",
-      "timestamp": 1789489800.0,
-      "source": "PCGamer latest",
-      "summary": "Mission accomplished."
-    },
-    {
-      "title": "Next 'Jujutsu Kaisen' Release Officially Hit With Massive Delay",
-      "link": "https://www.polygon.com/jujutsu-kaisen-rumble-survivaton-game-delay-2027/",
-      "pubDate": "15.09.2026 um 16:26 Uhr",
-      "timestamp": 1789489582.0,
-      "source": "Polygon.com",
-      "summary": "Jujutsu Kaisen Rumble Survivaton has been delayed from 2026 to 2027."
     }
   ],
   "sim": [
+    {
+      "title": "Start Your Engines! NASCAR 26 Launches Today on PC, PlayStation 5 & Xbox Series X|S",
+      "link": "https://www.iracing.com/start-your-engines-nascar-26-launches-today-on-pc-playstation-5-xbox-series-xs/",
+      "pubDate": "15.09.2026 um 19:03 Uhr",
+      "timestamp": 1789499002.0,
+      "source": "iRacing.com",
+      "summary": "Grab the Gold Edition and play now before the Standard Edition releases on September 18! CHELMSFORD, Mass. – Sept. 15, 2026 – NASCAR and iRacing Studi..."
+    },
     {
       "title": "2026 eNASCAR Coca-Cola iRacing Championship Series | Preview | Race 11 at Texas Motor Speedway",
       "link": "https://www.iracing.com/2026-enascar-coca-cola-iracing-championship-series-preview-race-11-at-texas-motor-speedway/",
@@ -309,44 +317,12 @@
       "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
     },
     {
-      "title": "Gran Turismo 7 Daily Races: Stuck in the Meta With You",
-      "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-stuck-in-the-meta-with-you-20260914/",
-      "pubDate": "14.09.2026 um 16:03 Uhr",
-      "timestamp": 1789401803.0,
-      "source": "GTPlanet",
-      "summary": "A new set of GT7 Daily Races is live: the 996 GT3 at Deep Forest, Gr..."
-    },
-    {
       "title": "THIS WEEK: iRacing Britcar 24 presented by Cosworth | Special Event",
       "link": "https://www.iracing.com/this-week-iracing-britcar-24-presented-by-cosworth-special-event/",
       "pubDate": "14.09.2026 um 13:00 Uhr",
       "timestamp": 1789390810.0,
       "source": "iRacing.com",
       "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
-    },
-    {
-      "title": "MOZA’s First PlayStation Wheel Breaks Cover at TGS Next Week",
-      "link": "https://www.gtplanet.net/moza-playstation-wheel-reveal-set-for-tokyo-game-show-next-week-20260911/",
-      "pubDate": "11.09.2026 um 14:38 Uhr",
-      "timestamp": 1789137522.0,
-      "source": "GTPlanet",
-      "summary": "MOZA has confirmed its first PlayStation-compatible wheel will be revealed at Tokyo Game Show 2026, and the teaser image looks a lot like the 16Nm R16..."
-    },
-    {
-      "title": "Gran Turismo 7 Online Time Trial: Free Willow",
-      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-free-willow-20260910/",
-      "pubDate": "10.09.2026 um 19:32 Uhr",
-      "timestamp": 1789068755.0,
-      "source": "GTPlanet",
-      "summary": "This week's new Gran Turismo 7 Online Time Trial sends the Mercedes-Benz SLS AMG Gr..."
-    },
-    {
-      "title": "Gran Turismo 7 Weekly Challenges: Ioniq Boom",
-      "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-ioniq-boom-20260910/",
-      "pubDate": "10.09.2026 um 16:59 Uhr",
-      "timestamp": 1789059579.0,
-      "source": "GTPlanet",
-      "summary": "A new set of Gran Turismo 7 Weekly Challenges arrives Friday, September 11, headlined by a Hyundai Ioniq 6 N one-make at Road Atlanta and a 140,000cr ..."
     },
     {
       "title": "iRacing Weekly Tune-in | eSports & Community Events | September 12th to September 15th, 2026",
@@ -379,46 +355,6 @@
       "timestamp": 1788962863.0,
       "source": "iRacing.com",
       "summary": "iRacing’s commitment to single-player racing expands further with the release of 2026 Season 4 with a deep set of newly unlocked AI Racing content. Ei..."
-    },
-    {
-      "title": "This Week in iRacing | September 8th to September 14th, 2026",
-      "link": "https://www.iracing.com/this-week-in-iracing-september-8th-to-september-14th-2026/",
-      "pubDate": "07.09.2026 um 21:00 Uhr",
-      "timestamp": 1788814842.0,
-      "source": "iRacing.com",
-      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
-    },
-    {
-      "title": "Gran Turismo 7 Daily Races: Pug Life",
-      "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-pug-life-20260907/",
-      "pubDate": "07.09.2026 um 16:45 Uhr",
-      "timestamp": 1788799524.0,
-      "source": "GTPlanet",
-      "summary": "A one-make Peugeot RCZ Gr..."
-    },
-    {
-      "title": "Next Level Racing Discount Code “GTPLANET” Saves 5% On Cockpits and Rigs",
-      "link": "https://www.gtplanet.net/next-level-racing-discount-code-gtplanet-takes-5-off-cockpits-and-rigs-20260905/",
-      "pubDate": "05.09.2026 um 20:00 Uhr",
-      "timestamp": 1788638449.0,
-      "source": "GTPlanet",
-      "summary": "GTPlanet readers can save 5% on Next Level Racing cockpits, wheel stands, seats, and flight sim gear with the code GTPLANET at the official store..."
-    },
-    {
-      "title": "Fanatec Releases Hotfix for Gran Turismo DD Pro Issues in GT7",
-      "link": "https://www.gtplanet.net/fanatec-releases-hotfix-for-gran-turismo-dd-pro-issues-in-gt7-20260904/",
-      "pubDate": "04.09.2026 um 17:13 Uhr",
-      "timestamp": 1788541996.0,
-      "source": "GTPlanet",
-      "summary": "Fanatec App V1..."
-    },
-    {
-      "title": "Gran Turismo 7 Online Time Trial: Genesis Exodus",
-      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-genesis-exodus-20260903/",
-      "pubDate": "03.09.2026 um 18:53 Uhr",
-      "timestamp": 1788461635.0,
-      "source": "GTPlanet",
-      "summary": "This week's new GT7 Online Time Trial opens the whole Gr..."
     }
   ]
 }
