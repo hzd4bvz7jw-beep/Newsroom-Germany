@@ -1,6 +1,78 @@
 {
   "de": [
     {
+      "title": "Chrome 153: Kritische Lücken ermöglichen Übernahme des Systems",
+      "link": "https://www.computerbase.de/news/apps/chrome-153-kritische-luecken-ermoeglichen-uebernahme-des-systems.99429/",
+      "pubDate": "16.09.2026 um 16:46 Uhr",
+      "timestamp": 1789569960.0,
+      "source": "ComputerBase",
+      "summary": "Mit dem aktuell ausgerollten Update auf Chrome 153 schließt Google insgesamt 42 Sicherheitslücken, von denen drei als kritisch und weitere 27 als gefä..."
+    },
+    {
+      "title": "GTA 6 lässt auf der Tokyo Game Show den Boden beben – Sony baut Spezialkino und verschenkt Gratis-Shirts",
+      "link": "https://www.playcentral.de/gta-6-tokyo-game-show-kino-gratis-shirts/",
+      "pubDate": "16.09.2026 um 14:33 Uhr",
+      "timestamp": 1789569236.0,
+      "source": "PlayCentral",
+      "summary": "Während Fans auf den Release von GTA 6 warten, bereitet Sony einen ungewöhnlichen Vorgeschmack auf Vice City vor. Auf der Tokyo Game Show bekommt Rock..."
+    },
+    {
+      "title": "Frostrail kommt 2026 in den Early Access – Koop-Survival mit Zugfestung",
+      "link": "https://www.playcentral.de/frostrail-kommt-2026-in-den-early-access-koop-survival-mit-zugfestung/",
+      "pubDate": "16.09.2026 um 14:33 Uhr",
+      "timestamp": 1789569220.0,
+      "source": "PlayCentral",
+      "summary": "Mit Frostrail rollt noch 2026 ein neues Survival-Spiel auf Steam heran, das Fans von Metro Exodus sofort bekannt vorkommen dürfte. Eine gefrorene Welt..."
+    },
+    {
+      "title": "Diablo 4 schaltet kostenlose Mount-Trophäe Moomento Mori für alle frei",
+      "link": "https://www.playcentral.de/diablo-4-schaltet-kostenlose-mount-trophaee-moomento-mori-fuer-alle-frei/",
+      "pubDate": "16.09.2026 um 14:32 Uhr",
+      "timestamp": 1789569128.0,
+      "source": "PlayCentral",
+      "summary": "Die Community von Diablo 4 hat sich eine kostenlose Belohnung erspielt. Im Rahmen der zeitlich begrenzten Divine Bovine Community-Herausforderung wurd..."
+    },
+    {
+      "title": "Dwayne „The Rock“ Johnson konnte einen Fantasy-Film von Disney nicht davor retten, ein Misserfolg zu werden",
+      "link": "https://mein-mmo.de/the-rock-jungle-cruise-flop/",
+      "pubDate": "16.09.2026 um 14:30 Uhr",
+      "timestamp": 1789569000.0,
+      "source": "Mein-MMO",
+      "summary": "Jungle Cruise war ein weiterer Versuch von Disney, eine Freizeitpark-Attraktion zu verfilmen. Leider floppte der Film im Kino. Der Beitrag Dwayne „The..."
+    },
+    {
+      "title": "Blizzard erfüllt Spielern einen großen Wunsch, macht Kriegspläne in Diablo 4 accountweit",
+      "link": "https://mein-mmo.de/diablo-4-kriegsplaene-blizzard-erfuellt-spielern-wunsch/",
+      "pubDate": "16.09.2026 um 14:29 Uhr",
+      "timestamp": 1789568970.0,
+      "source": "Mein-MMO",
+      "summary": "Spieler fanden es anstrengend, die Kriegspläne in Diablo 4 immer wieder neu leveln zu müssen. Das ändert sich mit Season 15. Der Beitrag Blizzard erfü..."
+    },
+    {
+      "title": "Seit 90 Jahren schafft es niemand, einen Sci-Fi-Klassiker zu verfilmen – Nicht einmal James Cameron und Guillermo del Toro",
+      "link": "https://mein-mmo.de/lovecraft-klassiker-unverfilmbar-del-toro/",
+      "pubDate": "16.09.2026 um 14:25 Uhr",
+      "timestamp": 1789568700.0,
+      "source": "Mein-MMO",
+      "summary": "Eine Geschichte von H.P. Lovecraft hat bis heute keine Verfilmung erhalten. Besonders Guillermo del Toro saß jahrelang an dem Projekt. Der Beitrag Sei..."
+    },
+    {
+      "title": "Resident Evil: Erste Reaktionen zu Zach Creggers neuem Film fallen begeistert aus",
+      "link": "https://www.eurogamer.de/resident-evil-film-erste-reaktionen",
+      "pubDate": "16.09.2026 um 14:23 Uhr",
+      "timestamp": 1789568605.0,
+      "source": "Eurogamer.de News",
+      "summary": "Der neue Resident-Evil-Film von Regisseur Zach Cregger kommt diese Woche endlich in die Kinos. Schon jetzt trudeln auf Social Media die ersten Reaktio..."
+    },
+    {
+      "title": "Excel: Microsoft bestätigt Copy-&-Paste-Bug nach September-Update",
+      "link": "https://www.computerbase.de/news/apps/excel-microsoft-bestaetigt-copy-und-paste-bug-nach-september-update.99438/",
+      "pubDate": "16.09.2026 um 16:18 Uhr",
+      "timestamp": 1789568280.0,
+      "source": "ComputerBase",
+      "summary": "Infolge des September-Patchday für Microsoft Office (KB5002914) kann es in Excel zu einem Bug kommen, durch den Copy & Paste nicht mehr funktioniert. ..."
+    },
+    {
       "title": "GTA Online: Junk-Energy-Fallschirmsprünge – Fundorte und Goldmedaillen",
       "link": "https://www.playcentral.de/gta-online-junk-energy-skydives-fundorte-karte/",
       "pubDate": "16.09.2026 um 13:56 Uhr",
@@ -9,20 +81,20 @@
       "summary": "Findet die heutigen Junk Energy Skydives in GTA Online und erfahrt alles über Aktivierungspunkte, Goldmedaillen und Belohnungen."
     },
     {
-      "title": "GTA 6 zeigt gemeinsam mit verschiedenen Musikern, was wir vom Soundtrack des Spiels erwarten können – und der muss slappen",
-      "link": "https://mein-mmo.de/gta-6-soundtrack-enthuellung-der-kuenstler/",
-      "pubDate": "16.09.2026 um 13:50 Uhr",
-      "timestamp": 1789566600.0,
-      "source": "Mein-MMO",
-      "summary": "GTA 6 arbeitet mit Künstlern wie Travis Scott und Future, doch einer von ihnen teast, dass da mehr hinterstecken könnte. Der Beitrag GTA 6 zeigt gemei..."
-    },
-    {
       "title": "Die recycelten Plastikreste eines Warhammer-Fans sind so stark, dass die Community nicht rafft, wieso Games Workshop das nicht offiziell macht",
       "link": "https://mein-mmo.de/warhammer-terrain-aus-miniatur-gussrahmen-resten/",
       "pubDate": "16.09.2026 um 13:50 Uhr",
       "timestamp": 1789566600.0,
       "source": "Mein-MMO",
       "summary": "Ein Warhammer-Fan schafft coole Gebäude aus einem Material, das andere Spieler eigentlich sofort wegwerfen. Der Beitrag Die recycelten Plastikreste ei..."
+    },
+    {
+      "title": "GTA 6 zeigt gemeinsam mit verschiedenen Musikern, was wir vom Soundtrack des Spiels erwarten können – und der muss slappen",
+      "link": "https://mein-mmo.de/gta-6-soundtrack-enthuellung-der-kuenstler/",
+      "pubDate": "16.09.2026 um 13:50 Uhr",
+      "timestamp": 1789566600.0,
+      "source": "Mein-MMO",
+      "summary": "GTA 6 arbeitet mit Künstlern wie Travis Scott und Future, doch einer von ihnen teast, dass da mehr hinterstecken könnte. Der Beitrag GTA 6 zeigt gemei..."
     },
     {
       "title": "Nintendo Switch 2: Neue Konsolen-Bundles für das Weihnachtsgeschäft angekündigt",
@@ -71,227 +143,163 @@
       "timestamp": 1789566300.0,
       "source": "Mein-MMO",
       "summary": "Die Entwickler von Warlock wollen, dass Spieler durch eigene Entdeckungen belohnt werden, nicht durch bunte Wegweiser. Der Beitrag Warlock macht es wi..."
-    },
-    {
-      "title": "Einer der teuersten Fußball-Profis der Welt wird auf Twitch wegen EA Sports FC 27 gebannt, rechtfertigt die Sperre mit mieser Ausrede",
-      "link": "https://mein-mmo.de/fussball-profi-wegen-ea-sports-fc-27-auf-twitch-gebannt/",
-      "pubDate": "16.09.2026 um 13:37 Uhr",
-      "timestamp": 1789565829.0,
-      "source": "Mein-MMO",
-      "summary": "Der englische Fußball-Profi Cole Palmer wurde auf Twitch gesperrt. Er hat das kommende EA Sports FC 27 gestreamt, als es noch niemand zeigen durfte. D..."
-    },
-    {
-      "title": "Zelda Ocarina of Time Remake vorbestellen: Boni im Überblick – OTTO mit Gratis-Schlüsselanhänger",
-      "link": "https://www.playcentral.de/zelda-ocarina-of-time-remake-vorbestellen-boni/",
-      "pubDate": "16.09.2026 um 13:35 Uhr",
-      "timestamp": 1789565735.0,
-      "source": "PlayCentral",
-      "summary": "The Legend of Zelda: Ocarina of Time für Nintendo Switch 2 vorbestellen: Händler, Preise und Boni im Vergleich – inklusive OTTO-Schlüsselanhänger."
-    },
-    {
-      "title": "CB-Funk-Podcast #184: Steam Frame, RTX Spark und die „RTX 5090 84 GB“",
-      "link": "https://www.computerbase.de/news/in-eigener-sache/cb-funk-podcast-184-steam-frame-rtx-spark-und-die-5090-84-gb.99440/",
-      "pubDate": "16.09.2026 um 15:30 Uhr",
-      "timestamp": 1789565400.0,
-      "source": "ComputerBase",
-      "summary": "Beim Controller wurde ComputerBase „ignoriert“, bei der Steam Machine in zweiter Runde bedacht – doch bei der Steam Frame (Test) hatte Jan direkt zum ..."
-    },
-    {
-      "title": "Aion 2 Test steht an, der Vorab-Download ist jetzt aktiv",
-      "link": "https://mein-mmo.de/aion-2-launch-scale-stress-test/",
-      "pubDate": "16.09.2026 um 13:18 Uhr",
-      "timestamp": 1789564705.0,
-      "source": "Mein-MMO",
-      "summary": "Noch im September findet für Aion 2 ein großer Stresstest statt. MeinMMO verrät euch, was ihr wissen müsst und wie ihr teilnehmt. Der Beitrag Aion 2 T..."
-    },
-    {
-      "title": "Einer der mächtigsten und fiesesten Gegner von Godzilla kehrt bald wohl wieder ins Kino zurück",
-      "link": "https://mein-mmo.de/godzilla-minus-zero-neues-monster-im-november/",
-      "pubDate": "16.09.2026 um 13:11 Uhr",
-      "timestamp": 1789564319.0,
-      "source": "Mein-MMO",
-      "summary": "Im November kehrt Godzilla mit Godzilla Minus Zero zurück und Fans sind sich nach dem neuen Trailer sicher, dass er einen neuen Gegner hat. Der Beitra..."
-    },
-    {
-      "title": "iPhone Duo im Hands-on: Die beste erste Generation faltbares Smartphone",
-      "link": "https://www.computerbase.de/artikel/smartphones/apple-iphone-duo-hands-on.99436/",
-      "pubDate": "16.09.2026 um 15:00 Uhr",
-      "timestamp": 1789563600.0,
-      "source": "ComputerBase",
-      "summary": "Apple bietet mit dem iPhone Duo sein erstes faltbares Smartphone an. Andere Unter­nehmen sind da schon weiter, etwa Samsung mit der bereits achten Gen..."
-    },
-    {
-      "title": "Microsoft-365-Alternative: Euro-Office erscheint als Desktop-App",
-      "link": "https://www.computerbase.de/news/apps/microsoft-365-alternative-euro-office-erscheint-als-desktop-app.99372/",
-      "pubDate": "16.09.2026 um 15:00 Uhr",
-      "timestamp": 1789563600.0,
-      "source": "ComputerBase",
-      "summary": "Euro-Office ist als europäische Alternative für Microsoft 365 bislang nur als Browser-Version verfügbar. Nun kündigt die Entwicklergruppe rund um Next..."
-    },
-    {
-      "title": "Fable soll ein würdiges Finale mit einer schweren Entscheidung bekommen",
-      "link": "https://www.playcentral.de/fable-soll-ein-wuerdiges-finale-mit-einer-schweren-entscheidung-bekommen/",
-      "pubDate": "16.09.2026 um 12:56 Uhr",
-      "timestamp": 1789563361.0,
-      "source": "PlayCentral",
-      "summary": "Fable zählt fraglos zu den meist erwarteten Rollenspiel-Veröffentlichungen des kommenden Frühjahrs. Entsprechend mehren sich die Informationen, die Pl..."
-    },
-    {
-      "title": "Aniimo schenkt euch zum Start eines von 14 seltenen Monstern – welches solltet ihr wählen?",
-      "link": "https://mein-mmo.de/aniimo-prismana-monster-wahl-gratis/",
-      "pubDate": "16.09.2026 um 12:52 Uhr",
-      "timestamp": 1789563163.0,
-      "source": "Mein-MMO",
-      "summary": "Aniimo schenkt euch zu Beginn des Spiels eines von 14 besonderen Monstern. MeinMMO verrät euch, welches ihr dabei wählen solltet. Der Beitrag Aniimo s..."
     }
   ],
   "int": [
     {
-      "title": "'The Ring' quest walkthrough in The Blood of Dawnwalker",
-      "link": "https://www.polygon.com/blood-of-dawnwalker-the-ring-quest-walkthrough-farkas/",
-      "pubDate": "16.09.2026 um 14:05 Uhr",
-      "timestamp": 1789567504.0,
+      "title": "HBO Officially Confirms Knight of the Seven Kingdoms Season 2 Release Window",
+      "link": "https://www.polygon.com/game-of-thrones-knight-of-the-seven-kingdoms-hbo-season-2-release-window/",
+      "pubDate": "16.09.2026 um 15:09 Uhr",
+      "timestamp": 1789571353.0,
       "source": "Polygon.com",
-      "summary": "Here's what happens if you give Farkas his family heirloom during The Blood of Dawnwalker's 'The Ring' quest."
+      "summary": "HBO's grounded Game of Thrones prequel A Knight of the Seven Kingdoms will return next year."
     },
     {
-      "title": "Nothing feels more perfect for the fall season than Mattel's new official Gilmore Girls Polly Pocket compact",
-      "link": "https://www.gamesradar.com/toys-collectibles/nothing-feels-more-perfect-for-the-fall-season-than-mattels-new-official-gilmore-girls-polly-pocket-compact/",
-      "pubDate": "16.09.2026 um 14:03 Uhr",
-      "timestamp": 1789567437.0,
+      "title": "Facing lawsuit from Denuvo, pirate who cracked the anti-piracy tool in Resident Evil Requiem, Pragmata, Black Myth: Wukong, and dozens more says they'll do it again",
+      "link": "https://www.gamesradar.com/games/facing-lawsuit-from-denuvo-pirate-who-cracked-the-anti-piracy-tool-in-resident-evil-requiem-pragmata-black-myth-wukong-and-dozens-more-says-theyll-do-it-again/",
+      "pubDate": "16.09.2026 um 15:06 Uhr",
+      "timestamp": 1789571179.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Television's iconic Stars Hollow has never looked cozier than in Mattel's upcoming official Gilmore Girls Polly Pocket compact."
+      "summary": "\"Everything will continue as normal\""
     },
     {
-      "title": "Bloxnote codes (September 2026) for Apples, Emotes, and more",
-      "link": "https://www.gamesradar.com/games/survival/bloxnote-codes/",
-      "pubDate": "16.09.2026 um 14:01 Uhr",
-      "timestamp": 1789567318.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Redeem these Bloxnote codes to get every Shinigami's favorite snack, apples, which you can then exchange for cosmetics"
-    },
-    {
-      "title": "Why Does Trying To Buy A Video Game T-Shirt Suck So Much?",
-      "link": "https://kotaku.com/why-does-trying-to-buy-a-video-game-t-shirt-suck-so-much-2000730574",
-      "pubDate": "16.09.2026 um 14:00 Uhr",
-      "timestamp": 1789567230.0,
+      "title": "The Studio Behind MindsEye Is Closing Following Latest Round Of Layoffs",
+      "link": "https://kotaku.com/the-studio-behind-mindseye-is-closing-following-latest-round-of-layoffs-2000735090",
+      "pubDate": "16.09.2026 um 15:05 Uhr",
+      "timestamp": 1789571136.0,
       "source": "Kotaku",
-      "summary": "GenAI has made things worse, but it's been bad for a while"
+      "summary": "Multiple Build a Rocket Boy employees have stated that their time at the MindsEye maker has come to an end, and sources have confirmed to Kotaku that ..."
     },
     {
-      "title": "HBO’s the Last of Us Is Officially Ending With Season 3",
-      "link": "https://www.polygon.com/last-of-us-hbo-season-3-ending/",
-      "pubDate": "16.09.2026 um 14:00 Uhr",
-      "timestamp": 1789567207.0,
-      "source": "Polygon.com",
-      "summary": "HBO boss reveals its adaptation of Sony's acclaimed Last of Us series will end after season 3"
+      "title": "9-year-old kid spends $118,000 on YouTube ads for Minecraft and Roblox videos using his dad's company credit card: \"I got called into the office\"",
+      "link": "https://www.gamesradar.com/games/minecraft/9-year-old-kid-spends-usd118-000-on-youtube-ads-for-minecraft-and-roblox-videos-using-his-dads-company-credit-card-i-got-called-into-the-office/",
+      "pubDate": "16.09.2026 um 15:02 Uhr",
+      "timestamp": 1789570951.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Unsupervised YouTube advertisements for the Roblox and Minecraft channel racked up enormous fees in just weeks"
     },
     {
-      "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says",
-      "link": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games",
-      "pubDate": "16.09.2026 um 13:57 Uhr",
-      "timestamp": 1789567049.0,
-      "source": "Eurogamer.net News",
-      "summary": "Fable developer Playground Games has said \"many people within Xbox view Fable as being vital to the DNA of the platform\", which is why this game has b..."
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave Reviews Just Gave Nintendo Another Massive 2026 Win",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-review-roundup/",
-      "pubDate": "16.09.2026 um 13:51 Uhr",
-      "timestamp": 1789566676.0,
-      "source": "Polygon.com",
-      "summary": "Fire Emblem: Fortune's Weave critics are stunned by both the quality and length of Nintendo and Intelligent Systems' latest tactical RPG."
-    },
-    {
-      "title": "Is Aniimo a gacha game?",
-      "link": "https://www.pcgamer.com/games/rpg/aniimo-is-it-gacha-monetization-explained/",
-      "pubDate": "16.09.2026 um 13:45 Uhr",
-      "timestamp": 1789566355.0,
+      "title": "How to watch the PC Gaming Show Tokyo Direct 2026",
+      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
+      "pubDate": "16.09.2026 um 15:02 Uhr",
+      "timestamp": 1789570943.0,
       "source": "PCGamer latest",
-      "summary": "The creature catcher says Anii-no to typical gacha banner pulls."
+      "summary": "Come back to the Tokyo Game Show and see all the news we've got for you."
     },
     {
-      "title": "The Witcher 3 producer says it's scary to work with another studio on the game's expansion: 'I also think twice about leaving my baby with someone'",
-      "link": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-producer-says-its-scary-to-work-with-another-studio-on-the-games-expansion-i-also-think-twice-about-leaving-my-baby-with-someone/",
-      "pubDate": "16.09.2026 um 13:35 Uhr",
-      "timestamp": 1789565748.0,
+      "title": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
+      "pubDate": "16.09.2026 um 15:01 Uhr",
+      "timestamp": 1789570886.0,
       "source": "PCGamer latest",
-      "summary": "But, \"there are people over there who are not me who take the best care ever of them.\""
+      "summary": "Forever, not never."
     },
     {
-      "title": "Fire Emblem: Fortune’s Weave Reviews Praise Tactical Combat, Warn Of Exhaustingly Long Runtime And Pacing Issues",
-      "link": "https://kotaku.com/fire-emblem-fortunes-weave-review-round-up-switch-2-2000735072",
-      "pubDate": "16.09.2026 um 13:31 Uhr",
-      "timestamp": 1789565513.0,
+      "title": "How to fly a Wardogs helicopter",
+      "link": "https://www.gamesradar.com/games/fps/wardogs-helicopter-controls/",
+      "pubDate": "16.09.2026 um 15:01 Uhr",
+      "timestamp": 1789570878.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Flying a chopper in Wardogs takes some getting used to"
+    },
+    {
+      "title": "Blizzard’s Got A Serious Scalping Problem On Its Hands",
+      "link": "https://kotaku.com/blizzards-got-a-serious-scalping-problem-on-its-hands-2000734796",
+      "pubDate": "16.09.2026 um 15:00 Uhr",
+      "timestamp": 1789570844.0,
       "source": "Kotaku",
-      "summary": "The latest entry in Nintendo’s fantasy tactical RPG has a lot of everything for everyone"
+      "summary": "The World of Warcraft: Forever Collector's Edition is being scalped all to hell, too"
     },
     {
-      "title": "\"A dried husk of a product\": former Doom producer berates Microsoft for making Halo a \"mid-tier\" game and mourns the \"financialisation\" of AAA",
-      "link": "https://www.rockpapershotgun.com/a-dried-husk-of-a-product-former-doom-producer-berates-microsoft-for-making-halo-a-mid-tier-game-and-mourns-the-financialisation-of-aaa",
-      "pubDate": "16.09.2026 um 13:30 Uhr",
-      "timestamp": 1789565400.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Former Doom: The Dark Ages producer Andrew Willis has shared tuppence on the state of the blockbuster videogame trade, arguing that the biggest compan..."
-    },
-    {
-      "title": "The Hunger Games: Sunrise on the Reaping trailer teases the darkest story yet for the franchise",
-      "link": "https://www.gamesradar.com/entertainment/action-movies/the-hunger-games-sunrise-on-the-reaping-trailer-teases-the-darkest-story-yet-for-the-franchise/",
-      "pubDate": "16.09.2026 um 13:15 Uhr",
-      "timestamp": 1789564513.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Everyone has their game face on in preview for the action-packed Hunger Games prequel"
-    },
-    {
-      "title": "\"We're trying to make it easier\": Valve confirm the Steam Frame is just the start of plans to get Steam games working on compatibility-challenged ARM PCs",
-      "link": "https://www.rockpapershotgun.com/were-trying-to-make-it-easier-valve-confirm-the-steam-frame-is-just-the-start-of-plans-to-get-steam-games-working-on-compatibility-challenged-arm-pcs",
-      "pubDate": "16.09.2026 um 13:01 Uhr",
-      "timestamp": 1789563695.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "The Steam Frame, unfortunately RAM shortage-ravaged as it is, is unique among virtual reality headsets for its ability to run Steam games &ndash; VR o..."
-    },
-    {
-      "title": "HBO boss continues to suggest The Last of Us Season 3 is the series' final season",
-      "link": "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin",
-      "pubDate": "16.09.2026 um 12:30 Uhr",
-      "timestamp": 1789561854.0,
-      "source": "Eurogamer.net News",
-      "summary": "HBO boss Casey Bloys has mentioned again that he believes The Last of Us series will be finished in three seasons. Read more"
-    },
-    {
-      "title": "'Coraline' Studio's New Film Is Already the Fantasy Movie Event of 2026",
-      "link": "https://www.polygon.com/wildwood-laika-behind-the-scenes-interviews/",
-      "pubDate": "16.09.2026 um 12:30 Uhr",
-      "timestamp": 1789561814.0,
+      "title": "Pokémon Go 'Pokémon Horizons The Series Celebration' 2026 event guide",
+      "link": "https://www.polygon.com/pokemon-go-horizons-the-series-celebration-2026-event-charmander-goggles/",
+      "pubDate": "16.09.2026 um 14:59 Uhr",
+      "timestamp": 1789570767.0,
       "source": "Polygon.com",
-      "summary": "4 mind-blowing behind-the-scenes details from Laika's new fantasy adventure, Wildwood"
+      "summary": "Our Pokémon Go guide details the anime crossover event, and explains where to find the special Charmander wearing Friede's goggles."
     },
     {
-      "title": "Critical Role Officially Gets a New Dungeon Master for Upcoming Video Game Crossover",
-      "link": "https://www.polygon.com/critical-role-daggerheart-control-resonant-new-game-master-zachery-renauldo/",
-      "pubDate": "16.09.2026 um 12:29 Uhr",
-      "timestamp": 1789561754.0,
-      "source": "Polygon.com",
-      "summary": "Critical Role is raising the stakes with a new Dungeon Master and a warped Manhattan."
+      "title": "All active Aniimo codes for launch, September 2026",
+      "link": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
+      "pubDate": "16.09.2026 um 14:54 Uhr",
+      "timestamp": 1789570472.0,
+      "source": "PCGamer latest",
+      "summary": "Get more Glimmer and other freebies with these Aniimo gift codes."
     },
     {
-      "title": "PlayStation is doubling down on planar drivers as it announces a new duo of Pulse wireless PS5 headsets",
-      "link": "https://www.gamesradar.com/hardware/headsets-headphones/playstation-is-doubling-down-on-planar-drivers-as-it-announces-a-new-duo-of-pulse-wireless-ps5-headsets/",
-      "pubDate": "16.09.2026 um 12:26 Uhr",
-      "timestamp": 1789561579.0,
+      "title": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
+      "link": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
+      "pubDate": "16.09.2026 um 14:50 Uhr",
+      "timestamp": 1789570226.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Build a Rocket Boy (BARB), makers of panned futuristic action game/massive minigame platform MindsEye, appear to be making more staff redundant or abl..."
+    },
+    {
+      "title": "Crystal Lake showrunner debunks controversial Jason theory: \"He's not a government super soldier or an Eleven\"",
+      "link": "https://www.gamesradar.com/entertainment/horror-shows/crystal-lake-showrunner-debunks-controversial-jason-theory-hes-not-a-government-super-soldier-or-an-eleven/",
+      "pubDate": "16.09.2026 um 14:42 Uhr",
+      "timestamp": 1789569746.0,
       "source": "Latest from GamesRadar+",
-      "summary": "PlayStation has announced a new duo of Pulse headsets is incoming, and planar magnetic drivers are at the helm."
+      "summary": "Brad Caleb Kane ki-ki-kills the predictions about the new horror prequel show about Jason Voorhees"
     },
     {
-      "title": "30th Anniversary Pokémon Trading Card Launch Sparks Enormous Queues, 'Ghost Chairs' Criticism, and Price Hikes",
-      "link": "https://www.ign.com/articles/30th-anniversary-pokemon-cards-spark-enormous-queues-and-ghost-chairs-criticism-as-retailers-hike-prices",
-      "pubDate": "16.09.2026 um 12:17 Uhr",
-      "timestamp": 1789561025.0,
+      "title": "Pokémon Content Creator Gets Dragged After Opening Possibly Stolen Cards",
+      "link": "https://kotaku.com/roush-pokemon-tcg-30th-celebration-set-stolen-cards-ultimate-premium-2000735067",
+      "pubDate": "16.09.2026 um 14:30 Uhr",
+      "timestamp": 1789569030.0,
+      "source": "Kotaku",
+      "summary": "Roush bought the unreleased box sets two months ahead of their official release"
+    },
+    {
+      "title": "How Blizzard Quietly Revived Heroes of the Storm",
+      "link": "https://www.polygon.com/heroes-of-the-storm-interview-blizzcon-2026/",
+      "pubDate": "16.09.2026 um 14:30 Uhr",
+      "timestamp": 1789569015.0,
+      "source": "Polygon.com",
+      "summary": "Heroes of the Storm lead producer James Yen reveals how Blizzard has worked to revive the MOBA since 2022"
+    },
+    {
+      "title": "After 26 hours in The Blood of Dawnwalker, comparisons to The Witcher 3 feel less and less accurate",
+      "link": "https://www.gamesradar.com/games/rpg/after-26-hours-in-the-blood-of-dawnwalker-comparisons-to-the-witcher-3-feel-less-and-less-accurate/",
+      "pubDate": "16.09.2026 um 14:30 Uhr",
+      "timestamp": 1789569000.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Coen doesn't need to stand in Geralt's shadow when they're very different action heroes"
+    },
+    {
+      "title": "MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future",
+      "link": "https://www.ign.com/articles/mindseye-developers-say-theyve-been-laid-off-amid-questions-over-build-a-rocket-boys-future",
+      "pubDate": "16.09.2026 um 14:20 Uhr",
+      "timestamp": 1789568422.0,
       "source": "IGN All",
-      "summary": "Pokémon's coveted 30th anniversary trading card set has gone on sale, though its launch has seen some stores jacking up prices, while long lines of cu..."
+      "summary": "Multiple developers of the disastrous MindsEye have said they’ve been laid off, casting doubt over the future of its controversial developer, Build A ..."
+    },
+    {
+      "title": "Crackdown Was So Much More Than Just the Halo 3 Beta’s Pack-In Game",
+      "link": "https://www.ign.com/articles/crackdown-was-so-much-more-than-just-the-halo-3-betas-pack-in-game",
+      "pubDate": "16.09.2026 um 14:20 Uhr",
+      "timestamp": 1789568400.0,
+      "source": "IGN All",
+      "summary": "The original Crackdown turned out to be a really terrific comic-book power fantasy brought to life. Or, put another way, a game very worthy of any Xbo..."
+    },
+    {
+      "title": "MindsEye Developer Seemingly Shutting Down after New Round of Layoffs",
+      "link": "https://www.polygon.com/mindseye-developer-build-a-rocket-boy-layoffs-studio-shutdown/",
+      "pubDate": "16.09.2026 um 14:17 Uhr",
+      "timestamp": 1789568265.0,
+      "source": "Polygon.com",
+      "summary": "MindsEye studio Build a Rocket Boy may be closing its doors for good over a year after the third-person action game's disastrous launch."
     }
   ],
   "sim": [
+    {
+      "title": "Quentin Warman plays postseason spoiler, earns first-career eNASCAR Coca-Cola iRacing Championship Series win at Texas",
+      "link": "https://www.iracing.com/quentin-warman-plays-postseason-spoiler-earns-first-career-enascar-coca-cola-iracing-championship-series-win-at-texas/",
+      "pubDate": "16.09.2026 um 14:30 Uhr",
+      "timestamp": 1789569006.0,
+      "source": "iRacing.com",
+      "summary": "Three Championship 4 Finale spots still up for grabs with one race left to decide With a chance at $100,000 and the Dale Earnhardt Jr cup on the line,..."
+    },
     {
       "title": "2026-27 eNASCAR College iRacing Series | Peachtree Pursuit at Echo Park | Time Attack Open Now!",
       "link": "https://www.iracing.com/2026-27-enascar-college-iracing-series-peachtree-pursuit-at-echo-park-time-attack-open-now/",
@@ -379,14 +387,6 @@
       "timestamp": 1789056003.0,
       "source": "iRacing.com",
       "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
-    },
-    {
-      "title": "iRacing 2026 Season 4 is HERE!",
-      "link": "https://www.iracing.com/iracing-2026-season-4-is-here/",
-      "pubDate": "09.09.2026 um 17:57 Uhr",
-      "timestamp": 1788976633.0,
-      "source": "iRacing.com",
-      "summary": "The 2026 Season 4 build of iRacing has officially been deployed! Featuring four all-new cars, three re-scanned tracks, and a host of additional qualit..."
     },
     {
       "title": "Gran Turismo 7 Daily Races: Pug Life",
