@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "iPhone 18 Pro (Max): Was macht eine variable Blende und wie ändert das Fotos?",
+      "link": "https://www.computerbase.de/artikel/smartphones/iphone-18-pro-max-variable-blende.99412/",
+      "pubDate": "16.09.2026 um 18:00 Uhr",
+      "timestamp": 1789574400.0,
+      "source": "ComputerBase",
+      "summary": "iPhone 18 Pro und iPhone 18 Pro Max bekommen erstmals eine mechanisch variable Blende in der Hauptkamera. Apple verspricht damit bessere Aufnahmen bei..."
+    },
+    {
+      "title": "Steam – Knight’s Empire ist jetzt dauerhaft kostenlos spielbar",
+      "link": "https://www.playcentral.de/steam-knights-empire-ist-jetzt-dauerhaft-kostenlos-spielbar/",
+      "pubDate": "16.09.2026 um 15:33 Uhr",
+      "timestamp": 1789572808.0,
+      "source": "PlayCentral",
+      "summary": "Auf Steam ist mit Knight&#8217;s Empire ein weiteres zuvor kostenpflichtiges Spiel dauerhaft kostenlos geworden. Das 2D-Action-Roguelike von StarsCrew..."
+    },
+    {
+      "title": "Petal Runner auf Steam – Demo zeigt Open-World-Lieferdienst mit HanaPets",
+      "link": "https://www.playcentral.de/petal-runner-auf-steam-demo-zeigt-open-world-lieferdienst-mit-hanapets/",
+      "pubDate": "16.09.2026 um 15:31 Uhr",
+      "timestamp": 1789572691.0,
+      "source": "PlayCentral",
+      "summary": "Wer sich schon immer gefragt hat, wie Stardew Valley mit einem Pokémon-Lieferdienst aussehen würde, sollte Petal Runner im Blick behalten. Das Open-Wo..."
+    },
+    {
+      "title": "Kann man Aniimo mit einem Controller spielen?",
+      "link": "https://mein-mmo.de/aniimo-controller-spielen/",
+      "pubDate": "16.09.2026 um 15:14 Uhr",
+      "timestamp": 1789571693.0,
+      "source": "Mein-MMO",
+      "summary": "Auf der Steam-Seite steht, dass Aniimo keinen Controller-Support bietet. Kann man das Game dennoch mit Controller spielen? Der Beitrag Kann man Aniimo..."
+    },
+    {
+      "title": "„Für das Erstgeborene“: 512-GByte-Module erlauben 8 TB RAM pro CPU",
+      "link": "https://www.computerbase.de/news/arbeitsspeicher/16-tb-ram-im-2p-server-micron-macht-512-gbyte-module-fuer-ende-2027-startklar.99434/",
+      "pubDate": "16.09.2026 um 17:13 Uhr",
+      "timestamp": 1789571580.0,
+      "source": "ComputerBase",
+      "summary": "Zu AMD Advancing AI 2026 hatte AMD sie bereits in Aussicht gestellt, nun kündigt Micron sie an: 512 GByte große RDIMM-Module. Pro Prozessor lassen sic..."
+    },
+    {
       "title": "Chrome 153: Kritische Lücken ermöglichen Übernahme des Systems",
       "link": "https://www.computerbase.de/news/apps/chrome-153-kritische-luecken-ermoeglichen-uebernahme-des-systems.99429/",
       "pubDate": "16.09.2026 um 16:46 Uhr",
@@ -81,14 +121,6 @@
       "summary": "Findet die heutigen Junk Energy Skydives in GTA Online und erfahrt alles über Aktivierungspunkte, Goldmedaillen und Belohnungen."
     },
     {
-      "title": "Die recycelten Plastikreste eines Warhammer-Fans sind so stark, dass die Community nicht rafft, wieso Games Workshop das nicht offiziell macht",
-      "link": "https://mein-mmo.de/warhammer-terrain-aus-miniatur-gussrahmen-resten/",
-      "pubDate": "16.09.2026 um 13:50 Uhr",
-      "timestamp": 1789566600.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Warhammer-Fan schafft coole Gebäude aus einem Material, das andere Spieler eigentlich sofort wegwerfen. Der Beitrag Die recycelten Plastikreste ei..."
-    },
-    {
       "title": "GTA 6 zeigt gemeinsam mit verschiedenen Musikern, was wir vom Soundtrack des Spiels erwarten können – und der muss slappen",
       "link": "https://mein-mmo.de/gta-6-soundtrack-enthuellung-der-kuenstler/",
       "pubDate": "16.09.2026 um 13:50 Uhr",
@@ -97,198 +129,166 @@
       "summary": "GTA 6 arbeitet mit Künstlern wie Travis Scott und Future, doch einer von ihnen teast, dass da mehr hinterstecken könnte. Der Beitrag GTA 6 zeigt gemei..."
     },
     {
+      "title": "Die recycelten Plastikreste eines Warhammer-Fans sind so stark, dass die Community nicht rafft, wieso Games Workshop das nicht offiziell macht",
+      "link": "https://mein-mmo.de/warhammer-terrain-aus-miniatur-gussrahmen-resten/",
+      "pubDate": "16.09.2026 um 13:50 Uhr",
+      "timestamp": 1789566600.0,
+      "source": "Mein-MMO",
+      "summary": "Ein Warhammer-Fan schafft coole Gebäude aus einem Material, das andere Spieler eigentlich sofort wegwerfen. Der Beitrag Die recycelten Plastikreste ei..."
+    },
+    {
       "title": "Nintendo Switch 2: Neue Konsolen-Bundles für das Weihnachtsgeschäft angekündigt",
       "link": "https://www.eurogamer.de/nintendo-switch-2-bundles-zelda-mario",
       "pubDate": "16.09.2026 um 13:49 Uhr",
       "timestamp": 1789566581.0,
       "source": "Eurogamer.de News",
       "summary": "Nintendo hat drei weitere Konsolen-Sets angek&uuml;ndigt, die am 29. Oktober 2026 auf den Markt kommen sollen. Mehr"
-    },
-    {
-      "title": "PlayStation Pulse & Pulse Edge: Sony kündigt zwei neue Wireless-Headsets an",
-      "link": "https://www.eurogamer.de/playstation-pulse-edge-headsets-ankuendigung",
-      "pubDate": "16.09.2026 um 13:48 Uhr",
-      "timestamp": 1789566493.0,
-      "source": "Eurogamer.de News",
-      "summary": "PlayStation erweitert sein Audio-Portfolio um zwei Neuzug&auml;nge und hat heute das PlayStation Pulse Wireless-Headset und das Pulse Edge Wireless-He..."
-    },
-    {
-      "title": "GTA Online: Versteckte Vorräte – heutige Fundorte auf der Karte",
-      "link": "https://www.playcentral.de/gta-online-hidden-caches-fundorte-karte/",
-      "pubDate": "16.09.2026 um 13:47 Uhr",
-      "timestamp": 1789566462.0,
-      "source": "PlayCentral",
-      "summary": "Findet die zehn heutigen Hidden Caches in GTA Online auf der interaktiven Karte und erfahrt alles über Sonar, Belohnungen und den täglichen Wechsel."
-    },
-    {
-      "title": "The Last of Us: HBO-Chef bekräftigt frühes Serien-Ende nach Staffel 3",
-      "link": "https://www.eurogamer.de/the-last-of-us-serie-ende-staffel-3",
-      "pubDate": "16.09.2026 um 13:46 Uhr",
-      "timestamp": 1789566388.0,
-      "source": "Eurogamer.de News",
-      "summary": "HBO-Chef Casey Bloys hat erneut bekr&auml;ftigt, dass die TV-Serie zu The Last of Us seiner Meinung nach mit der dritten Staffel enden wird. Mehr"
-    },
-    {
-      "title": "Gen Z will eine bessere Work-Life-Balance, optimiert ihre Hobbys aber wie einen 2. Job",
-      "link": "https://mein-mmo.de/gen-z-will-work-life-balance-optimiert-ihre-hobbys-aber-wie-einen-2-job/",
-      "pubDate": "16.09.2026 um 13:45 Uhr",
-      "timestamp": 1789566329.0,
-      "source": "Mein-MMO",
-      "summary": "Gen Z legt Wert auf Work-Life-Balance. Beim „Hobbymaxxing“ wird die Freizeit optimiert und selbst Hobbys werden zum Leistungsprojekt. Der Beitrag Gen ..."
-    },
-    {
-      "title": "Warlock macht es wie ein guter Dungeon Master, will euch nicht zu viel die Hand halten",
-      "link": "https://mein-mmo.de/warlock-keine-wegweiser-guter-dungeon-master-dd/",
-      "pubDate": "16.09.2026 um 13:45 Uhr",
-      "timestamp": 1789566300.0,
-      "source": "Mein-MMO",
-      "summary": "Die Entwickler von Warlock wollen, dass Spieler durch eigene Entdeckungen belohnt werden, nicht durch bunte Wegweiser. Der Beitrag Warlock macht es wi..."
     }
   ],
   "int": [
     {
-      "title": "HBO Officially Confirms Knight of the Seven Kingdoms Season 2 Release Window",
-      "link": "https://www.polygon.com/game-of-thrones-knight-of-the-seven-kingdoms-hbo-season-2-release-window/",
-      "pubDate": "16.09.2026 um 15:09 Uhr",
-      "timestamp": 1789571353.0,
-      "source": "Polygon.com",
-      "summary": "HBO's grounded Game of Thrones prequel A Knight of the Seven Kingdoms will return next year."
-    },
-    {
-      "title": "Facing lawsuit from Denuvo, pirate who cracked the anti-piracy tool in Resident Evil Requiem, Pragmata, Black Myth: Wukong, and dozens more says they'll do it again",
-      "link": "https://www.gamesradar.com/games/facing-lawsuit-from-denuvo-pirate-who-cracked-the-anti-piracy-tool-in-resident-evil-requiem-pragmata-black-myth-wukong-and-dozens-more-says-theyll-do-it-again/",
-      "pubDate": "16.09.2026 um 15:06 Uhr",
-      "timestamp": 1789571179.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Everything will continue as normal\""
-    },
-    {
-      "title": "The Studio Behind MindsEye Is Closing Following Latest Round Of Layoffs",
-      "link": "https://kotaku.com/the-studio-behind-mindseye-is-closing-following-latest-round-of-layoffs-2000735090",
-      "pubDate": "16.09.2026 um 15:05 Uhr",
-      "timestamp": 1789571136.0,
+      "title": "Why Wolverine Players Are Crashing Out About The Game’s Motorcycle Segment That ‘Plays Itself’",
+      "link": "https://kotaku.com/wolverine-qtes-motorcycle-autocomplete-clip-video-2000735096",
+      "pubDate": "16.09.2026 um 16:04 Uhr",
+      "timestamp": 1789574692.0,
       "source": "Kotaku",
-      "summary": "Multiple Build a Rocket Boy employees have stated that their time at the MindsEye maker has come to an end, and sources have confirmed to Kotaku that ..."
+      "summary": "Insomniac’s latest scales back the open-world traversal of Spider-Man, and in some ways feels less involving than its predecessor"
     },
     {
-      "title": "9-year-old kid spends $118,000 on YouTube ads for Minecraft and Roblox videos using his dad's company credit card: \"I got called into the office\"",
-      "link": "https://www.gamesradar.com/games/minecraft/9-year-old-kid-spends-usd118-000-on-youtube-ads-for-minecraft-and-roblox-videos-using-his-dads-company-credit-card-i-got-called-into-the-office/",
-      "pubDate": "16.09.2026 um 15:02 Uhr",
-      "timestamp": 1789570951.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Unsupervised YouTube advertisements for the Roblox and Minecraft channel racked up enormous fees in just weeks"
-    },
-    {
-      "title": "How to watch the PC Gaming Show Tokyo Direct 2026",
-      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-the-pc-gaming-show-tokyo-direct-2026/",
-      "pubDate": "16.09.2026 um 15:02 Uhr",
-      "timestamp": 1789570943.0,
-      "source": "PCGamer latest",
-      "summary": "Come back to the Tokyo Game Show and see all the news we've got for you."
-    },
-    {
-      "title": "Bad news for shaman tank hopefuls—World of Warcraft: Forever won't have Season of Discovery's zany class design just yet: 'But never say never, y'know'",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/bad-news-for-shaman-tank-hopefuls-world-of-warcraft-forever-wont-have-season-of-discoverys-zany-class-design-just-yet-but-never-say-never-yknow/",
-      "pubDate": "16.09.2026 um 15:01 Uhr",
-      "timestamp": 1789570886.0,
-      "source": "PCGamer latest",
-      "summary": "Forever, not never."
-    },
-    {
-      "title": "How to fly a Wardogs helicopter",
-      "link": "https://www.gamesradar.com/games/fps/wardogs-helicopter-controls/",
-      "pubDate": "16.09.2026 um 15:01 Uhr",
-      "timestamp": 1789570878.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Flying a chopper in Wardogs takes some getting used to"
-    },
-    {
-      "title": "Blizzard’s Got A Serious Scalping Problem On Its Hands",
-      "link": "https://kotaku.com/blizzards-got-a-serious-scalping-problem-on-its-hands-2000734796",
-      "pubDate": "16.09.2026 um 15:00 Uhr",
-      "timestamp": 1789570844.0,
-      "source": "Kotaku",
-      "summary": "The World of Warcraft: Forever Collector's Edition is being scalped all to hell, too"
-    },
-    {
-      "title": "Pokémon Go 'Pokémon Horizons The Series Celebration' 2026 event guide",
-      "link": "https://www.polygon.com/pokemon-go-horizons-the-series-celebration-2026-event-charmander-goggles/",
-      "pubDate": "16.09.2026 um 14:59 Uhr",
-      "timestamp": 1789570767.0,
+      "title": "Wardogs CEO Officially Addresses Crunch Allegations With ‘The Other Side'",
+      "link": "https://www.polygon.com/wardogs-ceo-joe-brammer-crunch-bulkhead-response/",
+      "pubDate": "16.09.2026 um 16:04 Uhr",
+      "timestamp": 1789574668.0,
       "source": "Polygon.com",
-      "summary": "Our Pokémon Go guide details the anime crossover event, and explains where to find the special Charmander wearing Friede's goggles."
+      "summary": "The CEO at Bulkhead and executive producer on Wardogs, Joe Brammer, has responded to claims that crunch is mandatory at the studio."
     },
     {
-      "title": "All active Aniimo codes for launch, September 2026",
-      "link": "https://www.pcgamer.com/games/rpg/aniimo-codes/",
-      "pubDate": "16.09.2026 um 14:54 Uhr",
-      "timestamp": 1789570472.0,
+      "title": "'Resident Evil' Review: A Near-Perfect Sci-Fi Thriller That Never Steps Off the Gas",
+      "link": "https://www.polygon.com/resident-evil-review-zach-cregger/",
+      "pubDate": "16.09.2026 um 16:01 Uhr",
+      "timestamp": 1789574474.0,
+      "source": "Polygon.com",
+      "summary": "Zach Cregger's Resident Evil is horror movie about the absolute torture of playing horror games"
+    },
+    {
+      "title": "The Best Chill Puzzle Game of 2026 Just Officially Hit Steam",
+      "link": "https://www.polygon.com/woodo-pc-review/",
+      "pubDate": "16.09.2026 um 16:01 Uhr",
+      "timestamp": 1789574474.0,
+      "source": "Polygon.com",
+      "summary": "Woodo's good-natured puzzling is a breath of fresh air"
+    },
+    {
+      "title": "Balatro developer LocalThunk turns up on Discord to talk about the 1.1 update and life after burnout: 'I truly am having the best time making the game now'",
+      "link": "https://www.pcgamer.com/games/card-games/balatro-developer-localthunk-turns-up-on-discord-to-talk-about-the-1-1-update-and-life-after-burnout-i-truly-am-having-the-best-time-making-the-game-now/",
+      "pubDate": "16.09.2026 um 16:01 Uhr",
+      "timestamp": 1789574468.0,
       "source": "PCGamer latest",
-      "summary": "Get more Glimmer and other freebies with these Aniimo gift codes."
+      "summary": "It's been a year since the Balatro 1.1 update was delayed into 2026."
     },
     {
-      "title": "MindsEye studio Build A Rocket Boy appear to be making fresh redundancies, as one staffer says he's \"helping wrap things up here in the HR department\"",
-      "link": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-appear-to-be-making-fresh-redundancies-as-one-staffer-says-hes-helping-wrap-things-up-here-in-the-hr-department",
-      "pubDate": "16.09.2026 um 14:50 Uhr",
-      "timestamp": 1789570226.0,
+      "title": "Reality Fracture Officially Brings Back Magic's Most Infamous Two-Card Combo",
+      "link": "https://www.polygon.com/mtg-reality-fracture-splinter-twin-combo/",
+      "pubDate": "16.09.2026 um 16:00 Uhr",
+      "timestamp": 1789574432.0,
+      "source": "Polygon.com",
+      "summary": "It's Twin season again for Magic players headed into Reality Fracture Limited, as this combo threatens to win the game on turn 4."
+    },
+    {
+      "title": "The death of physical media is having the opposite effect on me – I've fallen back in love with my disc drive in 2026",
+      "link": "https://www.gamesradar.com/games/the-death-of-physical-media-is-having-the-opposite-effect-on-me-ive-fallen-back-in-love-with-my-disc-drive-in-2026/",
+      "pubDate": "16.09.2026 um 16:00 Uhr",
+      "timestamp": 1789574400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "While protests hit PlayStation, I bought a PS5 disc drive and second-hand games from a local shop"
+    },
+    {
+      "title": "Resident Evil movie review: \"The best Resi movie by a distance, and the best video game movie full stop\"",
+      "link": "https://www.gamesradar.com/entertainment/horror-movies/resident-evil-movie-review/",
+      "pubDate": "16.09.2026 um 16:00 Uhr",
+      "timestamp": 1789574400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Resident Evil movie review: \"The best Resi movie by a distance, and the best video game movie full stop\""
+    },
+    {
+      "title": "I’d call the Sony Inzone M10S II a gaming monitor refresh rather than a sequel, but it is one of the slickest first-person shooter screens around",
+      "link": "https://www.gamesradar.com/hardware/tvs-monitors/sony-inzone-m10s-ii-review/",
+      "pubDate": "16.09.2026 um 15:58 Uhr",
+      "timestamp": 1789574324.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Sony Inzone M10S II uses the same 27-inch OLED formula as before, but the sequel dials things in for fps games and bumps refresh rates to 540Hz/72..."
+    },
+    {
+      "title": "\"What you're talking about is Palworld 2\": Pocketpair lead desperately asks players to stop asking for features that just \"aren't possible\" like terrain digging",
+      "link": "https://www.gamesradar.com/games/survival/what-youre-talking-about-is-palworld-2-pocketpair-lead-desperately-asks-players-to-stop-asking-for-features-that-just-arent-possible-like-terrain-digging/",
+      "pubDate": "16.09.2026 um 15:53 Uhr",
+      "timestamp": 1789574002.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "You're lowkey asking for years of work"
+    },
+    {
+      "title": "Amid rumors of Xbox Game Pass dropping day one games, Microsoft will only confirm that previously announced games are still coming",
+      "link": "https://www.gamesradar.com/games/amid-rumors-of-xbox-game-pass-dropping-day-one-games-microsoft-will-only-confirm-that-previously-announced-games-are-still-coming/",
+      "pubDate": "16.09.2026 um 15:50 Uhr",
+      "timestamp": 1789573803.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We don’t have any changes to announce today or plans that have been finalized\""
+    },
+    {
+      "title": "Ex-MS engineer reveals the story behind the infamous 'FCKGW' Windows XP key: 'Pirates started baking the key into images or just writing it on the CD with a Sharpie'",
+      "link": "https://www.pcgamer.com/software/windows/ex-ms-engineer-reveals-the-story-behind-the-infamous-fckgw-windows-xp-key-pirates-started-baking-the-key-into-images-or-just-writing-it-on-the-cd-with-a-sharpie/",
+      "pubDate": "16.09.2026 um 15:33 Uhr",
+      "timestamp": 1789572836.0,
+      "source": "PCGamer latest",
+      "summary": "'The most plausible source is an OEM or hardware partner that received final media early so they could ship PCs on launch day.'"
+    },
+    {
+      "title": "Microsoft hasn't marched Fable to the guillotine because it's 'vital to the DNA' of Xbox, says the game's director",
+      "link": "https://www.pcgamer.com/games/rpg/microsoft-hasnt-marched-fable-to-the-guillotine-because-its-vital-to-the-dna-of-xbox-says-the-games-director/",
+      "pubDate": "16.09.2026 um 15:30 Uhr",
+      "timestamp": 1789572647.0,
+      "source": "PCGamer latest",
+      "summary": "Hurting Fable would be like hurting the Xbox brand itself, to hear Ralph Fulton tell it."
+    },
+    {
+      "title": "'Coraline' Studio’s Next Film Gets Breathtaking Final Trailer",
+      "link": "https://www.polygon.com/wildwood-laika-studio-coraline-final-trailer/",
+      "pubDate": "16.09.2026 um 15:28 Uhr",
+      "timestamp": 1789572537.0,
+      "source": "Polygon.com",
+      "summary": "Laika's 'Wildwood' gets its final trailer ahead of the film's October release."
+    },
+    {
+      "title": "Dog in the Machine reinvents the domino tactics of Into The Breach as a mecha dog show, with players teaching their hounds tricks",
+      "link": "https://www.rockpapershotgun.com/dog-in-the-machine-reinvents-the-domino-tactics-of-into-the-breach-as-a-mecha-dog-show-with-players-teaching-their-hounds-tricks",
+      "pubDate": "16.09.2026 um 15:20 Uhr",
+      "timestamp": 1789572000.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Build a Rocket Boy (BARB), makers of panned futuristic action game/massive minigame platform MindsEye, appear to be making more staff redundant or abl..."
+      "summary": "If the organisers of Crufts ever have to produce a season of Robot Wars, the results probably won't be a million miles away from Dog in the Machine - ..."
     },
     {
-      "title": "Crystal Lake showrunner debunks controversial Jason theory: \"He's not a government super soldier or an Eleven\"",
-      "link": "https://www.gamesradar.com/entertainment/horror-shows/crystal-lake-showrunner-debunks-controversial-jason-theory-hes-not-a-government-super-soldier-or-an-eleven/",
-      "pubDate": "16.09.2026 um 14:42 Uhr",
-      "timestamp": 1789569746.0,
+      "title": "Despite 3 years of no updates, Zack Snyder still wants to make a Rick and Morty movie",
+      "link": "https://www.gamesradar.com/entertainment/animation-movies/despite-3-years-of-no-updates-zack-snyder-still-wants-to-make-a-rick-and-morty-movie/",
+      "pubDate": "16.09.2026 um 15:19 Uhr",
+      "timestamp": 1789571989.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Brad Caleb Kane ki-ki-kills the predictions about the new horror prequel show about Jason Voorhees"
+      "summary": "The Rebel Moon director says \"wub a lub a dub dub\" to a Rick and Morty film"
     },
     {
-      "title": "Pokémon Content Creator Gets Dragged After Opening Possibly Stolen Cards",
-      "link": "https://kotaku.com/roush-pokemon-tcg-30th-celebration-set-stolen-cards-ultimate-premium-2000735067",
-      "pubDate": "16.09.2026 um 14:30 Uhr",
-      "timestamp": 1789569030.0,
-      "source": "Kotaku",
-      "summary": "Roush bought the unreleased box sets two months ahead of their official release"
-    },
-    {
-      "title": "How Blizzard Quietly Revived Heroes of the Storm",
-      "link": "https://www.polygon.com/heroes-of-the-storm-interview-blizzcon-2026/",
-      "pubDate": "16.09.2026 um 14:30 Uhr",
-      "timestamp": 1789569015.0,
+      "title": "‘Diablo 4’ Is Completely Free to Play On Steam for a Limited Time",
+      "link": "https://www.polygon.com/diablo-4-free-to-play-week-steam/",
+      "pubDate": "16.09.2026 um 15:17 Uhr",
+      "timestamp": 1789571831.0,
       "source": "Polygon.com",
-      "summary": "Heroes of the Storm lead producer James Yen reveals how Blizzard has worked to revive the MOBA since 2022"
+      "summary": "'Dablo 4' is free to play on Steam until September 21."
     },
     {
-      "title": "After 26 hours in The Blood of Dawnwalker, comparisons to The Witcher 3 feel less and less accurate",
-      "link": "https://www.gamesradar.com/games/rpg/after-26-hours-in-the-blood-of-dawnwalker-comparisons-to-the-witcher-3-feel-less-and-less-accurate/",
-      "pubDate": "16.09.2026 um 14:30 Uhr",
-      "timestamp": 1789569000.0,
+      "title": "Blizzard wants Diablo 5 to have \"the best campaign ever,\" and it's \"taking what was great\" in Diablo 4 even further to do it",
+      "link": "https://www.gamesradar.com/games/diablo/blizzard-wants-diablo-5-to-have-the-best-campaign-ever-and-its-taking-what-was-great-in-diablo-4-even-further-to-do-it/",
+      "pubDate": "16.09.2026 um 15:16 Uhr",
+      "timestamp": 1789571817.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Coen doesn't need to stand in Geralt's shadow when they're very different action heroes"
-    },
-    {
-      "title": "MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future",
-      "link": "https://www.ign.com/articles/mindseye-developers-say-theyve-been-laid-off-amid-questions-over-build-a-rocket-boys-future",
-      "pubDate": "16.09.2026 um 14:20 Uhr",
-      "timestamp": 1789568422.0,
-      "source": "IGN All",
-      "summary": "Multiple developers of the disastrous MindsEye have said they’ve been laid off, casting doubt over the future of its controversial developer, Build A ..."
-    },
-    {
-      "title": "Crackdown Was So Much More Than Just the Halo 3 Beta’s Pack-In Game",
-      "link": "https://www.ign.com/articles/crackdown-was-so-much-more-than-just-the-halo-3-betas-pack-in-game",
-      "pubDate": "16.09.2026 um 14:20 Uhr",
-      "timestamp": 1789568400.0,
-      "source": "IGN All",
-      "summary": "The original Crackdown turned out to be a really terrific comic-book power fantasy brought to life. Or, put another way, a game very worthy of any Xbo..."
-    },
-    {
-      "title": "MindsEye Developer Seemingly Shutting Down after New Round of Layoffs",
-      "link": "https://www.polygon.com/mindseye-developer-build-a-rocket-boy-layoffs-studio-shutdown/",
-      "pubDate": "16.09.2026 um 14:17 Uhr",
-      "timestamp": 1789568265.0,
-      "source": "Polygon.com",
-      "summary": "MindsEye studio Build a Rocket Boy may be closing its doors for good over a year after the third-person action game's disastrous launch."
+      "summary": "The team isn't short on ambition, that's for sure"
     }
   ],
   "sim": [
