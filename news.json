@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Zum Jubiläum bringt Diablo 4 coole neue Features, eines ist so verbuggt, dass Spieler meinen: Startet die Season lieber neu",
+      "link": "https://mein-mmo.de/diablo-4-season-15-start-bugs-neustart/",
+      "pubDate": "15.09.2026 um 23:56 Uhr",
+      "timestamp": 1789516590.0,
+      "source": "Mein-MMO",
+      "summary": "Zum 30. Jubiläum von Diablo hat sich Blizzard einige coole Features für Diablo 4 überlegt. Eines davon macht direkt zum Season-Start Ärger. Der Beitra..."
+    },
+    {
+      "title": "ARC Raiders – Embark prüft, ob Expeditionen komplett abgeschafft werden",
+      "link": "https://www.playcentral.de/arc-raiders-embark-prueft-ob-expeditionen-komplett-abgeschafft-werden/",
+      "pubDate": "15.09.2026 um 23:31 Uhr",
+      "timestamp": 1789515107.0,
+      "source": "PlayCentral",
+      "summary": "Embark Studios stellt eines der wichtigsten Fortschrittssysteme von ARC Raiders grundsätzlich infrage. Die Expeditionen sollten nach dem aktuell laufe..."
+    },
+    {
       "title": "Diablo 4 Season 15 verschoben – Blizzard kämpft mit Login-Problemen",
       "link": "https://www.playcentral.de/diablo-4-season-15-verschoben-blizzard-kaempft-mit-login-problemen/",
       "pubDate": "15.09.2026 um 21:31 Uhr",
@@ -113,14 +129,6 @@
       "summary": "Eternal Darkness geh&ouml;rt zu den Spielen, die seit Jahrzehnten regelm&auml;&szlig;ig auf den Wunschlisten f&uuml;r ein Remaster auftauchen. Seit 20..."
     },
     {
-      "title": "Steam Deck 2 – Valve hält am Plan für echten Leistungssprung fest",
-      "link": "https://www.playcentral.de/steam-deck-2-valve-haelt-am-plan-fuer-echten-leistungssprung-fest/",
-      "pubDate": "15.09.2026 um 16:32 Uhr",
-      "timestamp": 1789489957.0,
-      "source": "PlayCentral",
-      "summary": "Valve hat sich am 15. September 2026 erneut zur Zukunft des Steam Deck geäußert. Trotz steigender Speicherpreise und schwieriger Bedingungen auf dem H..."
-    },
-    {
       "title": "WoW klärt nach acht Jahren eines seiner größten Rätsel: Sargeras' Schwert verfehlte Azeroths Weltenseele nur knapp",
       "link": "https://www.eurogamer.de/world-of-warcraft-sargeras-schwert-weltenseele-knapp-verfehlt",
       "pubDate": "15.09.2026 um 16:29 Uhr",
@@ -135,17 +143,41 @@
       "timestamp": 1789489500.0,
       "source": "ComputerBase",
       "summary": "Schon jetzt rüstet sich das Systemtool AIDA64 für die kommenden Zen-7-Prozessoren, die zumindest vorläufige Unterstützung mit dem Update auf AIDA64 8...."
-    },
-    {
-      "title": "Diablo 5 schafft Städte und Safe-Zones ab: Diesmal seid ihr selbst der sichere Hafen",
-      "link": "https://www.eurogamer.de/diablo-5-keine-staedte-sicheren-zonen-karawane",
-      "pubDate": "15.09.2026 um 16:16 Uhr",
-      "timestamp": 1789488992.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wer in Diablo bislang genug von D&auml;monen, Leichen und herumliegenden K&ouml;rperteilen hatte, konnte sich wenigstens in eine Stadt zur&uuml;ckzieh..."
     }
   ],
   "int": [
+    {
+      "title": "How to fish in Valheim",
+      "link": "https://www.pcgamer.com/games/survival-crafting/valheim-how-to-fish/",
+      "pubDate": "15.09.2026 um 23:28 Uhr",
+      "timestamp": 1789514928.0,
+      "source": "PCGamer latest",
+      "summary": "Where to find a fishing rod and how to catch fish in the Viking survival game."
+    },
+    {
+      "title": "Blizzard is aware Overwatch fans are tired of seeing its fanciest skins go to the same heroes and it's 'the number one' thing it's working to fix next",
+      "link": "https://www.pcgamer.com/games/fps/blizzard-is-aware-overwatch-fans-are-tired-of-seeing-its-fanciest-skins-go-to-the-same-heroes-and-its-the-number-one-thing-its-working-to-fix-next/",
+      "pubDate": "15.09.2026 um 23:19 Uhr",
+      "timestamp": 1789514356.0,
+      "source": "PCGamer latest",
+      "summary": "Lucio hasn't been forgotten, don't worry."
+    },
+    {
+      "title": "Diablo 4 season 15 is officially live following server issues and delay",
+      "link": "https://www.gamesradar.com/games/diablo/diablo-4-season-15-is-officially-live-following-server-issues-and-delay/",
+      "pubDate": "15.09.2026 um 23:10 Uhr",
+      "timestamp": 1789513833.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Season of Hell's Legacy was delayed today following login issues, but it's back on"
+    },
+    {
+      "title": "Marvel's Wolverine Offers Up a Canonical Explanation for Why Logan's Costume Regenerates",
+      "link": "https://www.ign.com/articles/marvels-wolverine-offers-up-a-canonical-explanation-for-why-logans-costume-regenerates",
+      "pubDate": "15.09.2026 um 22:38 Uhr",
+      "timestamp": 1789511934.0,
+      "source": "IGN All",
+      "summary": "Marvel's Wolverine explains why Logan's clothes can heal, just like his body."
+    },
     {
       "title": "HBO Boss All But Confirms The Last of Us Show Will End With Season 3",
       "link": "https://www.ign.com/articles/hbo-boss-all-but-confirms-the-last-of-us-show-will-end-with-season-3",
@@ -257,38 +289,6 @@
       "timestamp": 1789506746.0,
       "source": "Kotaku",
       "summary": "An interview with the game's developers also revealed there's a distinct reason Nun with a Gun exists"
-    },
-    {
-      "title": "Exodus lets you do polyamory, but the Mass Effect-like RPG's companions won't all be happy about it",
-      "link": "https://www.gamesradar.com/games/rpg/exodus-lets-you-do-polyamory-but-the-mass-effect-like-rpgs-companions-wont-all-be-happy-about-it/",
-      "pubDate": "15.09.2026 um 21:04 Uhr",
-      "timestamp": 1789506248.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Behave yourself"
-    },
-    {
-      "title": "\"I expect people to crunch,\" says Wardogs boss, so his studio will \"check people's socials\" to see if they criticize crunch online before hiring them",
-      "link": "https://www.gamesradar.com/games/fps/i-expect-people-to-crunch-says-wardogs-boss-so-his-studio-will-check-peoples-socials-to-see-if-they-criticize-crunch-online-before-hiring-them/",
-      "pubDate": "15.09.2026 um 20:54 Uhr",
-      "timestamp": 1789505686.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"We want to be known for that\""
-    },
-    {
-      "title": "Open-world D&D game Warlock doesn't have AAA-standard waypoints because the devs want players to feel that \"when they found things, it was based on their actions\"",
-      "link": "https://www.gamesradar.com/games/open-world/open-world-d-and-d-game-warlock-doesnt-have-aaa-standard-waypoints-because-the-devs-want-players-to-feel-that-when-they-found-things-it-was-based-on-their-actions/",
-      "pubDate": "15.09.2026 um 20:51 Uhr",
-      "timestamp": 1789505470.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Warlock comes from former Ubisoft devs with Watch Dogs experience"
-    },
-    {
-      "title": "The 2TB WD Elements 2TB USB Portable Hard Drive Drops to $99.99 at Target",
-      "link": "https://www.ign.com/articles/wd-elements-portable-hard-drive-deal-september-2026",
-      "pubDate": "15.09.2026 um 20:45 Uhr",
-      "timestamp": 1789505100.0,
-      "source": "IGN All",
-      "summary": "The best price for 2TB of portable storage in today's overpriced market."
     }
   ],
   "sim": [
