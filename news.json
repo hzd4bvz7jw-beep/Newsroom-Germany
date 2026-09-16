@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Der erste Zuschauer von Trymacs auf Twitch war mit ihm im Raum, mag Gaming nicht mal so sehr",
+      "link": "https://mein-mmo.de/trymacs-bruder-nici-twitch-anfaenge/",
+      "pubDate": "16.09.2026 um 05:00 Uhr",
+      "timestamp": 1789534800.0,
+      "source": "Mein-MMO",
+      "summary": "Der Bruder von Trymacs – Nici Stemmler – redet im Podcast über die Streaming-Anfänge von seinem Bruder und seiner eigenen Streaming-Karriere. Der Beit..."
+    },
+    {
+      "title": "Seit 90 Jahren hat es niemand geschafft, einen Lovecraft-Klassiker zu verfilmen, dabei sind die ganz Großen des Kinos heiß drauf",
+      "link": "https://mein-mmo.de/lovecraft-klassiker-unverfilmbar-del-toro/",
+      "pubDate": "16.09.2026 um 04:30 Uhr",
+      "timestamp": 1789533000.0,
+      "source": "Mein-MMO",
+      "summary": "Eine Geschichte von H.P. Lovecraft hat bis heute keine Verfilmung erhalten. Besonders Guillermo del Toro saß jahrelang an dem Projekt. Der Beitrag Sei..."
+    },
+    {
       "title": "Keine Chance mehr auf ein WoW 2? Blizzard äußert sich zu einem richtigen Nachfolger von World of Warcraft",
       "link": "https://mein-mmo.de/blizzard-ueber-wow-2/",
       "pubDate": "16.09.2026 um 04:00 Uhr",
@@ -70,7 +86,7 @@
       "pubDate": "15.09.2026 um 21:15 Uhr",
       "timestamp": 1789499700.0,
       "source": "ComputerBase",
-      "summary": "Mozilla veröffentlicht Firefox 156 und führt damit auch in Deutschland gesponsorte Vorschläge in der Adresszeile ein, die allerdings abschaltbar sind...."
+      "summary": "Mozilla veröffentlicht Firefox 156 und führt damit auch in Deutschland gesponserte Vorschläge in der Adresszeile ein, die allerdings abschaltbar sind...."
     },
     {
       "title": "HORI Arcade Classic Pro für Switch 2 – modularer Controller mit 4 Modulen",
@@ -105,14 +121,6 @@
       "summary": "Google verteilt im September mehrere neue Funktionen für Pixel-Smartphones und die Pixel Watch. Dazu gehören Verbesserungen für wichtige Kontakte, ein..."
     },
     {
-      "title": "Trymacs zockt neuen PvP-Shooter auf Steam um 3 Uhr nachts, dabei ist sein Twitch-Stream schon lange aus: Er findet es geil, wie hart man da grinden muss",
-      "link": "https://mein-mmo.de/trymacs-zockt-wardogs-offstream-mitten-in-der-nacht/",
-      "pubDate": "15.09.2026 um 18:00 Uhr",
-      "timestamp": 1789495200.0,
-      "source": "Mein-MMO",
-      "summary": "Trymacs zockt viel zu gerne den neuen PvP-Shooter Wardogs auf Steam. Dabei geht er auch nach dem Stream nochmal an den PC. Der Beitrag Trymacs zockt n..."
-    },
-    {
       "title": "Nein, WoW Forever wird nicht Teil der offiziellen Warcraft-Geschichte",
       "link": "https://mein-mmo.de/wow-forever-kein-teil-der-offiziellen-lore/",
       "pubDate": "15.09.2026 um 18:00 Uhr",
@@ -121,31 +129,31 @@
       "summary": "Für manche ist es ein Dämpfer, andere freuen sich. WoW Forever ist eine eigene Welt. Die Story hat keinen Einfluss auf das moderne Warcraft. Der Beitr..."
     },
     {
+      "title": "Trymacs zockt neuen PvP-Shooter auf Steam um 3 Uhr nachts, dabei ist sein Twitch-Stream schon lange aus: Er findet es geil, wie hart man da grinden muss",
+      "link": "https://mein-mmo.de/trymacs-zockt-wardogs-offstream-mitten-in-der-nacht/",
+      "pubDate": "15.09.2026 um 18:00 Uhr",
+      "timestamp": 1789495200.0,
+      "source": "Mein-MMO",
+      "summary": "Trymacs zockt viel zu gerne den neuen PvP-Shooter Wardogs auf Steam. Dabei geht er auch nach dem Stream nochmal an den PC. Der Beitrag Trymacs zockt n..."
+    },
+    {
       "title": "Astromine für Steam – Survival-Crafting mit zerstörbaren Planeten und Physik",
       "link": "https://www.playcentral.de/astromine-fuer-steam-survival-crafting-mit-zerstoerbaren-planeten-und-physik/",
       "pubDate": "15.09.2026 um 17:32 Uhr",
       "timestamp": 1789493563.0,
       "source": "PlayCentral",
       "summary": "Minecraft trifft auf No Man’s Sky und bekommt eine gehörige Portion Physik spendiert. Genau diesen Eindruck vermittelt Astromine, ein kommendes Surviv..."
-    },
-    {
-      "title": "Ohne Führerhaus: Lidl lässt autonomen Lkw auf die Straße",
-      "link": "https://www.computerbase.de/news/mobilitaet/ohne-fuehrerhaus-lidl-laesst-autonomen-lkw-auf-die-strasse.99420/",
-      "pubDate": "15.09.2026 um 19:10 Uhr",
-      "timestamp": 1789492200.0,
-      "source": "ComputerBase",
-      "summary": "Lidl und Einride schicken einen elektrischen, führerhauslosen Lkw in den autonomen Lieferbetrieb. Der Transporter fährt auf einer öffentlichen Straße ..."
-    },
-    {
-      "title": "Eternal Darkness nach 24 Jahren zurück? Nightdive-Chef macht Fans Hoffnung",
-      "link": "https://www.eurogamer.de/eternal-darkness-remaster-nightdive-stephen-kick",
-      "pubDate": "15.09.2026 um 16:54 Uhr",
-      "timestamp": 1789491297.0,
-      "source": "Eurogamer.de News",
-      "summary": "Eternal Darkness geh&ouml;rt zu den Spielen, die seit Jahrzehnten regelm&auml;&szlig;ig auf den Wunschlisten f&uuml;r ein Remaster auftauchen. Seit 20..."
     }
   ],
   "int": [
+    {
+      "title": "5 Best LitRPG Books to Read After 'Dungeon Crawler Carl'",
+      "link": "https://www.polygon.com/5-litrpg-books-to-read-after-dungeon-crawler-carl/",
+      "pubDate": "16.09.2026 um 05:02 Uhr",
+      "timestamp": 1789534934.0,
+      "source": "Polygon.com",
+      "summary": "Level up with stories of innkeepers, dark lords, and aliens"
+    },
     {
       "title": "10 Darkest 'Calvin and Hobbes' Snowman Jokes That Reveal Bill Watterson's Twisted Genius",
       "link": "https://www.polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius/",
@@ -281,14 +289,6 @@
       "timestamp": 1789507865.0,
       "source": "Kotaku",
       "summary": "'It's important that we are building the game that the community wants'"
-    },
-    {
-      "title": "Diablo 4 Season 15 release time in your time zone",
-      "link": "https://www.polygon.com/diablo-4-d4-season-15-hells-legacy-release-time-edt-pdt/",
-      "pubDate": "15.09.2026 um 21:21 Uhr",
-      "timestamp": 1789507310.0,
-      "source": "Polygon.com",
-      "summary": "In this guide, you can check when Diablo 4 Season 15 releases in your time zone and what to expect from the Season of Hell's Legacy."
     }
   ],
   "sim": [
