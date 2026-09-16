@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Keine Chance mehr auf ein WoW 2? Blizzard äußert sich zu einem richtigen Nachfolger von World of Warcraft",
+      "link": "https://mein-mmo.de/blizzard-ueber-wow-2/",
+      "pubDate": "16.09.2026 um 04:00 Uhr",
+      "timestamp": 1789531200.0,
+      "source": "Mein-MMO",
+      "summary": "Was bedeutet WoW: Forever für ein potenzielles WoW 2? Blizzard hat sich zu einem richtigen Nachfolger von World of Warcraft geäußert. Der Beitrag Kein..."
+    },
+    {
+      "title": "WoW bekommt ein Legendary für Caster und es sieht verdächtig nach Xal’atath aus",
+      "link": "https://mein-mmo.de/wow-legendary-caster-dagger-verdaechtig-xalatath/",
+      "pubDate": "16.09.2026 um 03:30 Uhr",
+      "timestamp": 1789529400.0,
+      "source": "Mein-MMO",
+      "summary": "World of Warcraft bekommt eine neue, legendäre Waffe. Sie könnte Priestern helfen, endlich von ihrer „Dolch-Ex“ loszukommen. Der Beitrag WoW bekommt e..."
+    },
+    {
       "title": "Steam plant wohl Gratis-DLC für Dying Light The Beast im September 2026",
       "link": "https://www.playcentral.de/steam-plant-wohl-gratis-dlc-fuer-dying-light-the-beast-im-september-2026/",
       "pubDate": "16.09.2026 um 02:31 Uhr",
@@ -127,25 +143,25 @@
       "timestamp": 1789491297.0,
       "source": "Eurogamer.de News",
       "summary": "Eternal Darkness geh&ouml;rt zu den Spielen, die seit Jahrzehnten regelm&auml;&szlig;ig auf den Wunschlisten f&uuml;r ein Remaster auftauchen. Seit 20..."
-    },
-    {
-      "title": "WoW klärt nach acht Jahren eines seiner größten Rätsel: Sargeras' Schwert verfehlte Azeroths Weltenseele nur knapp",
-      "link": "https://www.eurogamer.de/world-of-warcraft-sargeras-schwert-weltenseele-knapp-verfehlt",
-      "pubDate": "15.09.2026 um 16:29 Uhr",
-      "timestamp": 1789489789.0,
-      "source": "Eurogamer.de News",
-      "summary": "Seit dem Ende von Legion steckt ein gigantisches Schwert in Azeroth. Sargeras rammte die Klinge damals in Silithus, anschlie&szlig;end wurde sie zum R..."
-    },
-    {
-      "title": "AIDA64 8.40: Tool erhält Support für AMD Zen 7, Verano und RX 9050",
-      "link": "https://www.computerbase.de/news/apps/aida64-8-40-tool-erhaelt-support-fuer-amd-zen-7-verano-und-rx-9050.99418/",
-      "pubDate": "15.09.2026 um 18:25 Uhr",
-      "timestamp": 1789489500.0,
-      "source": "ComputerBase",
-      "summary": "Schon jetzt rüstet sich das Systemtool AIDA64 für die kommenden Zen-7-Prozessoren, die zumindest vorläufige Unterstützung mit dem Update auf AIDA64 8...."
     }
   ],
   "int": [
+    {
+      "title": "10 Darkest 'Calvin and Hobbes' Snowman Jokes That Reveal Bill Watterson's Twisted Genius",
+      "link": "https://www.polygon.com/10-darkest-calvin-and-hobbes-snowman-jokes-that-reveal-bill-wattersons-twisted-genius/",
+      "pubDate": "16.09.2026 um 04:00 Uhr",
+      "timestamp": 1789531219.0,
+      "source": "Polygon.com",
+      "summary": "Bill Watterson's Calvin and Hobbes comic strip featured a recurring series where Calvin made disturbing snowman scultures. These are the best ones."
+    },
+    {
+      "title": "Wo Long 2: Wings of Ember Gets Release Date, Demo Available Now",
+      "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-release-date-demo-available-now",
+      "pubDate": "16.09.2026 um 01:54 Uhr",
+      "timestamp": 1789523686.0,
+      "source": "IGN All",
+      "summary": "Wo Long 2: Wings of Ember, the upcoming action-soulslike sequel from Team Ninja (Nier, Ninja Gaiden), will be released on March 4, 2027 for PC, PS5, X..."
+    },
     {
       "title": "The 25 Best Nintendo Switch 2 Games in 2026",
       "link": "https://www.polygon.com/best-nintendo-switch-2-games/",
@@ -153,6 +169,14 @@
       "timestamp": 1789521437.0,
       "source": "Polygon.com",
       "summary": "What are the best Nintendo Switch 2 games? From Mario Kart World to Resident Evil Rebirth, here are our favorites"
+    },
+    {
+      "title": "Every Fourth Wing Board Game Adaption You Can Buy Right Now",
+      "link": "https://www.ign.com/articles/all-fourth-wing-board-game-adaptions",
+      "pubDate": "16.09.2026 um 01:02 Uhr",
+      "timestamp": 1789520520.0,
+      "source": "IGN All",
+      "summary": ""
     },
     {
       "title": "'This Is a Place You Come to Work Hard' — Wardogs CEO Justifies Crunch as a Balancing Act",
@@ -211,7 +235,7 @@
       "summary": "\"Eternal Darkness is one of my all-time favorites and it deserves the treatment I know Nightdive Studio is capable of\""
     },
     {
-      "title": "Warner Bros. Reportedly Regrets Torching Zack Snyder's DC Universe and Battling With Him on Justice League",
+      "title": "Former Warner Bros. Exec Reportedly Told Zack Snyder They Regret Torching His DC Universe and Battling With Him on Justice League",
       "link": "https://www.ign.com/articles/warner-bros-reportedly-regrets-torching-zack-snyders-dc-universe-and-battling-with-him-on-justice-league",
       "pubDate": "15.09.2026 um 22:09 Uhr",
       "timestamp": 1789510157.0,
@@ -259,36 +283,12 @@
       "summary": "'It's important that we are building the game that the community wants'"
     },
     {
-      "title": "Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor",
-      "link": "https://www.ign.com/articles/masahiro-sakurai-forced-to-abandon-game-designers-award-after-16-years-as-he-cant-find-a-successor",
-      "pubDate": "15.09.2026 um 21:28 Uhr",
-      "timestamp": 1789507703.0,
-      "source": "IGN All",
-      "summary": "Masahiro Sakurai revealed that the Game Designers Award won’t return to the Japan Game Awards, as he has failed to find an adequate replacement to tak..."
-    },
-    {
       "title": "Diablo 4 Season 15 release time in your time zone",
       "link": "https://www.polygon.com/diablo-4-d4-season-15-hells-legacy-release-time-edt-pdt/",
       "pubDate": "15.09.2026 um 21:21 Uhr",
       "timestamp": 1789507310.0,
       "source": "Polygon.com",
       "summary": "In this guide, you can check when Diablo 4 Season 15 releases in your time zone and what to expect from the Season of Hell's Legacy."
-    },
-    {
-      "title": "Marvel's Wolverine Lets You Have Full Control Over Slow-Motion Options for Cinematic Gameplay",
-      "link": "https://www.ign.com/articles/marvels-wolverine-lets-you-have-full-control-over-slow-motion-options-for-cinematic-gameplay",
-      "pubDate": "15.09.2026 um 21:15 Uhr",
-      "timestamp": 1789506920.0,
-      "source": "IGN All",
-      "summary": "Marvel's Wolverine has an option that lets you control the speed of the game, allowing for hyper-cinematic slow motion action."
-    },
-    {
-      "title": "Wardogs CEO says he won't hire devs who aren't down with mandatory crunch: 'If you care about what you're making, this is the place to work'",
-      "link": "https://www.pcgamer.com/games/fps/wardogs-ceo-says-he-wont-hire-devs-who-arent-down-with-mandatory-crunch-if-you-care-about-what-youre-making-this-is-the-place-to-work/",
-      "pubDate": "15.09.2026 um 21:14 Uhr",
-      "timestamp": 1789506893.0,
-      "source": "PCGamer latest",
-      "summary": "A controversial stance, to say the least."
     }
   ],
   "sim": [
