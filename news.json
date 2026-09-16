@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Diablo 5 setzt auf eine Karawane statt Städte – so funktioniert das Lager",
+      "link": "https://www.playcentral.de/diablo-5-setzt-auf-eine-karawane-statt-staedte-so-funktioniert-das-lager/",
+      "pubDate": "16.09.2026 um 19:31 Uhr",
+      "timestamp": 1789587092.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard schlägt mit Diablo 5 eine deutlich erzählerischere Richtung ein. Das kommende Action-Rollenspiel übernimmt zwar nicht einfach das komplette L..."
+    },
+    {
       "title": "Zero Parades für PS5 bestätigt – Director’s Cut kommt am 3. November 2026",
       "link": "https://www.playcentral.de/zero-parades-fuer-ps5-bestaetigt-directors-cut-kommt-am-3-november-2026/",
       "pubDate": "16.09.2026 um 18:32 Uhr",
@@ -135,17 +143,73 @@
       "timestamp": 1789572808.0,
       "source": "PlayCentral",
       "summary": "Auf Steam ist mit Knight&#8217;s Empire ein weiteres zuvor kostenpflichtiges Spiel dauerhaft kostenlos geworden. Das 2D-Action-Roguelike von StarsCrew..."
-    },
-    {
-      "title": "Petal Runner auf Steam – Demo zeigt Open-World-Lieferdienst mit HanaPets",
-      "link": "https://www.playcentral.de/petal-runner-auf-steam-demo-zeigt-open-world-lieferdienst-mit-hanapets/",
-      "pubDate": "16.09.2026 um 15:31 Uhr",
-      "timestamp": 1789572691.0,
-      "source": "PlayCentral",
-      "summary": "Wer sich schon immer gefragt hat, wie Stardew Valley mit einem Pokémon-Lieferdienst aussehen würde, sollte Petal Runner im Blick behalten. Das Open-Wo..."
     }
   ],
   "int": [
+    {
+      "title": "Baldur's Gate 3 Officially Adds 19 Game-Breaking Options for Console Players",
+      "link": "https://www.polygon.com/bg3-new-console-mods-september-2026/",
+      "pubDate": "16.09.2026 um 20:00 Uhr",
+      "timestamp": 1789588815.0,
+      "source": "Polygon.com",
+      "summary": "Larian's latest Baldur's Gate 3 console mod drop adds a recruitable goblin villain, a frog Wild Shape for Lae'zel, and 17 new updates"
+    },
+    {
+      "title": "A remake of a 20-year-old cult JRPG is now the best-rated game of 2026, pushing aside Resident Evil Requiem, Pokemon Pokopia, and more",
+      "link": "https://www.gamesradar.com/games/jrpg/a-remake-of-a-20-year-old-cult-jrpg-is-now-the-best-rated-game-of-2026-pushing-aside-resident-evil-requiem-pokemon-pokopia-and-more/",
+      "pubDate": "16.09.2026 um 19:53 Uhr",
+      "timestamp": 1789588425.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Trails in the Sky 2nd Chapter is setting Metacritic alight"
+    },
+    {
+      "title": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
+      "link": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
+      "pubDate": "16.09.2026 um 19:42 Uhr",
+      "timestamp": 1789587750.0,
+      "source": "PCGamer latest",
+      "summary": "Low bar to clear, but still."
+    },
+    {
+      "title": "‘Nearly Everyone’ Laid Off As Hyper Light Drifter Studio Risks Closing: ‘I’m Not Sure Yet How Or If Heart Machine Survives’",
+      "link": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172",
+      "pubDate": "16.09.2026 um 19:36 Uhr",
+      "timestamp": 1789587411.0,
+      "source": "Kotaku",
+      "summary": "The team's recent projects didn't quite pan out"
+    },
+    {
+      "title": "Denuvo Is Suing A Prolific Game Pirate But They Don’t Seem Worried At All",
+      "link": "https://kotaku.com/denuvo-is-suing-a-prolific-game-pirate-but-they-dont-seem-worried-at-all-2000735162",
+      "pubDate": "16.09.2026 um 19:36 Uhr",
+      "timestamp": 1789587408.0,
+      "source": "Kotaku",
+      "summary": "The DRM maker is trying to figure out who the pirate it is and wants to stop them from bypassing its software in games like Doom and Hogwarts Legacy"
+    },
+    {
+      "title": "Guy Ritchie’s 128-minute Action Movie Is Officially the Biggest Detective Thriller on Streaming",
+      "link": "https://www.polygon.com/guy-ritchie-sherlock-holmes-streaming-hit-apple-tv-september-2026/",
+      "pubDate": "16.09.2026 um 19:26 Uhr",
+      "timestamp": 1789586766.0,
+      "source": "Polygon.com",
+      "summary": "Sherlock Holmes, Guy Ritchie's action-packed take on the classic detective, is finding a new audience on Apple TV."
+    },
+    {
+      "title": "Bloodborne Is Officially Back with a New Release — but There's a Catch",
+      "link": "https://www.polygon.com/bloodborne-sequel-super-groupies-new-collaboration-umbrella-fashion-merchandise/",
+      "pubDate": "16.09.2026 um 19:20 Uhr",
+      "timestamp": 1789586446.0,
+      "source": "Polygon.com",
+      "summary": "Bloodborne fans still hold out hope for a sequel. Instead, they're getting new Bloodborne merch, like an umbrella and necktie."
+    },
+    {
+      "title": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
+      "link": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
+      "pubDate": "16.09.2026 um 19:15 Uhr",
+      "timestamp": 1789586125.0,
+      "source": "Eurogamer.net News",
+      "summary": "Joe Brammer, CEO of Bulkhead, the developer behind The Turing Test, Battalion 1944, and now the hugely successful new release Wardogs, has found himse..."
+    },
     {
       "title": "How a wellness craze inspired Pokemon",
       "link": "https://www.polygon.com/video/how-a-wellness-craze-inspired-pokemon/",
@@ -171,6 +235,22 @@
       "summary": "The RGB Mew cards were at one point believed to be a hoax"
     },
     {
+      "title": "Quentin Tarantino’s New Novel The Adventures of Cliff Booth Is Up for Preorder",
+      "link": "https://www.ign.com/articles/quentin-tarantinos-new-novel-the-adventures-of-cliff-booth-is-up-for-preorder",
+      "pubDate": "16.09.2026 um 18:29 Uhr",
+      "timestamp": 1789583359.0,
+      "source": "IGN All",
+      "summary": "Quentin Tarantino has a new novel coming out in December called The Adventures of Cliff Booth. It's a novelization of the upcoming Brad Pitt movie, an..."
+    },
+    {
+      "title": "Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued",
+      "link": "https://www.ign.com/articles/pirate-who-cracked-denuvo-games-like-resident-evil-requiem-plans-to-continue-doing-so-despite-being-sued",
+      "pubDate": "16.09.2026 um 18:24 Uhr",
+      "timestamp": 1789583065.0,
+      "source": "IGN All",
+      "summary": "A pirate known for cracking games that utilize the DRM software Denuvo is being hit with a lawsuit... but that isn't stopping them from continuing on."
+    },
+    {
       "title": "MindsEye developer Build a Rocket Boy may finally be closing",
       "link": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
       "pubDate": "16.09.2026 um 18:22 Uhr",
@@ -179,12 +259,28 @@
       "summary": "Multiple employees have said on LinkedIn that everyone left is being let go."
     },
     {
-      "title": "Popular PlayStation Hacker Calling It Quits Due To AI-Using ‘Slop Kiddies’ Reporting Important Bug To Sony",
+      "title": "Drama Around A PS5 Exploit, AI-Coding, Linux, And GTA 6 Has One Popular Hacker Calling It Quits",
       "link": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
       "pubDate": "16.09.2026 um 18:20 Uhr",
       "timestamp": 1789582826.0,
       "source": "Kotaku",
-      "summary": "An anticipated open source Linux mod for newer PS5 consoles might now be in jeopardy of never happening"
+      "summary": "An anticipated open-source Linux mod for newer PS5 consoles might now be in danger of never happening"
+    },
+    {
+      "title": "Humble’s Isometric Immersion CRPG Pack Gets You 11 Exciting Games for Just $23",
+      "link": "https://www.ign.com/articles/humble-bundle-isometric-immersion-crpg-pack",
+      "pubDate": "16.09.2026 um 18:12 Uhr",
+      "timestamp": 1789582361.0,
+      "source": "IGN All",
+      "summary": "Humble’s Isometric Immersion CRPG Pack includes 11 games that have a total value of $291, but you can grab them all for your PC library for as low as ..."
+    },
+    {
+      "title": "The MSI Codex Z2C  RTX 5070 Prebuilt Gaming PC Drops to $1399 and Includes an Upcoming PC Game",
+      "link": "https://www.ign.com/articles/msi-codex-z2c-rtx-5070-prebuilt-gaming-pc-deal-september-2026",
+      "pubDate": "16.09.2026 um 18:05 Uhr",
+      "timestamp": 1789581900.0,
+      "source": "IGN All",
+      "summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well."
     },
     {
       "title": "Epic X-Men Villain Is Absolutely Terrorizing Marvel’s Wolverine Players",
@@ -193,102 +289,6 @@
       "timestamp": 1789581614.0,
       "source": "Polygon.com",
       "summary": "Omega Red, the first boss fight in Marvel's Wolverine, is a shockingly difficult skill check, stumping new players of Insomniac's PS5 game."
-    },
-    {
-      "title": "Level-5 Promises To Fix Yo-Kai Watch 2 And Professor Layton Presentation In The Wake Of AI Backlash And Explains That Many Of Its Artwork Mistakes Were Simply Down To Human Error",
-      "link": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
-      "pubDate": "16.09.2026 um 18:00 Uhr",
-      "timestamp": 1789581614.0,
-      "source": "Kotaku",
-      "summary": "According to Level-5, many of the perceived 'AI slop' elements in its recent presentation were due to the rushed nature of the Nintendo Direct, and we..."
-    },
-    {
-      "title": "Bungie shuts down leak claiming Destiny will be revived through a merger with Marathon",
-      "link": "https://www.gamesradar.com/games/destiny/bungie-shuts-down-leak-claiming-destiny-will-be-revived-through-a-merger-with-marathon/",
-      "pubDate": "16.09.2026 um 17:58 Uhr",
-      "timestamp": 1789581533.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Marathon is becoming more like Destiny, but it's not becoming Destiny"
-    },
-    {
-      "title": "Monster Hunter Wilds will soon stop charging players to edit their characters as Capcom scraps the game's worst microtransaction",
-      "link": "https://www.eurogamer.net/monster-hunter-wilds-edit-characters-capcom-microtransaction",
-      "pubDate": "16.09.2026 um 17:47 Uhr",
-      "timestamp": 1789580872.0,
-      "source": "Eurogamer.net News",
-      "summary": "Arguably Monster Hunter Wilds' most egregious microtransaction is being retired, and, soon, you'll be able to edit your hunters and cat-friend Palicos..."
-    },
-    {
-      "title": "As Wardogs hits a \"perfectly acceptable decline,\" studio boss asks players what they want to change: \"Remember, we're in charge here, we're the ones with the vision\"",
-      "link": "https://www.gamesradar.com/games/fps/as-wardogs-hits-a-perfectly-acceptable-decline-studio-boss-asks-players-what-they-want-to-change-remember-were-in-charge-here-were-the-ones-with-the-vision/",
-      "pubDate": "16.09.2026 um 17:45 Uhr",
-      "timestamp": 1789580724.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "I'd like a banana gun, please"
-    },
-    {
-      "title": "New PS5 Features Are Live, Including One That Tells You What Games Are The Most Popular",
-      "link": "https://kotaku.com/new-ps5-features-are-live-including-one-that-tells-you-what-games-are-the-most-popular-2000735138",
-      "pubDate": "16.09.2026 um 17:30 Uhr",
-      "timestamp": 1789579814.0,
-      "source": "Kotaku",
-      "summary": "You can now see what's trending in your region"
-    },
-    {
-      "title": "An Iconic Iron Man #1 Page and Other Historic Comic Book Art Head to Auction",
-      "link": "https://www.ign.com/articles/an-iconic-iron-man-1-page-and-other-historic-comic-book-art-head-to-auction",
-      "pubDate": "16.09.2026 um 17:23 Uhr",
-      "timestamp": 1789579403.0,
-      "source": "IGN All",
-      "summary": "If you have Tony Stark levels of money, you can now own one of the most iconic and important pieces of Iron Man art ever published."
-    },
-    {
-      "title": "World of Warcraft: Forever beta launch times: How to sign up and play Blizzard's twist on WoW Classic",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-beta-launch-times-how-to-sign-up-and-play-blizzards-twist-on-wow-classic/",
-      "pubDate": "16.09.2026 um 17:20 Uhr",
-      "timestamp": 1789579251.0,
-      "source": "PCGamer latest",
-      "summary": "Here's how to get an early taste at the classic-ish MMO."
-    },
-    {
-      "title": "'I Might Just Quit It All and Make Anime the Rest of My Life' — Sinners Star Michael B. Jordan Has More Than One Anime Project in the Works",
-      "link": "https://www.ign.com/articles/i-might-just-quit-it-all-and-make-anime-the-rest-of-my-life-sinners-star-michael-b-jordan-has-more-than-one-anime-project-in-the-works",
-      "pubDate": "16.09.2026 um 17:17 Uhr",
-      "timestamp": 1789579057.0,
-      "source": "IGN All",
-      "summary": "Michael B. Jordan is currently working on more than one anime project, and even joked that he might leave Hollywood behind to focus on anime full-time..."
-    },
-    {
-      "title": "'Spider-Man: Brand New Day' Is Officially the Highest Grossing Film in Domestic Box Office History",
-      "link": "https://www.polygon.com/spider-man-brand-new-day-highest-grossing-film-domestic-box-office/",
-      "pubDate": "16.09.2026 um 17:16 Uhr",
-      "timestamp": 1789578975.0,
-      "source": "Polygon.com",
-      "summary": "'Spider-Man: Brand New Day' has become the highest-grossing film in the domestic box office."
-    },
-    {
-      "title": "If I Were to Buy a (Near) 100\" TV Right Now, I Would Get TCL's QM8L SQD Mini-LED TV Over OLED",
-      "link": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
-      "pubDate": "16.09.2026 um 17:15 Uhr",
-      "timestamp": 1789578900.0,
-      "source": "IGN All",
-      "summary": "Amazon Prime Card members get an extra 10% cashback."
-    },
-    {
-      "title": "PS5 Linux dev abandons the project as AI \"slop kiddies\" ruin open-source mods ahead of GTA 6: \"Just a bunch of noobs using LLMs and writing hacks they don't even understand\"",
-      "link": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "pubDate": "16.09.2026 um 17:14 Uhr",
-      "timestamp": 1789578847.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"I asked them to at least wait for GTA 6 to come out,\" says Andy Nguyen"
-    },
-    {
-      "title": "Dragon Quest Celebrates 40th Anniversary by Passing a Huge Milestone",
-      "link": "https://www.polygon.com/dragon-quest-rpg-40th-anniversary-100-million-units-sold/",
-      "pubDate": "16.09.2026 um 17:13 Uhr",
-      "timestamp": 1789578814.0,
-      "source": "Polygon.com",
-      "summary": "Square Enix has revealed that RPG series Dragon Quest has sold over 100 million units just in time for its 40th anniversary"
     }
   ],
   "sim": [
