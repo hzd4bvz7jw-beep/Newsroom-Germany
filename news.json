@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Neunjähriger schaltet YouTube-Werbung über Firmenkarte, 100.000 Euro Kosten",
+      "link": "https://www.playcentral.de/neunjaehriger-schaltet-youtube-werbung-ueber-firmenkarte-100-000-euro-kosten/",
+      "pubDate": "16.09.2026 um 21:32 Uhr",
+      "timestamp": 1789594344.0,
+      "source": "PlayCentral",
+      "summary": "Ein neunjähriger Gaming-Fan hat mit Werbekampagnen für seinen YouTube-Kanal eine Rechnung von umgerechnet mehr als 100.000 Euro verursacht. Bezahlt wu..."
+    },
+    {
+      "title": "PS5-Update 26.06-14.00.00 bringt Trends im Willkommen-Hub und Chat-Extras",
+      "link": "https://www.playcentral.de/ps5-update-26-06-14-00-00-bringt-trends-im-willkommen-hub-und-chat-extras/",
+      "pubDate": "16.09.2026 um 21:31 Uhr",
+      "timestamp": 1789594287.0,
+      "source": "PlayCentral",
+      "summary": "Sony hat am 16. September 2026 das PS5-Systemsoftware-Update 26.06-14.00.00 veröffentlicht. Neben technischen Optimierungen bringt die Aktualisierung ..."
+    },
+    {
       "title": "Diablo 5 setzt auf eine Karawane statt Städte – so funktioniert das Lager",
       "link": "https://www.playcentral.de/diablo-5-setzt-auf-eine-karawane-statt-staedte-so-funktioniert-das-lager/",
       "pubDate": "16.09.2026 um 19:31 Uhr",
@@ -127,25 +143,57 @@
       "timestamp": 1789575303.0,
       "source": "Eurogamer.de News",
       "summary": "The Witcher 3 ist mittlerweile elf Jahre alt und offenbar noch lange nicht am Ende. Mit Songs of the Past erh&auml;lt der Titel eine gro&szlig;e neue ..."
-    },
-    {
-      "title": "iPhone 18 Pro (Max): Was macht eine variable Blende und wie ändert das Fotos?",
-      "link": "https://www.computerbase.de/artikel/smartphones/iphone-18-pro-max-variable-blende.99412/",
-      "pubDate": "16.09.2026 um 18:00 Uhr",
-      "timestamp": 1789574400.0,
-      "source": "ComputerBase",
-      "summary": "iPhone 18 Pro und iPhone 18 Pro Max bekommen erstmals eine mechanisch variable Blende in der Hauptkamera. Apple verspricht damit bessere Aufnahmen bei..."
-    },
-    {
-      "title": "Steam – Knight’s Empire ist jetzt dauerhaft kostenlos spielbar",
-      "link": "https://www.playcentral.de/steam-knights-empire-ist-jetzt-dauerhaft-kostenlos-spielbar/",
-      "pubDate": "16.09.2026 um 15:33 Uhr",
-      "timestamp": 1789572808.0,
-      "source": "PlayCentral",
-      "summary": "Auf Steam ist mit Knight&#8217;s Empire ein weiteres zuvor kostenpflichtiges Spiel dauerhaft kostenlos geworden. Das 2D-Action-Roguelike von StarsCrew..."
     }
   ],
   "int": [
+    {
+      "title": "Spider-Man: Brand New Day has finally topped Star Wars: The Force Awakens to become the highest-grossing movie ever at the domestic box office",
+      "link": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-has-finally-topped-star-wars-the-force-awakens-to-become-the-highest-grossing-movie-ever-at-the-domestic-box-office/",
+      "pubDate": "16.09.2026 um 21:49 Uhr",
+      "timestamp": 1789595363.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It took just 47 days"
+    },
+    {
+      "title": "Get a good look at Control Resonant's otherworldly bosses in a PC Gaming Show exclusive extended interview",
+      "link": "https://www.pcgamer.com/games/action/get-a-good-look-at-control-resonants-otherworldly-bosses-in-a-pc-gaming-show-exclusive-extended-interview/",
+      "pubDate": "16.09.2026 um 21:44 Uhr",
+      "timestamp": 1789595079.0,
+      "source": "PCGamer latest",
+      "summary": "One fight theme uses Fibonacci numbers."
+    },
+    {
+      "title": "Epic CEO Says EU Banning Kids From Playing Fortnite Is ‘Terrible For The Next Generation Of Humanity’",
+      "link": "https://kotaku.com/epic-ceo-says-eu-banning-kids-from-playing-fortnite-is-terrible-for-the-next-generation-of-humanity-2000735192",
+      "pubDate": "16.09.2026 um 21:40 Uhr",
+      "timestamp": 1789594830.0,
+      "source": "Kotaku",
+      "summary": "Tim Sweeney isn't a fan of a proposed European Union ban that would aim to keep kids 14 and under from playing games online"
+    },
+    {
+      "title": "\"One of the final secrets of the PS2 has been broken wide open\": Modder who spent 4 years trying to defeat the PlayStation 2 security chip has finally done it",
+      "link": "https://www.gamesradar.com/games/one-of-the-final-secrets-of-the-ps2-has-been-broken-wide-open-modder-who-spent-4-years-trying-to-defeat-the-playstation-2-security-chip-has-finally-done-it/",
+      "pubDate": "16.09.2026 um 21:37 Uhr",
+      "timestamp": 1789594652.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The PS2 has kept this secret for 26 years"
+    },
+    {
+      "title": "South Park’s New Season Is Officially the Biggest Sitcom on Streaming After Just 1 Episode",
+      "link": "https://www.polygon.com/south-park-america-tv-season-29-streaming-success/",
+      "pubDate": "16.09.2026 um 21:35 Uhr",
+      "timestamp": 1789594540.0,
+      "source": "Polygon.com",
+      "summary": "Season 29 of South Park, recently renamed South America,  kicks off with an episode about e-bike gangs, and it's a hit!"
+    },
+    {
+      "title": "Mike Flanagan's long-awaited The Dark Tower TV show is still \"very much on the table\" despite his move from Netflix to Prime Video",
+      "link": "https://www.gamesradar.com/entertainment/horror-shows/mike-flanagans-long-awaited-the-dark-tower-tv-show-is-still-very-much-on-the-table-despite-his-move-from-netflix-to-prime-video/",
+      "pubDate": "16.09.2026 um 21:11 Uhr",
+      "timestamp": 1789593110.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The series was announced back in 2022"
+    },
     {
       "title": "Endless Legend 2 Dev Reflects On How Early Access Has Changed Nearly 15 Years Later: ‘People Can Be A Bit Unforgiving’",
       "link": "https://kotaku.com/endless-legend-2-dev-reflects-on-how-early-access-has-changed-nearly-15-years-later-people-can-be-a-bit-unforgiving-2000735194",
@@ -163,12 +211,20 @@
       "summary": "\"Navigating an increasingly challenging industry has been extremely difficult\""
     },
     {
-      "title": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publisher deal for unannounced game falls through",
+      "title": "Hyper Light studio Heart Machine lays off 'nearly everyone' after publishing deal for unannounced game falls through",
       "link": "https://www.pcgamer.com/gaming-industry/hyper-light-studio-heart-machine-lays-off-nearly-everyone-after-publisher-deal-for-unannounced-game-falls-through/",
       "pubDate": "16.09.2026 um 21:01 Uhr",
       "timestamp": 1789592490.0,
       "source": "PCGamer latest",
       "summary": "Studio founder Alx Preston said he's \"not sure yet what's next for Heart Machine to survive.\""
+    },
+    {
+      "title": "RAVEN2 - ZERO Lets Players Enter an Apocalyptic MMORPG Where Growth Is Tied to Gameplay",
+      "link": "https://www.ign.com/articles/raven2-zero-lets-players-enter-an-apocalyptic-mmorpg-where-growth-is-tied-to-gameplay",
+      "pubDate": "16.09.2026 um 20:30 Uhr",
+      "timestamp": 1789590648.0,
+      "source": "IGN All",
+      "summary": ""
     },
     {
       "title": "Magic: The Gathering Officially Reveals the Ur-Dragon's New Commander Replacement",
@@ -187,6 +243,14 @@
       "summary": "A \"leak\" claimed that Bungie is looking into combining the two games into one single, big property."
     },
     {
+      "title": "Microsoft Flight Simulator 2024 Releases Single New Plane DLC That Costs $74.49",
+      "link": "https://www.ign.com/articles/microsoft-flight-simulator-2024-releases-single-new-plane-dlc-that-costs-7449",
+      "pubDate": "16.09.2026 um 20:00 Uhr",
+      "timestamp": 1789588824.0,
+      "source": "IGN All",
+      "summary": "Microsoft Flight Simulator 2024 is adding a big new jet to its fleet, but it comes at a big new price. The \"superjumbo\" Airbus A380 is now available f..."
+    },
+    {
       "title": "Baldur's Gate 3 Officially Adds 19 Game-Breaking Options for Console Players",
       "link": "https://www.polygon.com/bg3-new-console-mods-september-2026/",
       "pubDate": "16.09.2026 um 20:00 Uhr",
@@ -203,6 +267,14 @@
       "summary": "Trails in the Sky 2nd Chapter is setting Metacritic alight"
     },
     {
+      "title": "Studio Behind Hyper Light Drifter In Peril After Publisher Withdraws Funding for Unannounced Project",
+      "link": "https://www.ign.com/articles/studio-behind-hyper-light-drifter-in-peril-after-publisher-withdraws-funding-for-unannounced-project",
+      "pubDate": "16.09.2026 um 19:46 Uhr",
+      "timestamp": 1789588014.0,
+      "source": "IGN All",
+      "summary": "Heart Machine, the development studio behind titles like Hyper Light Drifter and Possessors, is in dire straits after a publisher withdrew their fundi..."
+    },
+    {
       "title": "'The best videogame movie' ever? The first reviews of Zach Cregger's Resident Evil adaptation are absolutely glowing",
       "link": "https://www.pcgamer.com/movies-tv/multiple-reviews-call-resident-evil-the-best-videogame-movie-ever/",
       "pubDate": "16.09.2026 um 19:42 Uhr",
@@ -217,81 +289,17 @@
       "timestamp": 1789587411.0,
       "source": "Kotaku",
       "summary": "The team's recent projects didn't quite pan out"
-    },
-    {
-      "title": "Denuvo Is Suing A Prolific Game Pirate But They Don’t Seem Worried At All",
-      "link": "https://kotaku.com/denuvo-is-suing-a-prolific-game-pirate-but-they-dont-seem-worried-at-all-2000735162",
-      "pubDate": "16.09.2026 um 19:36 Uhr",
-      "timestamp": 1789587408.0,
-      "source": "Kotaku",
-      "summary": "The DRM maker is trying to figure out who the pirate it is and wants to stop them from bypassing its software in games like Doom and Hogwarts Legacy"
-    },
-    {
-      "title": "Guy Ritchie’s 128-minute Action Movie Is Officially the Biggest Detective Thriller on Streaming",
-      "link": "https://www.polygon.com/guy-ritchie-sherlock-holmes-streaming-hit-apple-tv-september-2026/",
-      "pubDate": "16.09.2026 um 19:26 Uhr",
-      "timestamp": 1789586766.0,
-      "source": "Polygon.com",
-      "summary": "Sherlock Holmes, Guy Ritchie's action-packed take on the classic detective, is finding a new audience on Apple TV."
-    },
-    {
-      "title": "Bloodborne Is Officially Back with a New Release — but There's a Catch",
-      "link": "https://www.polygon.com/bloodborne-sequel-super-groupies-new-collaboration-umbrella-fashion-merchandise/",
-      "pubDate": "16.09.2026 um 19:20 Uhr",
-      "timestamp": 1789586446.0,
-      "source": "Polygon.com",
-      "summary": "Bloodborne fans still hold out hope for a sequel. Instead, they're getting new Bloodborne merch, like an umbrella and necktie."
-    },
-    {
-      "title": "Wardogs studio CEO issues new statement, after backlash for saying his studio won't hire people who \"constantly tweet anti-crunch messaging\"",
-      "link": "https://www.eurogamer.net/wardogs-ceo-new-response-crunch-backlash-social-media-monitoring-statement",
-      "pubDate": "16.09.2026 um 19:15 Uhr",
-      "timestamp": 1789586125.0,
-      "source": "Eurogamer.net News",
-      "summary": "Joe Brammer, CEO of Bulkhead, the developer behind The Turing Test, Battalion 1944, and now the hugely successful new release Wardogs, has found himse..."
-    },
-    {
-      "title": "How a wellness craze inspired Pokemon",
-      "link": "https://www.polygon.com/video/how-a-wellness-craze-inspired-pokemon/",
-      "pubDate": "16.09.2026 um 19:06 Uhr",
-      "timestamp": 1789585590.0,
-      "source": "Polygon.com",
-      "summary": "Pokemon came from a surprisingly sad period of Japan's history — the healing boom following an economic crisis. But that inspiration made the game wha..."
-    },
-    {
-      "title": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
-      "link": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
-      "pubDate": "16.09.2026 um 18:49 Uhr",
-      "timestamp": 1789584540.0,
-      "source": "Eurogamer.net News",
-      "summary": "Another round of layoffs is seemingly sweeping through Build A Rocket Boy, the studio responsible for MindsEye and founded by GTA veteran Leslie Benzi..."
-    },
-    {
-      "title": "Super Ugly Mew Cards Are The Chase For Pokémon’s 30th Anniversary, And One’s Already Sold For $20k",
-      "link": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148",
-      "pubDate": "16.09.2026 um 18:45 Uhr",
-      "timestamp": 1789584327.0,
-      "source": "Kotaku",
-      "summary": "The RGB Mew cards were at one point believed to be a hoax"
-    },
-    {
-      "title": "Quentin Tarantino’s New Novel The Adventures of Cliff Booth Is Up for Preorder",
-      "link": "https://www.ign.com/articles/quentin-tarantinos-new-novel-the-adventures-of-cliff-booth-is-up-for-preorder",
-      "pubDate": "16.09.2026 um 18:29 Uhr",
-      "timestamp": 1789583359.0,
-      "source": "IGN All",
-      "summary": "Quentin Tarantino has a new novel coming out in December called The Adventures of Cliff Booth. It's a novelization of the upcoming Brad Pitt movie, an..."
-    },
-    {
-      "title": "Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued",
-      "link": "https://www.ign.com/articles/pirate-who-cracked-denuvo-games-like-resident-evil-requiem-plans-to-continue-doing-so-despite-being-sued",
-      "pubDate": "16.09.2026 um 18:24 Uhr",
-      "timestamp": 1789583065.0,
-      "source": "IGN All",
-      "summary": "A pirate known for cracking games that utilize the DRM software Denuvo is being hit with a lawsuit... but that isn't stopping them from continuing on."
     }
   ],
   "sim": [
+    {
+      "title": "iRacing Weekly Tune-in | eSports & Community Events | September 17th to September 23rd, 2026",
+      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-september-17th-to-september-23rd-2026/",
+      "pubDate": "16.09.2026 um 21:00 Uhr",
+      "timestamp": 1789592458.0,
+      "source": "iRacing.com",
+      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
+    },
     {
       "title": "Gran Turismo 7’s Nations Cup Exhibition Season 2 Races Pre-War Classics",
       "link": "https://www.gtplanet.net/gran-turismo-7s-nations-cup-exhibition-season-2-races-pre-war-classics-20260916/",
@@ -387,14 +395,6 @@
       "timestamp": 1789059579.0,
       "source": "GTPlanet",
       "summary": "A new set of Gran Turismo 7 Weekly Challenges arrives Friday, September 11, headlined by a Hyundai Ioniq 6 N one-make at Road Atlanta and a 140,000cr ..."
-    },
-    {
-      "title": "iRacing Weekly Tune-in | eSports & Community Events | September 12th to September 15th, 2026",
-      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-september-12th-to-september-15th-2026/",
-      "pubDate": "10.09.2026 um 16:00 Uhr",
-      "timestamp": 1789056003.0,
-      "source": "iRacing.com",
-      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
     },
     {
       "title": "Gran Turismo 7 Daily Races: Pug Life",
