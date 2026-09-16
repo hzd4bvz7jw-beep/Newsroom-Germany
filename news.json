@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Zero Parades für PS5 bestätigt – Director’s Cut kommt am 3. November 2026",
+      "link": "https://www.playcentral.de/zero-parades-fuer-ps5-bestaetigt-directors-cut-kommt-am-3-november-2026/",
+      "pubDate": "16.09.2026 um 18:32 Uhr",
+      "timestamp": 1789583574.0,
+      "source": "PlayCentral",
+      "summary": "Das narrative Spionage-Rollenspiel Zero Parades: For Dead Spies schafft noch im Jahr 2026 den Sprung auf die Konsole. Entwickler und Publisher ZA/UM h..."
+    },
+    {
+      "title": "Space Menace auf Steam gratis sichern – bis 23. September 2026 um 19 Uhr",
+      "link": "https://www.playcentral.de/space-menace-auf-steam-gratis-sichern-bis-23-september-2026-um-19-uhr/",
+      "pubDate": "16.09.2026 um 18:31 Uhr",
+      "timestamp": 1789583492.0,
+      "source": "PlayCentral",
+      "summary": "Steam-Nutzer können sich derzeit das Weltraum-Strategiespiel Space Menace dauerhaft kostenlos sichern. Die Aktion läuft noch bis zum 23. September 202..."
+    },
+    {
+      "title": "Ich gehe meinen geliebten Tyraniden fremd, um eine stinkende Sumpfbestie aus Warhammer Age of Sigmar zu bauen",
+      "link": "https://mein-mmo.de/warhammer-age-of-sigmar-schlammsuhla-bestie/",
+      "pubDate": "16.09.2026 um 18:15 Uhr",
+      "timestamp": 1789582500.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteurin Caros erste Miniatur von Warhammer Age of Sigmar ist eine stinkende, giftige Sumpfbestie mit Unterbiss. Der Beitrag Ich gehe meine..."
+    },
+    {
       "title": "„Du bist kein Soldat, sondern eine Baufirma“ – Wardogs verrät, was die Anti-Cheat-KI des Shooters über die großen Twitch-Streamer denkt",
       "link": "https://mein-mmo.de/wardogs-anti-cheat-ki-streamer-beschreibung/",
       "pubDate": "16.09.2026 um 18:00 Uhr",
@@ -119,33 +143,49 @@
       "timestamp": 1789572691.0,
       "source": "PlayCentral",
       "summary": "Wer sich schon immer gefragt hat, wie Stardew Valley mit einem Pokémon-Lieferdienst aussehen würde, sollte Petal Runner im Blick behalten. Das Open-Wo..."
-    },
-    {
-      "title": "Kann man Aniimo mit einem Controller spielen?",
-      "link": "https://mein-mmo.de/aniimo-controller-spielen/",
-      "pubDate": "16.09.2026 um 15:14 Uhr",
-      "timestamp": 1789571693.0,
-      "source": "Mein-MMO",
-      "summary": "Auf der Steam-Seite steht, dass Aniimo keinen Controller-Support bietet. Kann man das Game dennoch mit Controller spielen? Der Beitrag Kann man Aniimo..."
-    },
-    {
-      "title": "„Für das Erstgeborene“: 512-GByte-Module erlauben 8 TB RAM pro CPU",
-      "link": "https://www.computerbase.de/news/arbeitsspeicher/16-tb-ram-im-2p-server-micron-macht-512-gbyte-module-fuer-ende-2027-startklar.99434/",
-      "pubDate": "16.09.2026 um 17:13 Uhr",
-      "timestamp": 1789571580.0,
-      "source": "ComputerBase",
-      "summary": "Zu AMD Advancing AI 2026 hatte AMD sie bereits in Aussicht gestellt, nun kündigt Micron sie an: 512 GByte große RDIMM-Module. Pro Prozessor lassen sic..."
-    },
-    {
-      "title": "Chrome 153: Kritische Lücken ermöglichen Übernahme des Systems",
-      "link": "https://www.computerbase.de/news/apps/chrome-153-kritische-luecken-ermoeglichen-uebernahme-des-systems.99429/",
-      "pubDate": "16.09.2026 um 16:46 Uhr",
-      "timestamp": 1789569960.0,
-      "source": "ComputerBase",
-      "summary": "Mit dem aktuell ausgerollten Update auf Chrome 153 schließt Google insgesamt 42 Sicherheitslücken, von denen drei als kritisch und weitere 27 als gefä..."
     }
   ],
   "int": [
+    {
+      "title": "How a wellness craze inspired Pokemon",
+      "link": "https://www.polygon.com/video/how-a-wellness-craze-inspired-pokemon/",
+      "pubDate": "16.09.2026 um 19:06 Uhr",
+      "timestamp": 1789585590.0,
+      "source": "Polygon.com",
+      "summary": "Pokemon came from a surprisingly sad period of Japan's history — the healing boom following an economic crisis. But that inspiration made the game wha..."
+    },
+    {
+      "title": "More MindsEye developers have been laid off, and GTA veteran Leslie Benzie's studio is reportedly shutting down",
+      "link": "https://www.eurogamer.net/mindseye-developers-laid-off-gta-studio-shutting-down",
+      "pubDate": "16.09.2026 um 18:49 Uhr",
+      "timestamp": 1789584540.0,
+      "source": "Eurogamer.net News",
+      "summary": "Another round of layoffs is seemingly sweeping through Build A Rocket Boy, the studio responsible for MindsEye and founded by GTA veteran Leslie Benzi..."
+    },
+    {
+      "title": "Super Ugly Mew Cards Are The Chase For Pokémon’s 30th Anniversary, And One’s Already Sold For $20k",
+      "link": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148",
+      "pubDate": "16.09.2026 um 18:45 Uhr",
+      "timestamp": 1789584327.0,
+      "source": "Kotaku",
+      "summary": "The RGB Mew cards were at one point believed to be a hoax"
+    },
+    {
+      "title": "MindsEye developer Build a Rocket Boy may finally be closing",
+      "link": "https://www.pcgamer.com/gaming-industry/mindseye-developer-build-a-rocket-boy-may-finally-be-closing/",
+      "pubDate": "16.09.2026 um 18:22 Uhr",
+      "timestamp": 1789582951.0,
+      "source": "PCGamer latest",
+      "summary": "Multiple employees have said on LinkedIn that everyone left is being let go."
+    },
+    {
+      "title": "Popular PlayStation Hacker Calling It Quits Due To AI-Using ‘Slop Kiddies’ Reporting Important Bug To Sony",
+      "link": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
+      "pubDate": "16.09.2026 um 18:20 Uhr",
+      "timestamp": 1789582826.0,
+      "source": "Kotaku",
+      "summary": "An anticipated open source Linux mod for newer PS5 consoles might now be in jeopardy of never happening"
+    },
     {
       "title": "Epic X-Men Villain Is Absolutely Terrorizing Marvel’s Wolverine Players",
       "link": "https://www.polygon.com/marvels-wolverine-omega-red-first-boss/",
@@ -249,46 +289,6 @@
       "timestamp": 1789578814.0,
       "source": "Polygon.com",
       "summary": "Square Enix has revealed that RPG series Dragon Quest has sold over 100 million units just in time for its 40th anniversary"
-    },
-    {
-      "title": "New Resident Evil Movie Debuts to Near-perfect Rotten Tomatoes Score",
-      "link": "https://www.polygon.com/resident-evil-zach-creggers-rotten-tomatoes-review-roundup/",
-      "pubDate": "16.09.2026 um 17:13 Uhr",
-      "timestamp": 1789578812.0,
-      "source": "Polygon.com",
-      "summary": "Zach Creggers' Resident Evil movie is a smash hit with critics as it debuts to a near-perfect score on Rotten Tomatoes' Tomatometer."
-    },
-    {
-      "title": "2025 Best Kart Racer Just Got Even Better, Thanks to This New Free Character",
-      "link": "https://www.polygon.com/sonic-racing-crossworlds-bayonetta-year-two-free-character/",
-      "pubDate": "16.09.2026 um 17:12 Uhr",
-      "timestamp": 1789578722.0,
-      "source": "Polygon.com",
-      "summary": "Sonic Racing CrossWorlds has added several free and paid non-Sonic characters to the kart racer. Next up is the Umbra Witch Bayonetta."
-    },
-    {
-      "title": "GTA 5's 'Become a celebrity' mod is almost weirdly fully featured",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-become-a-celebrity-mod-is-almost-weirdly-fully-featured/",
-      "pubDate": "16.09.2026 um 17:00 Uhr",
-      "timestamp": 1789578000.0,
-      "source": "PCGamer latest",
-      "summary": "I wanna be a star."
-    },
-    {
-      "title": "Vampire RPG escapes Steam's 'Adult Only' jail just in time for launch: \"At the risk of disappointing some players, Nighthawks is not porn\"",
-      "link": "https://www.eurogamer.net/vampire-rpg-steam-adult-only-game-jail-nighthawks",
-      "pubDate": "16.09.2026 um 16:59 Uhr",
-      "timestamp": 1789577986.0,
-      "source": "Eurogamer.net News",
-      "summary": "Nighthawks just got a happy ending. Developers of the vampiric RPG have successfully removed the game's 'Adult Only' rating on Steam - a label that wo..."
-    },
-    {
-      "title": "Wardogs Outpacing Arc Raiders and Helldivers 2 on Steam and Has Already Made More Money Than Marathon Across All Platforms to Date, Analysis Shows",
-      "link": "https://www.ign.com/articles/wardogs-outpacing-arc-raiders-and-helldivers-2-on-steam-and-has-already-made-more-money-than-marathon-across-all-platforms-to-date-analysis-shows",
-      "pubDate": "16.09.2026 um 16:53 Uhr",
-      "timestamp": 1789577584.0,
-      "source": "IGN All",
-      "summary": "Breakout hit Wardogs is outpacing Arc Raiders and Helldivers 2 on Steam in terms of copies sold at launch, new data shows."
     }
   ],
   "sim": [
