@@ -3,10 +3,18 @@
     {
       "title": "WoW Forever Beta Start und Q&A vom 17. September im Live-Ticker – wann geht’s los?",
       "link": "https://mein-mmo.de/wow-forever-beta-start-q-and-a-17-september-live-ticker/",
-      "pubDate": "17.09.2026 um 18:10 Uhr",
-      "timestamp": 1789668645.0,
+      "pubDate": "17.09.2026 um 19:06 Uhr",
+      "timestamp": 1789672018.0,
       "source": "Mein-MMO",
       "summary": "MeinMMO begleitet den Start der Beta von WoW: Forever und die Q&#038;A von Blizzard am 17. September 2026 im Live-Ticker. Der Beitrag WoW Forever Beta..."
+    },
+    {
+      "title": "WoW Forever startet Beta – Laufzeit, Zugang und wichtigste Neuerungen",
+      "link": "https://www.playcentral.de/wow-forever-startet-beta-laufzeit-zugang-und-wichtigste-neuerungen/",
+      "pubDate": "17.09.2026 um 18:31 Uhr",
+      "timestamp": 1789669912.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard hat auf der BlizzCon 2026 nicht nur neue Inhalte für World of Warcraft: Midnight und einen ersten Ausblick auf The Last Titan präsentiert. Mi..."
     },
     {
       "title": "Heute ist Zarbex erfolgreich auf Twitch, doch vor 5 Jahren schien er zu asi für HandOfBlood",
@@ -135,17 +143,65 @@
       "timestamp": 1789655505.0,
       "source": "PlayCentral",
       "summary": "Steam-Nutzer können sich aktuell einen zusätzlichen Inhalt für Dying Light: The Beast dauerhaft kostenlos sichern. Das Discharge Weapon Pack wird im R..."
-    },
-    {
-      "title": "GTA 6: Twitch-Chef deutet Multiplayer für 2027 an – und erwartet noch größeren Hype",
-      "link": "https://www.eurogamer.de/gta-6-multiplayer-2027-twitch",
-      "pubDate": "17.09.2026 um 14:19 Uhr",
-      "timestamp": 1789654767.0,
-      "source": "Eurogamer.de News",
-      "summary": "Grand Theft Auto VI erscheint schon am 19. November 2026 und d&uuml;rfte auch auf Twitch f&uuml;r ordentlich Aufmerksamkeit sorgen, zumindest laut Twi..."
     }
   ],
   "int": [
+    {
+      "title": "Xbox One’s Catastrophic DRM Is The Reason It Can Now Offer Disc-To-Digital",
+      "link": "https://kotaku.com/xbox-ones-catastrophic-drm-is-the-reason-it-can-now-offer-disc-to-digital-2000735320",
+      "pubDate": "17.09.2026 um 19:00 Uhr",
+      "timestamp": 1789671641.0,
+      "source": "Kotaku",
+      "summary": "The Xbox One's pitch for an all-digital, always-online future went down in flames so its disc-to-digital initiative could be born from the ashes"
+    },
+    {
+      "title": "Are Wolverine’s Takes On Established Marvel Characters Bad Or Just Different (Or Both)?",
+      "link": "https://kotaku.com/marvels-wolverine-logan-sabretooth-jean-comic-book-fans-2000735324",
+      "pubDate": "17.09.2026 um 19:00 Uhr",
+      "timestamp": 1789671608.0,
+      "source": "Kotaku",
+      "summary": "Insomniac’s riffs on X-Men history aren’t sitting well with everyone"
+    },
+    {
+      "title": "Diablo 5 is Blizzard's darkest ARPG yet, and that's the best way to honor the game that changed my life 30 years ago",
+      "link": "https://www.gamesradar.com/games/diablo/diablo-5-is-blizzards-darkest-arpg-yet-and-thats-the-best-way-to-honor-the-game-that-changed-my-life-30-years-ago/",
+      "pubDate": "17.09.2026 um 18:57 Uhr",
+      "timestamp": 1789671458.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Diablo 5 turns all of Sanctuary into the Dark Lord's domain, and that's the darkness deluge I'm convinced the series needs"
+    },
+    {
+      "title": "New R-Rated Survival Sci-Fi Officially Crowned Highest-Rated Video Game Adaptation Ever",
+      "link": "https://www.polygon.com/resident-evil-highest-rating-video-game-movie-rotten-tomatoes/",
+      "pubDate": "17.09.2026 um 18:38 Uhr",
+      "timestamp": 1789670297.0,
+      "source": "Polygon.com",
+      "summary": "Zach Cregger's 'Resident Evil' adaptation has the highest Rotten Tomatoes rating for a movie based on a game."
+    },
+    {
+      "title": "Doctor Who Reboot Shows First Signs of Life in New BBC Update",
+      "link": "https://www.polygon.com/doctor-who-reboot-release-bbc/",
+      "pubDate": "17.09.2026 um 18:32 Uhr",
+      "timestamp": 1789669974.0,
+      "source": "Polygon.com",
+      "summary": "BBC gives first update on Doctor Who reboot and sets 2028 premiere at the earliest"
+    },
+    {
+      "title": "Diablo 4's anniversary event brings back the game's most iconic location, and boy that music is sending me",
+      "link": "https://www.pcgamer.com/games/rpg/diablo-4s-anniversary-event-brings-back-the-games-most-iconic-location-and-boy-that-music-is-sending-me/",
+      "pubDate": "17.09.2026 um 18:31 Uhr",
+      "timestamp": 1789669897.0,
+      "source": "PCGamer latest",
+      "summary": "Tristram is back, baby, and the level of detail Blizzard has put into this recreation is genuinely impressive."
+    },
+    {
+      "title": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
+      "pubDate": "17.09.2026 um 18:19 Uhr",
+      "timestamp": 1789669176.0,
+      "source": "PCGamer latest",
+      "summary": "That soon? Twitch CEO Dan Clancy sounds pretty sure of it."
+    },
     {
       "title": "What time are the Kingdom Hearts power hours in Fortnite Chapter 7 Season 4?",
       "link": "https://www.polygon.com/fortnite-chapter-7-season-4-kingdom-hearts-power-hours-what-time/",
@@ -233,62 +289,6 @@
       "timestamp": 1789664679.0,
       "source": "Polygon.com",
       "summary": "Here's a list of all the Fortnite Chapter 7 Season 4 battle pass skins and styles, and how to unlock them."
-    },
-    {
-      "title": "\"Nearly everyone\" laid off at Hyper Light Drifter devs Heart Machine after publisher drops unannounced game",
-      "link": "https://www.rockpapershotgun.com/nearly-everyone-laid-off-at-hyper-light-drifter-devs-heart-machine-after-publisher-drops-unannounced-game",
-      "pubDate": "17.09.2026 um 17:00 Uhr",
-      "timestamp": 1789664400.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Heart Machine, the US-based makers of Hyper Light Drifter, its multiplayer spinoff Hyper Light Breaker, and last year&rsquo;s Possessor(s), have laid ..."
-    },
-    {
-      "title": "I have officially made Grand Theft Auto 5 good by turning it into a golf sim",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-officially-made-grand-theft-auto-5-good-by-turning-it-into-a-golf-sim/",
-      "pubDate": "17.09.2026 um 17:00 Uhr",
-      "timestamp": 1789664400.0,
-      "source": "PCGamer latest",
-      "summary": "GTA Tour."
-    },
-    {
-      "title": "Epic boss Tim Sweeney says the EU's social media ban for under-13s 'would be terrible for the next generation of humanity'",
-      "link": "https://www.pcgamer.com/gaming-industry/epic-boss-tim-sweeney-says-the-eus-social-media-ban-for-under-13s-would-be-terrible-for-the-next-generation-of-humanity/",
-      "pubDate": "17.09.2026 um 16:53 Uhr",
-      "timestamp": 1789664010.0,
-      "source": "PCGamer latest",
-      "summary": "The EU KIDS Act would impose strict new regulations on social media, video sharing, gaming, and other online services."
-    },
-    {
-      "title": "What Pokémon Would You DATE? Simone's Street Interviews!",
-      "link": "https://www.polygon.com/video/what-poke-mon-would-you-date-simone-s-street-interviews/",
-      "pubDate": "17.09.2026 um 16:49 Uhr",
-      "timestamp": 1789663770.0,
-      "source": "Polygon.com",
-      "summary": "What Pokémon would you date? It's not that hard a question, right? Simone de Rochefort took to the streets of New York to find out the truth."
-    },
-    {
-      "title": "Capcom is finally removing scummy character customization vouchers from Monster Hunter Wilds, players immediately dance on their grave",
-      "link": "https://www.gamesradar.com/games/monster-hunter/capcom-is-finally-removing-scummy-character-customization-vouchers-from-monster-hunter-wilds-players-immediately-dance-on-their-grave/",
-      "pubDate": "17.09.2026 um 16:47 Uhr",
-      "timestamp": 1789663658.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "You won't need to spend real money to repeatedly edit your own character anymore"
-    },
-    {
-      "title": "Wardogs error codes and possible fixes",
-      "link": "https://www.gamesradar.com/games/fps/wardogs-error-codes/",
-      "pubDate": "17.09.2026 um 16:43 Uhr",
-      "timestamp": 1789663393.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "If you can't play Wardogs because of a persistent error code, these fixes might help"
-    },
-    {
-      "title": "Blood of Dawnwalker 2 Could Ditch the Original's Most Unique Mechanic, Dev Says",
-      "link": "https://www.polygon.com/blood-of-dawnwalker-vampire-rpg-sequel-time-mechanic/",
-      "pubDate": "17.09.2026 um 16:41 Uhr",
-      "timestamp": 1789663288.0,
-      "source": "Polygon.com",
-      "summary": "The Blood of Dawnwalker is the first RPG in an intended series. It has a unique approach to time and quests, but that approach may not return."
     }
   ],
   "sim": [
