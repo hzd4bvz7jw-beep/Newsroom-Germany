@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "MLPerf Inference v6.1: Intel Xeon & Arc lebt, 512 MI355X skalieren und VR200 debütiert",
+      "link": "https://www.computerbase.de/news/grafikkarten/mlperf-inference-v6-1-intel-xeon-und-arc-lebt-512-mi355x-skalieren-und-vr200-debuetiert.99435/",
+      "pubDate": "17.09.2026 um 07:00 Uhr",
+      "timestamp": 1789621200.0,
+      "source": "ComputerBase",
+      "summary": "Die neuen MLPerf-Inference-Ergebnisse zeigen es: Optimierte Software für bestehende Hardware birgt enormes Potenzial bei AMD, Intel und Nvidia. Der Pl..."
+    },
+    {
+      "title": "WoW: Forever – Das sind die Himmelsgeborenen, das neue Volk in Classic+",
+      "link": "https://mein-mmo.de/wow-forever-himmelsgeborene-neues-volk/",
+      "pubDate": "17.09.2026 um 04:30 Uhr",
+      "timestamp": 1789619400.0,
+      "source": "Mein-MMO",
+      "summary": "In World of Warcraft Forever gibt es ein neues Volk. Wir schauen auf die „Skyborne“, verraten ihre Fähigkeiten und ihre Geschichte. Der Beitrag WoW: F..."
+    },
+    {
       "title": "Speicherpreise im Check: +370 %, +134 %, +129 % nach einem Jahr",
       "link": "https://www.computerbase.de/news/storage/speicherpreise-im-check-plus-370-prozent-plus-134-prozent-plus-129-prozent-nach-einem-jahr.99425/",
       "pubDate": "17.09.2026 um 06:03 Uhr",
@@ -65,20 +81,20 @@
       "summary": "Die Entwickler von Wardogs teilten öffentlich, wie ihre Anti-Cheat-KI bekannte Twitch-Streamer beschreibt. Keiner von ihnen kam gut weg. Der Beitrag „..."
     },
     {
-      "title": "Ein 10 Jahre altes Spiel im Pixel-Look schmort die 5.000 Euro teure Grafikkarte eines Spielers durch, der hofft nun auf Reparatur",
-      "link": "https://mein-mmo.de/jahre-altes-spiel-pixel-look-schmort-teure-grafikkarte-spielers-reparatur/",
-      "pubDate": "16.09.2026 um 18:00 Uhr",
-      "timestamp": 1789581600.0,
-      "source": "Mein-MMO",
-      "summary": "In einem Fall wird jetzt ein 10 Jahre altes Indie-Spiel zum Endgegner einer RTX 5090. Eine GPU, die derzeit über 5.000 Euro kostet. Der Beitrag Ein 10..."
-    },
-    {
       "title": "Marvel hat einen neuen übermächtigen Superhelden, aber der macht jetzt einen auf böser Superman",
       "link": "https://mein-mmo.de/marvel-lore-neuer-captain-america/",
       "pubDate": "16.09.2026 um 18:00 Uhr",
       "timestamp": 1789581600.0,
       "source": "Mein-MMO",
       "summary": "Im Marvel-Universum hat ein neuer Captain America ein dickes Upgrade bekommen, doch das macht ihn etwas größenwahnsinnig. Der Beitrag Marvel hat einen..."
+    },
+    {
+      "title": "Ein 10 Jahre altes Spiel im Pixel-Look schmort die 5.000 Euro teure Grafikkarte eines Spielers durch, der hofft nun auf Reparatur",
+      "link": "https://mein-mmo.de/jahre-altes-spiel-pixel-look-schmort-teure-grafikkarte-spielers-reparatur/",
+      "pubDate": "16.09.2026 um 18:00 Uhr",
+      "timestamp": 1789581600.0,
+      "source": "Mein-MMO",
+      "summary": "In einem Fall wird jetzt ein 10 Jahre altes Indie-Spiel zum Endgegner einer RTX 5090. Eine GPU, die derzeit über 5.000 Euro kostet. Der Beitrag Ein 10..."
     },
     {
       "title": "In Diablo 4 gibt es jetzt alte Runenwörter aus Diablo 2 – So baut ihr sie",
@@ -127,22 +143,6 @@
       "timestamp": 1789578420.0,
       "source": "ComputerBase",
       "summary": "Gefühlt wird in diesen Tagen alles teurer. Es gibt aber hier und dort Ausnahmen. Bei Arctic gibt es aktuell den Under-Desktop-PC Senza in der älteren ..."
-    },
-    {
-      "title": "Game of Thrones Legends – Stark-Beschwörung Hand of the King startet 2026",
-      "link": "https://www.playcentral.de/game-of-thrones-legends-stark-beschwoerung-hand-of-the-king-startet-2026/",
-      "pubDate": "16.09.2026 um 16:34 Uhr",
-      "timestamp": 1789576466.0,
-      "source": "PlayCentral",
-      "summary": "Jon Snow kehrt erneut nach Westeros zurück. Allerdings handelt es sich dabei nicht um die Wiederaufnahme des zeitweise geplanten Serienablegers, sonde..."
-    },
-    {
-      "title": "Resident Evil 2, 3 und 4 kommen auf Switch 2 – das steckt in den Editionen",
-      "link": "https://www.playcentral.de/resident-evil-2-3-und-4-kommen-auf-switch-2-das-steckt-in-den-editionen/",
-      "pubDate": "16.09.2026 um 16:31 Uhr",
-      "timestamp": 1789576305.0,
-      "source": "PlayCentral",
-      "summary": "Capcom baut das Horrorangebot auf der Nintendo Switch 2 kräftig aus. Am 16. Oktober 2026 erscheinen Resident Evil 2 Deluxe Edition, Resident Evil 3 un..."
     }
   ],
   "int": [
