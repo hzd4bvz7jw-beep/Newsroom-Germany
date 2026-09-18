@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Halo – Prime 1 zeigt 1-4 Master-Chief-Statue, Release 2028, 500 Stück",
+      "link": "https://www.playcentral.de/halo-prime-1-zeigt-1-4-master-chief-statue-release-2028-500-stueck/",
+      "pubDate": "18.09.2026 um 16:31 Uhr",
+      "timestamp": 1789749100.0,
+      "source": "PlayCentral",
+      "summary": "Halo-Fans mit einer Vorliebe für besonders große Sammlerstücke dürfen sich auf einen kostspieligen Neuzugang freuen. Prime 1 Studio hat eine aufwendig..."
+    },
+    {
+      "title": "EA FC 27 startet heute: Release und Frühzugang im Live-Ticker",
+      "link": "https://mein-mmo.de/ea-fc-27-fruezugang-release-ticker/",
+      "pubDate": "18.09.2026 um 16:00 Uhr",
+      "timestamp": 1789747200.0,
+      "source": "Mein-MMO",
+      "summary": "A Sports FC 27 startet heute, am 18. September 2026 in den Early Access. Wer mitmachen darf und wann es losgeht. Der Beitrag EA FC 27 startet heute: R..."
+    },
+    {
       "title": "Preiserhöhung: Apple zahlt ab 2027 zwei Dollar pro GB RAM",
       "link": "https://www.computerbase.de/news/wirtschaft/preiserhoehung-apple-zahlt-ab-2027-zwei-dollar-pro-gb-ram.99468/",
       "pubDate": "18.09.2026 um 17:35 Uhr",
@@ -39,14 +55,6 @@
       "timestamp": 1789743600.0,
       "source": "ComputerBase",
       "summary": "Dass sich die neue CPU-Generation Intel Nova Lake dem Marktstart nähert, zeigt sich in diesen Tagen in vielfältiger Form. Während kürzlich ein erstes ..."
-    },
-    {
-      "title": "EA FC 27 startet heute: Release und Frühzugang im Live-Ticker",
-      "link": "https://mein-mmo.de/ea-fc-27-fruezugang-release-ticker/",
-      "pubDate": "18.09.2026 um 15:00 Uhr",
-      "timestamp": 1789743600.0,
-      "source": "Mein-MMO",
-      "summary": "A Sports FC 27 startet heute, am 18. September 2026 in den Early Access. Wer mitmachen darf und wann es losgeht. Der Beitrag EA FC 27 startet heute: R..."
     },
     {
       "title": "Aion 2 war endlich erstmals auf Deutsch zu spielen – Ich war dabei und die Version taugt sogar was",
@@ -135,17 +143,129 @@
       "timestamp": 1789738826.0,
       "source": "PlayCentral",
       "summary": "Für 100 Prozent in GTA 5 müsst ihr die Story abschließen, bestimmte Nebenmissionen und Freizeitaktivitäten erledigen sowie einige Sammlungen vervollst..."
-    },
-    {
-      "title": "Retail, Classic und das neue WoW: Forever: Alles, was ihr über euer World of Warcraft-Abo wissen müsst",
-      "link": "https://mein-mmo.de/world-of-warcraft-abo-alles-was-ihr-wissen-muesst/",
-      "pubDate": "18.09.2026 um 13:39 Uhr",
-      "timestamp": 1789738765.0,
-      "source": "Mein-MMO",
-      "summary": "Mit eurem Abo für World of Warcraft bekommt ihr heute mehr WoW als je zuvor! Lest hier, warum sich das Abonnement jetzt besonders rentiert! Der Beitra..."
     }
   ],
   "int": [
+    {
+      "title": "Blood Of Dawnwalker Became A Dark-Horse GOTY Contender On Just A $40 Million Budget",
+      "link": "https://kotaku.com/blood-of-dawnwalker-became-a-darkhorse-goty-contender-on-just-a-40-million-budget-2000735632",
+      "pubDate": "18.09.2026 um 17:00 Uhr",
+      "timestamp": 1789750831.0,
+      "source": "Kotaku",
+      "summary": "The vampire RPG has succeeded where other new franchises have failed"
+    },
+    {
+      "title": "9 Years Ago, One Dating Sim Taught Me to Never Trust Dating Sims",
+      "link": "https://www.polygon.com/ddlc-9-years-never-trust-dating-sims/",
+      "pubDate": "18.09.2026 um 17:00 Uhr",
+      "timestamp": 1789750816.0,
+      "source": "Polygon.com",
+      "summary": "Nine years after Doki Doki Literature Club's release, its central trick still makes the whole dating sim genre feel suspicious"
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave is my ideal RPG sequel and the Three Houses followup I always wanted",
+      "link": "https://www.gamesradar.com/games/rpg/game-of-the-week-september-18-fire-emblem-fortunes-weave/",
+      "pubDate": "18.09.2026 um 17:00 Uhr",
+      "timestamp": 1789750800.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Game of the Week | After 96 hours with Fire Emblem: Fortune's Weave, I'm nowhere near finished"
+    },
+    {
+      "title": "I have modded the most exciting thing possible into GTA 5: Hard and soft credit checks and realistic personal finance",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-the-most-exciting-thing-possible-into-gta-5-hard-and-soft-credit-checks-and-realistic-personal-finance/",
+      "pubDate": "18.09.2026 um 17:00 Uhr",
+      "timestamp": 1789750800.0,
+      "source": "PCGamer latest",
+      "summary": "Money talk, wealth shoots."
+    },
+    {
+      "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
+      "link": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
+      "pubDate": "18.09.2026 um 16:52 Uhr",
+      "timestamp": 1789750344.0,
+      "source": "Eurogamer.net News",
+      "summary": "Marvel's Wolverine has been in the hot seat over the last week or so, but mixed reviews and internet memes seemingly haven't put a dent in the superhe..."
+    },
+    {
+      "title": "Netflix’s Narnia Reboot Shows First Official Look at Daniel Craig’s Magician",
+      "link": "https://www.polygon.com/chronicles-of-narnia-reboot-netflix-daniel-craig-greta-gerwig/",
+      "pubDate": "18.09.2026 um 16:51 Uhr",
+      "timestamp": 1789750267.0,
+      "source": "Polygon.com",
+      "summary": "Netflix and Greta Gerwig's Chronicles of Narnia reveals Craig's scheming magician in new photo"
+    },
+    {
+      "title": "As Sony kills physical games, former PlayStation execs recreate now-infamous PS4 game-sharing tutorial, but whoops, there's no disc now",
+      "link": "https://www.gamesradar.com/games/as-sony-kills-physical-games-former-playstation-execs-recreate-now-infamous-ps4-game-sharing-tutorial-but-whoops-theres-no-disc-now/",
+      "pubDate": "18.09.2026 um 16:47 Uhr",
+      "timestamp": 1789750038.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Now-infamous \"PlayStation Used Game Instructional Video\" hits different today"
+    },
+    {
+      "title": "In the absence of a new Deus Ex, indie imsim Tokyo Walled City may scratch that stealth 'n' stolen passwords itch",
+      "link": "https://www.rockpapershotgun.com/in-the-absence-of-a-new-deus-ex-indie-imsim-tokyo-walled-city-may-scratch-that-stealth-n-stolen-passwords-itch",
+      "pubDate": "18.09.2026 um 16:43 Uhr",
+      "timestamp": 1789749782.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "From the buzzing tube lights of TGS 2026 emerges Tokyo Walled City, a (deep breath) \"stealth action retro-cyberpunk immersive sim with survival horror..."
+    },
+    {
+      "title": "\"I would 100% prioritize [GTA], and now I don't have to\": Ex-Nintendo marketing lead says \"thank god\" the Zelda Ocarina of Time remake is dodging GTA 6, because even she'd pick Rockstar",
+      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/i-would-100-percent-prioritize-gta-and-now-i-dont-have-to-ex-nintendo-marketing-lead-says-thank-god-the-zelda-ocarina-of-time-remake-is-dodging-gta-6-because-even-shed-pick-rockstar/",
+      "pubDate": "18.09.2026 um 16:30 Uhr",
+      "timestamp": 1789749054.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It's a good November for Zelda and GTA fans"
+    },
+    {
+      "title": "Wolverine Already Estimated To Be PS5’s 6th Top-Grossing Game Of 2026 And Selling Faster Than Death Stranding 2 And Ghost Of Yotei",
+      "link": "https://kotaku.com/wolverine-already-estimated-to-be-ps5s-6th-top-grossing-game-of-2026-and-selling-faster-than-death-stranding-2-and-ghost-of-yotei-2000735638",
+      "pubDate": "18.09.2026 um 16:30 Uhr",
+      "timestamp": 1789749040.0,
+      "source": "Kotaku",
+      "summary": "Mixed reviews and viral rage-bait haven't held Sony's latest exclusive back so far"
+    },
+    {
+      "title": "35 Pokémon TCG Cards Everyone Wants From 30th Celebration",
+      "link": "https://www.polygon.com/pokemon-tcg-30th-celebration-most-wanted-cards/",
+      "pubDate": "18.09.2026 um 16:30 Uhr",
+      "timestamp": 1789749015.0,
+      "source": "Polygon.com",
+      "summary": "You get a Pikachu! And you get a Pikachu!"
+    },
+    {
+      "title": "Roblox The Hunt 20 guide - all items and games",
+      "link": "https://www.gamesradar.com/games/puzzle/roblox-the-hunt-20-guide/",
+      "pubDate": "18.09.2026 um 16:24 Uhr",
+      "timestamp": 1789748661.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "In the latest Roblox the Hunt game, celebrating Roblox's birthday, you can experience the best games of the last 20 years"
+    },
+    {
+      "title": "The Best Multiplayer Pirate Game Is Free on Steam",
+      "link": "https://www.polygon.com/steam-games-free-to-play-weekend-sea-of-thieves-diablo-4/",
+      "pubDate": "18.09.2026 um 16:24 Uhr",
+      "timestamp": 1789748649.0,
+      "source": "Polygon.com",
+      "summary": "Steam has made six games free to play for the weekend, including Diablo 4 and Sea of Thieves."
+    },
+    {
+      "title": "World Zero codes (September 2026) for coins, presents, and more",
+      "link": "https://www.gamesradar.com/games/rpg/world-zero-codes/",
+      "pubDate": "18.09.2026 um 16:23 Uhr",
+      "timestamp": 1789748617.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "If you're getting back in the game for Roblox the Hunt 20, redeem these World Zero code for a head start"
+    },
+    {
+      "title": "Superman star says his DC spin-off show is \"a very unique angle\" on the superhero genre and is \"like a play\"",
+      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/superman-star-says-his-dc-spin-off-show-is-a-very-unique-angle-on-the-superhero-genre-and-is-like-a-play/",
+      "pubDate": "18.09.2026 um 16:09 Uhr",
+      "timestamp": 1789747777.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Skyler Gisondo teases his new DC show"
+    },
     {
       "title": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
       "link": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
@@ -169,129 +289,17 @@
       "timestamp": 1789747310.0,
       "source": "PCGamer latest",
       "summary": "Not bad, Remedy. Not bad."
-    },
-    {
-      "title": "It’d Be A Disaster If The Blood Of Dawnwalker Sequels Got Rid Of The Time Mechanic",
-      "link": "https://kotaku.com/the-blood-of-dawnwalker-sequel-time-mechanic-rebel-wolves-2000735592",
-      "pubDate": "18.09.2026 um 16:00 Uhr",
-      "timestamp": 1789747221.0,
-      "source": "Kotaku",
-      "summary": "It's the most interesting thing about the game and players should be mature enough to accept that"
-    },
-    {
-      "title": "Magic: The Gathering Artist Officially Responds to Artist Allegations of",
-      "link": "https://www.polygon.com/mtg-jace-multiverse-architect-breach-the-multiverse-art-controversy/",
-      "pubDate": "18.09.2026 um 15:58 Uhr",
-      "timestamp": 1789747087.0,
-      "source": "Polygon.com",
-      "summary": "Wizards says Volkan Baga was instructed to reference Liiga Smilshkalne’s Breach the Multiverse in his artwork for a new Jace card."
-    },
-    {
-      "title": "Wardogs boss admits \"we definitely have a balancing issue\" as blue team gets destroyed for \"mixed reasons\"",
-      "link": "https://www.gamesradar.com/games/fps/wardogs-boss-admits-we-definitely-have-a-balancing-issue-as-blue-team-gets-destroyed-for-mixed-reasons/",
-      "pubDate": "18.09.2026 um 15:43 Uhr",
-      "timestamp": 1789746227.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Expect some balancing in the coming days"
-    },
-    {
-      "title": "\"The hit rates seem absurd\": Pokemon TCG 30th Celebration looks surprisingly generous, which is great for fans in more ways than one",
-      "link": "https://www.gamesradar.com/tabletop-gaming/the-hit-rates-seem-absurd-pokemon-tcg-30th-celebration-looks-surprisingly-generous-which-is-great-for-fans-in-more-ways-than-one/",
-      "pubDate": "18.09.2026 um 15:39 Uhr",
-      "timestamp": 1789745966.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Hit rates for Pokemon TCG 30th Celebration seem amazing, and it's a welcome middle finger to resellers"
-    },
-    {
-      "title": "FC Mobile codes (September 2026) for Player Cards, Draft Vouchers, and more",
-      "link": "https://www.gamesradar.com/games/ea-sports-fc/fc-mobile-codes/",
-      "pubDate": "18.09.2026 um 15:39 Uhr",
-      "timestamp": 1789745957.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Redemption codes for FC Mobile can unlock high OVR Player Cards and other boosters to help level up your team"
-    },
-    {
-      "title": "Control Resonant Metacritic score places it higher than its predecessor, but it can't touch 2026's top 20 bangers like Resident Evil Requiem and Pokemon Pokopia",
-      "link": "https://www.gamesradar.com/games/action-rpg/control-resonant-metacritic-score-places-it-higher-than-its-predecessor-but-it-cant-touch-2026s-top-20-bangers-like-resident-evil-requiem-and-pokemon-pokopia/",
-      "pubDate": "18.09.2026 um 15:37 Uhr",
-      "timestamp": 1789745826.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Remedy has some tough competition"
-    },
-    {
-      "title": "Lanterns Forced Another HBO Show to Change Its Plot, and It Was for the Best",
-      "link": "https://www.polygon.com/lanterns-stuart-fails-to-save-the-universe-flash-episode/",
-      "pubDate": "18.09.2026 um 15:34 Uhr",
-      "timestamp": 1789745699.0,
-      "source": "Polygon.com",
-      "summary": "HBO's Lanterns told Big Bang Theory spinoff Stuart Fails to Save the Universe it couldn't use the character, so it got the Flash instead"
-    },
-    {
-      "title": "GTA 5‘s Canceled Liberty City Expansion And Super Early Looks At GTA 6 Revealed Via Another Big Leak",
-      "link": "https://kotaku.com/gta-5s-canceled-liberty-city-expansion-and-super-early-looks-at-gta-6-revealed-via-another-big-leak-2000735593",
-      "pubDate": "18.09.2026 um 15:32 Uhr",
-      "timestamp": 1789745558.0,
-      "source": "Kotaku",
-      "summary": "An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into"
-    },
-    {
-      "title": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
-      "link": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
-      "pubDate": "18.09.2026 um 15:30 Uhr",
-      "timestamp": 1789745400.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "The European Commission proposed new rules around how under-15s access the likes of social media, AI chatbots, and online video games earlier this wee..."
-    },
-    {
-      "title": "Someone finally gave Metal Gear Solid 2 the perfect mod, letting us experience the entire tanker opening in lore-accurate VR",
-      "link": "https://www.gamesradar.com/games/metal-gear/someone-finally-gave-metal-gear-solid-2-the-perfect-mod-letting-us-experience-the-entire-tanker-opening-in-lore-accurate-vr/",
-      "pubDate": "18.09.2026 um 15:29 Uhr",
-      "timestamp": 1789745375.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Just like Raiden did"
-    },
-    {
-      "title": "I Am Legend 2 writer says he's doing everything he can to get it made, but they are facing \"a series of obstacles\"",
-      "link": "https://www.gamesradar.com/entertainment/action-movies/i-am-legend-2-writer-says-hes-doing-everything-he-can-to-get-it-made-but-they-are-facing-a-series-of-obstacles/",
-      "pubDate": "18.09.2026 um 15:24 Uhr",
-      "timestamp": 1789745066.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "It's not the end of the world for the Will Smith sequel, according to Akiva Goldsman"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Director Reveals Why the Game Won't Have a Full Physical Release",
-      "link": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-file-size/",
-      "pubDate": "18.09.2026 um 15:22 Uhr",
-      "timestamp": 1789744951.0,
-      "source": "Polygon.com",
-      "summary": "Hamaguchi has revealed Final Fantasy 7 Revelation's estimated file size, and it turns out that it would've been too big for a two-disc release."
-    },
-    {
-      "title": "PlayStation Legends Recreate Iconic PS4 Game-Sharing Meme But This Time There’s No Disc",
-      "link": "https://kotaku.com/playstation-legends-recreate-iconic-ps4-game-sharing-meme-but-this-time-theres-no-disc-2000735610",
-      "pubDate": "18.09.2026 um 15:20 Uhr",
-      "timestamp": 1789744822.0,
-      "source": "Kotaku",
-      "summary": "Two veterans reunited at Tokyo Game Show 2026"
-    },
-    {
-      "title": "The Witcher 4 abandons CD Projekt Red's in-house tech for Unreal Engine 5, but studio lead says it's not because of issues with Cyberpunk 2077",
-      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-abandons-cd-projekt-reds-in-house-tech-for-unreal-engine-5-but-studio-lead-says-its-not-because-of-issues-with-cyberpunk-2077/",
-      "pubDate": "18.09.2026 um 15:16 Uhr",
-      "timestamp": 1789744585.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"The dream of the company was actually never to make technology,\" says Michał Nowakowski"
-    },
-    {
-      "title": "Humor And Ending Divide Resident Evil Fans On Zach Cregger’s Film: ‘The Movie Can Be Renamed Into Anything Else And Make As Much Sense’",
-      "link": "https://kotaku.com/resident-evil-zach-cregger-reactions-reddit-humor-ending-2000735614",
-      "pubDate": "18.09.2026 um 15:15 Uhr",
-      "timestamp": 1789744529.0,
-      "source": "Kotaku",
-      "summary": "The Weapons director’s take on the Raccoon City outbreak sometimes feels more spoof than Resident Evil"
     }
   ],
   "sim": [
+    {
+      "title": "2026 Porsche Esports Supercup World Championship Series | Race #1 | Circuit de Spa-Francorchamps | Preview",
+      "link": "https://www.iracing.com/2026-porsche-esports-supercup-world-championship-series-race-1-circuit-de-spa-francorchamps-preview/",
+      "pubDate": "18.09.2026 um 17:00 Uhr",
+      "timestamp": 1789750819.0,
+      "source": "iRacing.com",
+      "summary": "The Porsche Esports Supercup World Championship Series returns this Saturday, September 19th, featuring 32 of the best sim racers around the globe. Th..."
+    },
     {
       "title": "Gran Turismo 7 Online Time Trial: Dragon Your Heels",
       "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-dragon-your-heels-20260917/",
@@ -387,14 +395,6 @@
       "timestamp": 1789401803.0,
       "source": "GTPlanet",
       "summary": "A new set of GT7 Daily Races is live: the 996 GT3 at Deep Forest, Gr..."
-    },
-    {
-      "title": "THIS WEEK: iRacing Britcar 24 presented by Cosworth | Special Event",
-      "link": "https://www.iracing.com/this-week-iracing-britcar-24-presented-by-cosworth-special-event/",
-      "pubDate": "14.09.2026 um 13:00 Uhr",
-      "timestamp": 1789390810.0,
-      "source": "iRacing.com",
-      "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
     },
     {
       "title": "MOZA’s First PlayStation Wheel Breaks Cover at TGS Next Week",
