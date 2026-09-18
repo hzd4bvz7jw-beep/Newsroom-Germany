@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Valor Mortis kostet nur 40 Euro – Entwickler erklären den ungewöhnlich günstigen Preis",
+      "link": "https://www.eurogamer.de/valor-mortis-40-usd-price-stacked-autumn-season",
+      "pubDate": "18.09.2026 um 07:06 Uhr",
+      "timestamp": 1789715198.0,
+      "source": "Eurogamer.de News",
+      "summary": "Der Entwickler von Valor Mortis hat den Preis des Spiels bekannt gegeben und eine Erkl&auml;rung geliefert, warum sich das Team genau f&uuml;r diesen ..."
+    },
+    {
+      "title": "Ich bin für euch in die deutsche Version von Aion 2 geflogen und muss sagen: Die kann was!",
+      "link": "https://mein-mmo.de/aion-2-stresstest-angespielt/",
+      "pubDate": "18.09.2026 um 07:02 Uhr",
+      "timestamp": 1789714969.0,
+      "source": "Mein-MMO",
+      "summary": "Der erste Stresstest für Aion 2 läuft und MeinMMO hat sich natürlich für euch in die Server-Fluten geworfen - So war es! Der Beitrag Ich bin für euch ..."
+    },
+    {
+      "title": "EA FC 27 startet heute: Release und Frühzugang im Live-Ticker",
+      "link": "https://mein-mmo.de/ea-fc-27-fruezugang-release-ticker/",
+      "pubDate": "18.09.2026 um 07:01 Uhr",
+      "timestamp": 1789714891.0,
+      "source": "Mein-MMO",
+      "summary": "A Sports FC 27 startet heute, am 18. September 2026 in den Early Access. Wer mitmachen darf und wann es losgeht. Der Beitrag EA FC 27 startet heute: R..."
+    },
+    {
+      "title": "Während die Games-Industrie im Westen kämpft, geht’s Nintendo, Capcom und Co. super – Experte deckt das Geheimnis von Japan auf",
+      "link": "https://mein-mmo.de/gaming-branche-im-westen-und-in-japan-amir-satvat/",
+      "pubDate": "18.09.2026 um 06:31 Uhr",
+      "timestamp": 1789713095.0,
+      "source": "Mein-MMO",
+      "summary": "Laut eines Experten geht es der Branche gar nicht so schlecht, wie der Westen es aussehen lässt. Dafür müsse man nur nach Japan schauen. Der Beitrag W..."
+    },
+    {
       "title": "WoW läuft mit Forever nicht mehr auf eurem Toaster, braucht modernere Grafikkarten",
       "link": "https://mein-mmo.de/wow-forever-grafikkarten-system-anforderungen/",
       "pubDate": "18.09.2026 um 06:10 Uhr",
@@ -89,30 +121,6 @@
       "summary": "Blizzard hat auf der BlizzCon 2026 nicht nur neue Inhalte für World of Warcraft: Midnight und einen ersten Ausblick auf The Last Titan präsentiert. Mi..."
     },
     {
-      "title": "Der CEO eines Tech-Konzerns meint: Mitarbeiter, die auf KI setzen, machen oft mehr Arbeit für alle anderen",
-      "link": "https://mein-mmo.de/ceo-tech-konzern-mitarbeiter-slop/",
-      "pubDate": "17.09.2026 um 18:00 Uhr",
-      "timestamp": 1789668000.0,
-      "source": "Mein-MMO",
-      "summary": "Der Chef von Shopify meint, das Problem an KI  sei, dass viel Unsinn entstehen könne. Dafür habe man ein neues Wort: Slop-Granaten. Der Beitrag Der CE..."
-    },
-    {
-      "title": "PvE-Spieler ist nett zu einem PvP-Fan in ARC Raiders, kann sich jetzt über einen neuen Gaming-PC freuen",
-      "link": "https://mein-mmo.de/ark-raiders-spieler-bekommt-gaming-pc/",
-      "pubDate": "17.09.2026 um 18:00 Uhr",
-      "timestamp": 1789668000.0,
-      "source": "Mein-MMO",
-      "summary": "Weil ARC Raiders seinen Spielern die Wahl lässt, ob sie PvP spielen wollen, hat ein Gamer jetzt einen neuen Gaming-PC bekommen. Der Beitrag PvE-Spiele..."
-    },
-    {
-      "title": "Heute ist Zarbex erfolgreich auf Twitch, doch vor 5 Jahren schien er zu asi für HandOfBlood",
-      "link": "https://mein-mmo.de/twitch-zarbex-bewerbung-bei-handofblood/",
-      "pubDate": "17.09.2026 um 18:00 Uhr",
-      "timestamp": 1789668000.0,
-      "source": "Mein-MMO",
-      "summary": "Bevor Zarbex selbst auf Twitch als Streamer groß wurde, hatte er sich anscheinend bei einem anderen Twitch-Streamer beworben. Der Beitrag Heute ist Za..."
-    },
-    {
       "title": "Schnelleres Laden: Apple Watch Series 12 und Ultra 4 brauchen neues Zubehör",
       "link": "https://www.computerbase.de/news/wearables/schnelleres-laden-apple-watch-series-12-und-ultra-4-brauchen-neues-zubehoer.99460/",
       "pubDate": "17.09.2026 um 19:48 Uhr",
@@ -135,17 +143,17 @@
       "timestamp": 1789664209.0,
       "source": "Eurogamer.de News",
       "summary": "Heute, am 17. September 2026, ist Fire Emblem: Fortune's Weave erschienen und direkt zu seinem Launch gibt es auch einen Day-One-Patch. Dieser bringt ..."
-    },
-    {
-      "title": "WoW Forever startet heute: Blizzards Classic+ entfacht den nächsten WoW-Hype",
-      "link": "https://www.computerbase.de/news/gaming/wow-forever-startet-heute-blizzards-classic-plus-entfacht-den-naechsten-wow-hype.99459/",
-      "pubDate": "17.09.2026 um 18:36 Uhr",
-      "timestamp": 1789662960.0,
-      "source": "ComputerBase",
-      "summary": "Mit World of Warcraft: Forever entwickelt Blizzard das klassische Azeroth erstmals dauerhaft weiter. Neue Gebiete, Raids und Quests treffen auf Stufe ..."
     }
   ],
   "int": [
+    {
+      "title": "15 Years Later, Doctor Who's Darkest Matt Smith Episode Still Has the Greatest Twist",
+      "link": "https://www.polygon.com/doctor-who-the-god-complex-anniversary-matt-smith/",
+      "pubDate": "18.09.2026 um 07:00 Uhr",
+      "timestamp": 1789714815.0,
+      "source": "Polygon.com",
+      "summary": "On its 15th anniversary, revisit the Doctor Who episode that forced Matt Smith’s Doctor to break Amy Pond’s faith and finally let her go."
+    },
     {
       "title": "Gundam Rogue Orbit Could Be the Next Great Mech-Action Game",
       "link": "https://www.polygon.com/gundam-rogue-orbit-impressions-tokyo-game-show-2026/",
@@ -281,14 +289,6 @@
       "timestamp": 1789685195.0,
       "source": "PCGamer latest",
       "summary": "Rhys plays dwarf warrior Gilius Thunderhead in the new Paramount+ comedy based on Sega's Golden Axe games."
-    },
-    {
-      "title": "Vin Diesel Mocked for ‘Architects of Mythology’ Post With George Lucas",
-      "link": "https://www.ign.com/articles/vin-diesel-george-lucas-post-roasted",
-      "pubDate": "17.09.2026 um 22:35 Uhr",
-      "timestamp": 1789684503.0,
-      "source": "IGN All",
-      "summary": "“Architects of mythology.” That’s how Vin Diesel captioned his recent Instagram post showing him walking with Star Wars creator George Lucas, phrasing..."
     }
   ],
   "sim": [
