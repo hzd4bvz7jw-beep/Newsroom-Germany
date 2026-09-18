@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Preiserhöhung: Apple zahlt ab 2027 zwei Dollar pro GB RAM",
+      "link": "https://www.computerbase.de/news/wirtschaft/preiserhoehung-apple-zahlt-ab-2027-zwei-dollar-pro-gb-ram.99468/",
+      "pubDate": "18.09.2026 um 17:35 Uhr",
+      "timestamp": 1789745700.0,
+      "source": "ComputerBase",
+      "summary": "Dass RAM teurer wird, spüren nicht nur PC-Bauer, sondern auch Großkonzerne wie Apple: Samsung bekommt demnächst wohl zwei US-Dollar pro GB für Arbeits..."
+    },
+    {
+      "title": "Xbox Game Pass im Oktober 2026 – diese 8 Spiele sind bisher bestätigt",
+      "link": "https://www.playcentral.de/xbox-game-pass-im-oktober-2026-diese-8-spiele-sind-bisher-bestaetigt/",
+      "pubDate": "18.09.2026 um 15:31 Uhr",
+      "timestamp": 1789745493.0,
+      "source": "PlayCentral",
+      "summary": "Der Oktober 2026 füllt sich für den Xbox Game Pass weiter. Mit Chained Beasts und Bluey’s Happy Snaps stehen nun zwei zusätzliche Day-One-Veröffentlic..."
+    },
+    {
+      "title": "Call of Duty: Mit Cheats werden jedes Jahr Milliarden verdient – Activision nennt eine gewaltige Zahl",
+      "link": "https://www.eurogamer.de/call-of-duty-cheat-markt-85-milliarden-dollar",
+      "pubDate": "18.09.2026 um 15:28 Uhr",
+      "timestamp": 1789745302.0,
+      "source": "Eurogamer.de News",
+      "summary": "Cheater k&ouml;nnen euch nicht nur den Feierabend vermiesen, hinter ihnen steckt inzwischen auch ein erstaunlich lukratives Gesch&auml;ft. Activision ..."
+    },
+    {
       "title": "Ist EA FC 27 Pay2Win? Das steckt hinter den Mikrotransaktionen in Ultimate Team und The Grounds",
       "link": "https://mein-mmo.de/ea-fc-27-pay2win-mikrotransaktionen-ultimate-team-grounds/",
       "pubDate": "18.09.2026 um 15:10 Uhr",
@@ -15,6 +39,14 @@
       "timestamp": 1789743600.0,
       "source": "ComputerBase",
       "summary": "Dass sich die neue CPU-Generation Intel Nova Lake dem Marktstart nähert, zeigt sich in diesen Tagen in vielfältiger Form. Während kürzlich ein erstes ..."
+    },
+    {
+      "title": "EA FC 27 startet heute: Release und Frühzugang im Live-Ticker",
+      "link": "https://mein-mmo.de/ea-fc-27-fruezugang-release-ticker/",
+      "pubDate": "18.09.2026 um 15:00 Uhr",
+      "timestamp": 1789743600.0,
+      "source": "Mein-MMO",
+      "summary": "A Sports FC 27 startet heute, am 18. September 2026 in den Early Access. Wer mitmachen darf und wann es losgeht. Der Beitrag EA FC 27 startet heute: R..."
     },
     {
       "title": "Aion 2 war endlich erstmals auf Deutsch zu spielen – Ich war dabei und die Version taugt sogar was",
@@ -111,184 +143,152 @@
       "timestamp": 1789738765.0,
       "source": "Mein-MMO",
       "summary": "Mit eurem Abo für World of Warcraft bekommt ihr heute mehr WoW als je zuvor! Lest hier, warum sich das Abonnement jetzt besonders rentiert! Der Beitra..."
-    },
-    {
-      "title": "Final Fantasy VII Revelation – Disc-Version erfordert Pflicht-Download",
-      "link": "https://www.playcentral.de/final-fantasy-vii-revelation-disc-version-erfordert-pflicht-download-2/",
-      "pubDate": "18.09.2026 um 13:33 Uhr",
-      "timestamp": 1789738398.0,
-      "source": "PlayCentral",
-      "summary": "Die Vorfreude auf Final Fantasy VII Revelation dürfte bei vielen Fans einen deutlichen Dämpfer erhalten. Obwohl Square Enix den Abschluss der Remake-T..."
-    },
-    {
-      "title": "Star Wars Jedi Survivor – Limitierte Jetpack Trooper Figur von Hot Toys kommt",
-      "link": "https://www.playcentral.de/star-wars-jedi-survivor-limitierte-jetpack-trooper-figur-von-hot-toys-kommt/",
-      "pubDate": "18.09.2026 um 13:32 Uhr",
-      "timestamp": 1789738324.0,
-      "source": "PlayCentral",
-      "summary": "Mehr als drei Jahre nach dem Start von Star Wars Jedi: Survivor gibt es tatsächlich eine neue offizielle Veröffentlichung zur Actionreihe. Wer dabei a..."
-    },
-    {
-      "title": "GTA 6 Online schon 2027? Twitch-Chef sorgt mit Aussage für Aufsehen",
-      "link": "https://www.playcentral.de/gta-6-online-2027-twitch-ceo/",
-      "pubDate": "18.09.2026 um 13:31 Uhr",
-      "timestamp": 1789738282.0,
-      "source": "PlayCentral",
-      "summary": "Rockstar Games hat bislang noch nicht offiziell bestätigt, wann ein Online-Modus für GTA 6 erscheinen wird. Eine neue Aussage von Twitch-CEO Dan Clanc..."
-    },
-    {
-      "title": "GTA 5 und GTA 6: 192-GB-Leak zeigt Hinweise auf Liberty City und gestrichene DLCs",
-      "link": "https://www.eurogamer.de/gta-5-gta-6-leak-192-gb-liberty-city-agent-trevor",
-      "pubDate": "18.09.2026 um 13:23 Uhr",
-      "timestamp": 1789737797.0,
-      "source": "Eurogamer.de News",
-      "summary": "Eine R&uuml;ckkehr nach Liberty City, Trevor auf Agentenmission und ein ganz anderes Ende f&uuml;r den unberechenbarsten der drei GTA-5-Protagonisten:..."
     }
   ],
   "int": [
     {
-      "title": "Portal could've had \"a bunch of gore and dead bodies\" if one dev had his way, says Valve veteran, but Gabe Newell considered it \"the stupidest question ever\"",
-      "link": "https://www.gamesradar.com/games/puzzle/portal-couldve-had-a-bunch-of-gore-and-dead-bodies-if-one-dev-had-his-way-says-valve-veteran-but-gabe-newell-considered-it-the-stupidest-question-ever/",
-      "pubDate": "18.09.2026 um 15:06 Uhr",
-      "timestamp": 1789743964.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"It's a horrible idea,\" says Chet Faliszek"
-    },
-    {
-      "title": "Marvel fans think the new VisionQuest posters are hiding an Easter egg that means more character reveals are coming",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-fans-think-the-new-visionquest-posters-are-hiding-an-easter-egg-that-means-more-character-reveals-are-coming/",
-      "pubDate": "18.09.2026 um 15:02 Uhr",
-      "timestamp": 1789743726.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Fans are starting to Wanda if Vision will be getting a surprise visit"
-    },
-    {
-      "title": "The worst experience I've had with a game all year: How catastrophic bugs in Mortal Shell 2 nearly killed it for me",
-      "link": "https://www.gamesradar.com/games/action-rpg/the-worst-experience-ive-had-with-a-game-all-year-how-catastrophic-bugs-in-mortal-shell-2-nearly-killed-it-for-me/",
-      "pubDate": "18.09.2026 um 15:01 Uhr",
-      "timestamp": 1789743691.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Opinion | It's not me, it's you"
-    },
-    {
-      "title": "6 Upcoming Steam Games That You Should Wishlist Today",
-      "link": "https://www.polygon.com/wishlister-gamescom-september-18/",
-      "pubDate": "18.09.2026 um 15:00 Uhr",
-      "timestamp": 1789743615.0,
-      "source": "Polygon.com",
-      "summary": "Between a busy few weeks for new game announcements, these upcoming PC games deserve a spot on your wishlist."
-    },
-    {
-      "title": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
-      "link": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
-      "pubDate": "18.09.2026 um 15:00 Uhr",
-      "timestamp": 1789743600.0,
+      "title": "I just learned there's a camera that proves its photos are taken by a human, and Noctua makes the fan inside it",
+      "link": "https://www.pcgamer.com/hardware/i-just-learned-theres-a-camera-that-proves-its-photos-are-taken-by-a-human-and-noctua-makes-the-fan-inside-it/",
+      "pubDate": "18.09.2026 um 16:05 Uhr",
+      "timestamp": 1789747546.0,
       "source": "PCGamer latest",
-      "summary": "My man."
+      "summary": "And now you know, too. You're welcome."
     },
     {
-      "title": "Someone Gifted The Pope A Giant Hunk Of Materia",
-      "link": "https://kotaku.com/someone-gifted-the-pope-a-giant-hunk-of-materia-2000735588",
-      "pubDate": "18.09.2026 um 14:53 Uhr",
-      "timestamp": 1789743228.0,
-      "source": "Kotaku",
-      "summary": "I regret to inform you that the Materia is cursed"
-    },
-    {
-      "title": "Zack Snyder Confirms a Major Detail About His 'Escape From New York' Reboot",
-      "link": "https://www.polygon.com/zack-snyder-next-film-escape-from-new-york-details/",
-      "pubDate": "18.09.2026 um 14:51 Uhr",
-      "timestamp": 1789743092.0,
-      "source": "Polygon.com",
-      "summary": "Zack Snyder gave the first plot details on his next film, an 'Escape from New York' reboot."
-    },
-    {
-      "title": "The Evercade Dual Thumbstick Wireless Controller readies the cartridge-based retro console for early 3D gaming, even if it's not my outright favorite retro gamepad",
-      "link": "https://www.gamesradar.com/hardware/retro/evercade-dual-thumbstick-wireless-controller-review/",
-      "pubDate": "18.09.2026 um 14:44 Uhr",
-      "timestamp": 1789742670.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The Evercade Dual Thumbstick Wireless Controllers help the retro console lineup transition to early 3D gaming via full-sized analogue sticks and Bluet..."
-    },
-    {
-      "title": "Stranger Things: Tales from '85 season 2 has debuted to a franchise-low Rotten Tomatoes score",
-      "link": "https://www.gamesradar.com/entertainment/netflix/stranger-things-tales-from-85-season-2-has-debuted-to-a-franchise-low-rotten-tomatoes-score/",
-      "pubDate": "18.09.2026 um 14:41 Uhr",
-      "timestamp": 1789742468.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The Netflix franchise suffers a major El"
-    },
-    {
-      "title": "Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets",
-      "link": "https://www.polygon.com/gta-5-leak-cut-dlc-gta-6-assets/",
-      "pubDate": "18.09.2026 um 14:37 Uhr",
-      "timestamp": 1789742235.0,
-      "source": "Polygon.com",
-      "summary": "The leaks keep coming for Rockstar. A new leak has revealed plans for cut Grand Theft Auto 5 DLC as well as Grand Theft Auto 6 assets."
-    },
-    {
-      "title": "Far Cry TV Show Taps Widow’s Bay Actor and More",
-      "link": "https://www.polygon.com/far-cry-tv-show-fx-cast-widows-bay-hamish-linklater-brendan-gleeson/",
-      "pubDate": "18.09.2026 um 14:33 Uhr",
-      "timestamp": 1789741985.0,
-      "source": "Polygon.com",
-      "summary": "FX's adaptation of Ubisoft's Far Cry series adds Widow's Bay's Hamish Linklater and more"
-    },
-    {
-      "title": "Control Resonant Reviews Say Remedy Has Another Hit, but Not Its Best Game",
-      "link": "https://www.polygon.com/control-resonant-review-roundup/",
-      "pubDate": "18.09.2026 um 14:24 Uhr",
-      "timestamp": 1789741442.0,
-      "source": "Polygon.com",
-      "summary": "Reviews for Control Resonant say that Remedy's sequel is typically great, even if its a small step down from Alan Wake 2."
-    },
-    {
-      "title": "The Pimax Dream Air costs double the Steam Frame, and while its visuals are worth every penny, its performance demands and inconsistencies make it hard to recommend",
-      "link": "https://www.gamesradar.com/hardware/vr/pimax-dream-air-review/",
-      "pubDate": "18.09.2026 um 14:20 Uhr",
-      "timestamp": 1789741249.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "When it works, the Pimax Dream Air shows off the absolute best in VR gaming. Unfortunately, for its price, it doesn't work perfectly, and it should."
-    },
-    {
-      "title": "After 894 hours in Slay the Spire 2, these are our 12 strongest opinions",
-      "link": "https://www.pcgamer.com/games/card-games/slay-the-spire-2-opinions/",
-      "pubDate": "18.09.2026 um 14:17 Uhr",
-      "timestamp": 1789741050.0,
-      "source": "PCGamer latest",
-      "summary": "Our three editors have hundreds of runs in Slay the Spire 2. These are their verdicts after 6 months with the game."
-    },
-    {
-      "title": "V for Vendetta: New Trailer Revealed for the 20th Anniversary Re-Release",
-      "link": "https://www.ign.com/articles/v-for-vendetta-new-trailer-revealed-for-the-20th-anniversary-re-release",
-      "pubDate": "18.09.2026 um 14:00 Uhr",
-      "timestamp": 1789740000.0,
-      "source": "IGN All",
-      "summary": "Tickets are now on sale online and at participating theatre box offices for the 20th Anniversary theatrical re-release of V for Vendetta, which will b..."
-    },
-    {
-      "title": "Roguelike FPS Dednet exists to spread \"the gospel of PUBG,\" says creative director, which means it has \"infinite\" gameplay opportunities",
-      "link": "https://www.gamesradar.com/games/fps/roguelike-fps-dednet-exists-to-spread-the-gospel-of-pubg-says-creative-director-which-means-it-has-infinite-gameplay-opportunities/",
-      "pubDate": "18.09.2026 um 14:00 Uhr",
-      "timestamp": 1789740000.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "PUBG creative director explains the vision behind Dednet, an FPS for those \"tired of games being too safe\""
-    },
-    {
-      "title": "Denuvo are suing a prolific cracker for bypassing their DRM on 26 videogames, despite not knowing their real identity",
-      "link": "https://www.rockpapershotgun.com/denuvo-are-suing-a-prolific-cracker-for-bypassing-their-drm-on-26-videogames-despite-not-knowing-their-real-identity",
-      "pubDate": "18.09.2026 um 13:58 Uhr",
-      "timestamp": 1789739919.0,
+      "title": "Tractor-battling teenage road trip RPG Keep Driving is getting official mod support via Steam Workshop later this month",
+      "link": "https://www.rockpapershotgun.com/tractor-battling-teenage-road-trip-rpg-keep-driving-is-getting-official-mod-support-via-steam-workshop-later-this-month",
+      "pubDate": "18.09.2026 um 16:04 Uhr",
+      "timestamp": 1789747449.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Digital rights management software provider Denuvo are taking a prolific anonymous game cracker to court in the USA, accusing them of violating the Di..."
+      "summary": "Brendy (RPS in peace) liked Keep Driving. Nic (RPS in peace) liked Keep Driving. I (RPS still alive) liked Keep Driving. Julian (RPS currently boss) l..."
     },
     {
-      "title": "Best early Black Friday gaming laptop deals 2026, the biggest discounts ahead of the holiday sales",
-      "link": "https://www.gamesradar.com/best-black-friday-gaming-laptop-deals-sales-prices/",
-      "pubDate": "18.09.2026 um 13:58 Uhr",
-      "timestamp": 1789739918.0,
+      "title": "Control Resonant is one of the best-looking games at low graphics settings I've ever seen",
+      "link": "https://www.pcgamer.com/hardware/graphics-cards/control-resonant-is-one-of-the-best-looking-games-at-low-graphics-settings-ive-ever-seen/",
+      "pubDate": "18.09.2026 um 16:01 Uhr",
+      "timestamp": 1789747310.0,
+      "source": "PCGamer latest",
+      "summary": "Not bad, Remedy. Not bad."
+    },
+    {
+      "title": "It’d Be A Disaster If The Blood Of Dawnwalker Sequels Got Rid Of The Time Mechanic",
+      "link": "https://kotaku.com/the-blood-of-dawnwalker-sequel-time-mechanic-rebel-wolves-2000735592",
+      "pubDate": "18.09.2026 um 16:00 Uhr",
+      "timestamp": 1789747221.0,
+      "source": "Kotaku",
+      "summary": "It's the most interesting thing about the game and players should be mature enough to accept that"
+    },
+    {
+      "title": "Magic: The Gathering Artist Officially Responds to Artist Allegations of",
+      "link": "https://www.polygon.com/mtg-jace-multiverse-architect-breach-the-multiverse-art-controversy/",
+      "pubDate": "18.09.2026 um 15:58 Uhr",
+      "timestamp": 1789747087.0,
+      "source": "Polygon.com",
+      "summary": "Wizards says Volkan Baga was instructed to reference Liiga Smilshkalne’s Breach the Multiverse in his artwork for a new Jace card."
+    },
+    {
+      "title": "Wardogs boss admits \"we definitely have a balancing issue\" as blue team gets destroyed for \"mixed reasons\"",
+      "link": "https://www.gamesradar.com/games/fps/wardogs-boss-admits-we-definitely-have-a-balancing-issue-as-blue-team-gets-destroyed-for-mixed-reasons/",
+      "pubDate": "18.09.2026 um 15:43 Uhr",
+      "timestamp": 1789746227.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Black Friday gaming laptop deals will land in November, and there are already plenty of savings to take advantage of."
+      "summary": "Expect some balancing in the coming days"
+    },
+    {
+      "title": "\"The hit rates seem absurd\": Pokemon TCG 30th Celebration looks surprisingly generous, which is great for fans in more ways than one",
+      "link": "https://www.gamesradar.com/tabletop-gaming/the-hit-rates-seem-absurd-pokemon-tcg-30th-celebration-looks-surprisingly-generous-which-is-great-for-fans-in-more-ways-than-one/",
+      "pubDate": "18.09.2026 um 15:39 Uhr",
+      "timestamp": 1789745966.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Hit rates for Pokemon TCG 30th Celebration seem amazing, and it's a welcome middle finger to resellers"
+    },
+    {
+      "title": "FC Mobile codes (September 2026) for Player Cards, Draft Vouchers, and more",
+      "link": "https://www.gamesradar.com/games/ea-sports-fc/fc-mobile-codes/",
+      "pubDate": "18.09.2026 um 15:39 Uhr",
+      "timestamp": 1789745957.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Redemption codes for FC Mobile can unlock high OVR Player Cards and other boosters to help level up your team"
+    },
+    {
+      "title": "Control Resonant Metacritic score places it higher than its predecessor, but it can't touch 2026's top 20 bangers like Resident Evil Requiem and Pokemon Pokopia",
+      "link": "https://www.gamesradar.com/games/action-rpg/control-resonant-metacritic-score-places-it-higher-than-its-predecessor-but-it-cant-touch-2026s-top-20-bangers-like-resident-evil-requiem-and-pokemon-pokopia/",
+      "pubDate": "18.09.2026 um 15:37 Uhr",
+      "timestamp": 1789745826.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Remedy has some tough competition"
+    },
+    {
+      "title": "Lanterns Forced Another HBO Show to Change Its Plot, and It Was for the Best",
+      "link": "https://www.polygon.com/lanterns-stuart-fails-to-save-the-universe-flash-episode/",
+      "pubDate": "18.09.2026 um 15:34 Uhr",
+      "timestamp": 1789745699.0,
+      "source": "Polygon.com",
+      "summary": "HBO's Lanterns told Big Bang Theory spinoff Stuart Fails to Save the Universe it couldn't use the character, so it got the Flash instead"
+    },
+    {
+      "title": "GTA 5‘s Canceled Liberty City Expansion And Super Early Looks At GTA 6 Revealed Via Another Big Leak",
+      "link": "https://kotaku.com/gta-5s-canceled-liberty-city-expansion-and-super-early-looks-at-gta-6-revealed-via-another-big-leak-2000735593",
+      "pubDate": "18.09.2026 um 15:32 Uhr",
+      "timestamp": 1789745558.0,
+      "source": "Kotaku",
+      "summary": "An older 190GB leak from 2022 seems to have finally been dumped online for everyone to dig into"
+    },
+    {
+      "title": "Single player games might require age verification if they use Steam under EU Kids Act's current draft, according to MEP's senior policy adviser",
+      "link": "https://www.rockpapershotgun.com/single-player-games-might-require-age-verification-if-they-use-steam-under-eu-kids-acts-current-draft-according-to-meps-senior-policy-adviser",
+      "pubDate": "18.09.2026 um 15:30 Uhr",
+      "timestamp": 1789745400.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "The European Commission proposed new rules around how under-15s access the likes of social media, AI chatbots, and online video games earlier this wee..."
+    },
+    {
+      "title": "Someone finally gave Metal Gear Solid 2 the perfect mod, letting us experience the entire tanker opening in lore-accurate VR",
+      "link": "https://www.gamesradar.com/games/metal-gear/someone-finally-gave-metal-gear-solid-2-the-perfect-mod-letting-us-experience-the-entire-tanker-opening-in-lore-accurate-vr/",
+      "pubDate": "18.09.2026 um 15:29 Uhr",
+      "timestamp": 1789745375.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Just like Raiden did"
+    },
+    {
+      "title": "I Am Legend 2 writer says he's doing everything he can to get it made, but they are facing \"a series of obstacles\"",
+      "link": "https://www.gamesradar.com/entertainment/action-movies/i-am-legend-2-writer-says-hes-doing-everything-he-can-to-get-it-made-but-they-are-facing-a-series-of-obstacles/",
+      "pubDate": "18.09.2026 um 15:24 Uhr",
+      "timestamp": 1789745066.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It's not the end of the world for the Will Smith sequel, according to Akiva Goldsman"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Director Reveals Why the Game Won't Have a Full Physical Release",
+      "link": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-file-size/",
+      "pubDate": "18.09.2026 um 15:22 Uhr",
+      "timestamp": 1789744951.0,
+      "source": "Polygon.com",
+      "summary": "Hamaguchi has revealed Final Fantasy 7 Revelation's estimated file size, and it turns out that it would've been too big for a two-disc release."
+    },
+    {
+      "title": "PlayStation Legends Recreate Iconic PS4 Game-Sharing Meme But This Time There’s No Disc",
+      "link": "https://kotaku.com/playstation-legends-recreate-iconic-ps4-game-sharing-meme-but-this-time-theres-no-disc-2000735610",
+      "pubDate": "18.09.2026 um 15:20 Uhr",
+      "timestamp": 1789744822.0,
+      "source": "Kotaku",
+      "summary": "Two veterans reunited at Tokyo Game Show 2026"
+    },
+    {
+      "title": "The Witcher 4 abandons CD Projekt Red's in-house tech for Unreal Engine 5, but studio lead says it's not because of issues with Cyberpunk 2077",
+      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-abandons-cd-projekt-reds-in-house-tech-for-unreal-engine-5-but-studio-lead-says-its-not-because-of-issues-with-cyberpunk-2077/",
+      "pubDate": "18.09.2026 um 15:16 Uhr",
+      "timestamp": 1789744585.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"The dream of the company was actually never to make technology,\" says Michał Nowakowski"
+    },
+    {
+      "title": "Humor And Ending Divide Resident Evil Fans On Zach Cregger’s Film: ‘The Movie Can Be Renamed Into Anything Else And Make As Much Sense’",
+      "link": "https://kotaku.com/resident-evil-zach-cregger-reactions-reddit-humor-ending-2000735614",
+      "pubDate": "18.09.2026 um 15:15 Uhr",
+      "timestamp": 1789744529.0,
+      "source": "Kotaku",
+      "summary": "The Weapons director’s take on the Raccoon City outbreak sometimes feels more spoof than Resident Evil"
     }
   ],
   "sim": [
