@@ -1,6 +1,54 @@
 {
   "de": [
     {
+      "title": "Beta von WoW Forever bestätigt Befürchtungen, Idioten versauen die neuen Nachnamen",
+      "link": "https://mein-mmo.de/wow-forever-vorname-nachname-aerger/",
+      "pubDate": "18.09.2026 um 09:11 Uhr",
+      "timestamp": 1789722668.0,
+      "source": "Mein-MMO",
+      "summary": "In WoW: Forever haben alle Charaktere einen Vor- und Nachnamen. Bereits die Beta zeigt, welche Auswüchse das annehmen kann. Der Beitrag Beta von WoW F..."
+    },
+    {
+      "title": "Sony kann es wohl nicht lassen und spielt scheinbar schon wieder mit dem Zugang zu Helldivers 2",
+      "link": "https://mein-mmo.de/helldivers-2-horizon-forbidden-west-weg-von-steam-sony-pc/",
+      "pubDate": "18.09.2026 um 09:03 Uhr",
+      "timestamp": 1789722235.0,
+      "source": "Mein-MMO",
+      "summary": "Bei Sony wird es nicht besser: Jetzt sind zwei ihrer Blockbuster-Games aus einigen Steam-Stores verschwunden und keiner weiß, warum. Der Beitrag Sony ..."
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 – Bedeutet der kommende Teil das Ende der Reihe?",
+      "link": "https://www.eurogamer.de/modern-warfare-4-ende-geruechte",
+      "pubDate": "18.09.2026 um 08:50 Uhr",
+      "timestamp": 1789721430.0,
+      "source": "Eurogamer.de News",
+      "summary": "Am 23. Oktober 2026 erh&auml;lt Call of Duty einen neuen Modern-Warfare-Teil. Doch Activision bezeichnet Call of Duty: Modern Warfare 4 nun &uuml;berr..."
+    },
+    {
+      "title": "Epic-Chef Tim Sweeney: Geplantes Social-Media-Verbot schadet der Jugend",
+      "link": "https://www.eurogamer.de/tim-sweeney-kritik-eu-kids-act",
+      "pubDate": "18.09.2026 um 08:36 Uhr",
+      "timestamp": 1789720600.0,
+      "source": "Eurogamer.de News",
+      "summary": "Es wird viel diskutiert &uuml;ber die sozialen Medien und ihren Einfluss auf die Menschen. Gerade der Schutz von Kindern und Jugendlichen steht in pol..."
+    },
+    {
+      "title": "Halbleiter-Newsüberblick: AMD, Globalfoundries, Altera, Rutronik, SK Hynix, Intel & Co.",
+      "link": "https://www.computerbase.de/news/wirtschaft/halbleiter-newsueberblick-amd-globalfoundries-altera-rutronik-sk-hynix-intel-und-co.99465/",
+      "pubDate": "18.09.2026 um 10:29 Uhr",
+      "timestamp": 1789720140.0,
+      "source": "ComputerBase",
+      "summary": "Offizielle Ankündigungen, aber auch Gerüchte ohne viel Rückhalt sind derzeit in der Halbleiterbranche im Umlauf. Ein kleiner Überblick streift dabei d..."
+    },
+    {
+      "title": "Aniimo Codes: Aktive Geschenkcodes für Glimmer, Credits und Gratis-Items im September 2026",
+      "link": "https://mein-mmo.de/aniimo-codes/",
+      "pubDate": "18.09.2026 um 08:18 Uhr",
+      "timestamp": 1789719506.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO verrät, welche Codes gerade für Aniimo aktiv sind, über die ihr euch Glimmer, Credits und kostenlose Items sichern könnt. Der Beitrag Aniimo C..."
+    },
+    {
       "title": "Wildcat Lake im Test: Das leistet Intel Core 300 im Chuwi UniBook für 419 Euro",
       "link": "https://www.computerbase.de/artikel/notebooks/intel-wildcat-lake-chuwi-unibook-304-test.98884/",
       "pubDate": "18.09.2026 um 10:00 Uhr",
@@ -81,22 +129,6 @@
       "summary": "Apple hat die Preise für den Akkutausch erhöht. Beim iPhone 18 Pro (Max) verlangen Apple und zertifizierte Shops nun 149 Euro für den Tausch des Akkus..."
     },
     {
-      "title": "Rockstar kündigt Soundtrack für GTA 6 als physische Version an – die teuerste ist nach Minuten ausverkauft",
-      "link": "https://mein-mmo.de/gta-6-spundtrack-angekuendigt-vinyl-und-cd/",
-      "pubDate": "18.09.2026 um 04:30 Uhr",
-      "timestamp": 1789705800.0,
-      "source": "Mein-MMO",
-      "summary": "Rockstar kündigt einen offiziellen Soundtrack für GTA 6 an, der – anders als das Spiel – sogar doppelt physisch erscheint. Der Beitrag Rockstar kündig..."
-    },
-    {
-      "title": "Das Kuhlevel in Diablo 4 geht weiter – Spieler entdecken geheime Rüstung aus … Fleisch",
-      "link": "https://mein-mmo.de/diablo-4-ruestung-des-rindes-kuhlevel/",
-      "pubDate": "18.09.2026 um 04:00 Uhr",
-      "timestamp": 1789704000.0,
-      "source": "Mein-MMO",
-      "summary": "In Diablo 4 gibt es eine neue Rüstung, die sehr … fleischig ausfällt. Damit geht das Rätseln und der Grind rund um das Kuhlevel wohl weiter. Der Beitr..."
-    },
-    {
       "title": "Steam Gratiswochenende bis 21. September 2026 – 4 Spiele ohne Kauf testen",
       "link": "https://www.playcentral.de/steam-gratiswochenende-bis-21-september-2026-4-spiele-ohne-kauf-testen/",
       "pubDate": "17.09.2026 um 23:31 Uhr",
@@ -111,41 +143,41 @@
       "timestamp": 1789680685.0,
       "source": "PlayCentral",
       "summary": "Ein bislang unangekündigtes PlayStation-Projekt von Media Molecule soll Elemente von Animal Crossing und Harvest Moon miteinander verbinden. Der Leak ..."
-    },
-    {
-      "title": "WoW Forever Beta Start und Q&A vom 17. September im Live-Ticker – Server sind live, aber es hagelt Discos",
-      "link": "https://mein-mmo.de/wow-forever-beta-start-q-and-a-17-september-live-ticker/",
-      "pubDate": "17.09.2026 um 19:53 Uhr",
-      "timestamp": 1789674783.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO begleitet den Start der Beta von WoW: Forever und die Q&#038;A von Blizzard am 17. September 2026 im Live-Ticker. Der Beitrag WoW Forever Beta..."
-    },
-    {
-      "title": "Spansion kehrt zurück: Infineon verkauft Teile der Flash-Sparte an Winbond",
-      "link": "https://www.computerbase.de/news/wirtschaft/spansion-kehrt-zurueck-infineon-verkauft-teile-der-flash-sparte-an-winbond.99461/",
-      "pubDate": "17.09.2026 um 21:45 Uhr",
-      "timestamp": 1789674300.0,
-      "source": "ComputerBase",
-      "summary": "Zum Preis von 1,12 Milliarden US-Dollar verkauft der deutsche Halbleiterhersteller Infineon sein Geschäft mit NOR Flash und F-RAM an das taiwanische U..."
-    },
-    {
-      "title": "Zelda Tears of the Kingdom – Begleitbuch Secrets of the Zonai auf 2027 verschoben",
-      "link": "https://www.playcentral.de/zelda-tears-of-the-kingdom-begleitbuch-secrets-of-the-zonai-auf-2027-verschoben/",
-      "pubDate": "17.09.2026 um 19:31 Uhr",
-      "timestamp": 1789673491.0,
-      "source": "PlayCentral",
-      "summary": "Fans von The Legend of Zelda: Tears of the Kingdom müssen sich länger auf das umfangreiche Begleitbuch Secrets of the Zonai gedulden. Dark Horse hat d..."
-    },
-    {
-      "title": "WoW Forever startet Beta – Laufzeit, Zugang und wichtigste Neuerungen",
-      "link": "https://www.playcentral.de/wow-forever-startet-beta-laufzeit-zugang-und-wichtigste-neuerungen/",
-      "pubDate": "17.09.2026 um 18:31 Uhr",
-      "timestamp": 1789669912.0,
-      "source": "PlayCentral",
-      "summary": "Blizzard hat auf der BlizzCon 2026 nicht nur neue Inhalte für World of Warcraft: Midnight und einen ersten Ausblick auf The Last Titan präsentiert. Mi..."
     }
   ],
   "int": [
+    {
+      "title": "Zack Snyder explains what's holding up the director's cut of Sucker Punch",
+      "link": "https://www.gamesradar.com/entertainment/action-movies/zack-snyder-explains-whats-holding-up-the-directors-cut-of-sucker-punch/",
+      "pubDate": "18.09.2026 um 09:08 Uhr",
+      "timestamp": 1789722533.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Obviously there's a lot of conversation.\""
+    },
+    {
+      "title": "Why do Japanese studios suffer fewer layoffs? Because they have smaller teams and don't pay their execs $30m, says one expert",
+      "link": "https://www.eurogamer.net/japan-game-development-layoffs-exec-money",
+      "pubDate": "18.09.2026 um 09:08 Uhr",
+      "timestamp": 1789722523.0,
+      "source": "Eurogamer.net News",
+      "summary": "It's been a pretty grim year for video games. Aside from the \"return of Xbox\" new CEO Asha Sharma promised awhen taking over, which enacted the announ..."
+    },
+    {
+      "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
+      "link": "https://www.polygon.com/53-years-later-roadside-picnic-still-ends-with-one-of-sci-fis-most-enduring-lines/",
+      "pubDate": "18.09.2026 um 08:30 Uhr",
+      "timestamp": 1789720214.0,
+      "source": "Polygon.com",
+      "summary": "Roadside Picnic ends with one of science fiction’s most beautiful lines, a simple wish for happiness that still resonates more than 50 years later."
+    },
+    {
+      "title": "The Lanterns' subtitles might have just revealed a huge Hal Jordan spoiler",
+      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/the-lanterns-subtitles-might-have-just-revealed-a-huge-hal-jordan-spoiler/",
+      "pubDate": "18.09.2026 um 08:21 Uhr",
+      "timestamp": 1789719715.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Has Hal kept John in the dark about a secret backup plan?"
+    },
     {
       "title": "15 Years Later, Doctor Who's Darkest Matt Smith Episode Still Has the Greatest Twist",
       "link": "https://www.polygon.com/doctor-who-the-god-complex-anniversary-matt-smith/",
@@ -257,38 +289,6 @@
       "timestamp": 1789688104.0,
       "source": "IGN All",
       "summary": "With Episode 9, Star Trek: Strange New Worlds proves it's creeping to the finish line of Season 4 like a starship that’s just come out of a battle wit..."
-    },
-    {
-      "title": "Far Cry TV Show Adds Oscar Nominee Jennifer Jason Leigh, Spider-Noir's Brendan Gleeson to Cast",
-      "link": "https://www.ign.com/articles/far-cry-tv-show-adds-oscar-nominee-jennifer-jason-leigh-spider-noirs-brendan-gleeson-to-cast",
-      "pubDate": "17.09.2026 um 23:04 Uhr",
-      "timestamp": 1789686248.0,
-      "source": "IGN All",
-      "summary": "FX's upcoming anthology TV series Far Cry, based on Ubisoft's hit first-person shooter video game franchise, is adding five more actors to its cast as..."
-    },
-    {
-      "title": "Magic: The Gathering's next big crossover is with itself",
-      "link": "https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-big-crossover-is-with-itself/",
-      "pubDate": "17.09.2026 um 23:00 Uhr",
-      "timestamp": 1789686031.0,
-      "source": "PCGamer latest",
-      "summary": "Reality Fracture introduces the cast of Magic to a mirror, and they don't love what they see."
-    },
-    {
-      "title": "10 Near-Perfect PS4 Games Nobody Played",
-      "link": "https://www.polygon.com/underrated-ps4-games/",
-      "pubDate": "17.09.2026 um 23:00 Uhr",
-      "timestamp": 1789686015.0,
-      "source": "Polygon.com",
-      "summary": "PlayStation 4 started strong and is still going, but there are 10 terrific games too many players overlooked along the way."
-    },
-    {
-      "title": "If you can't get enough of record-breaking Emmy winner Matthew Rhys, his newest TV series is based on an '80s Sega game, and is out now",
-      "link": "https://www.pcgamer.com/movies-tv/if-you-cant-get-enough-of-record-breaking-emmy-winner-matthew-rhys-his-newest-tv-series-is-based-on-an-80s-sega-game-and-is-out-now/",
-      "pubDate": "17.09.2026 um 22:46 Uhr",
-      "timestamp": 1789685195.0,
-      "source": "PCGamer latest",
-      "summary": "Rhys plays dwarf warrior Gilius Thunderhead in the new Paramount+ comedy based on Sega's Golden Axe games."
     }
   ],
   "sim": [
