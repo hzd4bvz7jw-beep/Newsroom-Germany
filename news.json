@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "KI und Kontrollverlust: Warum OpenAI und Anthropic ihre Frontier-Modelle nicht im Griff haben",
+      "link": "https://www.computerbase.de/artikel/apps/ki-kontrollverlust-warum-openai-anthropic-frontier-modelle-griff.98681/",
+      "pubDate": "19.09.2026 um 08:00 Uhr",
+      "timestamp": 1789797600.0,
+      "source": "ComputerBase",
+      "summary": "Wie überrascht OpenAI, Anthropic und Co. angesichts der aktuellen KI-Vorfälle wirken, bleibt bemerkenswert. Das Bild von Agentenschwärmen, die vandali..."
+    },
+    {
+      "title": "Die schnellsten Sportwagen in GTA 6 haben einen dicken Nachteil, den ihr kennen solltet",
+      "link": "https://mein-mmo.de/gta-6-sportwagen-nicht-direkt-beste-wahl/",
+      "pubDate": "19.09.2026 um 06:00 Uhr",
+      "timestamp": 1789797600.0,
+      "source": "Mein-MMO",
+      "summary": "Die Geschwindigkeit eures schnellsten Sportwagens in GTA 6 wird euch nicht helfen, wenn dabei etwas viel Wichtigeres auf der Strecke bleibt. Der Beitr..."
+    },
+    {
+      "title": "Pokémon Go: Mega-Staraptor feiert heute sein Debüt beim Super-Mega-Raid-Tag",
+      "link": "https://www.eurogamer.de/pokemon-go-mega-staraptor-super-mega-raid-tag",
+      "pubDate": "19.09.2026 um 05:30 Uhr",
+      "timestamp": 1789795800.0,
+      "source": "Eurogamer.de News",
+      "summary": "In Pok&eacute;mon Go findet heute der n&auml;chste Super-Mega-Raid-Tag statt, im Rampenlicht steht dabei das Pok&eacute;mon Staraptor. Mehr"
+    },
+    {
+      "title": "Neues MMORPG erinnert an EverQuest, Fan feiert: „Das ist mein WoW Forever“",
+      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-19-september-2026/",
+      "pubDate": "19.09.2026 um 05:30 Uhr",
+      "timestamp": 1789795800.0,
+      "source": "Mein-MMO",
+      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit viel BlizzCon und dem Start eines Oldschool-MMORPGs für Fans von EverQuest. Der Beitrag ..."
+    },
+    {
       "title": "Nintendo zur Switch 2 – Zelda Remake nur Auftakt für langfristige Pläne",
       "link": "https://www.playcentral.de/nintendo-zur-switch-2-zelda-remake-nur-auftakt-fuer-langfristige-plaene/",
       "pubDate": "18.09.2026 um 23:31 Uhr",
@@ -111,41 +143,33 @@
       "timestamp": 1789744248.0,
       "source": "Mein-MMO",
       "summary": "EA Sports FC 27 setzt auf Mikrotransaktionen. Kann man sich mit Echtgeld Vorteile verschaffen? MeinMMO erklärt euch die genaueren Details. Der Beitrag..."
-    },
-    {
-      "title": "Für Intel Nova Lake: Z990-Mainboards von ASRock benannt und verschickt",
-      "link": "https://www.computerbase.de/news/mainboards/fuer-intel-nova-lake-z990-mainboards-von-asrock-benannt-und-verschickt.99472/",
-      "pubDate": "18.09.2026 um 17:00 Uhr",
-      "timestamp": 1789743600.0,
-      "source": "ComputerBase",
-      "summary": "Dass sich die neue CPU-Generation Intel Nova Lake dem Marktstart nähert, zeigt sich in diesen Tagen in vielfältiger Form. Während kürzlich ein erstes ..."
-    },
-    {
-      "title": "Aion 2 war endlich erstmals auf Deutsch zu spielen – Ich war dabei und die Version taugt sogar was",
-      "link": "https://mein-mmo.de/aion-2-stresstest-angespielt/",
-      "pubDate": "18.09.2026 um 14:49 Uhr",
-      "timestamp": 1789742995.0,
-      "source": "Mein-MMO",
-      "summary": "Der erste Stresstest für Aion 2 läuft und MeinMMO hat sich natürlich für euch in die Server-Fluten geworfen - So war es! Der Beitrag Aion 2 war endlic..."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation wird wohl rund 200 GB groß – DLCs mit Vincent und Sephiroth geplant",
-      "link": "https://www.eurogamer.de/final-fantasy-7-revelation-200-gb-dlc-vincent-sephiroth",
-      "pubDate": "18.09.2026 um 14:49 Uhr",
-      "timestamp": 1789742980.0,
-      "source": "Eurogamer.de News",
-      "summary": "Falls ihr f&uuml;r Final Fantasy 7 Revelation schon einmal vorsorglich Platz auf eurer SSD schaffen m&ouml;chtet, k&ouml;nnt ihr ruhig etwas gro&szlig..."
-    },
-    {
-      "title": "Nach Aion 2 könnten mir die Kämpfe in meinem Comfort-MMORPG zu langweilig werden – Weil ich nicht selber ausweichen muss",
-      "link": "https://mein-mmo.de/aion-2-stresstest-kampfsystem/",
-      "pubDate": "18.09.2026 um 14:43 Uhr",
-      "timestamp": 1789742615.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteurin Sophia Weiß fühlt sich in Aion 2 ultra mächtig, weil das Kampfsystem sie allen Vorurteilen zum Trotz begeistert! Der Beitrag Nach ..."
     }
   ],
   "int": [
+    {
+      "title": "Bill Skarsgård Sounds Very Excited To Be Starring In Hideo Kojima’s Physint",
+      "link": "https://kotaku.com/bill-skarsgard-sounds-very-excited-to-be-starring-in-hideo-kojimas-physint-2000735799",
+      "pubDate": "19.09.2026 um 06:08 Uhr",
+      "timestamp": 1789798135.0,
+      "source": "Kotaku",
+      "summary": "The actor released a new video promoting the project"
+    },
+    {
+      "title": "39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream",
+      "link": "https://www.polygon.com/star-trek-next-generation-streaming-free/",
+      "pubDate": "19.09.2026 um 06:00 Uhr",
+      "timestamp": 1789797614.0,
+      "source": "Polygon.com",
+      "summary": "The Next Generation proved Star Trek could thrive without Kirk and Spock, creating a blueprint the franchise still follows today."
+    },
+    {
+      "title": "Wolverine Hotfix Nerfs ‘Fart Gas’ As Insomniac Explores An Option To Toggle It Off Completely",
+      "link": "https://kotaku.com/wolverine-hotfix-nerfs-fart-gas-as-insomniac-explores-an-option-to-toggle-it-off-completely-2000735790",
+      "pubDate": "19.09.2026 um 05:34 Uhr",
+      "timestamp": 1789796087.0,
+      "source": "Kotaku",
+      "summary": "Logan's ability to smell something sinister just became less obvious"
+    },
     {
       "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
       "link": "https://www.polygon.com/best-psychological-thriller-movies-free-streaming/",
@@ -265,30 +289,6 @@
       "timestamp": 1789771532.0,
       "source": "Kotaku",
       "summary": "A funky-looking bathroom sign is the result of an in-game glitch and is not AI slop"
-    },
-    {
-      "title": "Fire Emblem: Fortune’s Weave Fans Cause Online Banana Shortage At Walmart",
-      "link": "https://kotaku.com/fire-emblem-fortunes-weave-fans-cause-online-banana-shortage-at-walmart-2000735758",
-      "pubDate": "18.09.2026 um 22:45 Uhr",
-      "timestamp": 1789771530.0,
-      "source": "Kotaku",
-      "summary": "Let me explain"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Remake Trilogy's Final Chapter",
-      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-warns-of-200gb-install-size-for-remake-trilogys-final-chapter",
-      "pubDate": "18.09.2026 um 22:26 Uhr",
-      "timestamp": 1789770418.0,
-      "source": "IGN All",
-      "summary": "Final Fantasy 7 Revelation will require around 200GB of storage when it launches next year, director Naoki Hamaguchi has warned."
-    },
-    {
-      "title": "Star Wars: Zero Company Contains One Of The Coolest Star Wars Cameos Ever",
-      "link": "https://kotaku.com/star-wars-zero-company-contains-one-of-the-coolest-star-wars-cameos-ever-2000735747",
-      "pubDate": "18.09.2026 um 22:19 Uhr",
-      "timestamp": 1789769968.0,
-      "source": "Kotaku",
-      "summary": "For fans of Star Wars Jedi: Fallen Order, hearing a certain name immediately let you know things weren't going to go well"
     }
   ],
   "sim": [
