@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Steam-Freebies im Überblick – 3 Spiele dauerhaft, 4 Gratiswochenenden",
+      "link": "https://www.playcentral.de/steam-freebies-im-ueberblick-3-spiele-dauerhaft-4-gratiswochenenden/",
+      "pubDate": "19.09.2026 um 10:31 Uhr",
+      "timestamp": 1789813911.0,
+      "source": "PlayCentral",
+      "summary": "Auf Steam stehen derzeit sieben Spiele kostenlos bereit. Drei davon lassen sich dauerhaft mit dem eigenen Konto verknüpfen, während vier weitere Titel..."
+    },
+    {
       "title": "God of War Laufey: Bruce Straley entschuldigt sich beim Santa Monica-Team",
       "link": "https://www.eurogamer.de/god-of-war-laufey-bruce-straley-entschuldigung-bei-santa-monica-studio",
       "pubDate": "19.09.2026 um 10:01 Uhr",
@@ -135,17 +143,33 @@
       "timestamp": 1789756421.0,
       "source": "PlayCentral",
       "summary": "Ubisoft liefert den nächsten Hinweis auf ein weiteres Remake innerhalb der Assassin&#8217;s Creed Reihe. Nach Assassin&#8217;s Creed Black Flag Resync..."
-    },
-    {
-      "title": "Steam schenkt Retro-Shooter Deadshot dauerhaft gratis, Frist bis 23.9.2026",
-      "link": "https://www.playcentral.de/steam-schenkt-retro-shooter-deadshot-dauerhaft-gratis-frist-bis-23-9-2026/",
-      "pubDate": "18.09.2026 um 18:32 Uhr",
-      "timestamp": 1789756367.0,
-      "source": "PlayCentral",
-      "summary": "Auf Steam gibt es ab sofort einen kleinen Retro-Shooter zum Nulltarif. Deadshot kann noch bis zum 23. September 2026 um 19 Uhr kostenlos dem eigenen A..."
     }
   ],
   "int": [
+    {
+      "title": "The disc is dying, but the box isn’t – what will a \"physical game\" actually mean in 2030?",
+      "link": "https://www.gamesradar.com/games/the-disc-is-dying-but-the-box-isnt-what-will-a-physical-game-actually-mean-in-2030/",
+      "pubDate": "19.09.2026 um 11:00 Uhr",
+      "timestamp": 1789815600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Exploring the future of game collecting and resale in a post-CD future, from cartridges to codes-in-box"
+    },
+    {
+      "title": "Palworld lead thought one of Pocketpair's most iconic Pals would \"fade into the background\" before it unexpectedly became the survival game's \"mascot\"",
+      "link": "https://www.gamesradar.com/games/survival/palworld-lead-thought-one-of-pocketpairs-most-iconic-pals-would-fade-into-the-background-before-it-unexpectedly-became-the-survival-games-mascot/",
+      "pubDate": "19.09.2026 um 10:45 Uhr",
+      "timestamp": 1789814731.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"I never really thought Cattiva would be popular, like ever.\""
+    },
+    {
+      "title": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
+      "link": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
+      "pubDate": "19.09.2026 um 10:09 Uhr",
+      "timestamp": 1789812540.0,
+      "source": "PCGamer latest",
+      "summary": "Friction? Who needs it?"
+    },
     {
       "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
       "link": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
@@ -265,30 +289,6 @@
       "timestamp": 1789781622.0,
       "source": "IGN All",
       "summary": "Resident Evil director Zach Cregger and star Austin Abrams sit down to delve into how they revived the beloved horror franchise on the big screen."
-    },
-    {
-      "title": "We Ranked the 10 Best First Partner Pokémon TCG Cards of All Time",
-      "link": "https://www.ign.com/articles/best-first-partner-pokemon-tcg-cards",
-      "pubDate": "19.09.2026 um 01:00 Uhr",
-      "timestamp": 1789779600.0,
-      "source": "IGN All",
-      "summary": "We ranked the 10 best First Partner Pokémon TCG cards of all time, featuring $4,500 vintage grails, iconic Charizard classics, and budget-friendly pic..."
-    },
-    {
-      "title": "EA Sports FC 27 Review So Far",
-      "link": "https://www.ign.com/articles/ea-sports-fc-27-review-so-far",
-      "pubDate": "19.09.2026 um 00:45 Uhr",
-      "timestamp": 1789778724.0,
-      "source": "IGN All",
-      "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise."
-    },
-    {
-      "title": "After Forza Horizon, Fable devs wanted to prove \"we could cut it in a different genre,\" lead says: \"There was a little bit of pride\"",
-      "link": "https://www.gamesradar.com/games/rpg/after-forza-horizon-fable-devs-wanted-to-prove-we-could-cut-it-in-a-different-genre-lead-says-there-was-a-little-bit-of-pride/",
-      "pubDate": "18.09.2026 um 23:59 Uhr",
-      "timestamp": 1789775986.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"It made sense not to fall too far from Horizon\""
     }
   ],
   "sim": [
