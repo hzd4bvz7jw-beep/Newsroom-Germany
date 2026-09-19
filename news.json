@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "GTA 6 erscheint zwar nicht auf Disc, aber dafür könnt ihr euch jetzt auf CD noch den Soundtrack sichern",
+      "link": "https://mein-mmo.de/gta-6-erscheint-nicht-auf-disc-aber-cd-soundtrack-sichern/",
+      "pubDate": "19.09.2026 um 12:46 Uhr",
+      "timestamp": 1789822006.0,
+      "source": "Mein-MMO",
+      "summary": "GTA 6 wird im November lediglich als Download verfügbar werden, doch immerhin kann man sich jetzt den Soundtrack auf CD vorbestellen. Der Beitrag GTA ..."
+    },
+    {
+      "title": "Marvel’s Wolverine übertrifft in drei Tagen Death Stranding 2 und passt Spielerhilfe an",
+      "link": "https://www.eurogamer.de/marvels-wolverine-verkaufserfolg-und-anpassung-bei-spielerhilfe",
+      "pubDate": "19.09.2026 um 12:25 Uhr",
+      "timestamp": 1789820733.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nicht nur um den neuesten Insomniac-Titel, Marvel&rsquo;s Wolverine, sondern auch um Sony im Allgemeinen drehen sich derzeit einige Debatten. Gerade d..."
+    },
+    {
       "title": "Assassin’s Creed 1: Ubisoft deutet Remake des Serien-Debüts auf Steam an",
       "link": "https://www.eurogamer.de/assassins-creed-1-remake-ubisoft-steam-hinweis",
       "pubDate": "19.09.2026 um 11:22 Uhr",
@@ -25,7 +41,7 @@
       "summary": "Bruce Straley war selbst lange Zeit als Entwickler bei Naughty Dog t&auml;tig und hat unter anderem an den Uncharted-Spielen mitgewirkt. In einem Beit..."
     },
     {
-      "title": "Die neue Kampagne in Warcraft 3 ist gut, aber nicht fertig geworden",
+      "title": "Die neue Kampagne in Warcraft 3 ist gut, aber spielt sie besser (noch) nicht",
       "link": "https://mein-mmo.de/warcraft-3-forsaken-kingdom-nicht-fertig-geworden/",
       "pubDate": "19.09.2026 um 09:20 Uhr",
       "timestamp": 1789809600.0,
@@ -113,14 +129,6 @@
       "summary": "Nintendo blickt nach dem ersten Jahr der Nintendo Switch 2 optimistisch auf die weitere Zukunft der Konsole. Beim Variety Entertainment &#38; Technolo..."
     },
     {
-      "title": "Eines der wichtigsten Features in Diablo 4 ist aktuell kaputt, hindert euch am Fortschritt",
-      "link": "https://mein-mmo.de/diablo-4-baum-ist-kaputt-hindert-euch-am-fortschritt/",
-      "pubDate": "18.09.2026 um 20:05 Uhr",
-      "timestamp": 1789761900.0,
-      "source": "Mein-MMO",
-      "summary": "Season 15 in Diablo 4 startete mit Content, der vielen gut gefällt, aber auch mit Problemen. Eines davon bremst euren Spielfortschritt aus. Der Beitra..."
-    },
-    {
       "title": "Größtes Infrastruktur­projekt der Menschheit: KI verschlingt 2,7 Billionen Dollar",
       "link": "https://www.computerbase.de/news/wirtschaft/groesstes-infrastrukturprojekt-der-menschheit-ki-verschlingt-2-7-billionen-dollar.99467/",
       "pubDate": "18.09.2026 um 21:54 Uhr",
@@ -135,17 +143,17 @@
       "timestamp": 1789759955.0,
       "source": "PlayCentral",
       "summary": "Vorbesteller der Special Edition von Metroid Ravenous erleben derzeit eine böse Überraschung. Der britische Händler Very hat mehrere bereits aufgegebe..."
-    },
-    {
-      "title": "Final Fantasy VII Revelation – Installationsgröße wohl bei 200 Gigabyte",
-      "link": "https://www.playcentral.de/final-fantasy-vii-revelation-installationsgroesse-wohl-bei-200-gigabyte/",
-      "pubDate": "18.09.2026 um 19:31 Uhr",
-      "timestamp": 1789759903.0,
-      "source": "PlayCentral",
-      "summary": "Final Fantasy VII Revelation soll das bislang größte Kapitel der Remake-Trilogie werden. Diese Ambition macht sich offenbar auch beim benötigten Speic..."
     }
   ],
   "int": [
+    {
+      "title": "Forget Your 100-Hour RPGs, Action Games Are Having a Moment",
+      "link": "https://www.polygon.com/action-games-wolverine-pragmata-2026/",
+      "pubDate": "19.09.2026 um 13:00 Uhr",
+      "timestamp": 1789822816.0,
+      "source": "Polygon.com",
+      "summary": "Some of 2026's most high-profile games are ditching modern design trends to take us back to the era of compact action games."
+    },
     {
       "title": "New Marvel's Wolverine update makes the game's infamous scent trails \"less intense,\" while Insomniac explores \"toggleable options\"",
       "link": "https://www.gamesradar.com/games/action/new-marvels-wolverine-update-makes-the-games-infamous-scent-trails-less-intense-while-insomniac-explores-toggleable-options/",
@@ -281,14 +289,6 @@
       "timestamp": 1789797893.0,
       "source": "IGN All",
       "summary": "A live-action Lollipop Chainsaw movie is officially in the works, developer Dragami Games has announced."
-    },
-    {
-      "title": "39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream",
-      "link": "https://www.polygon.com/star-trek-next-generation-streaming-free/",
-      "pubDate": "19.09.2026 um 06:00 Uhr",
-      "timestamp": 1789797614.0,
-      "source": "Polygon.com",
-      "summary": "The Next Generation proved Star Trek could thrive without Kirk and Spock, creating a blueprint the franchise still follows today."
     }
   ],
   "sim": [
