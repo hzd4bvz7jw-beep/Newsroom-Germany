@@ -89,7 +89,7 @@
       "summary": "Für Fans von ARC Raiders entwickelt sich der 23. September 2026 kurzfristig zu einem wichtigen Termin. Embark Studios will an diesem Tag erstmals ausf..."
     },
     {
-      "title": "100.000 Dollar gestrichen: Intel stoppt möglicherweise Bug-Bounty-Prämien",
+      "title": "100.000 Dollar gestrichen: Intel stoppt offenbar Bug-Bounty-Prämien",
       "link": "https://www.computerbase.de/news/wirtschaft/100-000-dollar-gestrichen-intel-stoppt-moeglicherweise-bug-bounty-praemien.99474/",
       "pubDate": "19.09.2026 um 15:31 Uhr",
       "timestamp": 1789824660.0,
@@ -147,6 +147,22 @@
   ],
   "int": [
     {
+      "title": "Nintendo Gives Mario Those Little Coin Pockets In Newly Updated Renders",
+      "link": "https://kotaku.com/nintendo-gives-mario-those-little-coin-pockets-in-newly-updated-renders-2000735891",
+      "pubDate": "19.09.2026 um 20:48 Uhr",
+      "timestamp": 1789850935.0,
+      "source": "Kotaku",
+      "summary": "Eagle eyed fans spotted a cosmetic change to Mario’s character model, giving video game’s biggest superstar a greater ability to carry a BiC lighter"
+    },
+    {
+      "title": "The 10 Best Books of the Decade So Far, Ranked",
+      "link": "https://www.polygon.com/10-best-books-of-the-2020s-ranked/",
+      "pubDate": "19.09.2026 um 20:30 Uhr",
+      "timestamp": 1789849815.0,
+      "source": "Polygon.com",
+      "summary": "The sprawling epics of the 2010s are dead. Here are the 10 most ambitious books released since 2020 that will completely rewire your brain."
+    },
+    {
       "title": "Fire Emblem: Fortune's Weave Returns to the Series' Best-Ever Era",
       "link": "https://www.polygon.com/fortunes-weave-classic-fire-emblem-games/",
       "pubDate": "19.09.2026 um 20:00 Uhr",
@@ -169,6 +185,14 @@
       "timestamp": 1789847245.0,
       "source": "PCGamer latest",
       "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack."
+    },
+    {
+      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
+      "link": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
+      "pubDate": "19.09.2026 um 19:08 Uhr",
+      "timestamp": 1789844939.0,
+      "source": "IGN All",
+      "summary": "The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought \"uninvited a..."
     },
     {
       "title": "YouTube Channel Accused Of Taking Advantage Of ‘Vulnerable, First-Time Indie Developers’ With Expensive Advertising Campaigns",
@@ -265,30 +289,6 @@
       "timestamp": 1789836804.0,
       "source": "Kotaku",
       "summary": "In a Friday publicity stop for the AI generated movie Misaligned, simulated star Tilly Norwood threw some Chinese on Piers Morgan, flummoxing the inte..."
-    },
-    {
-      "title": "The Sims 4's Next Update Will Make Your Sims Act a Lot More Naturally",
-      "link": "https://www.polygon.com/the-sims-4-autonomy-gallery-fix-update-september-2026/",
-      "pubDate": "19.09.2026 um 16:50 Uhr",
-      "timestamp": 1789836636.0,
-      "source": "Polygon.com",
-      "summary": "The Sims Team continues to work towards its goal of improving autonomy and making Sims act more realistically in The Sims 4."
-    },
-    {
-      "title": "Star Wars Zero Company Unofficially Gets A Real Endgame",
-      "link": "https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/",
-      "pubDate": "19.09.2026 um 16:16 Uhr",
-      "timestamp": 1789834618.0,
-      "source": "Polygon.com",
-      "summary": "The Aftermath mod for Star Wars Zero Company gives the strategy game the endgame it's sorely missing"
-    },
-    {
-      "title": "Nintendo Just Demolished Everyone’s Free Time",
-      "link": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/",
-      "pubDate": "19.09.2026 um 16:01 Uhr",
-      "timestamp": 1789833675.0,
-      "source": "Polygon.com",
-      "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave is 100-200 hours long. Are games getting too big?"
     }
   ],
   "sim": [
