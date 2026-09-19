@@ -1,7 +1,31 @@
 {
   "de": [
     {
-      "title": "100.000 Dollar gestrichen?: Intel stoppt möglicherweise Bug-Bounty-Prämien",
+      "title": "Wie gut ist Control: Resonant?: Remedy-Magie lässt alles fremd werden",
+      "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-control-resonant-remedy-magie-laesst-alles-fremd-werden.99475/",
+      "pubDate": "19.09.2026 um 17:10 Uhr",
+      "timestamp": 1789830600.0,
+      "source": "ComputerBase",
+      "summary": "Remedy ist zurück und liefert mit Control: Resonant das, was man erwarten durfte: Ein Arthouse-Produkt gewohnter Qualität. Das ist jedoch nicht bei je..."
+    },
+    {
+      "title": "US-Markt: Apple steckt den C2 nur ins kleine iPhone 18 Pro",
+      "link": "https://www.computerbase.de/news/smartphones/us-markt-apple-steckt-den-c2-nur-ins-kleine-iphone-18-pro.99477/",
+      "pubDate": "19.09.2026 um 16:40 Uhr",
+      "timestamp": 1789828800.0,
+      "source": "ComputerBase",
+      "summary": "Apple hat zur Vorstellung angekündigt, dass das hauseigene C2-Modem nun im iPhone 18 Pro verbaut wird. In den USA zeigt sich jetzt: Der 5G-Chip von Ap..."
+    },
+    {
+      "title": "ARC Raiders Frozen Trail – Embark zeigt Großupdate am 23. September 2026",
+      "link": "https://www.playcentral.de/arc-raiders-frozen-trail-embark-zeigt-grossupdate-am-23-september-2026/",
+      "pubDate": "19.09.2026 um 14:31 Uhr",
+      "timestamp": 1789828288.0,
+      "source": "PlayCentral",
+      "summary": "Für Fans von ARC Raiders entwickelt sich der 23. September 2026 kurzfristig zu einem wichtigen Termin. Embark Studios will an diesem Tag erstmals ausf..."
+    },
+    {
+      "title": "100.000 Dollar gestrichen: Intel stoppt möglicherweise Bug-Bounty-Prämien",
       "link": "https://www.computerbase.de/news/wirtschaft/100-000-dollar-gestrichen-intel-stoppt-moeglicherweise-bug-bounty-praemien.99474/",
       "pubDate": "19.09.2026 um 15:31 Uhr",
       "timestamp": 1789824660.0,
@@ -97,14 +121,6 @@
       "summary": "Microsoft entschied sich 2011 dazu, eine Nummer auf jeder Disc der Xbox zu hinterlegen. Davon profitieren heute Spieler. Der Beitrag Im Jahr 2011 traf..."
     },
     {
-      "title": "Explosion bei KI-Leistung?: Was hinter den Warnungen von Anthropic, OpenAI und Co. steckt",
-      "link": "https://www.computerbase.de/artikel/apps/ki-kontrollverlust-warum-openai-anthropic-frontier-modelle-griff.98681/",
-      "pubDate": "19.09.2026 um 08:00 Uhr",
-      "timestamp": 1789797600.0,
-      "source": "ComputerBase",
-      "summary": "Wie überrascht OpenAI, Anthropic und Co. angesichts der aktuellen KI-Vorfälle wirken, bleibt bemerkenswert. Das Bild von Agentenschwärmen, die vandali..."
-    },
-    {
       "title": "Die schnellsten Sportwagen in GTA 6 haben einen dicken Nachteil, den ihr kennen solltet",
       "link": "https://mein-mmo.de/gta-6-sportwagen-nicht-direkt-beste-wahl/",
       "pubDate": "19.09.2026 um 06:00 Uhr",
@@ -127,25 +143,57 @@
       "timestamp": 1789795800.0,
       "source": "Mein-MMO",
       "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit viel BlizzCon und dem Start eines Oldschool-MMORPGs für Fans von EverQuest. Der Beitrag ..."
-    },
-    {
-      "title": "Nintendo zur Switch 2 – Zelda Remake nur Auftakt für langfristige Pläne",
-      "link": "https://www.playcentral.de/nintendo-zur-switch-2-zelda-remake-nur-auftakt-fuer-langfristige-plaene/",
-      "pubDate": "18.09.2026 um 23:31 Uhr",
-      "timestamp": 1789774305.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo blickt nach dem ersten Jahr der Nintendo Switch 2 optimistisch auf die weitere Zukunft der Konsole. Beim Variety Entertainment &#38; Technolo..."
-    },
-    {
-      "title": "Größtes Infrastruktur­projekt der Menschheit: KI verschlingt 2,7 Billionen Dollar",
-      "link": "https://www.computerbase.de/news/wirtschaft/groesstes-infrastrukturprojekt-der-menschheit-ki-verschlingt-2-7-billionen-dollar.99467/",
-      "pubDate": "18.09.2026 um 21:54 Uhr",
-      "timestamp": 1789761240.0,
-      "source": "ComputerBase",
-      "summary": "Das Marktforschungsunternehmen Gartner spricht beim Ausbau der KI-Rechenzentren vom größten Infrastrukturprojekt, das die Menschheit je unternommen ha..."
     }
   ],
   "int": [
+    {
+      "title": "Here's how to watch this year's PC Gaming Show Tokyo Direct",
+      "link": "https://www.gamesradar.com/games/heres-how-to-watch-this-years-pc-gaming-show-tokyo-direct/",
+      "pubDate": "19.09.2026 um 15:00 Uhr",
+      "timestamp": 1789830000.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The show returns this weekend"
+    },
+    {
+      "title": "Xbox May Finally Get Its Own Version Of PlayStation Platinum Trophies",
+      "link": "https://www.polygon.com/xbox-platinum-trophy-equivalent-mythic-achievement/",
+      "pubDate": "19.09.2026 um 14:59 Uhr",
+      "timestamp": 1789829956.0,
+      "source": "Polygon.com",
+      "summary": "Xbox may finally be getting its own version of the Platinum Trophy, according to an Alpha Skip-Ahead Xbox Insider"
+    },
+    {
+      "title": "I played the adventure game so scandalous that it was physically destroyed by UK customs",
+      "link": "https://www.pcgamer.com/games/adventure/i-played-the-adventure-game-so-scandalous-that-it-was-physically-destroyed-by-uk-customs/",
+      "pubDate": "19.09.2026 um 14:56 Uhr",
+      "timestamp": 1789829786.0,
+      "source": "PCGamer latest",
+      "summary": "What vile debauchery could lie within Sex Vixens from Space?"
+    },
+    {
+      "title": "World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-convinced-me-that-we-lost-too-much-to-modern-mmo-quest-design/",
+      "pubDate": "19.09.2026 um 14:50 Uhr",
+      "timestamp": 1789829400.0,
+      "source": "PCGamer latest",
+      "summary": "Reject three-quest conformity, embrace friction."
+    },
+    {
+      "title": "With \"11 kills, 12 kills at a time,\" battle royale hybrid Project Zeta is not your daddy's MOBA (or your brother's hero shooter)",
+      "link": "https://www.gamesradar.com/games/moba/with-11-kills-12-kills-at-a-time-battle-royale-hybrid-project-zeta-is-not-your-daddys-moba-or-your-brothers-hero-shooter/",
+      "pubDate": "19.09.2026 um 14:30 Uhr",
+      "timestamp": 1789828200.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Project Zeta puts a novel spin on familiar bones to create \"the future\" of MOBA, says executive producer"
+    },
+    {
+      "title": "Lollipop Chainsaw Is Getting An Official Live-Action Movie Prequel",
+      "link": "https://www.polygon.com/lollipop-chainsaw-movie/",
+      "pubDate": "19.09.2026 um 14:22 Uhr",
+      "timestamp": 1789827750.0,
+      "source": "Polygon.com",
+      "summary": "Don't expect James Gunn to be involved, but a live-action Lollipop Chainsaw movie is in the works via Dragami Games"
+    },
     {
       "title": "Paramount's New High Fantasy Epic is Already the Streaming Sleeper Hit of 2026",
       "link": "https://www.polygon.com/paramount-golden-axe-showrunner-interview-season-2/",
@@ -241,54 +289,6 @@
       "timestamp": 1789815600.0,
       "source": "Latest from GamesRadar+",
       "summary": "Exploring the future of game collecting and resale in a post-CD future, from cartridges to codes-in-box"
-    },
-    {
-      "title": "Palworld lead thought one of Pocketpair's most iconic Pals would \"fade into the background\" before it unexpectedly became the survival game's \"mascot\"",
-      "link": "https://www.gamesradar.com/games/survival/palworld-lead-thought-one-of-pocketpairs-most-iconic-pals-would-fade-into-the-background-before-it-unexpectedly-became-the-survival-games-mascot/",
-      "pubDate": "19.09.2026 um 10:45 Uhr",
-      "timestamp": 1789814731.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"I never really thought Cattiva would be popular, like ever.\""
-    },
-    {
-      "title": "Dune Awakening now has a solo mode for players put off by its MMO leanings, while Funcom has adjusted progression so 'you don't have to lose things anymore'",
-      "link": "https://www.pcgamer.com/games/survival-crafting/dune-awakening-now-has-a-solo-mode-for-players-put-off-by-its-mmo-leanings-while-funcom-has-adjusted-progression-so-you-dont-have-to-lose-things-anymore/",
-      "pubDate": "19.09.2026 um 10:09 Uhr",
-      "timestamp": 1789812540.0,
-      "source": "PCGamer latest",
-      "summary": "Friction? Who needs it?"
-    },
-    {
-      "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
-      "link": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
-      "pubDate": "19.09.2026 um 09:00 Uhr",
-      "timestamp": 1789808414.0,
-      "source": "Polygon.com",
-      "summary": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them."
-    },
-    {
-      "title": "I've been hands on with all the new Warhammer 40K Space Marine models, these are the ones you should buy",
-      "link": "https://www.gamesradar.com/tabletop-gaming/new-warhammer-40k-space-marines-2026/",
-      "pubDate": "19.09.2026 um 09:00 Uhr",
-      "timestamp": 1789808400.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Now with a secret weapon: nostalgia"
-    },
-    {
-      "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
-      "link": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
-      "pubDate": "19.09.2026 um 08:19 Uhr",
-      "timestamp": 1789805977.0,
-      "source": "IGN All",
-      "summary": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overrun with eager fans, surprising even Blizzard itsel..."
-    },
-    {
-      "title": "The 9 Best Anime You Can Stream on HBO Max",
-      "link": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
-      "pubDate": "19.09.2026 um 08:00 Uhr",
-      "timestamp": 1789804814.0,
-      "source": "Polygon.com",
-      "summary": "You can watch these after going through HBO Max's Studio Ghibli catalogue."
     }
   ],
   "sim": [
