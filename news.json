@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Nintendo zur Switch 2 – Zelda Remake nur Auftakt für langfristige Pläne",
+      "link": "https://www.playcentral.de/nintendo-zur-switch-2-zelda-remake-nur-auftakt-fuer-langfristige-plaene/",
+      "pubDate": "18.09.2026 um 23:31 Uhr",
+      "timestamp": 1789774305.0,
+      "source": "PlayCentral",
+      "summary": "Nintendo blickt nach dem ersten Jahr der Nintendo Switch 2 optimistisch auf die weitere Zukunft der Konsole. Beim Variety Entertainment &#38; Technolo..."
+    },
+    {
       "title": "Eines der wichtigsten Features in Diablo 4 ist aktuell kaputt, hindert euch am Fortschritt",
       "link": "https://mein-mmo.de/diablo-4-baum-ist-kaputt-hindert-euch-am-fortschritt/",
       "pubDate": "18.09.2026 um 20:05 Uhr",
@@ -89,14 +97,6 @@
       "summary": "Dass RAM teurer wird, spüren nicht nur PC-Bauer, sondern auch Großkonzerne wie Apple: Samsung bekommt demnächst wohl zwei US-Dollar pro GB für Arbeits..."
     },
     {
-      "title": "Xbox Game Pass im Oktober 2026 – diese 8 Spiele sind bisher bestätigt",
-      "link": "https://www.playcentral.de/xbox-game-pass-im-oktober-2026-diese-8-spiele-sind-bisher-bestaetigt/",
-      "pubDate": "18.09.2026 um 15:31 Uhr",
-      "timestamp": 1789745493.0,
-      "source": "PlayCentral",
-      "summary": "Der Oktober 2026 füllt sich für den Xbox Game Pass weiter. Mit Chained Beasts und Bluey’s Happy Snaps stehen nun zwei zusätzliche Day-One-Veröffentlic..."
-    },
-    {
       "title": "Call of Duty: Mit Cheats werden jedes Jahr Milliarden verdient – Activision nennt eine gewaltige Zahl",
       "link": "https://www.eurogamer.de/call-of-duty-cheat-markt-85-milliarden-dollar",
       "pubDate": "18.09.2026 um 15:28 Uhr",
@@ -146,6 +146,22 @@
     }
   ],
   "int": [
+    {
+      "title": "After Forza Horizon, Fable devs wanted to prove \"we could cut it in a different genre,\" lead says: \"There was a little bit of pride\"",
+      "link": "https://www.gamesradar.com/games/rpg/after-forza-horizon-fable-devs-wanted-to-prove-we-could-cut-it-in-a-different-genre-lead-says-there-was-a-little-bit-of-pride/",
+      "pubDate": "18.09.2026 um 23:59 Uhr",
+      "timestamp": 1789775986.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"It made sense not to fall too far from Horizon\""
+    },
+    {
+      "title": "Valve devs \"can't believe we get away\" with such small updates for Team Fortress 2 and Counter-Strike, ex-writer says",
+      "link": "https://www.gamesradar.com/games/fps/valve-devs-cant-believe-we-get-away-with-such-small-updates-for-team-fortress-2-and-counter-strike-ex-writer-says/",
+      "pubDate": "18.09.2026 um 23:23 Uhr",
+      "timestamp": 1789773790.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We're not getting away with it like we're trying to hoodwink you, but these other teams have a thousand different people working on a gajillion diffe..."
+    },
     {
       "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
       "link": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
@@ -273,22 +289,6 @@
       "timestamp": 1789765363.0,
       "source": "PCGamer latest",
       "summary": "\"We're working on that balance.\""
-    },
-    {
-      "title": "Dude Rips Out Mic And Wifi From New LG TV That Reportedly Spies On Customers: ‘You Don’t Own The Glass On This One!’",
-      "link": "https://kotaku.com/dude-rips-out-mic-and-wifi-from-new-lg-tv-that-reportedly-spies-on-customers-you-dont-own-the-glass-on-this-one-2000735721",
-      "pubDate": "18.09.2026 um 21:00 Uhr",
-      "timestamp": 1789765249.0,
-      "source": "Kotaku",
-      "summary": "People are cheering the guy on in the comments and commiserating about the sorry state of tech in 2026"
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave Is Way Easier If You Play a Second Route",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-should-you-play-more-than-one-route/",
-      "pubDate": "18.09.2026 um 21:00 Uhr",
-      "timestamp": 1789765215.0,
-      "source": "Polygon.com",
-      "summary": "You should play more than one route in Fire Emblem Fortune's Weave to make recruiting characters easier"
     }
   ],
   "sim": [
