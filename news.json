@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Nintendo Switch 2 & Zelda Ocarina of Time: COO verspricht eine rosige Zukunft",
+      "link": "https://www.eurogamer.de/nintendo-switch-2-zelda-zukunft",
+      "pubDate": "20.09.2026 um 11:05 Uhr",
+      "timestamp": 1789902300.0,
+      "source": "Eurogamer.de News",
+      "summary": "F&uuml;r Nintendo l&auml;uft es aktuell richtig rund. Letztes Jahr erfuhren wir, dass die Switch 2 zum am schnellsten verkauften Videospiel-Hardware-G..."
+    },
+    {
+      "title": "Erstes LEGO Ideas Set zu Yu-Gi-Oh! geplant – Siegerentwurf zeigt Exodia",
+      "link": "https://www.playcentral.de/erstes-lego-ideas-set-zu-yu-gi-oh-geplant-siegerentwurf-zeigt-exodia/",
+      "pubDate": "20.09.2026 um 10:31 Uhr",
+      "timestamp": 1789900293.0,
+      "source": "PlayCentral",
+      "summary": "LEGO und Yu-Gi-Oh! machen erstmals gemeinsame Sache. Im Rahmen einer LEGO-Ideas-Challenge wurde der Entwurf Das Herz der Karten: Exodia von Step_on_a_..."
+    },
+    {
       "title": "ChatGPT knackt erstmals einen 108 Jahre alten, ungelösten deutschen Code aus dem Ersten Weltkrieg",
       "link": "https://mein-mmo.de/chatgpt-knackt-ungelosten-deutschen-code-weltkrieg/",
       "pubDate": "20.09.2026 um 10:05 Uhr",
@@ -127,25 +143,57 @@
       "timestamp": 1789885560.0,
       "source": "ComputerBase",
       "summary": "Nach Radeon-Grafikkarten fällt die nächste Herstellergrenze: Eine unabhängige Implementierung von DLSS-5-Neural-Rendering läuft auf Intels integrierte..."
-    },
-    {
-      "title": "Das Imperium in Warhammer 40.000 hat so etwas wie eigene Dämonen-Prinzen und fast alle davon sind Frauen",
-      "link": "https://mein-mmo.de/warhammer-40000-was-sind-living-saints/",
-      "pubDate": "20.09.2026 um 06:00 Uhr",
-      "timestamp": 1789884000.0,
-      "source": "Mein-MMO",
-      "summary": "Lebende Heilige, oder Living Saints, sind einige der mächtigsten Menschen in Warhammer 40.000 - und fast ausschließlich Frauen. Der Beitrag Das Imperi..."
-    },
-    {
-      "title": "Palworld Card Game Legends Awaken bringt neue Legendär-Regel für Pals",
-      "link": "https://www.playcentral.de/palworld-card-game-legends-awaken-bringt-neue-legendaer-regel-fuer-pals/",
-      "pubDate": "20.09.2026 um 03:31 Uhr",
-      "timestamp": 1789875100.0,
-      "source": "PlayCentral",
-      "summary": "Das Palworld Official Card Game baut sein Angebot bereits wenige Monate nach dem Debüt kräftig aus. Für die zweite Erweiterung Legends Awaken hat Publ..."
     }
   ],
   "int": [
+    {
+      "title": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
+      "link": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+      "pubDate": "20.09.2026 um 11:03 Uhr",
+      "timestamp": 1789902188.0,
+      "source": "Eurogamer.net News",
+      "summary": "Clive Barker's Hellraiser: Revival has a new playable demo out now on Steam ahead of its full launch on 8th October. Read more"
+    },
+    {
+      "title": "13 Years Later, 'President Curtis' is Repeating 'Rick and Morty’s Biggest Mistake",
+      "link": "https://www.polygon.com/president-curtis-repeating-rick-and-morty-biggest-mistake/",
+      "pubDate": "20.09.2026 um 11:00 Uhr",
+      "timestamp": 1789902015.0,
+      "source": "Polygon.com",
+      "summary": "So far, the spin-off President Curtis has been dedicating too much time to building mythology, repeating Rick and Morty's worst mistake."
+    },
+    {
+      "title": "Final Fantasy 7 Revelation lead says the series' cursed Moogles are back, and this time they're training to form a pop idol group",
+      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-says-the-series-cursed-moogles-are-back-and-this-time-theyre-training-to-form-a-pop-idol-group/",
+      "pubDate": "20.09.2026 um 10:59 Uhr",
+      "timestamp": 1789901991.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Because Chadley wasn't enough"
+    },
+    {
+      "title": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\"",
+      "link": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
+      "pubDate": "20.09.2026 um 10:41 Uhr",
+      "timestamp": 1789900905.0,
+      "source": "Eurogamer.net News",
+      "summary": "The Last of Us director Bruce Straley has apologised to the God of War Laufey team at Sony Santa Monica for saying he was \"not excited\" about the upco..."
+    },
+    {
+      "title": "Persona 4 Revival adds a fan-favorite character from the anime as a social link, hinting we might get new Personas in the remake",
+      "link": "https://www.gamesradar.com/games/persona/persona-4-revival-adds-a-fan-favorite-character-from-the-anime-as-a-social-link-hinting-we-might-get-new-personas-in-the-remake/",
+      "pubDate": "20.09.2026 um 10:32 Uhr",
+      "timestamp": 1789900355.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Aika is here!"
+    },
+    {
+      "title": "A Castlevania: Belmont's Curse demo kicks off the Halloween season in October, with save data transferring to the full game",
+      "link": "https://www.gamesradar.com/games/action/a-castlevania-belmonts-curse-demo-kicks-off-the-halloween-season-in-october-with-save-data-transferring-to-the-full-game/",
+      "pubDate": "20.09.2026 um 10:07 Uhr",
+      "timestamp": 1789898839.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "A couple weeks before the Metroidvania's full launch"
+    },
     {
       "title": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
       "link": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
@@ -219,14 +267,6 @@
       "summary": "These five brilliant shows scratch the psychological thriller itch."
     },
     {
-      "title": "David Hasselhoff's Iconic 90-Episode Sci-Fi Action Series Is Officially Free on Streaming",
-      "link": "https://www.polygon.com/knight-rider-streaming-free/",
-      "pubDate": "20.09.2026 um 05:00 Uhr",
-      "timestamp": 1789880414.0,
-      "source": "Polygon.com",
-      "summary": "Knight Rider looked ridiculous in 1982, but KITT's relationship with Michael Knight feels surprisingly familiar in the age of AI."
-    },
-    {
       "title": "Over 10 years later, Gabe Newell's advice to devs still holds up",
       "link": "https://www.pcgamer.com/gaming-industry/game-development/over-10-years-later-gabe-newells-advice-to-devs-still-holds-up/",
       "pubDate": "20.09.2026 um 04:31 Uhr",
@@ -249,46 +289,6 @@
       "timestamp": 1789850935.0,
       "source": "Kotaku",
       "summary": "Eagle eyed fans spotted a cosmetic change to Mario’s character model, giving video game’s biggest superstar a greater ability to carry a BiC lighter"
-    },
-    {
-      "title": "Father Says Nine-Year-Old Spent Over $100K Plugging Minecraft YouTube Videos And Cost Him His Job",
-      "link": "https://kotaku.com/father-says-nine-year-old-spent-over-100k-plugging-minecraft-youtube-videos-and-cost-him-his-job-2000735884",
-      "pubDate": "19.09.2026 um 19:52 Uhr",
-      "timestamp": 1789847571.0,
-      "source": "Kotaku",
-      "summary": "'Mighty Mike Plays' spent six figures advertising his Minecraft videos through his father's corporate card, in a now viral video the parent says he ha..."
-    },
-    {
-      "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/evidence-of-canceled-grand-theft-auto-5-liberty-city-and-agent-trevor-dlc-plus-early-version-of-gta6s-map-surface-online/",
-      "pubDate": "19.09.2026 um 19:47 Uhr",
-      "timestamp": 1789847245.0,
-      "source": "PCGamer latest",
-      "summary": "Their exact provenance is unclear, but they seem to have come from the big 2023 hack."
-    },
-    {
-      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
-      "link": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
-      "pubDate": "19.09.2026 um 19:08 Uhr",
-      "timestamp": 1789844939.0,
-      "source": "IGN All",
-      "summary": "The Last of Us game director Bruce Straley has apologized to the God of War Laufey team after his comments about modern AAA games brought \"uninvited a..."
-    },
-    {
-      "title": "YouTube Channel Accused Of Taking Advantage Of ‘Vulnerable, First-Time Indie Developers’ With Expensive Advertising Campaigns",
-      "link": "https://kotaku.com/youtube-channel-accused-of-taking-advantage-of-vulnerable-first-time-indie-developers-with-expensive-advertising-campaigns-2000735860",
-      "pubDate": "19.09.2026 um 19:00 Uhr",
-      "timestamp": 1789844408.0,
-      "source": "Kotaku",
-      "summary": "Indie developers are complaining about a content creator's expensive marketing package, which apparently results in little, if any, return on investme..."
-    },
-    {
-      "title": "Typhoon Dujuan Forces Tokyo Game Show 2026 To Shut Down A Day Early",
-      "link": "https://kotaku.com/typhoon-dujuan-forces-tokyo-game-show-2026-to-shut-down-a-day-early-2000735879",
-      "pubDate": "19.09.2026 um 18:30 Uhr",
-      "timestamp": 1789842607.0,
-      "source": "Kotaku",
-      "summary": "The severe storm is expected to make landfall on Monday"
     }
   ],
   "sim": [
