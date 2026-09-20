@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Nintendo: Warum Mario und Zelda nicht ständig neue Fortsetzungen bekommen",
+      "link": "https://www.eurogamer.de/nintendo-mario-zelda-iwata-fortsetzungen",
+      "pubDate": "20.09.2026 um 14:08 Uhr",
+      "timestamp": 1789913280.0,
+      "source": "Eurogamer.de News",
+      "summary": "Zwischen zwei Hauptspielen seiner gro&szlig;en Franchises l&auml;sst sich Nintendo gerne mal etwas mehr Zeit. Denkt nur daran, dass etwa Super Mario O..."
+    },
+    {
+      "title": "Windows-11-Installationsassistent: Flyoobe 3.0 führt über­trag­ba­re Profile und Systemüber­sicht ein",
+      "link": "https://www.computerbase.de/news/apps/windows-11-installationsassistent-flyoobe-3-0-fuehrt-uebertragbare-profile-und-systemuebersicht-ein.99484/",
+      "pubDate": "20.09.2026 um 15:30 Uhr",
+      "timestamp": 1789911000.0,
+      "source": "ComputerBase",
+      "summary": "Flyoobe 3.0 setzt auf eine überarbeitete Oberfläche und ein schlankeres Konzept. Statt Windows umfassend zu optimieren, bündelt das Tool künftig Syste..."
+    },
+    {
       "title": "Dragon's Dogma 2: Capcom verspricht dank Frame Generation flüssige 60 fps auf der Switch 2",
       "link": "https://www.eurogamer.de/dragons-dogma-2-switch-2-frame-generation",
       "pubDate": "20.09.2026 um 13:07 Uhr",
@@ -127,25 +143,65 @@
       "timestamp": 1789893782.0,
       "source": "Eurogamer.de News",
       "summary": "Ab sofort k&ouml;nnt ihr euch eine Demo der kommenden Switch-2-Version von Stellar Blade im eShop herunterladen. Mehr"
-    },
-    {
-      "title": "Last Epoch meldet sich mit einem Paukenschlag zurück, will mit neuer Season die Lücke zwischen Diablo 4 und dem Release von Path of Exile 2 füllen",
-      "link": "https://mein-mmo.de/last-epoch-neue-season-5-vorstellung/",
-      "pubDate": "20.09.2026 um 08:25 Uhr",
-      "timestamp": 1789892740.0,
-      "source": "Mein-MMO",
-      "summary": "Last Epoch hat seine nächste Season 5 vorgestellt. Es gibt ein neues Event, einen neuen Boss und viele weitere Verbesserungen. Der Beitrag Last Epoch ..."
-    },
-    {
-      "title": "PlayStation: Yoshida & Boyes stellen legendäres PS4-Meme nach – dieses Mal ohne Disc",
-      "link": "https://www.eurogamer.de/playstation-yoshida-ps4-meme-disc",
-      "pubDate": "20.09.2026 um 08:02 Uhr",
-      "timestamp": 1789891320.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die ehemaligen PlayStation-Bosse Shuhei Yoshida und Adam Boyes haben ihren legend&auml;ren \"So teilt ihr Spiele auf der PS4\"-Moment nachgestellt. Pass..."
     }
   ],
   "int": [
+    {
+      "title": "Hideo Kojima Calls Physint The ‘Biggest Selling Title I Could Possibly Create’ And Promises ‘Anything Espionage Is Going To Be Fun’",
+      "link": "https://kotaku.com/hideo-kojima-calls-physint-the-biggest-selling-title-i-could-possibly-create-and-promises-anything-espionage-is-going-to-be-fun-2000735937",
+      "pubDate": "20.09.2026 um 14:07 Uhr",
+      "timestamp": 1789913234.0,
+      "source": "Kotaku",
+      "summary": "The Death Stranding 2 director explains the return to his Meta Gear Solid roots"
+    },
+    {
+      "title": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
+      "link": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
+      "pubDate": "20.09.2026 um 14:00 Uhr",
+      "timestamp": 1789912805.0,
+      "source": "Eurogamer.net News",
+      "summary": "Last week, we learned that Sony \"stepped away\" from Kojima Production's previously PlayStation-exclusive \"action espionage\" game Physint. Following th..."
+    },
+    {
+      "title": "The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs",
+      "link": "https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/",
+      "pubDate": "20.09.2026 um 14:00 Uhr",
+      "timestamp": 1789912800.0,
+      "source": "PCGamer latest",
+      "summary": "This is teamwork at its most complicated."
+    },
+    {
+      "title": "Disney Plus Just Proved You Won't Be Able to Escape Ads On Any Tier",
+      "link": "https://www.polygon.com/disney-plus-subscriber-agreement-ads-every-plan/",
+      "pubDate": "20.09.2026 um 13:51 Uhr",
+      "timestamp": 1789912262.0,
+      "source": "Polygon.com",
+      "summary": "According to a recent update to Disney Plus' subscriber agreement, ads may now appear regardless of users' subscription tier."
+    },
+    {
+      "title": "Kojima Productions Confirms The Studio Is Alright After Concerning Physint Report",
+      "link": "https://www.polygon.com/physint-report-skepticism-kojima-productions-statement/",
+      "pubDate": "20.09.2026 um 13:36 Uhr",
+      "timestamp": 1789911419.0,
+      "source": "Polygon.com",
+      "summary": "\"The studio is in a healthy, profitable state,\" Kojima Productions stated, refuting Bloomberg's reporting on Physint's rocky development"
+    },
+    {
+      "title": "Hideo Kojima says he was 'shocked' after Sony cut ties with Physint over a Zoom call: 'Nothing could’ve prepared me for their decision to step away from the project'",
+      "link": "https://www.pcgamer.com/gaming-industry/hideo-kojima-says-he-was-shocked-after-sony-cut-ties-with-physint-over-a-zoom-call-nothing-couldve-prepared-me-for-their-decision-to-step-away-from-the-project/",
+      "pubDate": "20.09.2026 um 13:21 Uhr",
+      "timestamp": 1789910471.0,
+      "source": "PCGamer latest",
+      "summary": "My first thought was, \"What am I going to do with my studio?\""
+    },
+    {
+      "title": "Hideo Kojima Says Sony Canceled Physint Over A Zoom Call And Claims He Still Doesn’t Know The Reason Why",
+      "link": "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931",
+      "pubDate": "20.09.2026 um 13:12 Uhr",
+      "timestamp": 1789909965.0,
+      "source": "Kotaku",
+      "summary": "The relationship is apparently still okay, though"
+    },
     {
       "title": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years",
       "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard",
@@ -233,62 +289,6 @@
       "timestamp": 1789900905.0,
       "source": "Eurogamer.net News",
       "summary": "The Last of Us director Bruce Straley has apologised to the God of War Laufey team at Sony Santa Monica for saying he was \"not excited\" about the upco..."
-    },
-    {
-      "title": "Persona 4 Revival adds a fan-favorite character from the anime as a social link, hinting we might get new Personas in the remake",
-      "link": "https://www.gamesradar.com/games/persona/persona-4-revival-adds-a-fan-favorite-character-from-the-anime-as-a-social-link-hinting-we-might-get-new-personas-in-the-remake/",
-      "pubDate": "20.09.2026 um 10:32 Uhr",
-      "timestamp": 1789900355.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Aika is here!"
-    },
-    {
-      "title": "A Castlevania: Belmont's Curse demo kicks off the Halloween season in October, with save data transferring to the full game",
-      "link": "https://www.gamesradar.com/games/action/a-castlevania-belmonts-curse-demo-kicks-off-the-halloween-season-in-october-with-save-data-transferring-to-the-full-game/",
-      "pubDate": "20.09.2026 um 10:07 Uhr",
-      "timestamp": 1789898839.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "A couple weeks before the Metroidvania's full launch"
-    },
-    {
-      "title": "Tokyo Walled City looks set to fill the Deus Ex-shaped hole in my life",
-      "link": "https://www.pcgamer.com/games/action/tokyo-walled-city-looks-set-to-fill-the-deus-ex-shaped-hole-in-my-life/",
-      "pubDate": "20.09.2026 um 10:01 Uhr",
-      "timestamp": 1789898490.0,
-      "source": "PCGamer latest",
-      "summary": "I am definitely asking for this."
-    },
-    {
-      "title": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
-      "link": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-      "pubDate": "20.09.2026 um 09:20 Uhr",
-      "timestamp": 1789896036.0,
-      "source": "Eurogamer.net News",
-      "summary": "Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign. Read m..."
-    },
-    {
-      "title": "8 Years Ago, Critical Role Changed Forever with Its Most Shocking Character Death",
-      "link": "https://www.polygon.com/8-years-ago-critical-role-mollymauk-death/",
-      "pubDate": "20.09.2026 um 09:00 Uhr",
-      "timestamp": 1789894815.0,
-      "source": "Polygon.com",
-      "summary": "Campaign 2 of Critical Role broke Critters' hearts in a way that has (thankfully) yet to be replicated even 8 years later."
-    },
-    {
-      "title": "The GTA Timeline Is Completely Irrelevant",
-      "link": "https://www.polygon.com/gta-timeline-doesnt-matter/",
-      "pubDate": "20.09.2026 um 08:30 Uhr",
-      "timestamp": 1789893014.0,
-      "source": "Polygon.com",
-      "summary": "Rockstar's Grand Theft Auto games are loosely connected, but they all stand alone for a reason"
-    },
-    {
-      "title": "Lord and Miller's Near-Perfect 21 Jump Street Revival is Officially Returning",
-      "link": "https://www.polygon.com/21-jump-street-movie-sequel-spider-verse-creators/",
-      "pubDate": "20.09.2026 um 07:25 Uhr",
-      "timestamp": 1789889141.0,
-      "source": "Polygon.com",
-      "summary": "24 Jump Street is in the works, 12 years after Channing Tatum and Jonah Hill's 22 Jump Street, with Spider-Verse producers Lord and Miller returning."
     }
   ],
   "sim": [
