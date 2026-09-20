@@ -1,6 +1,54 @@
 {
   "de": [
     {
+      "title": "A Song of Ice and Fire Tactics zeigt Fire and Blood Set zum Tanz der Drachen",
+      "link": "https://www.playcentral.de/a-song-of-ice-and-fire-tactics-zeigt-fire-and-blood-set-zum-tanz-der-drachen/",
+      "pubDate": "20.09.2026 um 18:31 Uhr",
+      "timestamp": 1789929110.0,
+      "source": "PlayCentral",
+      "summary": "CMON hat ein neues offizielles Update zu A Song of Ice &#38; Fire: Tactics veröffentlicht und dabei weitere Inhalte aus dem kommenden Fire and Blood S..."
+    },
+    {
+      "title": "Geekbench 7: M6 lässt den Ryzen 9 9950X3D2 weit hinter sich",
+      "link": "https://www.computerbase.de/news/prozessoren/geekbench-7-m5-ultra-liegt-auf-dem-niveau-einer-rtx-4080.99485/",
+      "pubDate": "20.09.2026 um 19:50 Uhr",
+      "timestamp": 1789926600.0,
+      "source": "ComputerBase",
+      "summary": "Im neuen Geekbench 7 sind erste Ergebnisse von Apples neuen Mac-Chips eingetrudelt. Der Konzern hat in synthetischen Benchmarks nicht zu viel versproc..."
+    },
+    {
+      "title": "WoW Forever: Beta-Ansturm sprengt Blizzards kühnste Erwartungen",
+      "link": "https://www.eurogamer.de/wow-forever-beta-spieleransturm-server",
+      "pubDate": "20.09.2026 um 17:30 Uhr",
+      "timestamp": 1789925400.0,
+      "source": "Eurogamer.de News",
+      "summary": "World of WarCraft Forever, Blizzards Spin-off mit Vanilla-Flair, das vom WoW-Classic-Team entwickelt wird, hat bereits deutlich mehr Fans angelockt, a..."
+    },
+    {
+      "title": "Castlevania: Belmont's Curse: Konami kündigt Demo mit Speicher-Transfer an",
+      "link": "https://www.eurogamer.de/castlevania-belmonts-curse-demo-termin",
+      "pubDate": "20.09.2026 um 17:11 Uhr",
+      "timestamp": 1789924260.0,
+      "source": "Eurogamer.de News",
+      "summary": "Konami wird in K&uuml;rze eine Anspielversion zu Castlevania: Belmont's Curse ver&ouml;ffentlichen. Mehr"
+    },
+    {
+      "title": "Castlevania Belmonts Curse – kostenlose Demo ab 1. Oktober mit Save-Transfer",
+      "link": "https://www.playcentral.de/castlevania-belmonts-curse-kostenlose-demo-ab-1-oktober-mit-save-transfer/",
+      "pubDate": "20.09.2026 um 16:32 Uhr",
+      "timestamp": 1789921964.0,
+      "source": "PlayCentral",
+      "summary": "Konami lässt Fans bereits zwei Wochen vor dem regulären Verkaufsstart in Castlevania: Belmont&#8217;s Curse eintauchen. Am 1. Oktober 2026 erscheint e..."
+    },
+    {
+      "title": "Sputnika Game wird kostenpflichtig – bis 23. September 2026 gratis sichern",
+      "link": "https://www.playcentral.de/sputnika-game-wird-kostenpflichtig-bis-23-september-2026-gratis-sichern/",
+      "pubDate": "20.09.2026 um 16:31 Uhr",
+      "timestamp": 1789921902.0,
+      "source": "PlayCentral",
+      "summary": "Auf Steam wartet aktuell ein kleines Gratisangebot für Fans von Weltraumspielen und physikbasierten Puzzles. Sputnika Game lässt sich noch bis zum 23...."
+    },
+    {
       "title": "Control Resonant: Technik-Analyse sieht die PS5 Pro als klaren Sieger",
       "link": "https://www.eurogamer.de/control-resonant-technik-check-ps5-pro",
       "pubDate": "20.09.2026 um 16:10 Uhr",
@@ -81,22 +129,6 @@
       "summary": "Flyoobe 3.0 setzt auf eine überarbeitete Oberfläche und ein schlankeres Konzept. Statt Windows umfassend zu optimieren, bündelt das Tool künftig Syste..."
     },
     {
-      "title": "Dragon's Dogma 2: Capcom verspricht dank Frame Generation flüssige 60 fps auf der Switch 2",
-      "link": "https://www.eurogamer.de/dragons-dogma-2-switch-2-frame-generation",
-      "pubDate": "20.09.2026 um 13:07 Uhr",
-      "timestamp": 1789909620.0,
-      "source": "Eurogamer.de News",
-      "summary": "Mit Dragon's Dogma 2 erscheint im Oktober der n&auml;chste gro&szlig;e Capcom-Titel f&uuml;r die Nintendo Switch 2. Mehr"
-    },
-    {
-      "title": "Baldur's Gate 3: Große Fan-Erweiterung für Akt 2 nach zwei Jahren veröffentlicht",
-      "link": "https://www.eurogamer.de/baldurs-gate-3-mod-akt-2-erweiterung",
-      "pubDate": "20.09.2026 um 12:06 Uhr",
-      "timestamp": 1789905960.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wenn ihr euch f&uuml;r den zweiten Akt von Baldur's Gate 3 noch etwas mehr Abwechslung und Besch&auml;ftigung w&uuml;nscht, gibt es nun eine L&ouml;su..."
-    },
-    {
       "title": "Armada: Mangmi Air Y Pro spielt PC Spiele dank Snap­dragon 865",
       "link": "https://www.computerbase.de/news/gaming/armada-mangmi-air-y-pro-spielt-pc-spiele-dank-snapdragon-865.99483/",
       "pubDate": "20.09.2026 um 14:01 Uhr",
@@ -111,184 +143,152 @@
       "timestamp": 1789904559.0,
       "source": "Mein-MMO",
       "summary": "Die Entwickler sind überrascht, wie beliebt WoW: Forever ist.  Jetzt haben sie erklärt, warum es zu Beginn so viel Ärger gab. Der Beitrag Die Entwickl..."
-    },
-    {
-      "title": "Wardogs entfernt auf Steam kostenloses Feature wegen Cheatern, der Chef meint: „Der Preis von 40 Dollar ist der beste Schutz gegen Cheats“",
-      "link": "https://mein-mmo.de/wardogs-entfernt-family-sharing-cheater-steam/",
-      "pubDate": "20.09.2026 um 11:12 Uhr",
-      "timestamp": 1789902747.0,
-      "source": "Mein-MMO",
-      "summary": "Wardogs hat ein Problem mit Cheatern. Aus diesem Grund hat man jetzt ein kostenloses Feature im Shooter entfernt. Der Beitrag Wardogs entfernt auf Ste..."
-    },
-    {
-      "title": "Erstes LEGO Ideas Set zu Yu-Gi-Oh! geplant – Siegerentwurf zeigt Exodia",
-      "link": "https://www.playcentral.de/erstes-lego-ideas-set-zu-yu-gi-oh-geplant-siegerentwurf-zeigt-exodia/",
-      "pubDate": "20.09.2026 um 10:31 Uhr",
-      "timestamp": 1789900293.0,
-      "source": "PlayCentral",
-      "summary": "LEGO und Yu-Gi-Oh! machen erstmals gemeinsame Sache. Im Rahmen einer LEGO-Ideas-Challenge wurde der Entwurf Das Herz der Karten: Exodia von Step_on_a_..."
-    },
-    {
-      "title": "ChatGPT knackt erstmals einen 108 Jahre alten, ungelösten deutschen Code aus dem Ersten Weltkrieg",
-      "link": "https://mein-mmo.de/chatgpt-knackt-ungelosten-deutschen-code-weltkrieg/",
-      "pubDate": "20.09.2026 um 10:05 Uhr",
-      "timestamp": 1789898738.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Funkspruch aus dem Ersten Weltkrieg, der mehr als ein Jahrhundert lang als ungelöst galt, wurde  mit einem KI-Modell entschlüsselt. Der Beitrag Ch..."
-    },
-    {
-      "title": "Steam Frame: Wie nutzt ihr VR und was haltet ihr von Valves neuer Brille?",
-      "link": "https://www.computerbase.de/news/gaming/steam-frame-wie-nutzt-ihr-vr-und-was-haltet-ihr-von-valves-neuer-brille.99470/",
-      "pubDate": "20.09.2026 um 12:00 Uhr",
-      "timestamp": 1789898400.0,
-      "source": "ComputerBase",
-      "summary": "Valves neue VR-Brille, die Steam Frame, ist rund zehn Monate nach der Ankündigung endlich erschienen – zumindest für Kaufinteressenten mit etwas Losgl..."
     }
   ],
   "int": [
     {
-      "title": "In Falsus is a delightfully unforgiving rhythm game, though its best tracks are locked behind an unimpressive story",
-      "link": "https://www.pcgamer.com/games/rhythm/in-falsus-is-a-delightfully-unforgiving-rhythm-game-though-its-best-tracks-are-locked-behind-an-unimpressive-story/",
-      "pubDate": "20.09.2026 um 16:08 Uhr",
-      "timestamp": 1789920493.0,
+      "title": "First 5-day Tokyo Game Show in 30 years cuts back to 4 in face of Typhoon Dujuan",
+      "link": "https://www.pcgamer.com/gaming-industry/first-5-day-tokyo-game-show-in-30-years-cuts-back-to-4-in-face-of-typhoon-dujuan/",
+      "pubDate": "20.09.2026 um 19:13 Uhr",
+      "timestamp": 1789931588.0,
       "source": "PCGamer latest",
-      "summary": "In Falsus is part rhythm game, part visual novel, part… puzzle?"
+      "summary": "The gamer's traditional enemy, the typhoon."
     },
     {
-      "title": "Lead your legions to glory in asynchronous autobattler Fool King, launching later this year",
-      "link": "https://www.pcgamer.com/games/action/lead-your-legions-to-glory-in-asynchronous-autobattler-fool-king-launching-later-this-year/",
-      "pubDate": "20.09.2026 um 16:08 Uhr",
-      "timestamp": 1789920487.0,
-      "source": "PCGamer latest",
-      "summary": "If you come for the king, you best not miss."
-    },
-    {
-      "title": "Iconic RPG Lufia is finally coming to PC, with the first two games in the series due next year",
-      "link": "https://www.pcgamer.com/games/rpg/iconic-rpg-lufia-is-finally-coming-to-pc-with-the-first-two-games-in-the-series-due-next-year/",
-      "pubDate": "20.09.2026 um 16:03 Uhr",
-      "timestamp": 1789920230.0,
-      "source": "PCGamer latest",
-      "summary": "Can you rise up and defeat the Sinistrals?"
-    },
-    {
-      "title": "Chaotic multiplayer Really Illegal Golf debuts at the PC Gaming Show Tokyo Direct",
-      "link": "https://www.pcgamer.com/games/action/chaotic-multiplayer-really-illegal-golf-debuts-at-the-pc-gaming-show-tokyo-direct/",
-      "pubDate": "20.09.2026 um 16:03 Uhr",
-      "timestamp": 1789920201.0,
-      "source": "PCGamer latest",
-      "summary": "Forget your putter, pack a taser."
-    },
-    {
-      "title": "Zach Cregger Finally Made a Perfect Horror-Comedy With 'Resident Evil.' Here's How.",
-      "link": "https://www.polygon.com/resident-evil-zach-cregger-perfect-horror-comedy/",
-      "pubDate": "20.09.2026 um 16:00 Uhr",
-      "timestamp": 1789920015.0,
+      "title": "This 40-Year-Old Video Game Is Somehow More Fun Than Ever",
+      "link": "https://www.polygon.com/mario-bros-nes-arcade-retrospective/",
+      "pubDate": "20.09.2026 um 19:00 Uhr",
+      "timestamp": 1789930816.0,
       "source": "Polygon.com",
-      "summary": "From Barbarian to Resident Evil, Cregger has figured out how to fuse comedy and horror without defanging the tension."
+      "summary": "Classic games don't always hold up well, but this one got better with age."
     },
     {
-      "title": "Mark Darrah, co-director of Dragon Age: Origins, has played Riven for 3 minutes and Factorio for 832 hours: 'If you want to know what kind of programmer someone would be, have them play Factorio'",
-      "link": "https://www.pcgamer.com/gaming-industry/mark-darrah-co-director-of-dragon-age-origins-has-played-riven-for-3-minutes-and-factorio-for-832-hours-if-you-want-to-know-what-kind-of-programmer-someone-would-be-have-them-play-factorio/",
-      "pubDate": "20.09.2026 um 16:00 Uhr",
-      "timestamp": 1789920000.0,
+      "title": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
+      "link": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+      "pubDate": "20.09.2026 um 18:38 Uhr",
+      "timestamp": 1789929495.0,
       "source": "PCGamer latest",
-      "summary": "The BioWare veteran guides us through the games on his PC."
+      "summary": "A new spin on an old favorite."
     },
     {
-      "title": "Honkai Star Rail version 4.6 livestream codes",
-      "link": "https://www.polygon.com/honkai-star-rail-version-4-6-livestream-codes-redeem/",
-      "pubDate": "20.09.2026 um 15:59 Uhr",
-      "timestamp": 1789919943.0,
+      "title": "37 Years Later, the Best 'Calvin and Hobbes' Dad Quote Is Still in a League of Its Own",
+      "link": "https://www.polygon.com/best-quote-calvin-hobbes-dad-comic-strip/",
+      "pubDate": "20.09.2026 um 18:05 Uhr",
+      "timestamp": 1789927515.0,
       "source": "Polygon.com",
-      "summary": "Redeem these three Honkai: Star Rail version 4.6 livestream codes for 300 Stellar Jade before they expire."
+      "summary": "Calvin's the star of the show in Calvin and Hobbes, but don't discount his parents."
     },
     {
-      "title": "Fortnite Is Officially Collaborating With Persona 5 Later This Week",
-      "link": "https://www.polygon.com/fortnite-persona-5-outfits-release-date/",
-      "pubDate": "20.09.2026 um 15:50 Uhr",
-      "timestamp": 1789919446.0,
+      "title": "Ethan Hawke's Nail-Biting New Thriller Stole a Movie Magic Trick from Indiana Jones",
+      "link": "https://www.polygon.com/the-weight-movie-interview-ethan-hawke/",
+      "pubDate": "20.09.2026 um 18:00 Uhr",
+      "timestamp": 1789927215.0,
       "source": "Polygon.com",
-      "summary": "Persona 5 characters join the roster of skins added to Fortnite in Chapter 7 Season 4, the Gaming Legends season."
+      "summary": "Ethan Hawke and director Padraic McKinley discuss their gripping new drama, The Weight."
     },
     {
-      "title": "Multiplex Staff Film More Accurate Resident Evil Adaptation To Accompany Zach Cregger’s Movie",
-      "link": "https://kotaku.com/multiplex-staff-film-more-accurate-resident-evil-adaptation-to-accompany-zach-creggers-movie-2000735945",
-      "pubDate": "20.09.2026 um 15:48 Uhr",
-      "timestamp": 1789919285.0,
+      "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Hits Harder Than Ever",
+      "link": "https://www.polygon.com/the-best-star-trek-quote/",
+      "pubDate": "20.09.2026 um 17:57 Uhr",
+      "timestamp": 1789927034.0,
+      "source": "Polygon.com",
+      "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series."
+    },
+    {
+      "title": "Marvel Tōkon: Fighting Souls Is Still Fighting For Its Life On Steam",
+      "link": "https://kotaku.com/marvel-tokon-fighting-souls-is-still-fighting-for-its-life-on-steam-2000735883",
+      "pubDate": "20.09.2026 um 17:31 Uhr",
+      "timestamp": 1789925513.0,
       "source": "Kotaku",
-      "summary": "If the Weapons director is burnt out on adapting video games, there's an assistant manager in O’Fallon, Missouri that Capcom could reach out to"
+      "summary": "Marvel Tōkon: Fighting Souls' has dipped into three-figure player counts on Steam, and it's less-than-impressive sales numbers are likely to blame"
     },
     {
-      "title": "Endless Legend 2 shows that Amplitude is still the master of faction design",
-      "link": "https://www.pcgamer.com/games/strategy/endless-legend-2-shows-that-amplitude-is-still-the-master-of-faction-design/",
-      "pubDate": "20.09.2026 um 15:39 Uhr",
-      "timestamp": 1789918744.0,
-      "source": "PCGamer latest",
-      "summary": "From sand-eating terraformers to vampire ghosts, I love them all."
+      "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
+      "link": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date",
+      "pubDate": "20.09.2026 um 17:30 Uhr",
+      "timestamp": 1789925400.0,
+      "source": "IGN All",
+      "summary": "Escape from Playtime, the co-op survival horror extraction spinoff of the popular Poppy's Playtime episodic horror games that was announced at Gamesco..."
     },
     {
-      "title": "Call of Duty maker Activision claims video game cheating is now a £6.3 billion ($8.5 billion) a year industry",
-      "link": "https://www.eurogamer.net/activision-video-game-cheat-market-8-5-billion-a-year",
-      "pubDate": "20.09.2026 um 15:30 Uhr",
-      "timestamp": 1789918241.0,
-      "source": "Eurogamer.net News",
-      "summary": "Activision has published a breakdown of the numbers behind cheating in its games, claiming cheating is big business, generating about &pound;6.3 billi..."
-    },
-    {
-      "title": "Resident Evil Shows R-Rated Video Game Movies Can Still Do Well At The Box Office",
-      "link": "https://www.polygon.com/resident-evil-opening-weekend-box-office/",
-      "pubDate": "20.09.2026 um 15:07 Uhr",
-      "timestamp": 1789916831.0,
+      "title": "Fire Emblem Is Officially Nintendo’s Strongest GOTY 2026 Contender",
+      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-goty-game-awards-2026/",
+      "pubDate": "20.09.2026 um 17:00 Uhr",
+      "timestamp": 1789923615.0,
       "source": "Polygon.com",
-      "summary": "The R-rated video game adaptation of Capcom's Resident Evil had an amazing opening weekend at the box office"
+      "summary": "The Switch 2 exclusive Fire Emblem: Fortune's Weave is one of the strongest contenders for Game of the Year at the 2026 Game Awards."
     },
     {
-      "title": "BlizzCon was Good, but the Vibes Were Weird",
-      "link": "https://www.polygon.com/patch-notes-blizzcon-2026/",
-      "pubDate": "20.09.2026 um 15:00 Uhr",
-      "timestamp": 1789916415.0,
-      "source": "Polygon.com",
-      "summary": "Blizzard's BlizzCon 2026 was loaded with news about StarCraft, WoW: Forever, and Diablo 5, but also a note of desperation"
-    },
-    {
-      "title": "1 hour in, Genshin Impact devs' cozy life sim feels like cosmic Animal Crossing – but that might not be a bad thing",
-      "link": "https://www.gamesradar.com/games/simulation/1-hour-in-genshin-impact-devs-cozy-life-sim-feels-like-cosmic-animal-crossing-but-that-might-not-be-a-bad-thing/",
-      "pubDate": "20.09.2026 um 15:00 Uhr",
-      "timestamp": 1789916400.0,
+      "title": "Dark Souls director Hidetaka Miyazaki was always \"fascinated\" by the \"weird\" executives of other companies: \"I use some of them as enemy characters in our games\"",
+      "link": "https://www.gamesradar.com/games/dark-souls/dark-souls-director-hidetaka-miyazaki-was-always-fascinated-by-the-weird-executives-of-other-companies-i-use-some-of-them-as-enemy-characters-in-our-games/",
+      "pubDate": "20.09.2026 um 17:00 Uhr",
+      "timestamp": 1789923600.0,
       "source": "Latest from GamesRadar+",
-      "summary": "I can't help but compare Petit Planet to Animal Crossing, but I'm hopeful it'll stand out in one key way"
+      "summary": "Miyazaki's promotion to FromSoftware president gave him \"new experiences to draw from\""
     },
     {
-      "title": "A 27-year-old tech forum with over 100,000 Warcraft 3 modding threads is closing its doors",
-      "link": "https://www.pcgamer.com/games/a-27-year-old-tech-forum-with-over-100-000-warcraft-3-modding-threads-is-closing-its-doors/",
-      "pubDate": "20.09.2026 um 14:57 Uhr",
-      "timestamp": 1789916276.0,
+      "title": "Everything announced at the PC Gaming Show Tokyo Direct 2026",
+      "link": "https://www.pcgamer.com/gaming-industry/events-conferences/everything-announced-at-the-pc-gaming-show-tokyo-direct-2026/",
+      "pubDate": "20.09.2026 um 16:58 Uhr",
+      "timestamp": 1789923485.0,
       "source": "PCGamer latest",
-      "summary": "\"The site will be archived. The content will be available for people if they want it.\""
+      "summary": "Every single game and announcement, in the order they were shown."
     },
     {
-      "title": "Hideo Kojima Calls Physint The ‘Biggest Selling Title I Could Possibly Create’ And Promises ‘Anything Espionage Is Going To Be Fun’",
-      "link": "https://kotaku.com/hideo-kojima-calls-physint-the-biggest-selling-title-i-could-possibly-create-and-promises-anything-espionage-is-going-to-be-fun-2000735937",
-      "pubDate": "20.09.2026 um 14:07 Uhr",
-      "timestamp": 1789913234.0,
+      "title": "Take to the skies and shoot your mates in the face with a shotgun in Fish & Ships",
+      "link": "https://www.pcgamer.com/games/action/take-to-the-skies-and-shoot-your-mates-in-the-face-with-a-shotgun-in-fish-and-ships/",
+      "pubDate": "20.09.2026 um 16:57 Uhr",
+      "timestamp": 1789923434.0,
+      "source": "PCGamer latest",
+      "summary": "These must be flying fish."
+    },
+    {
+      "title": "Feel like a kid again when toy car game Obstacle Overdrive launches October 2",
+      "link": "https://www.pcgamer.com/games/racing/feel-like-a-kid-again-when-toy-car-game-obstacle-overdrive-launches-october-2/",
+      "pubDate": "20.09.2026 um 16:56 Uhr",
+      "timestamp": 1789923375.0,
+      "source": "PCGamer latest",
+      "summary": "Be careful or your car will tumble to the floor and wake your parents up."
+    },
+    {
+      "title": "I lost hours to this roguelike card-based city builder even though I had no idea how all of those words could fit together",
+      "link": "https://www.pcgamer.com/games/roguelike/i-lost-hours-to-this-roguelike-card-based-city-builder-even-though-i-had-no-idea-how-all-of-those-words-could-fit-together/",
+      "pubDate": "20.09.2026 um 16:55 Uhr",
+      "timestamp": 1789923310.0,
+      "source": "PCGamer latest",
+      "summary": "Boldly step into the mist and confront whatever horrors may emerge."
+    },
+    {
+      "title": "Solarpunk MMO Loftia is launching into early access November 3",
+      "link": "https://www.pcgamer.com/games/mmo/solarpunk-mmo-loftia-is-launching-into-early-access-november-3/",
+      "pubDate": "20.09.2026 um 16:54 Uhr",
+      "timestamp": 1789923244.0,
+      "source": "PCGamer latest",
+      "summary": "Live on your very own island in the sky."
+    },
+    {
+      "title": "Unlock your inner Superman with a new demo from Undefeated: Genesis",
+      "link": "https://www.pcgamer.com/games/action/unlock-your-inner-superman-with-a-new-demo-from-undefeated-genesis/",
+      "pubDate": "20.09.2026 um 16:51 Uhr",
+      "timestamp": 1789923115.0,
+      "source": "PCGamer latest",
+      "summary": "Fly fast, shoot lasers from your eyes. You know? Superhero stuff."
+    },
+    {
+      "title": "Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship",
+      "link": "https://kotaku.com/marvels-wolverine-seemingly-censored-in-some-places-cutting-references-to-mystiques-lesbian-relationship-2000735943",
+      "pubDate": "20.09.2026 um 16:35 Uhr",
+      "timestamp": 1789922157.0,
       "source": "Kotaku",
-      "summary": "The Death Stranding 2 director explains the return to his Metal Gear Solid roots"
+      "summary": "All references to Mystique's wife Tyger have apparently been removed from copies of Marvel's Wolverine in the Middle East"
     },
     {
-      "title": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
-      "link": "https://www.eurogamer.net/hideo-kojima-loves-sony-playstation-physint",
-      "pubDate": "20.09.2026 um 14:00 Uhr",
-      "timestamp": 1789912805.0,
-      "source": "Eurogamer.net News",
-      "summary": "Last week, we learned that Sony \"stepped away\" from Kojima Production's previously PlayStation-exclusive \"action espionage\" game Physint. Following th..."
-    },
-    {
-      "title": "The latest co-op indie game to take over the internet is like one of my favourite board games, just with bombs",
-      "link": "https://www.pcgamer.com/games/puzzle/the-latest-co-op-indie-game-to-take-over-the-internet-is-like-one-of-my-favourite-board-games-just-with-bombs/",
-      "pubDate": "20.09.2026 um 14:00 Uhr",
-      "timestamp": 1789912800.0,
-      "source": "PCGamer latest",
-      "summary": "This is teamwork at its most complicated."
+      "title": "Ace Attorney Trilogy Passed An Impressive Milestone, But No New Game Is In Sight",
+      "link": "https://www.polygon.com/with-no-new-game-in-sight-ace-attorney-announces-an-impressive-sales-milestone/",
+      "pubDate": "20.09.2026 um 16:12 Uhr",
+      "timestamp": 1789920738.0,
+      "source": "Polygon.com",
+      "summary": "As Ace Attorney turns 25, we still don't know if a new game is in the works despite Ace Attorney Trilogy's impressive sales"
     }
   ],
   "sim": [
