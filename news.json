@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Physint: Kojima über den Schock des Sony-Aus und die schnelle Rettung durch Xbox",
+      "link": "https://www.eurogamer.de/physint-kojima-sony-aus-xbox-rettung",
+      "pubDate": "20.09.2026 um 14:45 Uhr",
+      "timestamp": 1789915500.0,
+      "source": "Eurogamer.de News",
+      "summary": "Letzte Woche erfuhren wir, dass Sony bei Kojima Productions' ehemals PlayStation-exklusivem \"Action-Spionage\"-Spiel Physint \"ausgestiegen\" ist. Nach d..."
+    },
+    {
+      "title": "RuneScape: Dragonwilds: Neues Update rettet kaputte Spielstände",
+      "link": "https://www.eurogamer.de/runescape-dragonwilds-update-patch-spielstaende",
+      "pubDate": "20.09.2026 um 14:30 Uhr",
+      "timestamp": 1789914600.0,
+      "source": "Eurogamer.de News",
+      "summary": "Mit einem gestern ver&ouml;ffentlichten Patch hat Jagex ein dringendes Problem in RuneScape: Dragonwilds behoben, das zu kaputten Welt-Speicherst&auml..."
+    },
+    {
       "title": "Nintendo: Warum Mario und Zelda nicht ständig neue Fortsetzungen bekommen",
       "link": "https://www.eurogamer.de/nintendo-mario-zelda-iwata-fortsetzungen",
       "pubDate": "20.09.2026 um 14:08 Uhr",
@@ -127,32 +143,48 @@
       "timestamp": 1789894898.0,
       "source": "Mein-MMO",
       "summary": "Städte gelten in  der Civilization-Reihe als Kernelement des Spiels. Ein Spieler hat jetzt gezeigt, dass man auch ohne Städte gewinnen kann. Der Beitr..."
-    },
-    {
-      "title": "RTX 3050 lässt grüßen: AMDs 4-GB-Version der RX 9050 fällt weit zurück",
-      "link": "https://www.computerbase.de/news/grafikkarten/rtx-3050-laesst-gruessen-amds-4-gb-version-der-rx-9050-faellt-weit-zurueck.99480/",
-      "pubDate": "20.09.2026 um 11:00 Uhr",
-      "timestamp": 1789894800.0,
-      "source": "ComputerBase",
-      "summary": "AMD führt die Radeon RX 9050 mit 4 und 8 GB unter demselben Namen. Ein neuer Test von Hardware Unboxed zeigt nun, wie groß der Unterschied tatsächlich..."
-    },
-    {
-      "title": "Stellar Blade: Demo für Switch 2 ab sofort verfügbar",
-      "link": "https://www.eurogamer.de/stellar-blade-switch-2-demo-bayonetta",
-      "pubDate": "20.09.2026 um 08:43 Uhr",
-      "timestamp": 1789893782.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ab sofort k&ouml;nnt ihr euch eine Demo der kommenden Switch-2-Version von Stellar Blade im eShop herunterladen. Mehr"
     }
   ],
   "int": [
+    {
+      "title": "Resident Evil Shows R-Rated Video Game Movies Can Still Do Well At The Box Office",
+      "link": "https://www.polygon.com/resident-evil-opening-weekend-box-office/",
+      "pubDate": "20.09.2026 um 15:07 Uhr",
+      "timestamp": 1789916831.0,
+      "source": "Polygon.com",
+      "summary": "The R-rated video game adaptation of Capcom's Resident Evil had an amazing opening weekend at the box office"
+    },
+    {
+      "title": "BlizzCon was Good, but the Vibes Were Weird",
+      "link": "https://www.polygon.com/patch-notes-blizzcon-2026/",
+      "pubDate": "20.09.2026 um 15:00 Uhr",
+      "timestamp": 1789916415.0,
+      "source": "Polygon.com",
+      "summary": "Blizzard's BlizzCon 2026 was loaded with news about StarCraft, WoW: Forever, and Diablo 5, but also a note of desperation"
+    },
+    {
+      "title": "1 hour in, Genshin Impact devs' cozy life sim feels like cosmic Animal Crossing – but that might not be a bad thing",
+      "link": "https://www.gamesradar.com/games/simulation/1-hour-in-genshin-impact-devs-cozy-life-sim-feels-like-cosmic-animal-crossing-but-that-might-not-be-a-bad-thing/",
+      "pubDate": "20.09.2026 um 15:00 Uhr",
+      "timestamp": 1789916400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "I can't help but compare Petit Planet to Animal Crossing, but I'm hopeful it'll stand out in one key way"
+    },
+    {
+      "title": "A 27-year-old tech forum with over 100,000 Warcraft 3 modding threads is closing its doors",
+      "link": "https://www.pcgamer.com/games/a-27-year-old-tech-forum-with-over-100-000-warcraft-3-modding-threads-is-closing-its-doors/",
+      "pubDate": "20.09.2026 um 14:57 Uhr",
+      "timestamp": 1789916276.0,
+      "source": "PCGamer latest",
+      "summary": "\"The site will be archived. The content will be available for people if they want it.\""
+    },
     {
       "title": "Hideo Kojima Calls Physint The ‘Biggest Selling Title I Could Possibly Create’ And Promises ‘Anything Espionage Is Going To Be Fun’",
       "link": "https://kotaku.com/hideo-kojima-calls-physint-the-biggest-selling-title-i-could-possibly-create-and-promises-anything-espionage-is-going-to-be-fun-2000735937",
       "pubDate": "20.09.2026 um 14:07 Uhr",
       "timestamp": 1789913234.0,
       "source": "Kotaku",
-      "summary": "The Death Stranding 2 director explains the return to his Meta Gear Solid roots"
+      "summary": "The Death Stranding 2 director explains the return to his Metal Gear Solid roots"
     },
     {
       "title": "Hideo Kojima responds to accusations of Physint being over budget and late on deadline, says he still \"loves Sony\" despite collapse of publishing deal",
@@ -257,38 +289,6 @@
       "timestamp": 1789902188.0,
       "source": "Eurogamer.net News",
       "summary": "Clive Barker's Hellraiser: Revival has a new playable demo out now on Steam ahead of its full launch on 8th October. Read more"
-    },
-    {
-      "title": "13 Years Later, 'President Curtis' is Repeating 'Rick and Morty’s Biggest Mistake",
-      "link": "https://www.polygon.com/president-curtis-repeating-rick-and-morty-biggest-mistake/",
-      "pubDate": "20.09.2026 um 11:00 Uhr",
-      "timestamp": 1789902015.0,
-      "source": "Polygon.com",
-      "summary": "So far, the spin-off President Curtis has been dedicating too much time to building mythology, repeating Rick and Morty's worst mistake."
-    },
-    {
-      "title": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
-      "link": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
-      "pubDate": "20.09.2026 um 11:00 Uhr",
-      "timestamp": 1789902000.0,
-      "source": "IGN All",
-      "summary": "Hideo Kojima reveals what happened with Sony in his first interview since PlayStation ditched Physint."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation lead says the series' cursed Moogles are back, and this time they're training to form a pop idol group",
-      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-says-the-series-cursed-moogles-are-back-and-this-time-theyre-training-to-form-a-pop-idol-group/",
-      "pubDate": "20.09.2026 um 10:59 Uhr",
-      "timestamp": 1789901991.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Because Chadley wasn't enough"
-    },
-    {
-      "title": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\"",
-      "link": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
-      "pubDate": "20.09.2026 um 10:41 Uhr",
-      "timestamp": 1789900905.0,
-      "source": "Eurogamer.net News",
-      "summary": "The Last of Us director Bruce Straley has apologised to the God of War Laufey team at Sony Santa Monica for saying he was \"not excited\" about the upco..."
     }
   ],
   "sim": [
