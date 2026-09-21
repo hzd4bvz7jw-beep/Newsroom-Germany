@@ -1,6 +1,54 @@
 {
   "de": [
     {
+      "title": "Pokémon GO bringt Astronauten-Pikachu zur World Space Week im Oktober 2026",
+      "link": "https://www.playcentral.de/pokemon-go-bringt-astronauten-pikachu-zur-world-space-week-im-oktober-2026/",
+      "pubDate": "21.09.2026 um 21:31 Uhr",
+      "timestamp": 1790026292.0,
+      "source": "PlayCentral",
+      "summary": "In Pokémon GO steht das nächste kostümierte Sammlerstück vor seinem Debüt. Anlässlich der World Space Week erscheint das brandneue Astronauten-Pikachu..."
+    },
+    {
+      "title": "Xbox Game Pass – Diese 8 Spiele fliegen am 30. September 2026 raus",
+      "link": "https://www.playcentral.de/xbox-game-pass-diese-8-spiele-fliegen-am-30-september-2026-raus/",
+      "pubDate": "21.09.2026 um 20:32 Uhr",
+      "timestamp": 1790022743.0,
+      "source": "PlayCentral",
+      "summary": "Der Xbox Game Pass verliert am 30. September 2026 gleich acht Spiele aus seinem aktuellen Katalog. Besonders schmerzhaft dürfte der Abschied von Atomf..."
+    },
+    {
+      "title": "Final Fantasy VII Revelation auf PS5 Pro mit exklusivem 4K-60-FPS-Modus",
+      "link": "https://www.playcentral.de/final-fantasy-vii-revelation-auf-ps5-pro-mit-exklusivem-4k-60-fps-modus/",
+      "pubDate": "21.09.2026 um 20:31 Uhr",
+      "timestamp": 1790022687.0,
+      "source": "PlayCentral",
+      "summary": "Wer Final Fantasy VII Revelation auf einer Konsole mit möglichst hoher Bildqualität und flüssiger Darstellung erleben möchte, dürfte an der PlayStatio..."
+    },
+    {
+      "title": "Destiny 2 ist tot, lang lebe Destiny: Bungie meldet sich mit überraschendem Statement und macht einen seiner größten Fehler rückgängig",
+      "link": "https://mein-mmo.de/destiny-2-doch-nicht-tot/",
+      "pubDate": "21.09.2026 um 19:47 Uhr",
+      "timestamp": 1790020050.0,
+      "source": "Mein-MMO",
+      "summary": "Destiny 2 galt schon als tot und begraben. Jetzt meldet sich die Studio-Führung mit einem überraschenden Statement. Der Beitrag Destiny 2 ist tot, lan..."
+    },
+    {
+      "title": "Baldurs Gate 3 – Fan-Kampagne The Sunless Citadel bringt neuen Dungeon",
+      "link": "https://www.playcentral.de/baldurs-gate-3-fan-kampagne-the-sunless-citadel-bringt-neuen-dungeon/",
+      "pubDate": "21.09.2026 um 19:32 Uhr",
+      "timestamp": 1790019153.0,
+      "source": "PlayCentral",
+      "summary": "Die Modding Community von Baldur’s Gate 3 liefert erneut einen starken Grund, das gefeierte Rollenspiel von Larian Studios zu starten. Mit The Sunless..."
+    },
+    {
+      "title": "Final Fantasy VII Revelation – Warum ihr für alles mehrere Runs braucht",
+      "link": "https://www.playcentral.de/final-fantasy-vii-revelation-warum-ihr-fuer-alles-mehrere-runs-braucht/",
+      "pubDate": "21.09.2026 um 19:31 Uhr",
+      "timestamp": 1790019093.0,
+      "source": "PlayCentral",
+      "summary": "Final Fantasy VII Revelation soll den Abschluss der Remake-Trilogie nicht nur besonders umfangreich, sondern auch deutlich abwechslungsreicher gestalt..."
+    },
+    {
       "title": "Tomb Raider: Lara Croft kommt als drei Meter hohe Statue nach Derby",
       "link": "https://www.computerbase.de/news/gaming/tomb-raider-lara-croft-kommt-als-drei-meter-hohe-statue-nach-derby.99500/",
       "pubDate": "21.09.2026 um 20:01 Uhr",
@@ -9,20 +57,20 @@
       "summary": "Eine erfolgreiche Crowdfunding-Kampagne bringt Lara Croft zurück in ihre Geburtsstadt Derby. Mehr als 30.000 britische Pfund stehen bereit, um eine kn..."
     },
     {
-      "title": "Twitch-Streamer führt in Wardogs einen Gunfight, den er nicht gewinnen kann – Spielt so schlecht, Zuschauer meinen: Das muss Absicht sein",
-      "link": "https://mein-mmo.de/twitch-streamer-in-wardogs-lucky-luke/",
-      "pubDate": "21.09.2026 um 18:00 Uhr",
-      "timestamp": 1790013600.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Twitch-Streamer wird in Wardogs unabsichtlich zu Lucky Luke. Seine Zuschauer können nicht glauben, dass jemand wirklich so schlecht ist. Der Beitr..."
-    },
-    {
       "title": "Eines der stärksten Wesen von DC kennt wohl kaum jemand, selbst Superman hätte ihm nichts entgegenzusetzen",
       "link": "https://mein-mmo.de/animal-man-dc-comics-writer-lore-maechtige-entitaet/",
       "pubDate": "21.09.2026 um 18:00 Uhr",
       "timestamp": 1790013600.0,
       "source": "Mein-MMO",
       "summary": "Eine besondere Comic-Reihe von DC stellte eines der mächtigsten Wesen aller Zeiten vor, obwohl es eigentlich nur ein Mensch ist. Der Beitrag Eines der..."
+    },
+    {
+      "title": "Twitch-Streamer führt in Wardogs einen Gunfight, den er nicht gewinnen kann – Spielt so schlecht, Zuschauer meinen: Das muss Absicht sein",
+      "link": "https://mein-mmo.de/twitch-streamer-in-wardogs-lucky-luke/",
+      "pubDate": "21.09.2026 um 18:00 Uhr",
+      "timestamp": 1790013600.0,
+      "source": "Mein-MMO",
+      "summary": "Ein Twitch-Streamer wird in Wardogs unabsichtlich zu Lucky Luke. Seine Zuschauer können nicht glauben, dass jemand wirklich so schlecht ist. Der Beitr..."
     },
     {
       "title": "Steam verschenkt Space Menace und Deadshot – Frist endet am 23. September 2026",
@@ -89,209 +137,169 @@
       "summary": "MeinMMO stellt euch die besten Talente im Karrieremodus vor. Dazu gehören sowohl die besten Talente für Männer- als auch Frauen-Ligen. Der Beitrag EA ..."
     },
     {
-      "title": "Mycopunk kommt im Oktober 2026 direkt zu PS Plus Extra und Premium auf PS5",
-      "link": "https://www.playcentral.de/mycopunk-kommt-im-oktober-2026-direkt-zu-ps-plus-extra-und-premium-auf-ps5/",
-      "pubDate": "21.09.2026 um 15:34 Uhr",
-      "timestamp": 1790004874.0,
-      "source": "PlayCentral",
-      "summary": "Sony hat überraschend früh den ersten Neuzugang für den PlayStation Plus Spielekatalog im Oktober 2026 bestätigt. Ab dem 20. Oktober 2026 steht Mycopu..."
-    },
-    {
-      "title": "Moylo auf Steam – Cuphead-Optik trifft Nahkampf, Bosse und düstere Welt",
-      "link": "https://www.playcentral.de/moylo-auf-steam-cuphead-optik-trifft-nahkampf-bosse-und-duestere-welt/",
-      "pubDate": "21.09.2026 um 15:32 Uhr",
-      "timestamp": 1790004752.0,
-      "source": "PlayCentral",
-      "summary": "Mit Moylo kündigt sich auf Steam ein handgezeichnetes 2D-Actionspiel an, das Fans von Cuphead und Hollow Knight aufhorchen lassen dürfte. Entwickler u..."
-    },
-    {
       "title": "Noch vor iPhone Duo: Falt-Smartphone vivo X Fold6 kommt nach Europa",
       "link": "https://www.computerbase.de/news/smartphones/noch-vor-iphone-duo-falt-smartphone-vivo-x-fold6-kommt-nach-europa.99496/",
       "pubDate": "21.09.2026 um 17:23 Uhr",
       "timestamp": 1790004180.0,
       "source": "ComputerBase",
       "summary": "Vivo bringt das Falt-Smartphone vivo X Fold6 schon in wenigen Tagen auch in Europa in den Handel und kommt somit Apple mit dem Marktstart des iPhone D..."
-    },
-    {
-      "title": "Loftia: Das gemütliche Solarpunk-MMO startet im November in den Early Access",
-      "link": "https://www.eurogamer.de/loftia-early-access-release-termin",
-      "pubDate": "21.09.2026 um 15:00 Uhr",
-      "timestamp": 1790002852.0,
-      "source": "Eurogamer.de News",
-      "summary": "Loftia erscheint am 3. November 2026 im Early Access auf dem PC. Dabei handelt es sich um ein neues Cozy-Life-Sim-MMO, welches das erste Projekt des S..."
-    },
-    {
-      "title": "Obsidians neues Fallout – nutzte das Studio Ideen aus Project Michigan?",
-      "link": "https://www.playcentral.de/obsidians-neues-fallout-nutzte-das-studio-ideen-aus-project-michigan/",
-      "pubDate": "21.09.2026 um 14:32 Uhr",
-      "timestamp": 1790001131.0,
-      "source": "PlayCentral",
-      "summary": "Obsidian Entertainment arbeitet offiziell wieder an Fallout. Obwohl das Projekt erst im Zuge der neuen Xbox-Ausrichtung bestätigt wurde, könnte die En..."
-    },
-    {
-      "title": "Apple Mac mini M6 im Test: Der neue Super-Core eilt mal wieder davon",
-      "link": "https://www.computerbase.de/artikel/pc-systeme/apple-mac-mini-m6-test.99469/",
-      "pubDate": "21.09.2026 um 16:30 Uhr",
-      "timestamp": 1790001000.0,
-      "source": "ComputerBase",
-      "summary": "Beim Apple M5 ging der Mac mini leer aus. Beim Apple M6 ist er jetzt direkt der erste Mac, der das neue SoC erhält. Was Apples aktueller Mini-PC in de..."
-    },
-    {
-      "title": "Nicht das moderne WoW wird an Forever zugrunde gehen, sondern Classic",
-      "link": "https://mein-mmo.de/wow-forever-wird-nicht-retail-besiegen-sondern-classic/",
-      "pubDate": "21.09.2026 um 14:30 Uhr",
-      "timestamp": 1790001000.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Dämon Cortyn glaubt zu wissen, was mit World of Warcraft passieren wird. Nicht das moderne WoW hat ein Problem, sondern Classic. Der Beitrag N..."
     }
   ],
   "int": [
     {
-      "title": "FF7 Revelation Will Fix One of Rebirth’s Worst Features",
-      "link": "https://www.polygon.com/ff7-final-fantasy-7-revelation-auto-level/",
-      "pubDate": "21.09.2026 um 17:53 Uhr",
-      "timestamp": 1790013206.0,
-      "source": "Polygon.com",
-      "summary": "Remake trilogy director Naoki Hamaguchi revealed Final Fantasy 7 Revelation has a solution to RPG bloat"
-    },
-    {
-      "title": "A New Witcher Book Is in the Works, and It Might Be out Sooner than Expected",
-      "link": "https://www.polygon.com/witcher-next-book-andrzej-sapkowski-2027/",
-      "pubDate": "21.09.2026 um 17:40 Uhr",
-      "timestamp": 1790012404.0,
-      "source": "Polygon.com",
-      "summary": "Andrzej Sapkowski recently confirmed he's working on a new The Witcher book, and he hopes to have it completed relatively soon."
-    },
-    {
-      "title": "Xbox Patents New Way to Inject Ads Into Gaming",
-      "link": "https://www.polygon.com/microsoft-patent-in-game-ads-load-screens-pauses/",
-      "pubDate": "21.09.2026 um 17:34 Uhr",
-      "timestamp": 1790012057.0,
-      "source": "Polygon.com",
-      "summary": "Microsoft filed a patent for technology that would show players advertisements while they're gaming."
-    },
-    {
-      "title": "I Can Bearly Contain My Excitement For Fat Bear Week",
-      "link": "https://kotaku.com/happy-fat-bear-week-everyone-2000736138",
-      "pubDate": "21.09.2026 um 17:30 Uhr",
-      "timestamp": 1790011808.0,
+      "title": "At Least One Of Persona 4′s Original Actors Reprises Their Role In Revival",
+      "link": "https://kotaku.com/at-least-one-of-persona-4s-original-actors-reprises-their-role-in-revival-2000736219",
+      "pubDate": "21.09.2026 um 22:00 Uhr",
+      "timestamp": 1790028043.0,
       "source": "Kotaku",
-      "summary": "What do you MEAN you don't know about Fat Bear Week?!"
+      "summary": "But didn't the devs just say that they wanted to start over with the voice cast?"
     },
     {
-      "title": "Witcher Creator Says He’s Open to Unconventional Suggestions for Future Adaptations",
-      "link": "https://www.ign.com/articles/witcher-creator-says-hes-open-to-unconventional-suggestions-for-future-adaptations",
-      "pubDate": "21.09.2026 um 17:30 Uhr",
-      "timestamp": 1790011800.0,
-      "source": "IGN All",
-      "summary": "After being asked about a stage show production, such as what Game of Thrones is experimenting with, The Witcher creator has said he is \"open to sugge..."
-    },
-    {
-      "title": "GameStop's Shocking 'Pokémon' 30th Anniversary TCG Prices Have Been Quietly Redeemed",
-      "link": "https://www.polygon.com/pokemon-30th-anniversary-where-to-buy-gamestop-prices-etb/",
-      "pubDate": "21.09.2026 um 17:19 Uhr",
-      "timestamp": 1790011198.0,
-      "source": "Polygon.com",
-      "summary": "Pokémon TCG collectors hated GameStop's 30th Anniversary prices, yet the retailer may be the cheapest way to buy an ETB quickly."
-    },
-    {
-      "title": "New Bungie leaders insist they are fixing the studio despite Destiny 2 layoffs, tell players to \"keep us accountable\"",
-      "link": "https://www.gamesradar.com/games/destiny/new-bungie-leaders-insist-they-are-fixing-the-studio-despite-destiny-2-layoffs-tell-players-to-keep-us-accountable/",
-      "pubDate": "21.09.2026 um 17:18 Uhr",
-      "timestamp": 1790011132.0,
+      "title": "Diablo 5 tells \"three stories\" across the past, present, and future, and biomes will change shape depending on which of Diablo's minions is in charge",
+      "link": "https://www.gamesradar.com/games/diablo/diablo-5-tells-three-stories-across-the-past-present-and-future-and-biomes-will-change-shape-depending-on-which-of-diablos-minions-is-in-charge/",
+      "pubDate": "21.09.2026 um 21:48 Uhr",
+      "timestamp": 1790027323.0,
       "source": "Latest from GamesRadar+",
-      "summary": "\"We have to focus on the things you want to see from us\""
+      "summary": "\"We call it terror forming because these Dread Commanders will actually transform the environment\""
     },
     {
-      "title": "How long is Fire Emblem Fortune's Weave and how many chapters are there?",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-chapter-list-how-long-to-beat/",
-      "pubDate": "21.09.2026 um 17:15 Uhr",
-      "timestamp": 1790010920.0,
+      "title": "When is the point of no return in Fire Emblem Fortune's Weave",
+      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-point-of-no-return-recruitment-cutoff/",
+      "pubDate": "21.09.2026 um 21:37 Uhr",
+      "timestamp": 1790026648.0,
       "source": "Polygon.com",
-      "summary": "In this guide, you find a list of Fire Emblem: Fortune's Weave quests and also an explanation on how long it takes to finish  the game."
+      "summary": "Fire Emblem Fortune's Weave's has two points of no return, one of which is the cutoff for recruiting new characters."
     },
     {
-      "title": "Wait, how did Lego beat Minecraft to making a city builder?",
-      "link": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
-      "pubDate": "21.09.2026 um 17:14 Uhr",
-      "timestamp": 1790010871.0,
+      "title": "A developer with no games on Steam now has the store's third-most-wishlisted game, behind Light No Fire and Valve's Deadlock",
+      "link": "https://www.gamesradar.com/games/co-op/a-developer-with-no-games-on-steam-now-has-the-stores-third-most-wishlisted-game-behind-light-no-fire-and-valves-deadlock/",
+      "pubDate": "21.09.2026 um 21:18 Uhr",
+      "timestamp": 1790025482.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Ukraine dev Flexus's comedy co-op game Dear Passengers has a huge following"
+    },
+    {
+      "title": "Blizzard warns World of Warcraft: Forever players it will 'very aggressively' punish anyone who buys gold with real money",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/",
+      "pubDate": "21.09.2026 um 21:15 Uhr",
+      "timestamp": 1790025356.0,
       "source": "PCGamer latest",
-      "summary": "The only thing more obvious than a Lego city builder is a Minecraft city builder."
+      "summary": "Preserving the economy of the MMO is a top priority, the studio says."
     },
     {
-      "title": "Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'",
-      "link": "https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/",
-      "pubDate": "21.09.2026 um 17:13 Uhr",
-      "timestamp": 1790010809.0,
+      "title": "Daredevil: Born Again Officially Ending with Season 3",
+      "link": "https://www.polygon.com/daredevil-born-again-season-3-final-season-disney-plus/",
+      "pubDate": "21.09.2026 um 21:14 Uhr",
+      "timestamp": 1790025289.0,
+      "source": "Polygon.com",
+      "summary": "Daredevil: Born Again's next season will be its final one. The Disney Plus revival will have aired three seasons, just like its Netflix predecessor."
+    },
+    {
+      "title": "Daredevil: Born Again reportedly ending with season 3",
+      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/daredevil-born-again-reportedly-ending-with-season-3/",
+      "pubDate": "21.09.2026 um 21:08 Uhr",
+      "timestamp": 1790024923.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The news comes a little over a month after Daredevil: Born Again season 3 wrapped filming"
+    },
+    {
+      "title": "YouTuber Logan Paul's Latest Pokémon Scheme Was A Total Flop",
+      "link": "https://www.polygon.com/pokemon-logan-paul-youtube-twitch-shiny-steelix-what-happened/",
+      "pubDate": "21.09.2026 um 21:01 Uhr",
+      "timestamp": 1790024500.0,
+      "source": "Polygon.com",
+      "summary": "The controversial influencer vowed to broadcast his entire Pokémon shiny hunt on Twitch and YouTube only to quit multiple times"
+    },
+    {
+      "title": "The Resident Evil Movie Is a Perfect Video Game Adaptation",
+      "link": "https://www.polygon.com/resident-evil-movie-zach-cregger-adaptation/",
+      "pubDate": "21.09.2026 um 21:00 Uhr",
+      "timestamp": 1790024415.0,
+      "source": "Polygon.com",
+      "summary": "Zach Cregger's Resident Evil adaptation captures the spirit of the video game series in an unexpected, but very faithful way."
+    },
+    {
+      "title": "Destiny 2 Fans Declare Victory After Months Of Crashing Out: ‘It Worked’",
+      "link": "https://kotaku.com/destiny-2-fans-declare-victory-after-months-of-crashing-out-it-worked-2000736216",
+      "pubDate": "21.09.2026 um 21:00 Uhr",
+      "timestamp": 1790024408.0,
+      "source": "Kotaku",
+      "summary": "Bungie promises it has 'more stories to tell' in the Destiny universe"
+    },
+    {
+      "title": "Former Valve writer says \"giant teams just don't work\" in video game development, unless you're making GTA 6",
+      "link": "https://www.gamesradar.com/games/former-valve-writer-says-giant-teams-just-dont-work-in-video-game-development-unless-youre-making-gta-6/",
+      "pubDate": "21.09.2026 um 20:59 Uhr",
+      "timestamp": 1790024391.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Chet Faliszek doesn't think Valve needs to get any bigger"
+    },
+    {
+      "title": "The best Elden Ring mod is coming to the worst Dark Souls game tomorrow, and the new seamless co-op also has prox chat and quality-of-life fixes",
+      "link": "https://www.gamesradar.com/games/dark-souls/the-best-elden-ring-mod-is-coming-to-the-worst-dark-souls-game-tomorrow-and-the-new-seamless-co-op-also-has-prox-chat-and-quality-of-life-fixes/",
+      "pubDate": "21.09.2026 um 20:56 Uhr",
+      "timestamp": 1790024184.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Dark Souls 2 seamless co-op is nearly here"
+    },
+    {
+      "title": "'All roads lead back to Arma'",
+      "link": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+      "pubDate": "21.09.2026 um 20:39 Uhr",
+      "timestamp": 1790023161.0,
       "source": "PCGamer latest",
-      "summary": "\"We are not done with Destiny.\""
+      "summary": "Without Arma, gaming would look a lot different right now."
     },
     {
-      "title": "The Bose QuietComfort Ultra Wireless Noise Canceling Headphones Drops Below $200",
-      "link": "https://www.ign.com/articles/bose-quietcomfort-ultra-wireless-noise-canceling-headphones-deal-september-2026",
-      "pubDate": "21.09.2026 um 17:10 Uhr",
-      "timestamp": 1790010600.0,
+      "title": "Best Buy Is Offering $900 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop for One Day Only",
+      "link": "https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026",
+      "pubDate": "21.09.2026 um 20:35 Uhr",
+      "timestamp": 1790022900.0,
       "source": "IGN All",
-      "summary": "Including the Diamond 60th Edition colorway."
+      "summary": "Premium all-metal build quality."
     },
     {
-      "title": "Marathon Didn’t Reach As Many Players As Bungie ‘Hoped’ And ‘Needs To Evolve’",
-      "link": "https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189",
-      "pubDate": "21.09.2026 um 17:07 Uhr",
-      "timestamp": 1790010475.0,
+      "title": "The Blood Of Dawnwalker’s First Big Patch Will Add An Easier Difficulty That Eliminates Combat",
+      "link": "https://kotaku.com/the-blood-of-dawnwalker-patch-october-new-difficulty-2000736195",
+      "pubDate": "21.09.2026 um 20:30 Uhr",
+      "timestamp": 1790022647.0,
       "source": "Kotaku",
-      "summary": "The excellent extraction shooter is in a bad place"
+      "summary": "There's also a potential new game+ mode coming"
     },
     {
-      "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
-      "link": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-      "pubDate": "21.09.2026 um 17:06 Uhr",
-      "timestamp": 1790010386.0,
-      "source": "Eurogamer.net News",
-      "summary": "Bungie's been having a tough time these past few years, but the studio's new leadership is making big promises. Starting with Destiny 2 - the devs wil..."
-    },
-    {
-      "title": "Where to find paradise fish in Fire Emblem Fortune's Weave",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-paradise-fish-where-to-find-location-ninae/",
-      "pubDate": "21.09.2026 um 17:06 Uhr",
-      "timestamp": 1790010367.0,
+      "title": "Game of Thrones Actor Addresses Marvel's Midnight Sons Movie Rumors",
+      "link": "https://www.polygon.com/marvel-midnight-sons-kit-harington-black-knight/",
+      "pubDate": "21.09.2026 um 20:26 Uhr",
+      "timestamp": 1790022388.0,
       "source": "Polygon.com",
-      "summary": "In this guide, you learn where to find paradise fish in Fire Emblem: Fortune's Weave and the best route to reach the place."
+      "summary": "Kit Harington's Black Knight isn't returning to the MCU any time soon, the actor says, shooting down rumors of a Midnight Sons Marvel movie."
     },
     {
-      "title": "Bungie Officially Bringing Back Destiny in Major Update",
-      "link": "https://www.polygon.com/destiny-2-return-marathon-update-bungie/",
-      "pubDate": "21.09.2026 um 17:03 Uhr",
-      "timestamp": 1790010238.0,
-      "source": "Polygon.com",
-      "summary": "Destiny 2 content is returning as Bungie recommits to Destiny and evolving Marathon in a big update from new studio heads."
+      "title": "Rockstar asks modders to please take its games very seriously",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
+      "pubDate": "21.09.2026 um 20:14 Uhr",
+      "timestamp": 1790021665.0,
+      "source": "PCGamer latest",
+      "summary": "In mod guidelines published earlier this month, Rockstar tells modders to \"respect our games.\""
     },
     {
-      "title": "Pokémon Card Scalpers Are Moaning That The 30th Anniversary Set Isn't Profitable Enough For Them, as Rare Cards Have Been Made Easier to Find",
-      "link": "https://www.ign.com/articles/pokemon-card-scalpers-are-moaning-that-the-30th-anniversary-set-isnt-profitable-enough-for-them-as-rare-cards-have-been-made-easier-to-find",
-      "pubDate": "21.09.2026 um 17:02 Uhr",
-      "timestamp": 1790010123.0,
+      "title": "Final Fantasy 7 Revelation Will Include Option to Let Players Automatically Level Up Their Characters, but Not Everyone Is Happy About It",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-will-include-option-to-let-players-automatically-level-up-their-characters-but-not-everyone-is-happy-about-it",
+      "pubDate": "21.09.2026 um 20:10 Uhr",
+      "timestamp": 1790021414.0,
       "source": "IGN All",
-      "summary": "Pokémon scalpers are complaining that the franchise's new 30th Anniversary set has been too generous with its rare cards — leaving resellers unable to..."
-    },
-    {
-      "title": "Critical Role's New Daggerheart Campaign Reinvents a Formula That Made D&D History",
-      "link": "https://www.polygon.com/critical-role-daggerheart-hope-fear-campaign-dnd-curse-of-strahd-perkins-crawford-interview/",
-      "pubDate": "21.09.2026 um 17:00 Uhr",
-      "timestamp": 1790010015.0,
-      "source": "Polygon.com",
-      "summary": "Former D&amp;D head designers reveal how their main contribution to Daggerheart's new Hope & Fear book is a homage to D&amp;D's most successful advent..."
-    },
-    {
-      "title": "Ken Jennings Proves He’s A Born Poster, References ‘Slut Gnomes’ Meme In Jeopardy! Categories",
-      "link": "https://kotaku.com/ken-jennings-jeopardy-slut-gnomes-false-berlin-2000736097",
-      "pubDate": "21.09.2026 um 17:00 Uhr",
-      "timestamp": 1790010003.0,
-      "source": "Kotaku",
-      "summary": "'Bizarre little men'"
+      "summary": "Speaking with IGN Japan at Tokyo Game Show, Final Fantasy 7 Revelation director Naoki Hamaguchi said the game will contain an option to let players au..."
     }
   ],
   "sim": [
+    {
+      "title": "This Week in iRacing | September 22nd to September 28th, 2026",
+      "link": "https://www.iracing.com/this-week-in-iracing-september-22nd-to-september-28th-2026/",
+      "pubDate": "21.09.2026 um 21:00 Uhr",
+      "timestamp": 1790024419.0,
+      "source": "iRacing.com",
+      "summary": "Welcome back to This Week in iRacing, your guide to the daily, even hourly racing that members can get into, based on where their license level is at...."
+    },
     {
       "title": "Gran Turismo 7 Daily Races: Middle Management",
       "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-middle-management-20260921/",
@@ -395,14 +403,6 @@
       "timestamp": 1789510514.0,
       "source": "iRacing.com",
       "summary": "Time trials are open now for the Peachtree Pursuit at Echo Park Speedway, the upcoming round of the 2026-27 season of the eNASCAR College iRacing Seri..."
-    },
-    {
-      "title": "Logitech G returns as eNASCAR College iRacing Series presenting sponsor in 2026-27 collegiate season",
-      "link": "https://www.iracing.com/logitech-g-returns-as-enascar-college-iracing-series-presenting-sponsor-in-2026-27-collegiate-season/",
-      "pubDate": "15.09.2026 um 22:00 Uhr",
-      "timestamp": 1789509639.0,
-      "source": "iRacing.com",
-      "summary": "A new academic year begins this month for the students in the eNASCAR College iRacing Series.  The new season brings changes in many facets, such as t..."
     },
     {
       "title": "Gran Turismo 7 Daily Races: Stuck in the Meta With You",
