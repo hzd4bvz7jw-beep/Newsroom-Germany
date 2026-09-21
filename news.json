@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "Tweaker-Konkurrenz: NTLite verbessert Update-Down­loader und behebt Instal­lations­abstürze",
+      "link": "https://www.computerbase.de/news/apps/tweaker-konkurrenz-ntlite-verbessert-update-downloader-und-behebt-installationsabstuerze.99487/",
+      "pubDate": "21.09.2026 um 07:55 Uhr",
+      "timestamp": 1789970100.0,
+      "source": "ComputerBase",
+      "summary": "NTLite 2026.09.12200 verbessert die Verwaltung von Windows-Features, Sprachpaketen und Updates. Neu sind die gemeinsame Bearbeitung der Windows-Wieder..."
+    },
+    {
+      "title": "OpenAI & Co: Sammelklage sieht koordin­ier­te Verlangsa­mung der KI-Entwick­lung",
+      "link": "https://www.computerbase.de/news/wirtschaft/openai-und-co-sammelklage-sieht-koordinierte-verlangsamung-der-ki-entwicklung.99486/",
+      "pubDate": "21.09.2026 um 07:18 Uhr",
+      "timestamp": 1789967880.0,
+      "source": "ComputerBase",
+      "summary": "Eine Sammelklage wirft Anthropic, OpenAI, SpaceXAI und Google vor, sich rechtswidrig auf eine Verlangsamung ihrer KI-Entwicklung verständigt zu haben...."
+    },
+    {
+      "title": "FF14 – Regalia Typ-G kehrt zurück, so bekommt ihr das Reittier für MGP",
+      "link": "https://www.playcentral.de/ff14-regalia-typ-g-kehrt-zurueck-so-bekommt-ihr-das-reittier-fuer-mgp/",
+      "pubDate": "21.09.2026 um 04:31 Uhr",
+      "timestamp": 1789965096.0,
+      "source": "PlayCentral",
+      "summary": "In Final Fantasy XIV kehrt schon bald eine besonders begehrte Belohnung zurück. Im Rahmen der erneuten Kollaboration mit Final Fantasy XV können sich ..."
+    },
+    {
+      "title": "WoW Forever entfernt eine super-nervige Mechanik aus Classic, schont eure Nerven",
+      "link": "https://mein-mmo.de/wow-forever-keine-weltbuffs-fuer-raids/",
+      "pubDate": "21.09.2026 um 04:30 Uhr",
+      "timestamp": 1789965000.0,
+      "source": "Mein-MMO",
+      "summary": "Welt-Buffs waren in WoW Classic unerlässlich. Für viele Gruppen galten sie als Pflicht. Doch in WoW Forever wird es sie in dieser Form nicht geben. De..."
+    },
+    {
+      "title": "Woodo auf Steam sehr positiv – Cozy-Rätselspiel in hölzernen Dioramen",
+      "link": "https://www.playcentral.de/woodo-auf-steam-sehr-positiv-cozy-raetselspiel-in-hoelzernen-dioramen/",
+      "pubDate": "21.09.2026 um 01:31 Uhr",
+      "timestamp": 1789954287.0,
+      "source": "PlayCentral",
+      "summary": "Mit Woodo ist am 16. September 2026 ein neues Cozy-Spiel erschienen, das auf Steam einen bemerkenswert starken Start hinlegt. 98 Prozent der bislang r..."
+    },
+    {
       "title": "WoW Forever bekommt Controller-Support und lockert Transmog-Regeln",
       "link": "https://www.playcentral.de/wow-forever-bekommt-controller-support-und-lockert-transmog-regeln/",
       "pubDate": "20.09.2026 um 23:31 Uhr",
@@ -81,14 +121,6 @@
       "summary": "Control Resonant steht kurz vor dem Launch und auch auf die Technik des Spiels wird nach den ersten Reviews n&auml;her eingegangen. Mehr"
     },
     {
-      "title": "Kojima Productions kontert Gerüchte – Physint wird jetzt mit Xbox gemacht",
-      "link": "https://www.playcentral.de/kojima-productions-kontert-geruechte-physint-wird-jetzt-mit-xbox-gemacht/",
-      "pubDate": "20.09.2026 um 15:31 Uhr",
-      "timestamp": 1789918298.0,
-      "source": "PlayCentral",
-      "summary": "Kojima Productions hat sich am 20. September 2026 offiziell zu den Spekulationen rund um PlayStation und Physint geäußert. Vorausgegangen war Sonys üb..."
-    },
-    {
       "title": "Xbox Disc to Digital: Darum kann Sony das Feature laut Bericht nicht einfach kopieren",
       "link": "https://www.eurogamer.de/xbox-disc-digital-sony-feature",
       "pubDate": "20.09.2026 um 15:30 Uhr",
@@ -111,41 +143,73 @@
       "timestamp": 1789917178.0,
       "source": "Mein-MMO",
       "summary": "OLED gilt als das Maß der Dinge in Sachen Bildqualität und jetzt gibt es einen gut bewerteten Gaming-Monitor besonders günstig im Angebot. Der Beitrag..."
-    },
-    {
-      "title": "Nintendo Switch 2: Neues Update repariert Abwärtskompatibilität für über 20 Spiele",
-      "link": "https://www.eurogamer.de/nintendo-switch-2-update-abwaertskompatibilitaet",
-      "pubDate": "20.09.2026 um 15:09 Uhr",
-      "timestamp": 1789916940.0,
-      "source": "Eurogamer.de News",
-      "summary": "Nintendo arbeitet weiterhin flei&szlig;ig an der Abw&auml;rtskompatibilit&auml;t der Nintendo Switch 2 und nimmt regelm&auml;&szlig;ig Optimierungen v..."
-    },
-    {
-      "title": "Physint: Kojima über den Schock des Sony-Aus und die schnelle Rettung durch Xbox",
-      "link": "https://www.eurogamer.de/physint-kojima-sony-aus-xbox-rettung",
-      "pubDate": "20.09.2026 um 14:45 Uhr",
-      "timestamp": 1789915500.0,
-      "source": "Eurogamer.de News",
-      "summary": "Letzte Woche erfuhren wir, dass Sony bei Kojima Productions' ehemals PlayStation-exklusivem \"Action-Spionage\"-Spiel Physint \"ausgestiegen\" ist. Nach d..."
-    },
-    {
-      "title": "RuneScape: Dragonwilds: Neues Update rettet kaputte Spielstände",
-      "link": "https://www.eurogamer.de/runescape-dragonwilds-update-patch-spielstaende",
-      "pubDate": "20.09.2026 um 14:30 Uhr",
-      "timestamp": 1789914600.0,
-      "source": "Eurogamer.de News",
-      "summary": "Mit einem gestern ver&ouml;ffentlichten Patch hat Jagex ein dringendes Problem in RuneScape: Dragonwilds behoben, das zu kaputten Welt-Speicherst&auml..."
-    },
-    {
-      "title": "Nintendo: Warum Mario und Zelda nicht ständig neue Fortsetzungen bekommen",
-      "link": "https://www.eurogamer.de/nintendo-mario-zelda-iwata-fortsetzungen",
-      "pubDate": "20.09.2026 um 14:08 Uhr",
-      "timestamp": 1789913280.0,
-      "source": "Eurogamer.de News",
-      "summary": "Zwischen zwei Hauptspielen seiner gro&szlig;en Franchises l&auml;sst sich Nintendo gerne mal etwas mehr Zeit. Denkt nur daran, dass etwa Super Mario O..."
     }
   ],
   "int": [
+    {
+      "title": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?",
+      "link": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
+      "pubDate": "21.09.2026 um 04:24 Uhr",
+      "timestamp": 1789964665.0,
+      "source": "PCGamer latest",
+      "summary": "All the interesting Steam facts for the week ending September 20."
+    },
+    {
+      "title": "J.J. Abrams' Near-Perfect \"Lost Meets X-Files\" Sci-Fi Series Is Officially Free on Streaming",
+      "link": "https://www.polygon.com/j-j-abrams-cult-sci-fi-series-streaming-free/",
+      "pubDate": "21.09.2026 um 04:00 Uhr",
+      "timestamp": 1789963220.0,
+      "source": "Polygon.com",
+      "summary": "Watch this underrated classic if you're fond of fantasy and hard sci-fi."
+    },
+    {
+      "title": "25 Years Later, the GameCube’s 5 Best Launch Games Are Still As Good as Ever",
+      "link": "https://www.polygon.com/gamecube-launch-games-ranked/",
+      "pubDate": "21.09.2026 um 03:30 Uhr",
+      "timestamp": 1789961414.0,
+      "source": "Polygon.com",
+      "summary": "For the GameCube's 25th anniversary, we looked back at an unexpectedly solid launch lineup full of surprises/"
+    },
+    {
+      "title": "Who Killed Hal Jordan on Lanterns? Ranking the 5 Prime Suspects",
+      "link": "https://www.polygon.com/lanterns-episode-6-who-killed-hal-theories/",
+      "pubDate": "21.09.2026 um 02:30 Uhr",
+      "timestamp": 1789957814.0,
+      "source": "Polygon.com",
+      "summary": "Who killed Hal Jordan on Lanterns? We rank the five prime suspects after episode 6, including John Stewart, Kerry Kane, Billy Macon, Maggie, and Noah."
+    },
+    {
+      "title": "'Lanterns' Episode 6 Explained: Who Is Carol Ferris and What Is Her Relationship to Hal Jordan?",
+      "link": "https://www.polygon.com/lanterns-carol-ferris-explainer/",
+      "pubDate": "21.09.2026 um 02:00 Uhr",
+      "timestamp": 1789956027.0,
+      "source": "Polygon.com",
+      "summary": "During the latest Lanterns episode, someone from Hal's past emerges in Rushville. So who exactly is Carol Ferris? The comics have an answer."
+    },
+    {
+      "title": "Lanterns Season 1, Episode 6 Review & Recap",
+      "link": "https://www.ign.com/articles/lanterns-season-1-episode-6-review-recap",
+      "pubDate": "21.09.2026 um 02:00 Uhr",
+      "timestamp": 1789956000.0,
+      "source": "IGN All",
+      "summary": "Lanterns stumbles in Episode 6, as the series finally returns to the present day but struggles to maintain its narrative momentum. Read our full revie..."
+    },
+    {
+      "title": "The Beekeeper Meets Ghost Recon in Jim Caviezel's New Action-Thriller Movie",
+      "link": "https://www.polygon.com/ghost-soldier-jim-caviezel-action-movie/",
+      "pubDate": "21.09.2026 um 01:51 Uhr",
+      "timestamp": 1789955474.0,
+      "source": "Polygon.com",
+      "summary": "Ghost Soldier is an upcoming PG-13 revenge movie starring Sound of Freedom's Jim Caviezel going full Statham."
+    },
+    {
+      "title": "'Lanterns' Just Officially Settled a Major Question About the New DCU’s Canon",
+      "link": "https://www.polygon.com/lanterns-episode-6-starro-suicide-squad/",
+      "pubDate": "21.09.2026 um 01:15 Uhr",
+      "timestamp": 1789953314.0,
+      "source": "Polygon.com",
+      "summary": "Lanterns episode 6 confirms that Starro’s attack from The Suicide Squad happened in the new DCU, clarifying James Gunn’s “imperfect memory” canon."
+    },
     {
       "title": "Call of Duty Warzone Officially Shutting Down Next Month on PS4, Xbox One",
       "link": "https://www.polygon.com/call-of-duty-warzone-shutting-down-ps4-xbox-one/",
@@ -169,14 +233,6 @@
       "timestamp": 1789944251.0,
       "source": "IGN All",
       "summary": "Monster: The Lizzie Borden Story aims to be an insightful commentary on female rage, but it never commits to how it wants to convey that message."
-    },
-    {
-      "title": "10 Years Ago, One Thought-Provoking RPG Transformed the Genre Forever",
-      "link": "https://www.polygon.com/persona-5-10th-anniversary/",
-      "pubDate": "20.09.2026 um 22:30 Uhr",
-      "timestamp": 1789943415.0,
-      "source": "Polygon.com",
-      "summary": "It's Persona 5 10th anniversary and in this blog we explore how Atlus changed how human identity is seen from previous games"
     },
     {
       "title": "Potential Glimpse At Yoko Taro’s Neon Genesis Evangelion Drops At The Weeknd Concert",
@@ -219,14 +275,6 @@
       "summary": "The gamer's traditional enemy, the typhoon."
     },
     {
-      "title": "This 40-Year-Old Video Game Is Somehow More Fun Than Ever",
-      "link": "https://www.polygon.com/mario-bros-nes-arcade-retrospective/",
-      "pubDate": "20.09.2026 um 19:00 Uhr",
-      "timestamp": 1789930816.0,
-      "source": "Polygon.com",
-      "summary": "Classic games don't always hold up well, but this one got better with age."
-    },
-    {
       "title": "Zach Cregger's Resident Evil Defies Expectations With $108 Million Box Office Opening Weekend",
       "link": "https://www.ign.com/articles/zach-creggers-resident-evil-defies-expectations-with-108-million-box-office-opening-weekend",
       "pubDate": "20.09.2026 um 18:50 Uhr",
@@ -241,54 +289,6 @@
       "timestamp": 1789929495.0,
       "source": "PCGamer latest",
       "summary": "A new spin on an old favorite."
-    },
-    {
-      "title": "Disney+ to Allow Ads on All Plans Following Changes Detailed in Updated Subscriber Agreement",
-      "link": "https://www.ign.com/articles/disney-to-allow-ads-on-all-plans-following-changes-detailed-in-updated-subscriber-agreement",
-      "pubDate": "20.09.2026 um 18:18 Uhr",
-      "timestamp": 1789928327.0,
-      "source": "IGN All",
-      "summary": "Disney+ has altered its user agreement to clarify that ads will be allowed on all subscription tiers."
-    },
-    {
-      "title": "37 Years Later, the Best 'Calvin and Hobbes' Dad Quote Is Still in a League of Its Own",
-      "link": "https://www.polygon.com/best-quote-calvin-hobbes-dad-comic-strip/",
-      "pubDate": "20.09.2026 um 18:05 Uhr",
-      "timestamp": 1789927515.0,
-      "source": "Polygon.com",
-      "summary": "Calvin's the star of the show in Calvin and Hobbes, but don't discount his parents."
-    },
-    {
-      "title": "Ethan Hawke's Nail-Biting New Thriller Stole a Movie Magic Trick from Indiana Jones",
-      "link": "https://www.polygon.com/the-weight-movie-interview-ethan-hawke/",
-      "pubDate": "20.09.2026 um 18:00 Uhr",
-      "timestamp": 1789927215.0,
-      "source": "Polygon.com",
-      "summary": "Ethan Hawke and director Padraic McKinley discuss their gripping new drama, The Weight."
-    },
-    {
-      "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Hits Harder Than Ever",
-      "link": "https://www.polygon.com/the-best-star-trek-quote/",
-      "pubDate": "20.09.2026 um 17:57 Uhr",
-      "timestamp": 1789927034.0,
-      "source": "Polygon.com",
-      "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series."
-    },
-    {
-      "title": "Marvel Tōkon: Fighting Souls Is Still Fighting For Its Life On Steam",
-      "link": "https://kotaku.com/marvel-tokon-fighting-souls-is-still-fighting-for-its-life-on-steam-2000735883",
-      "pubDate": "20.09.2026 um 17:31 Uhr",
-      "timestamp": 1789925513.0,
-      "source": "Kotaku",
-      "summary": "Marvel Tōkon: Fighting Souls' has dipped into three-figure player counts on Steam, and it's less-than-impressive sales numbers are likely to blame"
-    },
-    {
-      "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
-      "link": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date",
-      "pubDate": "20.09.2026 um 17:30 Uhr",
-      "timestamp": 1789925400.0,
-      "source": "IGN All",
-      "summary": "Escape from Playtime, the co-op survival horror extraction spinoff of the popular Poppy's Playtime episodic horror games that was announced at Gamesco..."
     }
   ],
   "sim": [
