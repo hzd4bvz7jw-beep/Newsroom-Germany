@@ -1,6 +1,70 @@
 {
   "de": [
     {
+      "title": "Hinweis auf Speichertyp für RDNA 5: AMDs Linux-Treiber bekommt GDDR7-Eintrag",
+      "link": "https://www.computerbase.de/news/grafikkarten/hinweis-auf-speichertyp-fuer-rdna-5-amds-linux-treiber-bekommt-gddr7-eintrag.99512/",
+      "pubDate": "22.09.2026 um 22:32 Uhr",
+      "timestamp": 1790109120.0,
+      "source": "ComputerBase",
+      "summary": "Ein neuer Patch für den Linux-Treiber AMDGPU führt erstmals die Bezeichnung „GDDR7“ für Videospeicher ein. Zusammen mit weiteren aktuellen Treiber-Pat..."
+    },
+    {
+      "title": "Snapdragon 8 Elite Extreme Gen 6: Extreme ist bei Qualcomm die Steigerung von Elite",
+      "link": "https://www.computerbase.de/news/prozessoren/snapdragon-8-elite-extreme-gen-6-extreme-ist-bei-qualcomm-die-steigerung-von-elite.99408/",
+      "pubDate": "22.09.2026 um 22:01 Uhr",
+      "timestamp": 1790107260.0,
+      "source": "ComputerBase",
+      "summary": "Qualcomm startet mit einer Doppelspitze in die neue Smartphone-Saison. Der Snapdragon 8 Elite Gen 6 ist der Nachfolger des letztjährigen Gen 5, währen..."
+    },
+    {
+      "title": "Sonic: Sega wollte beinahe die gesamte Reihe einstellen, aber ein Film hat das Franchise gerettet",
+      "link": "https://www.eurogamer.de/sonic-the-hedgehog-franchise-aus-film-rettung",
+      "pubDate": "22.09.2026 um 18:32 Uhr",
+      "timestamp": 1790101970.0,
+      "source": "Eurogamer.de News",
+      "summary": "K&ouml;nnt ihr euch eine Welt vorstellen, in der Sonic als Franchise nicht mehr aktiv unterst&uuml;tzt wird? Keine Spiele, keine Filme? Nur die Erinne..."
+    },
+    {
+      "title": "State of Decay 3 bleibt Day One im Xbox Game Pass geplant – Release 2027",
+      "link": "https://www.playcentral.de/state-of-decay-3-bleibt-day-one-im-xbox-game-pass-geplant-release-2027/",
+      "pubDate": "22.09.2026 um 18:31 Uhr",
+      "timestamp": 1790101885.0,
+      "source": "PlayCentral",
+      "summary": "Bei State of Decay 3 bleibt eine der wichtigsten Zusagen für Xbox-Fans bestehen. Das ambitionierte Zombie-Survival-Spiel soll 2027 direkt zum Veröffen..."
+    },
+    {
+      "title": "Das Survival-Spiel zu RuneScape hat eines der besten Magie-Systeme, doch der nervige Grind hält es zurück",
+      "link": "https://mein-mmo.de/runescape-dragonwilds-coole-magie-nerviger-grind/",
+      "pubDate": "22.09.2026 um 18:00 Uhr",
+      "timestamp": 1790100000.0,
+      "source": "Mein-MMO",
+      "summary": "RuneScape: Dragonwilds bietet seine ganz eigene Magie. Die könnte allerdings deutlich mehr glänzen, wären da die namensgebenden Runen nicht. Der Beitr..."
+    },
+    {
+      "title": "Die 10 mächtigsten Mitglieder der Guardians of the Galaxy im Power-Ranking",
+      "link": "https://mein-mmo.de/die-10-maechtigsten-mitglieder-der-guardians-of-the-galaxy/",
+      "pubDate": "22.09.2026 um 18:00 Uhr",
+      "timestamp": 1790100000.0,
+      "source": "Mein-MMO",
+      "summary": "Jeder Marvel-Fan kennt die Guardians of the Galaxy, aber welche Mitglieder waren eigentlich die mächtigsten? Der Beitrag Die 10 mächtigsten Mitglieder..."
+    },
+    {
+      "title": "Gronkh war ein riesiger WoW-Nerd, bevor er unser aller Gaming-Onkel wurde",
+      "link": "https://mein-mmo.de/wow-gaming-daddy-gronkh/",
+      "pubDate": "22.09.2026 um 18:00 Uhr",
+      "timestamp": 1790100000.0,
+      "source": "Mein-MMO",
+      "summary": "Der YouTuber und Streamer Gronkh ist „einer von uns“ - denn er hat eine lange Geschichte mit World of Warcraft. Der Beitrag Gronkh war ein riesiger Wo..."
+    },
+    {
+      "title": "Lohnt es sich gerade, einen PC selbst zu bauen oder sollte man lieber fertig kaufen?",
+      "link": "https://mein-mmo.de/gaming-pc-selbstbau-fertig-pc-besser/",
+      "pubDate": "22.09.2026 um 18:00 Uhr",
+      "timestamp": 1790100000.0,
+      "source": "Mein-MMO",
+      "summary": "Selbauen oder Fertig-PC kaufen? MeinMMO hat sich eine Mittelklasse-Konfiguration angesehen und erklärt, was sich derzeit am meisten lohnt. Der Beitrag..."
+    },
+    {
       "title": "Resident Evil Code: Veronica: Insider dämpft Hoffnungen auf einen baldigen Release",
       "link": "https://www.eurogamer.de/resident-evil-code-veronica-release-verschoben",
       "pubDate": "22.09.2026 um 16:58 Uhr",
@@ -79,216 +143,152 @@
       "timestamp": 1790087831.0,
       "source": "Mein-MMO",
       "summary": "In EA Sports FC 27 müssen die neuen deutschen Kommentatoren erst eingestellt werden. Wie das geht, erfahrt ihr hier auf MeinMMO. Der Beitrag EA FC 27:..."
-    },
-    {
-      "title": "Ankündigung bearbeitet: Apple streicht heimlich neue Kamerastile für alte iPhones",
-      "link": "https://www.computerbase.de/news/smartphones/apple-neue-kamerastile-doch-nicht-fuer-iphone-16-pro-und-17-pro.99510/",
-      "pubDate": "22.09.2026 um 16:29 Uhr",
-      "timestamp": 1790087340.0,
-      "source": "ComputerBase",
-      "summary": "Im Kleingedruckten macht Apple heimlich einen Rückzieher: Die verbesserten fotografischen Stile des iPhone 18 Pro (Max) kommen doch nicht mit iOS 27 a..."
-    },
-    {
-      "title": "Xbox-Umstrukturierungen: Activision macht das nächste Halo, Ninja Theory droht das Aus",
-      "link": "https://www.eurogamer.de/xbox-entlassungen-umstrukturierung-halo-ninja-theory",
-      "pubDate": "22.09.2026 um 14:10 Uhr",
-      "timestamp": 1790086227.0,
-      "source": "Eurogamer.de News",
-      "summary": "Microsoft hat am Nachmittag ein Update zu seinen Bem&uuml;hungen bez&uuml;glich eines Xbox-Resets geteilt. Mehr"
-    },
-    {
-      "title": "007 First Light im Test: Pathtracing ist ein Game Changer mit Handbremse",
-      "link": "https://www.computerbase.de/artikel/gaming/007-first-light-pathtracing-test.99490/",
-      "pubDate": "22.09.2026 um 16:00 Uhr",
-      "timestamp": 1790085600.0,
-      "source": "ComputerBase",
-      "summary": "007 First Light hat per Patch Pathtracing erhalten. Zumindest auf GeForce-RTX-Grafikkarten, Radeon RX bleibt leider außen vor. Im Test zeigen sich tei..."
-    },
-    {
-      "title": "Trymacs hat in 6 Jahren 500.000 Euro für Pokémon-Karten ausgegeben, zeigt jetzt die Seite, die kaum jemand sieht",
-      "link": "https://mein-mmo.de/trymacs-zeigt-bulk-karten/",
-      "pubDate": "22.09.2026 um 13:51 Uhr",
-      "timestamp": 1790085066.0,
-      "source": "Mein-MMO",
-      "summary": "Trymacs zeigt auf Twitch, was nach 6 Jahren Sammeln und Öffnen von Pokémon-Karten wirklich bleibt. Der Beitrag Trymacs hat in 6 Jahren 500.000 Euro fü..."
-    },
-    {
-      "title": "Football Manager 27: Release-Zeitraum für November bestätigt und erstes Gameplay enthüllt",
-      "link": "https://www.eurogamer.de/football-manager-27-release-gameplay-video",
-      "pubDate": "22.09.2026 um 13:32 Uhr",
-      "timestamp": 1790083952.0,
-      "source": "Eurogamer.de News",
-      "summary": "Sega und Sports Interactive haben am Nachmittag best&auml;tigt, dass der Football Manager 27 im November erscheinen soll. Mehr"
-    },
-    {
-      "title": "Zwei Indie-Entwickler streiten gerade darüber, wer die Idee für ein Kartoffel-Spiel auf Steam hatte",
-      "link": "https://mein-mmo.de/indie-dev-wirft-spiel-vor-seine-idee-geklaut-zu-haben/",
-      "pubDate": "22.09.2026 um 13:23 Uhr",
-      "timestamp": 1790083419.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Indie-Entwickler äußert sich öffentlich gegen ein Kartoffel-Spiel, weil es angeblich seine Idee war und geklont wurde. Der Beitrag Zwei Indie-Entw..."
-    },
-    {
-      "title": "Ghost of Yotei: Riesiges Update mit knapp 30 GB bringt neue Funktionen noch vor dem DLC",
-      "link": "https://www.eurogamer.de/ghost-of-yotei-update-patch-transmog-beauty-mode",
-      "pubDate": "22.09.2026 um 13:21 Uhr",
-      "timestamp": 1790083269.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wenn ihr ein Spieler von Ghost of Yotei seid und heute zuf&auml;llig eure PlayStation 5 anschaltet, wartet dort eine kleine, gro&szlig;e &Uuml;berrasc..."
-    },
-    {
-      "title": "Aniimo: Mobile – Alles zu Release, Crossplay, Anforderungen und mehr",
-      "link": "https://mein-mmo.de/aniimo-mobile-release/",
-      "pubDate": "22.09.2026 um 13:12 Uhr",
-      "timestamp": 1790082750.0,
-      "source": "Mein-MMO",
-      "summary": "Nicht mehr lang und Aniimo erscheint auch für Android und iOS. Alles, was ihr dazu wissen solltet, erfahrt ihr hier bei MeinMMO. Der Beitrag Aniimo: M..."
     }
   ],
   "int": [
     {
-      "title": "'Coyote vs. Acme' Officially Gets Streaming Release Date",
-      "link": "https://www.polygon.com/coyote-vs-acme-streaming-release-date/",
-      "pubDate": "22.09.2026 um 17:53 Uhr",
-      "timestamp": 1790099608.0,
-      "source": "Polygon.com",
-      "summary": "After a successful theatrical run, 'Coyote vs. Acme' just got a digital streaming date."
+      "title": "Halo cinematic director \"promoted and laid off in the same week\" amid sweeping Xbox layoffs",
+      "link": "https://www.gamesradar.com/games/halo/halo-cinematic-director-promoted-and-laid-off-in-the-same-week-as-microsoft-continues-sweeping-xbox-layoffs/",
+      "pubDate": "22.09.2026 um 21:04 Uhr",
+      "timestamp": 1790111062.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "This Xbox reset feels more like a shutdown"
     },
     {
-      "title": "Xbox Game Studios Is Quickly Disappearing",
-      "link": "https://kotaku.com/xbox-game-studios-looks-like-its-about-to-disappear-completely-2000736477",
-      "pubDate": "22.09.2026 um 17:45 Uhr",
-      "timestamp": 1790099102.0,
+      "title": "Wardogs price will increase in early access: \"If you don't agree with that, please don't buy it\"",
+      "link": "https://www.gamesradar.com/games/fps/wardogs-price-will-increase-throughout-steam-early-access-and-if-you-dont-agree-with-that-please-dont-buy-it-ceo-says/",
+      "pubDate": "22.09.2026 um 21:03 Uhr",
+      "timestamp": 1790110991.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"It is a big FPS game that costs money to make – the end\""
+    },
+    {
+      "title": "This Early Access Indie Horror Game Has Me Hanging On For Dear Life",
+      "link": "https://kotaku.com/this-early-access-indie-horror-game-is-making-my-hands-tremble-2000736521",
+      "pubDate": "22.09.2026 um 21:00 Uhr",
+      "timestamp": 1790110822.0,
       "source": "Kotaku",
-      "summary": "It used to be over a dozen teams and now it's less than five"
+      "summary": "White Knuckle is making my hands shake"
     },
     {
-      "title": "'Lost Temple Cat' quest walkthrough in Fire Emblem Fortune's Weave",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-lost-temple-cat-quest-walkthrough/",
-      "pubDate": "22.09.2026 um 17:40 Uhr",
-      "timestamp": 1790098806.0,
-      "source": "Polygon.com",
-      "summary": "If you're looking for the cat in Fire Emblem: Fortune's Weave \"Lost Temple Cat\" quest, here's where to find it."
+      "title": "First Cyberpunk: Edgerunners season 2 teases a bloodbath ahead of another action-packed season",
+      "link": "https://www.gamesradar.com/entertainment/anime-shows/first-cyberpunk-edgerunners-season-2-teases-a-bloodbath-ahead-of-what-looks-to-be-another-action-packed-season/",
+      "pubDate": "22.09.2026 um 20:44 Uhr",
+      "timestamp": 1790109857.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The new season airs on October 20"
     },
     {
-      "title": "Steam Quietly Just Got 2026's Best Silksong Replacement",
-      "link": "https://www.polygon.com/well-dweller-steam-release/",
-      "pubDate": "22.09.2026 um 17:38 Uhr",
-      "timestamp": 1790098684.0,
-      "source": "Polygon.com",
-      "summary": "Well Dweller is the latest Metroidvania from Kyle Thompson. You play as a bird armed with a matchstick in search of his missing family."
-    },
-    {
-      "title": "Unplayable Kingdom Hearts Game Officially Getting an Unexpected Revival",
-      "link": "https://www.polygon.com/kingdom-hearts-union-x-dark-road-fan-port-disney-rpg/",
-      "pubDate": "22.09.2026 um 17:29 Uhr",
-      "timestamp": 1790098178.0,
-      "source": "Polygon.com",
-      "summary": "Ahead of Kingdom Hearts 4, a fan is making the defunct Union X mobile game playable again"
-    },
-    {
-      "title": "The War Is Over: Middle-Earth: Shadow Of Mordor And Shadow Of War Finally Coming To Switch 2 Next Week",
-      "link": "https://kotaku.com/middle-earth-shadow-of-mordor-shadow-of-war-switch-2-2000736508",
-      "pubDate": "22.09.2026 um 17:17 Uhr",
-      "timestamp": 1790097439.0,
-      "source": "Kotaku",
-      "summary": "Both versions come with all their extra DLC content, and there's a bundle available too"
-    },
-    {
-      "title": "Where to find dates in Fire Emblem Fortune's Weave",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-where-to-find-dates-cai-farming/",
-      "pubDate": "22.09.2026 um 17:16 Uhr",
-      "timestamp": 1790097408.0,
-      "source": "Polygon.com",
-      "summary": "Finding dates in Fire Emblem Fortune's Weave means a trek into the desert or, if you're playing as Cai, a bit of luck and a lot of veggie crates"
-    },
-    {
-      "title": "Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka",
-      "link": "https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka",
-      "pubDate": "22.09.2026 um 17:15 Uhr",
-      "timestamp": 1790097310.0,
+      "title": "Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night",
+      "link": "https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night",
+      "pubDate": "22.09.2026 um 20:32 Uhr",
+      "timestamp": 1790109164.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "I like Sonic. He charms me! But that doesn't mean I'm a fool. I know there are very few of his games that could actually be called \"good,\" whatever th..."
+      "summary": "Despite not being one myself, I do seem to write about furry-adjacent games for this ole webbed site, don't I? And I've got another one for you today!..."
     },
     {
-      "title": "I modded Crazy Taxi into Grand Theft Auto 5",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-crazy-taxi-into-grand-theft-auto-5/",
-      "pubDate": "22.09.2026 um 17:00 Uhr",
-      "timestamp": 1790096400.0,
-      "source": "PCGamer latest",
-      "summary": "It's time to make some crazy money."
-    },
-    {
-      "title": "Lego Dragon Ball set officially teased, and clues suggest it could feature Shenron",
-      "link": "https://www.gamesradar.com/toys-collectibles/lego-dragon-ball-set-officially-teased-and-clues-suggest-it-could-feature-shenron/",
-      "pubDate": "22.09.2026 um 16:55 Uhr",
-      "timestamp": 1790096117.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Lego has officially announced a Dragon Ball set after months of rumors, but we'll have to wait a little longer to see what it is"
-    },
-    {
-      "title": "The Internet Reacts To Even More Xbox Layoffs And Studio Shakeups: ‘I Loathe Those Responsible’",
-      "link": "https://kotaku.com/internet-reacts-xbox-layoffs-halo-activision-physint-hideo-kojima-2000736479",
-      "pubDate": "22.09.2026 um 16:50 Uhr",
-      "timestamp": 1790095825.0,
+      "title": "72-Year-Old Man Could Spend Up To Six Months In Jail For Placing Tracking Device On Pokémon TCG Delivery Driver’s Car",
+      "link": "https://kotaku.com/72-year-old-man-could-spend-up-to-six-months-in-jail-for-placing-tracking-device-on-pokemon-tcg-delivery-drivers-car-2000736531",
+      "pubDate": "22.09.2026 um 20:30 Uhr",
+      "timestamp": 1790109058.0,
       "source": "Kotaku",
-      "summary": "'The next time you see Banjo Kazooie will be in heaven'"
+      "summary": "According to local police, the Ohio man admitted to placing the tracker on the delivery driver's car to 'to track her location/delivery of Pokémon car..."
     },
     {
-      "title": "Rockstar Issues Major Update Before 'GTA 6' Release",
-      "link": "https://www.polygon.com/gta-6-release-new-mod-guidelines-pc-rdr2/",
-      "pubDate": "22.09.2026 um 16:47 Uhr",
-      "timestamp": 1790095663.0,
+      "title": "It's Officially the End of an Era For Halo",
+      "link": "https://www.polygon.com/halo-studios-activision-blizzard-new-games/",
+      "pubDate": "22.09.2026 um 20:30 Uhr",
+      "timestamp": 1790109015.0,
       "source": "Polygon.com",
-      "summary": "GTA and RDR2 fans have strict new rules to worry about on PC, according to a new Rockstar announcement"
+      "summary": "Activision Blizzard will develop the next Halo game, Xbox announced in September, bringing a symbolic end to a decades-long rivalry between two FPS."
     },
     {
-      "title": "Adidas just dropped an entire Pokémon collection hitting everyone from Pikachu to Charmander",
-      "link": "https://www.gamesradar.com/toys-collectibles/adidas-just-dropped-an-entire-pokemon-collection-hitting-everyone-from-pikachu-to-charmander/",
-      "pubDate": "22.09.2026 um 16:42 Uhr",
-      "timestamp": 1790095352.0,
+      "title": "'The Hunt for Gisco's Treasure' walkthrough in Fire Emblem Fortune's Weave",
+      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-hunt-for-giscos-treasure-walkthrough-location/",
+      "pubDate": "22.09.2026 um 20:27 Uhr",
+      "timestamp": 1790108824.0,
+      "source": "Polygon.com",
+      "summary": "Here's \"The Hunt for Gisco's Treasure\" solution in Fire Emblem: Fortune's Weave, including how to solve the riddle yourself"
+    },
+    {
+      "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
+      "link": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
+      "pubDate": "22.09.2026 um 20:26 Uhr",
+      "timestamp": 1790108812.0,
+      "source": "IGN All",
+      "summary": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push."
+    },
+    {
+      "title": "Two Near-Perfect Lord of the Rings Games Finally Come to Switch 2",
+      "link": "https://www.polygon.com/lord-of-the-rings-shadow-of-mordor-games-switch-2/",
+      "pubDate": "22.09.2026 um 20:22 Uhr",
+      "timestamp": 1790108526.0,
+      "source": "Polygon.com",
+      "summary": "Shadow of Mordor and Shadow of War are coming to Switch 2 on September 30, bringing their open-world action and Nemesis System to Nintendo."
+    },
+    {
+      "title": "I Just Found Out About a Budget-Friendly Hotel Backed by Hilton That More People Should Know About for the 2026 Holiday Season",
+      "link": "https://www.ign.com/articles/new-budget-friendly-hotel-spark-by-hilton-holiday-travel",
+      "pubDate": "22.09.2026 um 20:20 Uhr",
+      "timestamp": 1790108400.0,
+      "source": "IGN All",
+      "summary": "The franchise is all about reliable essentials, efficiency and simplicity."
+    },
+    {
+      "title": "Resident Evil director Zach Cregger says an Oscar-nominated war movie was an unlikely inspiration",
+      "link": "https://www.gamesradar.com/entertainment/horror-movies/resident-evil-director-zach-cregger-says-a-recent-oscar-nominated-war-movie-was-an-unlikely-inspiration-for-his-take-on-the-zombie-video-game-franchise/",
+      "pubDate": "22.09.2026 um 20:14 Uhr",
+      "timestamp": 1790108081.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Adidas just launched its official Pokémon sneaker collection, but stock might move fast on these Superstars."
+      "summary": "\"It's like if Evil Dead and 1917 were its parents\""
     },
     {
-      "title": "Stellar Blade devs only had enough money to survive \"for about 3 months\" at one point",
-      "link": "https://www.gamesradar.com/games/action/stellar-blade-devs-only-had-enough-money-to-survive-for-about-3-months-at-one-point-ceo-says-several-major-publishers-rejected-them-before-sony/",
-      "pubDate": "22.09.2026 um 16:36 Uhr",
-      "timestamp": 1790095012.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The action series almost died before it even started"
+      "title": "The Best Physical Switch Game Deals in Nintendo’s Customer Appreciation Sale",
+      "link": "https://www.ign.com/articles/best-physical-switch-game-deals-in-nintendos-customer-appreciation-sale-2026",
+      "pubDate": "22.09.2026 um 20:09 Uhr",
+      "timestamp": 1790107771.0,
+      "source": "IGN All",
+      "summary": "You can save 30% on a ton of physical Switch games in Nintendo's Customer Appreciation Sale, ending September 26."
     },
     {
-      "title": "Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more",
-      "link": "https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more",
-      "pubDate": "22.09.2026 um 16:32 Uhr",
-      "timestamp": 1790094733.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "After a rip-roaring start for The Blood of Dawnwalker (one that has seen a bit of pushback against its timer mechanic, and an apparent confirmation of..."
+      "title": "How to make gold in Fire Emblem Fortune's Weave",
+      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-how-to-make-gold-money/",
+      "pubDate": "22.09.2026 um 20:08 Uhr",
+      "timestamp": 1790107704.0,
+      "source": "Polygon.com",
+      "summary": "In this guide, we explain five different methods to make gold in Fire Emblem: Fortune's Weave"
     },
     {
-      "title": "I set out to prove polling rate affects my aim and instead found my favourite DPI setting",
-      "link": "https://www.pcgamer.com/hardware/gaming-mice/i-set-out-to-prove-polling-rate-affects-my-aim-and-instead-found-my-favourite-dpi-setting/",
-      "pubDate": "22.09.2026 um 16:31 Uhr",
-      "timestamp": 1790094660.0,
+      "title": "Garfield - Escape from Monday Review",
+      "link": "https://www.ign.com/articles/garfield-escape-from-monday-review",
+      "pubDate": "22.09.2026 um 19:53 Uhr",
+      "timestamp": 1790106825.0,
+      "source": "IGN All",
+      "summary": "A lackluster 3D platformer that leaves you feline hungry for something better."
+    },
+    {
+      "title": "World of Warcraft: Forever players find rule-breaking new items that defy 22 years of experience with the classic MMO",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-find-rule-breaking-new-items-that-defy-22-years-of-experience-with-the-classic-mmo/",
+      "pubDate": "22.09.2026 um 19:50 Uhr",
+      "timestamp": 1790106647.0,
       "source": "PCGamer latest",
-      "summary": "The polling rate boot camp was worth it, but for a different reason."
+      "summary": "Blizzard snuck in an item that finally gives mages a reason to swing a sword."
     },
     {
-      "title": "New \"Overwhelmingly Positive\" Steam hit and dressmaking sim overtakes Diablo 4 on top sellers chart",
-      "link": "https://www.gamesradar.com/games/simulation/new-96-percent-overwhelmingly-positive-steam-hit-and-cozy-dressmaking-sim-overtakes-diablo-4-control-resonant-and-more-on-the-top-selling-chart/",
-      "pubDate": "22.09.2026 um 16:29 Uhr",
-      "timestamp": 1790094597.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Dressmaker \"is everything I wanted it to be,\" fans say"
+      "title": "'Pokémon' Leak Teases A Totally New Frontier For The Series",
+      "link": "https://www.polygon.com/pokemon-winds-waves-leak-what-is-project-seed-mmo-evolution/",
+      "pubDate": "22.09.2026 um 19:45 Uhr",
+      "timestamp": 1790106335.0,
+      "source": "Polygon.com",
+      "summary": "After the explosive success of Palworld, Game Freak may feel pressure to develop a more ambitious type of Pokémon game after Winds and Waves"
     },
     {
-      "title": "Activision lost a bidding war to acquire Rare over 20 years ago, and now it's overseeing the studio",
-      "link": "https://www.gamesradar.com/games/platformer/activision-was-playing-the-long-game-the-call-of-duty-dev-lost-a-bidding-war-to-acquire-rare-over-20-years-ago-and-now-its-overseeing-the-studio/",
-      "pubDate": "22.09.2026 um 16:25 Uhr",
-      "timestamp": 1790094304.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Xbox announced the studio's move under Activision as part of its latest reshuffling"
+      "title": "Disney Launches New 'Bookcessories' Featuring Iconic Characters From Star Wars and Animated Classics",
+      "link": "https://www.ign.com/articles/disney-launches-new-bookcessories-line-of-products",
+      "pubDate": "22.09.2026 um 19:42 Uhr",
+      "timestamp": 1790106129.0,
+      "source": "IGN All",
+      "summary": ""
     }
   ],
   "sim": [
