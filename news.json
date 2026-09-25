@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Nintendo stoppte Ganondorf-Zelda von Ubisoft Milan – Prototyp abgelehnt",
+      "link": "https://www.playcentral.de/nintendo-stoppte-ganondorf-zelda-von-ubisoft-milan-prototyp-abgelehnt/",
+      "pubDate": "24.09.2026 um 23:33 Uhr",
+      "timestamp": 1790292787.0,
+      "source": "PlayCentral",
+      "summary": "Ein bislang unbekanntes Zelda-Projekt von Ubisoft Milan hätte Ganondorf erstmals in den Mittelpunkt eines eigenen Abenteuers stellen können. Nintendo ..."
+    },
+    {
+      "title": "Steam-Gratiswochenende mit Squad und Gas Station Simulator bis 28. September",
+      "link": "https://www.playcentral.de/steam-gratiswochenende-mit-squad-und-gas-station-simulator-bis-28-september/",
+      "pubDate": "24.09.2026 um 23:31 Uhr",
+      "timestamp": 1790292709.0,
+      "source": "PlayCentral",
+      "summary": "Steam lädt an diesem Wochenende zu einer kostenlosen Testrunde ein. Seit dem 24. September 2026 können PC-Gamer mit Squad und Gas Station Simulator zw..."
+    },
+    {
       "title": "Ein süßes Maskottchen von Marvel war einst ein Bösewicht, wollte Menschen für Experimente entführen",
       "link": "https://mein-mmo.de/marvel-groot-frueher-monster-schurke/",
       "pubDate": "24.09.2026 um 18:41 Uhr",
@@ -127,25 +143,97 @@
       "timestamp": 1790262267.0,
       "source": "Mein-MMO",
       "summary": "Beim Start von Ultimate Team müsst ihr euch für eine von vier Ligen entscheiden. MeinMMO erklärt, welche Liga die beste Wahl ist. Der Beitrag EA FC 27..."
-    },
-    {
-      "title": "WoW Forever: Entwickler reagieren auf Feedback, übertrumpfen alle Erwartungen",
-      "link": "https://mein-mmo.de/wow-forever-entwickler-feedback-reagieren/",
-      "pubDate": "24.09.2026 um 15:00 Uhr",
-      "timestamp": 1790262000.0,
-      "source": "Mein-MMO",
-      "summary": "Es gab einige Kritikpunkte an der Beta von WoW Forever. Nach nur wenigen Tagen zeigen die Entwickler: Sie hören ganz genau zu. Der Beitrag WoW Forever..."
-    },
-    {
-      "title": "Xbox-Entlassungen: Microsoft könnte laut Insider-Bericht weniger als 3.200 Stellen streichen",
-      "link": "https://www.eurogamer.de/xbox-entlassungen-microsoft-konnte-laut-insider-bericht-weniger-als-3200-stellen-streichen",
-      "pubDate": "24.09.2026 um 14:36 Uhr",
-      "timestamp": 1790260577.0,
-      "source": "Eurogamer.de News",
-      "summary": "Microsoft hatte im Juli 2026 angek&uuml;ndigt, im Gesch&auml;ftsjahr 2027 ganze 3.200 Stellen im Gaming-Bereich zu streichen. Nun gibt es jedoch Hinwe..."
     }
   ],
   "int": [
+    {
+      "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
+      "link": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
+      "pubDate": "25.09.2026 um 00:49 Uhr",
+      "timestamp": 1790297350.0,
+      "source": "PCGamer latest",
+      "summary": "The free weekend playtest for Gravhounds is fun. Also, you are a dog with a people body."
+    },
+    {
+      "title": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
+      "link": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
+      "pubDate": "25.09.2026 um 00:46 Uhr",
+      "timestamp": 1790297180.0,
+      "source": "PCGamer latest",
+      "summary": "I'm trying out the new farm sim with dragon-assisted cooking to see if it could be my next obsession."
+    },
+    {
+      "title": "Palworld dev says 2026's best indie could be this Overwhelmingly Positive Steam citybuilder",
+      "link": "https://www.gamesradar.com/games/roguelike/even-after-palworld-1-0-pocketpair-lead-says-2026s-best-indie-could-be-this-overwhelmingly-positive-steam-roguelike-citybuilder-i-havent-played-a-game-more-addictive-since-balatro/",
+      "pubDate": "24.09.2026 um 23:43 Uhr",
+      "timestamp": 1790293407.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "John Buckley says Combolands is \"perhaps the best indie of the year\""
+    },
+    {
+      "title": "Experimental RPG developer Summer Eternal: 'We're giving away 5% of our studio to you, the Players' in order to 'mend the trust broken in this industry a thousand times over'",
+      "link": "https://www.pcgamer.com/games/experimental-rpg-developer-summer-eternal-were-giving-away-5-percent-of-our-studio-to-you-the-players-in-order-to-mend-the-trust-broken-in-this-industry-a-thousand-times-over/",
+      "pubDate": "24.09.2026 um 23:10 Uhr",
+      "timestamp": 1790291443.0,
+      "source": "PCGamer latest",
+      "summary": "Maybe it's time for something new."
+    },
+    {
+      "title": "8 Best BioWare Games That Aged Like Fine Wine",
+      "link": "https://www.polygon.com/best-bioware-games/",
+      "pubDate": "24.09.2026 um 23:00 Uhr",
+      "timestamp": 1790290815.0,
+      "source": "Polygon.com",
+      "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later"
+    },
+    {
+      "title": "The Gigabyte A16 Pro 16\" RTX 5070 Ti Gaming Laptop Drops to $1,449 During Walmart's GeForce Week Sale",
+      "link": "https://www.ign.com/articles/gigabyte-a16-pro-16-rtx-5070-ti-gaming-laptop-deal-september-2026",
+      "pubDate": "24.09.2026 um 22:30 Uhr",
+      "timestamp": 1790289000.0,
+      "source": "IGN All",
+      "summary": "Strong gaming chops in a slim and lightweight chassis."
+    },
+    {
+      "title": "Arc Raiders Is Testing a PvE Mode Very Soon",
+      "link": "https://www.ign.com/articles/arc-raiders-is-testing-a-pve-mode-very-soon",
+      "pubDate": "24.09.2026 um 22:24 Uhr",
+      "timestamp": 1790288691.0,
+      "source": "IGN All",
+      "summary": "Embark Studios has announced that it will be testing a PvE mode for Arc Raiders next month."
+    },
+    {
+      "title": "Over the Hill Is the Perfect Replacement For Forza Horizon",
+      "link": "https://www.polygon.com/over-the-hill-preview-demo-steam/",
+      "pubDate": "24.09.2026 um 22:13 Uhr",
+      "timestamp": 1790288026.0,
+      "source": "Polygon.com",
+      "summary": "Over the Hill, an exploration racing game from the developer behind Art of Rally, is the perfect antidote to Forza Horizon's AAA expanse."
+    },
+    {
+      "title": "Hooked on the brothers",
+      "link": "https://www.pcgamer.com/games/hooked-on-the-brothers/",
+      "pubDate": "24.09.2026 um 22:03 Uhr",
+      "timestamp": 1790287389.0,
+      "source": "PCGamer latest",
+      "summary": "Hangin' with the plumbers"
+    },
+    {
+      "title": "Ubisoft Almost Made a Zelda Game With Ganondorf as the Protagonist",
+      "link": "https://www.ign.com/articles/ubisoft-almost-made-a-zelda-game-with-ganondorf-as-the-protagonist",
+      "pubDate": "24.09.2026 um 22:00 Uhr",
+      "timestamp": 1790287212.0,
+      "source": "IGN All",
+      "summary": "Ubisoft Milan reportedly pitched a Zelda game to Nintendo that would have taken place in a new universe with a totally different protagonist, but the ..."
+    },
+    {
+      "title": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff",
+      "link": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+      "pubDate": "24.09.2026 um 21:59 Uhr",
+      "timestamp": 1790287153.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "I would hope that for most of you it would not be a controversial thing to hear me say I hate generative AI. It stinks! It is rotting everyone's brain..."
+    },
     {
       "title": "Call of Duty 'cosmetic toggle' will cleanse Warzone of its Party City aesthetic",
       "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-cosmetic-toggle-will-cleanse-warzone-of-its-party-city-aesthetic/",
@@ -187,108 +275,20 @@
       "summary": "\"A Starfield 2 could have been much closer to the game that Todd [Howard] had [in mind]\""
     },
     {
+      "title": "Target Confirms Jack Skellington's Real-Life Height in a New Halloween Sale Listing",
+      "link": "https://www.ign.com/articles/target-confirms-jack-skellingtons-real-life-height-in-a-new-halloween-sale-listing",
+      "pubDate": "24.09.2026 um 21:41 Uhr",
+      "timestamp": 1790286062.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
       "title": "Silent Hill Townfall blood puzzle solution",
       "link": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-blood-transfusion-machine-puzzle/",
       "pubDate": "24.09.2026 um 21:31 Uhr",
       "timestamp": 1790285461.0,
       "source": "Latest from GamesRadar+",
       "summary": "How to find all blood bags in Silent Hill Townfall and solve the blood type puzzle"
-    },
-    {
-      "title": "Moderator Of Switch Pirates Subreddit To Pay Nintendo $4.5 Million In Piracy Lawsuit",
-      "link": "https://kotaku.com/moderator-of-switch-pirates-subreddit-to-pay-nintendo-4-5-million-in-piracy-lawsuit-2000737079",
-      "pubDate": "24.09.2026 um 21:15 Uhr",
-      "timestamp": 1790284541.0,
-      "source": "Kotaku",
-      "summary": "James Williams, the defendant and an alleged moderator of r/SwitchPirates, apparently never showed up to court"
-    },
-    {
-      "title": "8 strong Elder Scrolls opinions: With over 2,500 combined hours (and not all as stealth archers), we shout at each other about Skyrim, Morrowind, and Oblivion",
-      "link": "https://www.pcgamer.com/games/the-elder-scrolls/8-strong-elder-scrolls-opinions-with-over-2-500-combined-hours-and-not-all-as-stealth-archers-we-shout-at-each-other-about-skyrim-morrowind-and-oblivion/",
-      "pubDate": "24.09.2026 um 21:15 Uhr",
-      "timestamp": 1790284536.0,
-      "source": "PCGamer latest",
-      "summary": "Five editors Mid-Vur-Share their thoughts for the past and future of the series."
-    },
-    {
-      "title": "The best Valheim mods for no-nonsense crafting, portable building plans, and more RNG sightseeing",
-      "link": "https://www.pcgamer.com/games/survival-crafting/best-valheim-mods/",
-      "pubDate": "24.09.2026 um 21:08 Uhr",
-      "timestamp": 1790284092.0,
-      "source": "PCGamer latest",
-      "summary": "And best of all, these mods are 1.0-ready."
-    },
-    {
-      "title": "Stellar Blade is adding a frame gen toggle on Nintendo Switch 2 after players said it looks bad",
-      "link": "https://www.gamesradar.com/games/action/stellar-blade-is-adding-a-frame-gen-toggle-on-nintendo-switch-2-after-players-said-it-looks-bad-and-i-need-more-games-to-do-this/",
-      "pubDate": "24.09.2026 um 21:03 Uhr",
-      "timestamp": 1790283791.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"We've been watching your feedback closely\""
-    },
-    {
-      "title": "Thief 2 Remastered should be Thief 2 Gold",
-      "link": "https://www.pcgamer.com/games/thief-2-remastered-should-be-thief-2-gold/",
-      "pubDate": "24.09.2026 um 21:01 Uhr",
-      "timestamp": 1790283715.0,
-      "source": "PCGamer latest",
-      "summary": "Thief 2 Remastered should be Thief 2 Gold"
-    },
-    {
-      "title": "Star Wars: Galactic Racer Looks To Continue The Best Trend In Star Wars Gaming In Years",
-      "link": "https://kotaku.com/star-wars-galactic-racer-looks-to-continue-the-best-trend-in-star-wars-gaming-in-years-2000736273",
-      "pubDate": "24.09.2026 um 21:00 Uhr",
-      "timestamp": 1790283619.0,
-      "source": "Kotaku",
-      "summary": "Not every Star Wars game needs to be a third-person action thing or shooter"
-    },
-    {
-      "title": "My first MMO character #5: Fraser Brown",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-5-fraser-brown/",
-      "pubDate": "24.09.2026 um 21:00 Uhr",
-      "timestamp": 1790283600.0,
-      "source": "PCGamer latest",
-      "summary": "My first MMO character #5: Fraser Brown"
-    },
-    {
-      "title": "€100 million Fortnite lawsuit claims Epic put \"pressure\" on minors to spend real money",
-      "link": "https://www.gamesradar.com/games/fortnite/eur100-million-fortnite-lawsuit-claims-epic-put-pressure-on-minors-to-spend-real-money-young-consumers-are-supposed-to-be-protected-from-exactly-that/",
-      "pubDate": "24.09.2026 um 20:55 Uhr",
-      "timestamp": 1790283311.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Once again, Epic is in hot water for allegedly deceiving minors"
-    },
-    {
-      "title": "Sekiro Anime Gets Official Streaming Date and Surprise Format Change",
-      "link": "https://www.polygon.com/sekiro-anime-no-defeat-release-date-crunchyroll/",
-      "pubDate": "24.09.2026 um 20:40 Uhr",
-      "timestamp": 1790282444.0,
-      "source": "Polygon.com",
-      "summary": "Sekiro: No Defeat has a new confirmed streaming date on Crunchyroll, where it will be released as an 8-episode anime — not a movie."
-    },
-    {
-      "title": "The Daran 288Wh 600W LiFePO4 Power Station Drops to $129.99 Ahead of Amazon Prime Day",
-      "link": "https://www.ign.com/articles/daran-288wh-600w-lifepo4-power-station-deal-september-2026",
-      "pubDate": "24.09.2026 um 20:40 Uhr",
-      "timestamp": 1790282400.0,
-      "source": "IGN All",
-      "summary": "Keep your electronics charged up for days."
-    },
-    {
-      "title": "I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more",
-      "link": "https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more",
-      "pubDate": "24.09.2026 um 20:34 Uhr",
-      "timestamp": 1790282090.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "If it ain't broke, why fix it? That seems to be the thought process behind Iron Bramble, the next game from the devs behind Rusted Moss. Like its pred..."
-    },
-    {
-      "title": "Ubisoft Was Reportedly Working On A Legend Of Zelda Spin-Off Starring Ganondorf",
-      "link": "https://kotaku.com/ubisoft-was-reportedly-working-on-a-legend-of-zelda-spin-off-starring-ganondorf-2000737078",
-      "pubDate": "24.09.2026 um 20:31 Uhr",
-      "timestamp": 1790281903.0,
-      "source": "Kotaku",
-      "summary": "Nintendo liked the concept, but reportedly passed on the project after it saw the prototype"
     }
   ],
   "sim": [
