@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "Thronefall kommt am 11. November 2026 in den Xbox Game Pass und auf PS5",
+      "link": "https://www.playcentral.de/thronefall-kommt-am-11-november-2026-in-den-xbox-game-pass-und-auf-ps5/",
+      "pubDate": "25.09.2026 um 22:31 Uhr",
+      "timestamp": 1790375491.0,
+      "source": "PlayCentral",
+      "summary": "Microsofts Spieleabo erhält im November 2026 einen weiteren spannenden Strategie-Titel. Thronefall erscheint am 11. November 2026 für Xbox Series X&#1..."
+    },
+    {
       "title": "Dimraeth im Early Access – Souls-lite-Koop-RPG mit Basisbau kommt gut an",
       "link": "https://www.playcentral.de/dimraeth-im-early-access-souls-lite-koop-rpg-mit-basisbau-kommt-gut-an/",
       "pubDate": "25.09.2026 um 19:32 Uhr",
@@ -135,17 +143,97 @@
       "timestamp": 1790344800.0,
       "source": "Mein-MMO",
       "summary": "Die Terminator-Filme zeigen eine dystopische Zukunft. Ein Kampf zwischen Mensch und Maschine zeigt, wie es aussehen könnte Der Beitrag Influencer legt..."
-    },
-    {
-      "title": "Eine der größten Gefahren von Marvel kennen die wenigsten, dabei kann sie ganze Planeten zerstören",
-      "link": "https://mein-mmo.de/marvel-brood-lore/",
-      "pubDate": "25.09.2026 um 13:59 Uhr",
-      "timestamp": 1790344796.0,
-      "source": "Mein-MMO",
-      "summary": "Es gibt im Universum von Marvel noch andere Gefahren in der Galaxis als Thanos. Eine besteht aus einer Horde von Parasiten. Der Beitrag Eine der größt..."
     }
   ],
   "int": [
+    {
+      "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
+      "link": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
+      "pubDate": "26.09.2026 um 00:12 Uhr",
+      "timestamp": 1790381554.0,
+      "source": "PCGamer latest",
+      "summary": "Clear as mud."
+    },
+    {
+      "title": "Mr. Hytale is offering $15,000 to the first person to beat a new challenge in next month's update",
+      "link": "https://www.gamesradar.com/games/rpg/mr-hytale-is-offering-usd15-000-to-the-first-person-to-beat-a-ridiculous-challenge-in-next-months-update-and-hes-sending-out-game-keys-to-prove-hes-serious/",
+      "pubDate": "25.09.2026 um 23:59 Uhr",
+      "timestamp": 1790380777.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Don't cheat, bro\""
+    },
+    {
+      "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
+      "link": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
+      "pubDate": "25.09.2026 um 23:47 Uhr",
+      "timestamp": 1790380028.0,
+      "source": "PCGamer latest",
+      "summary": "The Wardogs grind is real, and kind of exhausting."
+    },
+    {
+      "title": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
+      "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
+      "pubDate": "25.09.2026 um 23:15 Uhr",
+      "timestamp": 1790378107.0,
+      "source": "PCGamer latest",
+      "summary": "Complete the last puzzle in Silent Hill: Townfall."
+    },
+    {
+      "title": "10 Free Browser Games That are Actually Fun to Play",
+      "link": "https://www.polygon.com/best-free-browser-games/",
+      "pubDate": "25.09.2026 um 23:00 Uhr",
+      "timestamp": 1790377215.0,
+      "source": "Polygon.com",
+      "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for"
+    },
+    {
+      "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+      "link": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+      "pubDate": "25.09.2026 um 22:26 Uhr",
+      "timestamp": 1790375176.0,
+      "source": "PCGamer latest",
+      "summary": "It's actually on sale for $4 at the moment."
+    },
+    {
+      "title": "Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube",
+      "link": "https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/",
+      "pubDate": "25.09.2026 um 22:25 Uhr",
+      "timestamp": 1790375120.0,
+      "source": "Polygon.com",
+      "summary": "Alan Ritchson takes on a much lighter role in this Thanksgiving football comedy, now available to watch for free on YouTube."
+    },
+    {
+      "title": "Guess who patented a new system for in-game ads",
+      "link": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
+      "pubDate": "25.09.2026 um 22:10 Uhr",
+      "timestamp": 1790374204.0,
+      "source": "PCGamer latest",
+      "summary": "The future's so bright you gotta wear shades."
+    },
+    {
+      "title": "The eyes of Valve's creepy portrait are glowing again",
+      "link": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
+      "pubDate": "25.09.2026 um 22:08 Uhr",
+      "timestamp": 1790374092.0,
+      "source": "PCGamer latest",
+      "summary": "It could signal an imminent update."
+    },
+    {
+      "title": "Health upgrade point locations in Control Resonant",
+      "link": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
+      "pubDate": "25.09.2026 um 22:05 Uhr",
+      "timestamp": 1790373945.0,
+      "source": "Polygon.com",
+      "summary": "Where to find health upgrade points, so you can increase your maximum HP in Control Resonant."
+    },
+    {
+      "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
+      "link": "https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/",
+      "pubDate": "25.09.2026 um 22:01 Uhr",
+      "timestamp": 1790373675.0,
+      "source": "Polygon.com",
+      "summary": "Honkai: Star Rail version 4.6 launches a bit earlier in the week than usual. We list the maintenance times in your time zone in our guide."
+    },
     {
       "title": "Power upgrade point locations in Control Resonant",
       "link": "https://www.polygon.com/control-resonant-power-upgrade-point-locations/",
@@ -201,94 +289,6 @@
       "timestamp": 1790370043.0,
       "source": "Kotaku",
       "summary": "Plant 'em in the spring, eat 'em in the summer/All winter without 'em's a culinary bummer"
-    },
-    {
-      "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
-      "link": "https://www.polygon.com/gta-6-fire-emblem-manatees-sea-beast/",
-      "pubDate": "25.09.2026 um 21:00 Uhr",
-      "timestamp": 1790370016.0,
-      "source": "Polygon.com",
-      "summary": "Grand Theft Auto 6 and Fire Emblem: Fortune's Weave both prominently feature an uncommon type of sea mammal, and I love it"
-    },
-    {
-      "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (September 25-27)",
-      "link": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-september-25-27/",
-      "pubDate": "25.09.2026 um 21:00 Uhr",
-      "timestamp": 1790370016.0,
-      "source": "Polygon.com",
-      "summary": "In this week's movie streaming column, we have the biggest Pixar movie of the year, one of the definitive horror movies of the summer, and more."
-    },
-    {
-      "title": "Black Friday Warhammer deals 2026",
-      "link": "https://www.gamesradar.com/black-friday-warhammer-deals-and-savings/",
-      "pubDate": "25.09.2026 um 20:48 Uhr",
-      "timestamp": 1790369295.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Black Friday Warhammer deals should hit hard this year, and these are the biggest offers I've found so far."
-    },
-    {
-      "title": "Best gifts for each character in Fire Emblem: Fortune's Weave",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-best-gifts-each-character/",
-      "pubDate": "25.09.2026 um 20:48 Uhr",
-      "timestamp": 1790369291.0,
-      "source": "Polygon.com",
-      "summary": "Our Fire Emblem Fortune's Weave gift guide lists the best gifts for every character"
-    },
-    {
-      "title": "Amid mass Xbox layoffs, Microsoft CEO Satya Nadella says the \"streamlining\" is \"great to see\"",
-      "link": "https://www.gamesradar.com/games/amid-mass-xbox-layoffs-microsoft-ceo-satya-nadella-says-the-streamlining-is-great-to-see/",
-      "pubDate": "25.09.2026 um 20:39 Uhr",
-      "timestamp": 1790368771.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The Xbox reset under new CEO Asha Sharma has seen thousands of jobs eliminated"
-    },
-    {
-      "title": "Ridley Scott's Near-Perfect Noir Thriller Is Officially Free to Watch on YouTube",
-      "link": "https://www.polygon.com/ridley-scott-american-gangster-streaming-free-tubi-september-2026/",
-      "pubDate": "25.09.2026 um 20:15 Uhr",
-      "timestamp": 1790367336.0,
-      "source": "Polygon.com",
-      "summary": "The director’s spin on The Godfather remains a stone cold classic"
-    },
-    {
-      "title": "This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)",
-      "link": "https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/",
-      "pubDate": "25.09.2026 um 20:02 Uhr",
-      "timestamp": 1790366577.0,
-      "source": "PCGamer latest",
-      "summary": "The Guinness World Recordholder for oldest female Fortnite streamer says her one goal is \"to go in and eliminate folk.\""
-    },
-    {
-      "title": "8 New TV Shows to Watch This Weekend on Netflix, FX, and Apple TV (September 25-27)",
-      "link": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-september-25-27/",
-      "pubDate": "25.09.2026 um 20:00 Uhr",
-      "timestamp": 1790366416.0,
-      "source": "Polygon.com",
-      "summary": "On this weekend's TV column, we highlight the return of one of the longest-running contemporary TV shows and new releases across streamers."
-    },
-    {
-      "title": "World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/",
-      "pubDate": "25.09.2026 um 19:55 Uhr",
-      "timestamp": 1790366145.0,
-      "source": "PCGamer latest",
-      "summary": "Blizzard devs are having to manually go through a list to flag the names that aren't allowed."
-    },
-    {
-      "title": "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'",
-      "link": "https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/",
-      "pubDate": "25.09.2026 um 19:33 Uhr",
-      "timestamp": 1790364834.0,
-      "source": "PCGamer latest",
-      "summary": "The studio reportedly had big plans, but nothing in production."
-    },
-    {
-      "title": "PC gaming has more than doubled in size over the last 4 years in Japan, report finds",
-      "link": "https://www.gamesradar.com/games/pc-gaming-has-more-than-doubled-in-size-over-the-last-4-years-in-japan-report-finds-with-global-steam-hits-like-counter-strike-2-and-pubg-leading-the-charge/",
-      "pubDate": "25.09.2026 um 19:30 Uhr",
-      "timestamp": 1790364637.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Left 4 Dead and Terraria top the list of popular games"
     }
   ],
   "sim": [
