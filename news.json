@@ -1,6 +1,70 @@
 {
   "de": [
     {
+      "title": "Wie gut ist Ace Combat 8: Wings Of Theve?: Über den Wolken muss der Spaß wohl grenzenlos sein",
+      "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-ace-combat-8-wings-of-theve-ueber-den-wolken-muss-der-spass-wohl-grenzenlos-sein.99558/",
+      "pubDate": "26.09.2026 um 12:52 Uhr",
+      "timestamp": 1790419920.0,
+      "source": "ComputerBase",
+      "summary": "Über den Wolken muss der Spaß wohl grenzenlos sein, so lassen sich die Urteile zum neuen Ace Combat zusammenfassen. Wings Of Theve entpuppt sich als e..."
+    },
+    {
+      "title": "GTA 6: Später November-Release verhindert den großen GOTY-Triumph 2026",
+      "link": "https://www.eurogamer.de/gta-6-kein-kompletter-goty-triumph-2026",
+      "pubDate": "26.09.2026 um 09:38 Uhr",
+      "timestamp": 1790415531.0,
+      "source": "Eurogamer.de News",
+      "summary": "Grand Theft Auto 6 wird nach einigen Verz&ouml;gerungen und Verschiebungen schlie&szlig;lich am 19. November 2026 erscheinen. &Uuml;ber 13 Jahre nach ..."
+    },
+    {
+      "title": "Neues Survival-Spiel auf Steam löst ein großes Problem des Genres, indem es euch zum Hobby-Modder macht",
+      "link": "https://mein-mmo.de/stormforge-preview-endgame-modding/",
+      "pubDate": "26.09.2026 um 09:00 Uhr",
+      "timestamp": 1790413200.0,
+      "source": "Mein-MMO",
+      "summary": "Mit Stormforge erscheint ein neues Survivalspiel auf Steam, das mit dem besten Feature gegen ein typisches Endgame-Problem angeht: nämlich euch. Der B..."
+    },
+    {
+      "title": "Knotenpunkt des Internets: Was im DE-CIX mit unseren Daten passiert",
+      "link": "https://www.computerbase.de/artikel/internet/knotenpunkt-internet-cix-datenverkehr.98717/",
+      "pubDate": "26.09.2026 um 10:00 Uhr",
+      "timestamp": 1790409600.0,
+      "source": "ComputerBase",
+      "summary": "Wer eine Webseite aufruft, ein Spiel herunterlädt oder einen Film streamt, macht sich über den Weg der Daten meist keine Gedanken. Damit verschiedene ..."
+    },
+    {
+      "title": "Einer der wichtigsten Zauberer aus Harry Potter lungerte schon 12 Jahre vor seinem eigenen Film in Hogwarts herum",
+      "link": "https://mein-mmo.de/harry-potter-easter-egg/",
+      "pubDate": "26.09.2026 um 08:00 Uhr",
+      "timestamp": 1790409600.0,
+      "source": "Mein-MMO",
+      "summary": "Ein wichtiger Zauberer aus der Welt von Harry Potter taucht schon viel zu früh in den Filmen auf. Das führt zu einigen Theorien. Der Beitrag Einer der..."
+    },
+    {
+      "title": "Aion 2 Kinah farmen: So werdet ihr schnell reich",
+      "link": "https://mein-mmo.de/aion-2-kinah-farmen-schnell-reich-werden/",
+      "pubDate": "26.09.2026 um 07:49 Uhr",
+      "timestamp": 1790408961.0,
+      "source": "Mein-MMO",
+      "summary": "Die Ingame-Währung Kinah spielt in Aion 2 eine wichtige Rolle. Im Guide verraten wir euch, wie ihr in Atreia schnell reich werdet. Der Beitrag Aion 2 ..."
+    },
+    {
+      "title": "WoW-Spieler loggt in alten Account ein, findet Item im Wert von 500.000 Gold",
+      "link": "https://mein-mmo.de/wow-schatz-im-alten-account/",
+      "pubDate": "26.09.2026 um 07:00 Uhr",
+      "timestamp": 1790406000.0,
+      "source": "Mein-MMO",
+      "summary": "Nach Jahren in WoW einloggen und direkt einen Schatz finden – das dürften einige erleben, die mit Wrath of the Lich King aufgehört haben. Der Beitrag ..."
+    },
+    {
+      "title": "Steuerung per Gesten: Die Turtle Beach Vulcan II XP Air akzeptiert Herumfuchteln",
+      "link": "https://www.computerbase.de/news/tastaturen/steuerung-per-gesten-die-turtle-beach-vulcan-ii-xp-air-akzeptiert-herumfuchteln.99557/",
+      "pubDate": "26.09.2026 um 08:00 Uhr",
+      "timestamp": 1790402400.0,
+      "source": "ComputerBase",
+      "summary": "Turtle Beach bringt ein neues Feature auf Tastaturen: Die Vulcan II XP Air besitzt einen Sensor, um Handgesten zu erkennen. Über den „AirTrack Gesture..."
+    },
+    {
       "title": "40 Jahre Castlevania: Wie Konamis düsterer Meilenstein die Spielewelt für immer veränderte",
       "link": "https://www.eurogamer.de/40-jahre-castlevania-jubilaeum-konami",
       "pubDate": "26.09.2026 um 05:30 Uhr",
@@ -57,7 +121,7 @@
       "summary": "Im Rahmen der jüngsten Umstrukturierungen der Xbox-Sparte ging das Halo-Franchise von den Halo Studios zu Activision über. Einem Insider-Bericht zufol..."
     },
     {
-      "title": "Meta VR Glasses: Fünfmal leichter als Quest 3 und trotzdem 5K",
+      "title": "Nur 100 Gramm: Metas neue VR-Brille kostet trotzdem 1.300 Dollar",
       "link": "https://www.computerbase.de/news/wearables/meta-vr-glasses-fuenfmal-leichter-als-quest-3-und-trotzdem-5k.99543/",
       "pubDate": "25.09.2026 um 18:00 Uhr",
       "timestamp": 1790352000.0,
@@ -79,73 +143,81 @@
       "timestamp": 1790351251.0,
       "source": "Mein-MMO",
       "summary": "Neun Klassen und je drei Talentbäume. Noch gibt es bei WoW: Forever keine neuen Klassen, aber einige der alten haben so viele Veränderungen bekommen, ..."
-    },
-    {
-      "title": "Rematch kommt in Xbox Game Pass Essential – das steckt im Fußballspiel",
-      "link": "https://www.playcentral.de/rematch-kommt-in-xbox-game-pass-essential-das-steckt-im-fussballspiel/",
-      "pubDate": "25.09.2026 um 15:31 Uhr",
-      "timestamp": 1790350319.0,
-      "source": "PlayCentral",
-      "summary": "Microsoft erweitert den Xbox Game Pass Essential am 25. September 2026 um Rematch. Das rasante Fußballspiel ist damit der 21. Katalogzugang, den der g..."
-    },
-    {
-      "title": "EA FC 27: Schnell Münzen verdienen und ein starkes Team aufbauen",
-      "link": "https://mein-mmo.de/ea-fc-27-muenzen-verdienen-team/",
-      "pubDate": "25.09.2026 um 15:31 Uhr",
-      "timestamp": 1790350288.0,
-      "source": "Mein-MMO",
-      "summary": "Ihr wollt schnell Münzen in EA FC 27 verdienen? MeinMMO stellt euch die besten und effektivsten Methoden vor. Der Beitrag EA FC 27: Schnell Münzen ver..."
-    },
-    {
-      "title": "Sony meldet neues Patent für Matchmaking an - es funktioniert mit KI",
-      "link": "https://www.eurogamer.de/sony-patent-ki-matchmaking-daten",
-      "pubDate": "25.09.2026 um 15:22 Uhr",
-      "timestamp": 1790349764.0,
-      "source": "Eurogamer.de News",
-      "summary": "Matchmaking ist so ziemlich in jedem Esport-Titel ein riesiges Thema. Es kann der absolute Segen sein, mit einem starken Team gematcht zu werden. Oder..."
-    },
-    {
-      "title": "Spieler von Diablo 4 finden geheimen Boss mit einem Feature, das sie schon längst vergessen haben",
-      "link": "https://mein-mmo.de/diablo-4-mefishto-geheimer-boss/",
-      "pubDate": "25.09.2026 um 15:04 Uhr",
-      "timestamp": 1790348672.0,
-      "source": "Mein-MMO",
-      "summary": "Season 15 von Diablo 4 steckt voller Überraschungen. Ein fast vergessenes Feature begeistert die Spieler nun erneut, weil ein geheimer Boss auf sie wa..."
-    },
-    {
-      "title": "WoW Forever: Spieler entwickelt Addon, damit ihr nervige Streamer ausblenden könnt",
-      "link": "https://mein-mmo.de/wow-forever-spieler-entwickelt-addon-nervig-ausblenden/",
-      "pubDate": "25.09.2026 um 14:43 Uhr",
-      "timestamp": 1790347419.0,
-      "source": "Mein-MMO",
-      "summary": "Streamer in WoW Forever sind lästig – vor allem einer. Den will die Community loswerden und nutzt dafür ein Addon. Der Beitrag WoW Forever: Spieler en..."
-    },
-    {
-      "title": "Lenovo verschenkt DOOM auf Steam – so läuft der Key Drop am 28. Oktober 2026",
-      "link": "https://www.playcentral.de/lenovo-verschenkt-doom-auf-steam-so-laeuft-der-key-drop-am-28-oktober-2026/",
-      "pubDate": "25.09.2026 um 14:33 Uhr",
-      "timestamp": 1790346781.0,
-      "source": "PlayCentral",
-      "summary": "Steam-Nutzer dürfen sich im Oktober 2026 auf einen besonders starken Gratis-Titel freuen. Lenovo verschenkt über seine Legion Gaming Community kostenl..."
-    },
-    {
-      "title": "WoW Forever – Add-on OlympusMute blendet Olympus-Gilden aus Chats aus",
-      "link": "https://www.playcentral.de/wow-forever-add-on-olympusmute-blendet-olympus-gilden-aus-chats-aus/",
-      "pubDate": "25.09.2026 um 14:31 Uhr",
-      "timestamp": 1790346703.0,
-      "source": "PlayCentral",
-      "summary": "In der Beta von World of Warcraft: Forever sorgt die Rückkehr von Asmongold für reichlich Unruhe. Gemeinsam mit dem bekannten Streamer sind auch desse..."
-    },
-    {
-      "title": "Für Google Pixel Watch: Health Guardian überwacht Blutdruck und Insulinresistenz",
-      "link": "https://www.computerbase.de/news/wearables/fuer-google-pixel-watch-health-guardian-ueberwacht-blutdruck-und-insulinresistenz.99553/",
-      "pubDate": "25.09.2026 um 16:30 Uhr",
-      "timestamp": 1790346600.0,
-      "source": "ComputerBase",
-      "summary": "Der neue Google Health Guardian erfasst Trends bei Blutdruck und Insulinresistenz sowie die Atmungsqualität im Schlaf. Die neuen Funktionen basieren a..."
     }
   ],
   "int": [
+    {
+      "title": "Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'",
+      "link": "https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/",
+      "pubDate": "26.09.2026 um 10:43 Uhr",
+      "timestamp": 1790419382.0,
+      "source": "PCGamer latest",
+      "summary": "\"It's, in a way, too bad\"."
+    },
+    {
+      "title": "US court orders Redditor to pay Nintendo £3.4m over Switch piracy",
+      "link": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "pubDate": "26.09.2026 um 10:18 Uhr",
+      "timestamp": 1790417938.0,
+      "source": "Eurogamer.net News",
+      "summary": "A US District Judge has granted Nintendo a &pound;3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known onlin..."
+    },
+    {
+      "title": "'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now",
+      "link": "https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/",
+      "pubDate": "26.09.2026 um 10:13 Uhr",
+      "timestamp": 1790417594.0,
+      "source": "Polygon.com",
+      "summary": "The original guardians of the galaxy"
+    },
+    {
+      "title": "5 Classic Sci-Fi Books That Are Perfect From Start to Finish",
+      "link": "https://www.polygon.com/classic-sci-fi-perfect-start-finish/",
+      "pubDate": "26.09.2026 um 10:00 Uhr",
+      "timestamp": 1790416814.0,
+      "source": "Polygon.com",
+      "summary": "You won't be able to put down these exceptional sci-fi picks."
+    },
+    {
+      "title": "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "link": "https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "pubDate": "26.09.2026 um 09:30 Uhr",
+      "timestamp": 1790415000.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "11 anime to watch if you like Frieren",
+      "link": "https://www.polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy/",
+      "pubDate": "26.09.2026 um 08:04 Uhr",
+      "timestamp": 1790409855.0,
+      "source": "Polygon.com",
+      "summary": "Find refuge in these cozy, fantastical worlds"
+    },
+    {
+      "title": "Game Changer Fans Want More ‘Rulette,’ but Dropout CEO Sam Reich Isn't Convinced",
+      "link": "https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/",
+      "pubDate": "26.09.2026 um 08:00 Uhr",
+      "timestamp": 1790409614.0,
+      "source": "Polygon.com",
+      "summary": "Polygon talks with Dropout CEO and Game Changer host Sam Reich about Rueltte and how he decides what games to turn into spinoff series."
+    },
+    {
+      "title": "GameSir Tarantula 8K review: \"Responds to every twitchy movement and instinctive press\"",
+      "link": "https://www.gamesradar.com/hardware/gaming-controllers/gamesir-tarantula-8k-review/",
+      "pubDate": "26.09.2026 um 08:00 Uhr",
+      "timestamp": 1790409600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "It feels odd to be reviewing a revival of one of my favorite controllers, yet be pining for its original version."
+    },
+    {
+      "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+      "link": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
+      "pubDate": "26.09.2026 um 06:42 Uhr",
+      "timestamp": 1790404932.0,
+      "source": "IGN All",
+      "summary": "Insomniac Games has published a new Marvel's Wolverine update that adds an option to turn off those controversial scent trails for collectibles."
+    },
     {
       "title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
       "link": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/",
@@ -169,6 +241,14 @@
       "timestamp": 1790395220.0,
       "source": "Polygon.com",
       "summary": "No, you're not confused, there are two of these"
+    },
+    {
+      "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
+      "link": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
+      "pubDate": "26.09.2026 um 02:17 Uhr",
+      "timestamp": 1790389068.0,
+      "source": "IGN All",
+      "summary": "Chris Hansen says he was more confused than offended by Lance Oppenheim’s Primetime, and is answering this dramatized version of events with his own d..."
     },
     {
       "title": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
@@ -209,86 +289,6 @@
       "timestamp": 1790380224.0,
       "source": "IGN All",
       "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise."
-    },
-    {
-      "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
-      "link": "https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/",
-      "pubDate": "25.09.2026 um 23:47 Uhr",
-      "timestamp": 1790380028.0,
-      "source": "PCGamer latest",
-      "summary": "The Wardogs grind is real, and kind of exhausting."
-    },
-    {
-      "title": "How to open the auxiliary lines in Part 6 of Silent Hill: Townfall",
-      "link": "https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/",
-      "pubDate": "25.09.2026 um 23:15 Uhr",
-      "timestamp": 1790378107.0,
-      "source": "PCGamer latest",
-      "summary": "Complete the last puzzle in Silent Hill: Townfall."
-    },
-    {
-      "title": "10 Free Browser Games That are Actually Fun to Play",
-      "link": "https://www.polygon.com/best-free-browser-games/",
-      "pubDate": "25.09.2026 um 23:00 Uhr",
-      "timestamp": 1790377215.0,
-      "source": "Polygon.com",
-      "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for"
-    },
-    {
-      "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
-      "link": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
-      "pubDate": "25.09.2026 um 22:26 Uhr",
-      "timestamp": 1790375176.0,
-      "source": "PCGamer latest",
-      "summary": "It's actually on sale for $4 at the moment."
-    },
-    {
-      "title": "Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube",
-      "link": "https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/",
-      "pubDate": "25.09.2026 um 22:25 Uhr",
-      "timestamp": 1790375120.0,
-      "source": "Polygon.com",
-      "summary": "Alan Ritchson takes on a much lighter role in this Thanksgiving football comedy, now available to watch for free on YouTube."
-    },
-    {
-      "title": "Guess who patented a new system for in-game ads",
-      "link": "https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/",
-      "pubDate": "25.09.2026 um 22:10 Uhr",
-      "timestamp": 1790374204.0,
-      "source": "PCGamer latest",
-      "summary": "The future's so bright you gotta wear shades."
-    },
-    {
-      "title": "The eyes of Valve's creepy portrait are glowing again",
-      "link": "https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/",
-      "pubDate": "25.09.2026 um 22:08 Uhr",
-      "timestamp": 1790374092.0,
-      "source": "PCGamer latest",
-      "summary": "It could signal an imminent update."
-    },
-    {
-      "title": "Health upgrade point locations in Control Resonant",
-      "link": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
-      "pubDate": "25.09.2026 um 22:05 Uhr",
-      "timestamp": 1790373945.0,
-      "source": "Polygon.com",
-      "summary": "Where to find health upgrade points, so you can increase your maximum HP in Control Resonant."
-    },
-    {
-      "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
-      "link": "https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/",
-      "pubDate": "25.09.2026 um 22:01 Uhr",
-      "timestamp": 1790373675.0,
-      "source": "Polygon.com",
-      "summary": "Honkai: Star Rail version 4.6 launches a bit earlier in the week than usual. We list the maintenance times in your time zone in our guide."
-    },
-    {
-      "title": "Power upgrade point locations in Control Resonant",
-      "link": "https://www.polygon.com/control-resonant-power-upgrade-point-locations/",
-      "pubDate": "25.09.2026 um 21:59 Uhr",
-      "timestamp": 1790373546.0,
-      "source": "Polygon.com",
-      "summary": "Where to find power upgrade points, so you can use more of your combat abilities in Control Resonant."
     }
   ],
   "sim": [
