@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "40 Jahre Castlevania: Wie Konamis düsterer Meilenstein die Spielewelt für immer veränderte",
+      "link": "https://www.eurogamer.de/40-jahre-castlevania-jubilaeum-konami",
+      "pubDate": "26.09.2026 um 05:30 Uhr",
+      "timestamp": 1790400600.0,
+      "source": "Eurogamer.de News",
+      "summary": "1986 schickte Konami das erste Castlevania ins Rennen und legte damit den Grundstein f&uuml;r ein legend&auml;res Franchise. In der Rolle von Simon Be..."
+    },
+    {
+      "title": "In einem MMORPG von Amazon könnt ihr jetzt einen 200 Meter großen Koloss herausfordern",
+      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-26-september-2026/",
+      "pubDate": "26.09.2026 um 05:30 Uhr",
+      "timestamp": 1790400600.0,
+      "source": "Mein-MMO",
+      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit einem Koloss von einem Boss, viel Forever und einem beliebten Event in Eorzea. Der Beitr..."
+    },
+    {
+      "title": "Pokémon Go: Alles zum heutigen Fangkunst-Event mit Paragoni und erhöhter Shiny-Chance",
+      "link": "https://www.eurogamer.de/pokemon-go-fangkunst-paragoni-event-shiny",
+      "pubDate": "26.09.2026 um 05:00 Uhr",
+      "timestamp": 1790398800.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wenn euch das Pok&eacute;mon Paragoni in Pok&eacute;mon Go noch fehlt oder ihr einfach mehr Exemplare davon haben m&ouml;chtet, solltet ihr euch mit d..."
+    },
+    {
       "title": "Thronefall kommt am 11. November 2026 in den Xbox Game Pass und auf PS5",
       "link": "https://www.playcentral.de/thronefall-kommt-am-11-november-2026-in-den-xbox-game-pass-und-auf-ps5/",
       "pubDate": "25.09.2026 um 22:31 Uhr",
@@ -119,33 +143,49 @@
       "timestamp": 1790346600.0,
       "source": "ComputerBase",
       "summary": "Der neue Google Health Guardian erfasst Trends bei Blutdruck und Insulinresistenz sowie die Atmungsqualität im Schlaf. Die neuen Funktionen basieren a..."
-    },
-    {
-      "title": "Linux-Desktop mit Update: Cosmic Epoch 1.9 gestaltet die Store-App um",
-      "link": "https://www.computerbase.de/news/betriebssysteme/linux-desktop-mit-update-cosmic-epoch-1-9-gestaltet-die-store-app-um.99551/",
-      "pubDate": "25.09.2026 um 16:02 Uhr",
-      "timestamp": 1790344920.0,
-      "source": "ComputerBase",
-      "summary": "System76 hat Cosmic Epoch 1.9 veröffentlicht. Die aktuelle Version der Linux-Desktopumgebung bringt ein leichtes Re-Design der Store-App und den neuen..."
-    },
-    {
-      "title": "Ein „Spiel für Frauen“ erobert gerade die Steam-Charts, aber einige nutzen es, um gegen die AAA-Industrie zu giften",
-      "link": "https://mein-mmo.de/dressmaker-steam-release-spieler/",
-      "pubDate": "25.09.2026 um 14:00 Uhr",
-      "timestamp": 1790344800.0,
-      "source": "Mein-MMO",
-      "summary": "Dressmaker legt einen rasanten Einstieg auf Steam hin. Doch so mancher User vergleicht das Game mit Wolverine. Der Beitrag Ein „Spiel für Frauen“ erob..."
-    },
-    {
-      "title": "Influencer legt sich mit einem Roboter in einem MMA-Kampf an, zeigt, wie ein echter Terminator aussehen könnte",
-      "link": "https://mein-mmo.de/youtube-creator-gegen-terminator/",
-      "pubDate": "25.09.2026 um 14:00 Uhr",
-      "timestamp": 1790344800.0,
-      "source": "Mein-MMO",
-      "summary": "Die Terminator-Filme zeigen eine dystopische Zukunft. Ein Kampf zwischen Mensch und Maschine zeigt, wie es aussehen könnte Der Beitrag Influencer legt..."
     }
   ],
   "int": [
+    {
+      "title": "CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming",
+      "link": "https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/",
+      "pubDate": "26.09.2026 um 05:07 Uhr",
+      "timestamp": 1790399235.0,
+      "source": "Polygon.com",
+      "summary": "The CBS anthology series The Twilight Zone is one of the greatest science fiction shows ever made. Catch it while it's free to stream on Tubi."
+    },
+    {
+      "title": "Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free",
+      "link": "https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026/",
+      "pubDate": "26.09.2026 um 04:58 Uhr",
+      "timestamp": 1790398695.0,
+      "source": "Polygon.com",
+      "summary": "One of the best films in Ridley Scott's filmography and a key entry into the sci-fi canon is now free to stream on YouTube."
+    },
+    {
+      "title": "Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name",
+      "link": "https://www.polygon.com/dark-matter-2015-canada/",
+      "pubDate": "26.09.2026 um 04:00 Uhr",
+      "timestamp": 1790395220.0,
+      "source": "Polygon.com",
+      "summary": "No, you're not confused, there are two of these"
+    },
+    {
+      "title": "Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend",
+      "link": "https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/",
+      "pubDate": "26.09.2026 um 02:08 Uhr",
+      "timestamp": 1790388511.0,
+      "source": "PCGamer latest",
+      "summary": "Stop readin' and start watchin'."
+    },
+    {
+      "title": "How to Play the Silent Hill Games in Order",
+      "link": "https://www.ign.com/articles/silent-hill-games-in-order",
+      "pubDate": "26.09.2026 um 00:45 Uhr",
+      "timestamp": 1790383500.0,
+      "source": "IGN All",
+      "summary": ""
+    },
     {
       "title": "A running tally of the most ridiculous things AI bigwigs have said so far",
       "link": "https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/",
@@ -161,6 +201,14 @@
       "timestamp": 1790380777.0,
       "source": "Latest from GamesRadar+",
       "summary": "\"Don't cheat, bro\""
+    },
+    {
+      "title": "EA Sports FC 27 Review",
+      "link": "https://www.ign.com/articles/ea-sports-fc-27-review",
+      "pubDate": "25.09.2026 um 23:50 Uhr",
+      "timestamp": 1790380224.0,
+      "source": "IGN All",
+      "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise."
     },
     {
       "title": "I did the math on my Wardogs XP grind, and now I wish I hadn't",
@@ -241,57 +289,17 @@
       "timestamp": 1790373546.0,
       "source": "Polygon.com",
       "summary": "Where to find power upgrade points, so you can use more of your combat abilities in Control Resonant."
-    },
-    {
-      "title": "Blizzard says \"sorry\" for Diablo 4 season 15 woes by giving away the game's rarest crafting material",
-      "link": "https://www.gamesradar.com/games/diablo/blizzard-says-were-sorry-to-diablo-4-players-for-season-15-issues-gives-away-the-games-rarest-crafting-material-as-thanks-for-standing-with-us/",
-      "pubDate": "25.09.2026 um 21:54 Uhr",
-      "timestamp": 1790373290.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Some players say they only got a thank you note, but others are getting free Resplendent Sparks"
-    },
-    {
-      "title": "PlayStation is \"hearing the feedback from customers\" on discs, says JRPG boss",
-      "link": "https://www.gamesradar.com/games/jrpg/playstation-is-hearing-the-feedback-from-customers-on-discs-says-jrpg-boss-whose-business-is-built-on-physical-games/",
-      "pubDate": "25.09.2026 um 21:41 Uhr",
-      "timestamp": 1790372519.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"It's possible that the discussion may change in the future\""
-    },
-    {
-      "title": "'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam",
-      "link": "https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/",
-      "pubDate": "25.09.2026 um 21:13 Uhr",
-      "timestamp": 1790370829.0,
-      "source": "PCGamer latest",
-      "summary": "\"I realistically was thinking maybe 5k at best,\" says the maker of ragdoll physics game Happy Wheels."
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave is too massive for How Long To Beat to have any useful results",
-      "link": "https://www.gamesradar.com/games/rpg/fire-emblem-fortunes-weave-is-too-massive-for-how-long-to-beat-to-have-any-useful-results-after-1-week-as-players-barely-scrape-the-surface/",
-      "pubDate": "25.09.2026 um 21:08 Uhr",
-      "timestamp": 1790370480.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "A great activity, if you've got a spare 100 hours"
-    },
-    {
-      "title": "'Power Lines' quest walkthrough in Control Resonant",
-      "link": "https://www.polygon.com/control-resonant-power-lines-quest-walkthrough-tuning-forks/",
-      "pubDate": "25.09.2026 um 21:07 Uhr",
-      "timestamp": 1790370462.0,
-      "source": "Polygon.com",
-      "summary": "The \"Power Lines\" quest in Control Resonant is full of puzzles involving tuning devices. Here's how to reroute power to each station."
-    },
-    {
-      "title": "There Are Only Two Things That Money Can’t Buy: True Love, And Homegrown Tomatoes",
-      "link": "https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231",
-      "pubDate": "25.09.2026 um 21:00 Uhr",
-      "timestamp": 1790370043.0,
-      "source": "Kotaku",
-      "summary": "Plant 'em in the spring, eat 'em in the summer/All winter without 'em's a culinary bummer"
     }
   ],
   "sim": [
+    {
+      "title": "Polyphony Digital Explains How Gran Turismo 7 Engine Sounds Work, Reveals Lotus Evora and AMG One",
+      "link": "https://www.gtplanet.net/polyphony-digital-explains-how-gran-turismo-7-engine-sounds-work-reveals-lotus-evora-and-amg-one-20260925/",
+      "pubDate": "26.09.2026 um 00:50 Uhr",
+      "timestamp": 1790383853.0,
+      "source": "GTPlanet",
+      "summary": "Polyphony Digital's audio team presented on Gran Turismo 7's engine sound systems at the Acoustical Society of Japan, and the slides show a Lotus Evor..."
+    },
     {
       "title": "2026 IMSA Esports Global Championship | Kinetic 240 at Michelin Raceway Road Atlanta | Race Preview",
       "link": "https://www.iracing.com/2026-imsa-esports-global-championship-kinetic-240-at-michelin-raceway-road-atlanta-race-preview/",
@@ -411,14 +419,6 @@
       "timestamp": 1789664305.0,
       "source": "GTPlanet",
       "summary": "A new set of Gran Turismo 7 Weekly Challenges arrives Friday, September 18, led by a Japanese FR Challenge 550 Special Event at Deep Forest Raceway..."
-    },
-    {
-      "title": "MOZA Reveals R5S Pro and R16S Ultra Direct Drive Wheels for PS5",
-      "link": "https://www.gtplanet.net/moza-reveals-r5s-pro-and-r16s-ultra-direct-drive-wheels-for-ps5-20260916/",
-      "pubDate": "17.09.2026 um 02:11 Uhr",
-      "timestamp": 1789611088.0,
-      "source": "GTPlanet",
-      "summary": "MOZA Racing has announced its first officially licensed PS5 hardware: the R5S Pro Racing Simulator, R16S Ultra Racing Simulator, and a standalone R16S..."
     }
   ]
 }
