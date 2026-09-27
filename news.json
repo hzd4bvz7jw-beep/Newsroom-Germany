@@ -1,12 +1,28 @@
 {
   "de": [
     {
-      "title": "Eine Edition von GTA 6 ist so teuer, dass sich sogar Ubisoft darüber lustig macht",
-      "link": "https://mein-mmo.de/gta-6-ubisoft-rayman/",
-      "pubDate": "27.09.2026 um 16:50 Uhr",
-      "timestamp": 1790527800.0,
+      "title": "Von fliegenden Jeeps zum Helikopter: Zwei Entwickler von Hell Let Loose: Vietnam über die Entstehung des Helikopters und die Zukunft",
+      "link": "https://mein-mmo.de/hell-let-loose-vietnam-interview-huey/",
+      "pubDate": "27.09.2026 um 19:48 Uhr",
+      "timestamp": 1790538511.0,
       "source": "Mein-MMO",
-      "summary": "Die Collector’s Edition von GTA 6 sorgt wegen ihres Preises für Aufregung. Nun hat Ubisoft in einer Ankündigung darauf Bezug genommen. Der Beitrag Ein..."
+      "summary": "MeinMMO-Redakteur Dariusz hat mit den Entwicklern von Hell Let Loose: Vietnam über die Entstehung und die Rolle des Hueys gesprochen. Der Beitrag Von ..."
+    },
+    {
+      "title": "Milo für Steam angekündigt – Koop-Hordenmodus mit Ratten und Early Access 2026",
+      "link": "https://www.playcentral.de/milo-fuer-steam-angekuendigt-koop-hordenmodus-mit-ratten-und-early-access-2026/",
+      "pubDate": "27.09.2026 um 18:31 Uhr",
+      "timestamp": 1790533889.0,
+      "source": "PlayCentral",
+      "summary": "Mit Milo kündigt sich auf Steam ein neuer Koop-Shooter an, der gezielt Erinnerungen an den klassischen Zombie-Modus aus Call of Duty: World at War wec..."
+    },
+    {
+      "title": "Sogar Ubisoft macht sich über die 400 € teure Edition von GTA 6 lustig",
+      "link": "https://mein-mmo.de/gta-6-ubisoft-rayman/",
+      "pubDate": "27.09.2026 um 18:00 Uhr",
+      "timestamp": 1790532000.0,
+      "source": "Mein-MMO",
+      "summary": "Die Collector’s Edition von GTA 6 sorgt wegen ihres Preises für Aufregung. Nun hat Ubisoft in einer Ankündigung darauf Bezug genommen. Der Beitrag Sog..."
     },
     {
       "title": "Diablo 4 soll auch nach Diablo 5 weiter neue Seasons bekommen",
@@ -127,25 +143,81 @@
       "timestamp": 1790515912.0,
       "source": "PlayCentral",
       "summary": "Mit Glasshouse kündigt sich auf Steam ein ungewöhnliches Rollenspiel an, das die politische Tiefe von Disco Elysium mit einer düsteren Feudalpunk-Kuli..."
-    },
-    {
-      "title": "The Last of Us: Kostenloser PS5-Hintergrund und neue Ankündigungen zum TLOU Day",
-      "link": "https://www.eurogamer.de/he-last-of-us-day-ps5-hintergrund-kostenlos",
-      "pubDate": "27.09.2026 um 13:05 Uhr",
-      "timestamp": 1790514300.0,
-      "source": "Eurogamer.de News",
-      "summary": "Naughty Dog stimmt euch auf den The Last of Us Day 2026 ein und spendiert PlayStation-5-Nutzern einen kostenlosen Hintergrund. Mehr"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Remake: Neues Video zeigt Ganondorf genauer",
-      "link": "https://www.eurogamer.de/zelda-ocarina-of-time-remake-ganondorf-video",
-      "pubDate": "27.09.2026 um 12:04 Uhr",
-      "timestamp": 1790510640.0,
-      "source": "Eurogamer.de News",
-      "summary": "Nintendo hat einen kurzen Clip ver&ouml;ffentlicht, der einen genaueren Blick auf Ganondorf im Remake von The Legend of Zelda: Ocarina of Time erm&oum..."
     }
   ],
   "int": [
+    {
+      "title": "Famed Rock Producer Blames Video Games For Giving Us Taylor Swift",
+      "link": "https://kotaku.com/famed-rock-producer-blames-video-games-for-giving-us-taylor-swift-2000737434",
+      "pubDate": "27.09.2026 um 20:57 Uhr",
+      "timestamp": 1790542679.0,
+      "source": "Kotaku",
+      "summary": "In a new pot stirring interview, rock n roll crank Todd Rundgren says men would have continued dominating the radio charts had they put down the contr..."
+    },
+    {
+      "title": "Fans React To The Sift, Minecraft’s First New Dimension In Over A Decade",
+      "link": "https://kotaku.com/fans-react-to-the-sift-minecrafts-first-new-dimension-in-over-a-decade-2000737430",
+      "pubDate": "27.09.2026 um 19:49 Uhr",
+      "timestamp": 1790538587.0,
+      "source": "Kotaku",
+      "summary": "Far fuzzier and friendlier than its predecessors, Minecraft players are hoping to extrapolate what kind of biomes and features the future dimension wi..."
+    },
+    {
+      "title": "After 12 years, Dark Souls 2 is finally playable in co-op without interruptions",
+      "link": "https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/",
+      "pubDate": "27.09.2026 um 19:28 Uhr",
+      "timestamp": 1790537323.0,
+      "source": "PCGamer latest",
+      "summary": "Community maestro Yui made similar mods for Elden Ring and the original Dark Souls."
+    },
+    {
+      "title": "13 Years Ago, One Dark JRPG Proved Atlus Could Still Be Hardcore",
+      "link": "https://www.polygon.com/shin-megami-tensei-4-3ds-jrpg-retrospective/",
+      "pubDate": "27.09.2026 um 19:00 Uhr",
+      "timestamp": 1790535617.0,
+      "source": "Polygon.com",
+      "summary": "Atlus might have gone a few directions after the Persona 3's breakout success, and chose to double down on the dark territory that made it great."
+    },
+    {
+      "title": "Avengers: Endgame Encore Collects $86 Million in Theaters as New Scenes Help MCU Fans Prep for Doomsday",
+      "link": "https://www.ign.com/articles/avengers-endgame-encore-collects-86-million-in-theaters-as-new-scenes-help-mcu-fans-prep-for-doomsday",
+      "pubDate": "27.09.2026 um 18:56 Uhr",
+      "timestamp": 1790535366.0,
+      "source": "IGN All",
+      "summary": "Avengers: Endgame Encore dusted off an estimated $86 million at the box office as new scenes helped bring Marvel Cinematic Universe (MCU) fans back to..."
+    },
+    {
+      "title": "Philips Multigroom 7000 Series Is Nearly Half Price at Amazon UK Ahead of Prime Big Deal Days",
+      "link": "https://www.ign.com/articles/philips-multigroom-7000-oneblade-deals-early-prime-big-deal-days-uk",
+      "pubDate": "27.09.2026 um 18:30 Uhr",
+      "timestamp": 1790533800.0,
+      "source": "IGN All",
+      "summary": "Score early Amazon Prime Big Deal Days savings on top-rated grooming essentials in the UK, including nearly half price off the Philips Multigroom 7000..."
+    },
+    {
+      "title": "Gears of War story director laid off mere days after E-Day went gold",
+      "link": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-story-director-laid-off-mere-days-after-e-day-went-gold/",
+      "pubDate": "27.09.2026 um 18:19 Uhr",
+      "timestamp": 1790533183.0,
+      "source": "PCGamer latest",
+      "summary": "Microsoft's layoffs continue to hit accomplished teams."
+    },
+    {
+      "title": "'Forgotten Island's Stars Explain \"Tayo Na!\", the Movie's Biggest Shifting In-Joke",
+      "link": "https://www.polygon.com/forgotten-island-tayo-na-explained/",
+      "pubDate": "27.09.2026 um 18:00 Uhr",
+      "timestamp": 1790532015.0,
+      "source": "Polygon.com",
+      "summary": "Actor Liza Soberano and music star H.E.R. on their Filipino heritage and a complicated phrase that means many things in many contexts."
+    },
+    {
+      "title": "Netflix Tried to Bring Obsession Straight to Streaming Before It Exploded in Theaters",
+      "link": "https://www.ign.com/articles/netflix-tried-to-bring-obsession-straight-to-streaming-before-it-exploded-in-theaters",
+      "pubDate": "27.09.2026 um 17:13 Uhr",
+      "timestamp": 1790529219.0,
+      "source": "IGN All",
+      "summary": "Director Curry Barker said Netflix bid to put Obsession straight to streaming before Focus Features helped it become the biggest box office success st..."
+    },
     {
       "title": "Control Resonant's Completely Ignores The Most Interesting Character",
       "link": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/",
@@ -217,78 +289,6 @@
       "timestamp": 1790524800.0,
       "source": "PCGamer latest",
       "summary": "The founder of Crows Crows Crows guides us through the games on his PC."
-    },
-    {
-      "title": "Don't Breathe 3 in the Works With Stephen Lang and Jane Levy, Fede Álvarez Says",
-      "link": "https://www.ign.com/articles/dont-breathe-3-in-the-works-with-returning-cast-stephen-lang-and-jane-levy-fede-alvarez-says",
-      "pubDate": "27.09.2026 um 15:47 Uhr",
-      "timestamp": 1790524030.0,
-      "source": "IGN All",
-      "summary": "Director Fede Álvarez has confirmed Don't Breathe 3 is in the works, with some of the cast from previous films expected to reprise their roles."
-    },
-    {
-      "title": "Avengers: Endgame Encore's Success Sets The Stage For Doomsday",
-      "link": "https://www.polygon.com/avengers-endgame-encore-box-office/",
-      "pubDate": "27.09.2026 um 15:42 Uhr",
-      "timestamp": 1790523743.0,
-      "source": "Polygon.com",
-      "summary": "Avengers: Endgame Encore beat Resident Evil, Primetime, and Heart of the Beast in theaters this weekend"
-    },
-    {
-      "title": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
-      "link": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-      "pubDate": "27.09.2026 um 15:25 Uhr",
-      "timestamp": 1790522718.0,
-      "source": "Eurogamer.net News",
-      "summary": "Epic has confirmed that Five Nights at Freddy's is joining Fortnite for this year's Fortnitemares event. Read more"
-    },
-    {
-      "title": "It's somehow possible to beat Fire Emblem: Fortune's Weave while ignoring the entire point",
-      "link": "https://www.gamesradar.com/games/strategy/its-somehow-possible-to-beat-fire-emblem-fortunes-weave-while-ignoring-the-entire-point-of-the-game/",
-      "pubDate": "27.09.2026 um 15:22 Uhr",
-      "timestamp": 1790522556.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "No Flame Lords here"
-    },
-    {
-      "title": "Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history",
-      "link": "https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/",
-      "pubDate": "27.09.2026 um 15:00 Uhr",
-      "timestamp": 1790521200.0,
-      "source": "PCGamer latest",
-      "summary": "The end of The End Times."
-    },
-    {
-      "title": "The Real Budget Of Hideo Kojima's Physint Remains A Mystery",
-      "link": "https://www.polygon.com/physint-budget-controversy/",
-      "pubDate": "27.09.2026 um 14:43 Uhr",
-      "timestamp": 1790520225.0,
-      "source": "Polygon.com",
-      "summary": "It's unlikely that Kojima Productions' Physint has a budget of $400 million after Xbox decided to publsih it"
-    },
-    {
-      "title": "Xbox is reportedly paying a \"fraction\" of the $400 million Kojima quoted Sony for Physint",
-      "link": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million",
-      "pubDate": "27.09.2026 um 14:25 Uhr",
-      "timestamp": 1790519152.0,
-      "source": "Eurogamer.net News",
-      "summary": "A reported $400 million budget for Hideo Kojima's Physint has already been walked back over the weekend, with multiple outlets now saying Xbox is payi..."
-    },
-    {
-      "title": "Flying a Helicopter Is 2026’s Most Stressful Gaming Experience",
-      "link": "https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/",
-      "pubDate": "27.09.2026 um 14:00 Uhr",
-      "timestamp": 1790517617.0,
-      "source": "Polygon.com",
-      "summary": "Being a helicopter pilot in Wardogs is ridiculously anxiety-inducing, and here's why."
-    },
-    {
-      "title": "Gabe Newell had a \"room full of knives and blades and swords,\" says Counter-Strike co-creator",
-      "link": "https://www.gamesradar.com/platforms/pc-gaming/yes-gabe-newell-really-had-a-room-full-of-knives-and-blades-and-swords-that-he-learned-how-to-make-himself-says-counter-strike-co-creator/",
-      "pubDate": "27.09.2026 um 13:50 Uhr",
-      "timestamp": 1790517047.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"He became this collector of bladed weapons.\""
     }
   ],
   "sim": [
