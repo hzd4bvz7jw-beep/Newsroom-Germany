@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Wochenrück- und Ausblick: Apples M6 zeigt Power, die China-GPU floppt",
+      "link": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w39.99554/",
+      "pubDate": "27.09.2026 um 08:00 Uhr",
+      "timestamp": 1790488800.0,
+      "source": "ComputerBase",
+      "summary": "Mit der Lisuan Extreme LX7G100 hat ComputerBase in dieser Woche mal wieder eine China-Gaming-Grafikkarte getestet, die über die Community importiert w..."
+    },
+    {
+      "title": "Für den neuen DLC für Total War: Warhammer 3 zahlt ihr über 30 Euro, aber den besten Inhalt gibt’s kostenlos",
+      "link": "https://mein-mmo.de/total-war-warhammer-3-neferata-kostenlos-ist-super/",
+      "pubDate": "27.09.2026 um 06:00 Uhr",
+      "timestamp": 1790488800.0,
+      "source": "Mein-MMO",
+      "summary": "Der neue DLC für Total War: Warhammer 3 kostet geld, aber das kostenlose Update mit Neferata haut richtig rein. Der Beitrag Für den neuen DLC für Tota..."
+    },
+    {
       "title": "LEGO-Fan baut Millennium Falke 75375 zu Sahelanthropus aus Metal Gear um",
       "link": "https://www.playcentral.de/lego-fan-baut-millennium-falke-75375-zu-sahelanthropus-aus-metal-gear-um/",
       "pubDate": "26.09.2026 um 23:31 Uhr",
@@ -127,25 +143,65 @@
       "timestamp": 1790422440.0,
       "source": "ComputerBase",
       "summary": "Der nächste Sicherheitsvorfall, den OpenAI einräumt: KI-Agenten sendeten in 53 Fällen Bilder, die Nutzer hochgeladen hatten, an Bildhosting-Seiten. Nu..."
-    },
-    {
-      "title": "Resident Evil 2: Remake verdoppelt Verkaufszahlen nach Zach Creggers Film",
-      "link": "https://www.eurogamer.de/resident-evil-2-remake-verkaufszahlen-verdoppelt-nach-zach-creggers-film",
-      "pubDate": "26.09.2026 um 11:01 Uhr",
-      "timestamp": 1790420481.0,
-      "source": "Eurogamer.de News",
-      "summary": "Es war fast erwartbar, dass Zach Creggers neuer Resident Evil-Film die Leute in die Arme von mehr Zombies treibt. Die Verkaufszahlen f&uuml;r verschie..."
-    },
-    {
-      "title": "Wie gut ist Ace Combat 8: Wings Of Theve?: Über den Wolken muss der Spaß wohl grenzenlos sein",
-      "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-ace-combat-8-wings-of-theve-ueber-den-wolken-muss-der-spass-wohl-grenzenlos-sein.99558/",
-      "pubDate": "26.09.2026 um 12:52 Uhr",
-      "timestamp": 1790419920.0,
-      "source": "ComputerBase",
-      "summary": "Über den Wolken muss der Spaß wohl grenzenlos sein, so lassen sich die Urteile zum neuen Ace Combat zusammenfassen. Wings Of Theve entpuppt sich als e..."
     }
   ],
   "int": [
+    {
+      "title": "60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves",
+      "link": "https://www.polygon.com/charles-schulz-peanuts-best-quote-ever/",
+      "pubDate": "27.09.2026 um 05:27 Uhr",
+      "timestamp": 1790486834.0,
+      "source": "Polygon.com",
+      "summary": "In addition to being sweet and funny, Charles Schulz's Peanuts comic strip could be profound at time. The best example comes from 1966"
+    },
+    {
+      "title": "12 Years Ago, Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst",
+      "link": "https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-anniversary/",
+      "pubDate": "27.09.2026 um 04:00 Uhr",
+      "timestamp": 1790481621.0,
+      "source": "Polygon.com",
+      "summary": "Peter Capaldi's Twelfth Doctor has plenty of outstanding moments, but one episode in particular shows the Time Lord at his worst."
+    },
+    {
+      "title": "The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants",
+      "link": "https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/",
+      "pubDate": "27.09.2026 um 02:44 Uhr",
+      "timestamp": 1790477065.0,
+      "source": "PCGamer latest",
+      "summary": "Thunder Hoop and its sequel sure are something."
+    },
+    {
+      "title": "Tom Holland's 133-Minute Action Movie Masterpiece Is About to Leave Netflix",
+      "link": "https://www.polygon.com/before-it-leaves-netflix-watch-spider-man-homecoming/",
+      "pubDate": "27.09.2026 um 01:00 Uhr",
+      "timestamp": 1790470815.0,
+      "source": "Polygon.com",
+      "summary": "Homecoming is still the perfect place to start with Tom Holland’s Spider-Man."
+    },
+    {
+      "title": "Between 70 and 80% of Blood Bowl 3 games were solo",
+      "link": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
+      "pubDate": "27.09.2026 um 00:42 Uhr",
+      "timestamp": 1790469775.0,
+      "source": "PCGamer latest",
+      "summary": "Improving the new version's AI is a priority."
+    },
+    {
+      "title": "Godzilla Minus Zero Review",
+      "link": "https://www.ign.com/articles/godzilla-minus-zero-review",
+      "pubDate": "27.09.2026 um 00:30 Uhr",
+      "timestamp": 1790469000.0,
+      "source": "IGN All",
+      "summary": "Review: Godzilla Minus Zero doesn’t disappoint in the slightest on the kaiju front, but does lack the same level of emotional resonance that its prede..."
+    },
+    {
+      "title": "'Godzilla Minus Zero' Review: The Best Godzilla Movie of All Time — Until Takashi Yamazaki's Next Sequel",
+      "link": "https://www.polygon.com/godzilla-minus-zero-review/",
+      "pubDate": "27.09.2026 um 00:20 Uhr",
+      "timestamp": 1790468416.0,
+      "source": "Polygon.com",
+      "summary": "The director of Godzilla Minus One doubles down with his follow-up film in the best ways possible. Read Polygon's review of Godzilla Minus Zero."
+    },
     {
       "title": "Godzilla Minus Zero review: \"Easily one of the best films of the year\"",
       "link": "https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-review/",
@@ -179,6 +235,14 @@
       "summary": "A lot of 35-year-old games didn't age well, but one Super Nintendo classic remains every bit as much fun to play as it was at launch."
     },
     {
+      "title": "The Best Deals Today: Fire Emblem: Fortune's Weave, Metroid Prime 4, Nintendo Switch 2, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-september-26-2026",
+      "pubDate": "26.09.2026 um 22:04 Uhr",
+      "timestamp": 1790460258.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
       "title": "TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom",
       "link": "https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom",
       "pubDate": "26.09.2026 um 21:55 Uhr",
@@ -203,6 +267,14 @@
       "summary": "Chris Perkins and Jeremy Crawford discuss their transition from D&amp;D to Daggerheart and their current projects for Critical Role's TTRPG."
     },
     {
+      "title": "Microsoft CEO Says 'Streamlining' at Xbox is 'Great to See' as Layoffs Affect Thousands",
+      "link": "https://www.ign.com/articles/microsoft-ceo-says-streamlining-at-xbox-is-great-to-see-as-layoffs-affect-thousands",
+      "pubDate": "26.09.2026 um 20:52 Uhr",
+      "timestamp": 1790455960.0,
+      "source": "IGN All",
+      "summary": "Microsoft CEO Satya Nadella has spoken about the state of Xbox following layoffs that affected thousands of workers, saying that the \"streamlining\" at..."
+    },
+    {
       "title": "UK’s Largest Tabletop Convention Bans AI With Few Exceptions",
       "link": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
       "pubDate": "26.09.2026 um 20:30 Uhr",
@@ -217,78 +289,6 @@
       "timestamp": 1790454485.0,
       "source": "Rock Paper Shotgun News",
       "summary": "Just hearing that a game has mashed two genres together does not generally excite me. It's a useful shorthand, maybe, but there's only so many rogueli..."
-    },
-    {
-      "title": "5 Nintendo Games That Still Need a Switch 2 Edition",
-      "link": "https://www.polygon.com/nintendo-games-no-switch-2-edition/",
-      "pubDate": "26.09.2026 um 20:00 Uhr",
-      "timestamp": 1790452815.0,
-      "source": "Polygon.com",
-      "summary": "If Nintendo is looking for more Switch classics to transform into Nintendo Switch 2 Editions, these games could use the upgrade."
-    },
-    {
-      "title": "Comedic Filmmaker John Wilson Discovers Foundational Metaphor In The History Of Concrete",
-      "link": "https://kotaku.com/comedic-filmmaker-john-wilson-discovers-foundational-metaphor-in-the-history-of-concrete-2000737329",
-      "pubDate": "26.09.2026 um 19:35 Uhr",
-      "timestamp": 1790451303.0,
-      "source": "Kotaku",
-      "summary": "Building off his HBO series, Wilson’s feature length poetic odyssey examines why it’s hard to get excited about the future when the present visibly cr..."
-    },
-    {
-      "title": "Microsoft CEO says Xbox's \"streamlining\" is \"great to see\" despite cuts and layoffs",
-      "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs",
-      "pubDate": "26.09.2026 um 19:16 Uhr",
-      "timestamp": 1790450209.0,
-      "source": "Eurogamer.net News",
-      "summary": "Microsoft CEO Satya Nadella has praised Xbox's ongoing \"streamlining\" under Xbox CEO Asha Sharma just days after another round of layoffs hit the divi..."
-    },
-    {
-      "title": "10 Years Later, Critical Role’S Most Heartbreaking Quote Still Lives in My Mind Rent-Free",
-      "link": "https://www.polygon.com/critical-role-the-legend-of-vox-machina-best-quote/",
-      "pubDate": "26.09.2026 um 19:00 Uhr",
-      "timestamp": 1790449215.0,
-      "source": "Polygon.com",
-      "summary": "This heartbreaking moment from Critical Role's first campaign was altered for 'The Legend of Vox Machina', but for a good reason."
-    },
-    {
-      "title": "Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change",
-      "link": "https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change",
-      "pubDate": "26.09.2026 um 17:51 Uhr",
-      "timestamp": 1790445091.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Tense platforming? Riveting, punchy action combat? Complex, thought provoking puzzles? Is this what we come to video games for? Of course not! It's fo..."
-    },
-    {
-      "title": "Minecraft Is Getting Its First New Dimension Since 2011",
-      "link": "https://www.polygon.com/minecraft-live-news-recap-sift-dimension/",
-      "pubDate": "26.09.2026 um 17:30 Uhr",
-      "timestamp": 1790443815.0,
-      "source": "Polygon.com",
-      "summary": "A new dimension from Minecraft Dungeons 2 will be added to Minecraft in 2027"
-    },
-    {
-      "title": "Everything We Saw At Minecraft Live, Including The First New Dimension In 15 Years",
-      "link": "https://kotaku.com/minecraft-live-dungeons-ii-ice-caves-the-sift-microsoft-mojang-2000737181",
-      "pubDate": "26.09.2026 um 17:28 Uhr",
-      "timestamp": 1790443696.0,
-      "source": "Kotaku",
-      "summary": "The Sift will be the fourth dimension in the game, joining the Overworld, Nether and the End"
-    },
-    {
-      "title": "13 Most Influential Video Games of the Past 45 Years",
-      "link": "https://www.polygon.com/most-influential-video-games/",
-      "pubDate": "26.09.2026 um 17:23 Uhr",
-      "timestamp": 1790443415.0,
-      "source": "Polygon.com",
-      "summary": "Games come and go, but the lingering influence of the 13 games on this list, drawn from across the decades, will always remain."
-    },
-    {
-      "title": "Wild Arms Spiritual Successor Armed Fantasia Seemingly Discontinued By Publisher",
-      "link": "https://kotaku.com/wild-arms-spiritual-successor-armed-fantasia-seemingly-discontinued-by-publisher-2000737311",
-      "pubDate": "26.09.2026 um 17:10 Uhr",
-      "timestamp": 1790442622.0,
-      "source": "Kotaku",
-      "summary": "Despite a successful Kickstarter in 2022, this could be the end of the trail for the beloved, languishing JRPG series, leaving its gothic sibling proj..."
     }
   ],
   "sim": [
