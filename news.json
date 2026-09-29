@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Firefox 157: Großes Redesign und 38 schwere Sicherheitslücken",
+      "link": "https://www.computerbase.de/news/apps/firefox-157-grosses-redesign-und-38-schwere-sicherheitsluecken.99604/",
+      "pubDate": "29.09.2026 um 23:44 Uhr",
+      "timestamp": 1790718240.0,
+      "source": "ComputerBase",
+      "summary": "Mozilla verpasst Firefox 157 die größte optische Überarbeitung seit Jahren und führt neue Themes sowie einen Kompaktmodus ein. Zugleich schließt das U..."
+    },
+    {
+      "title": "Toy Story Klassiker verschwinden aus dem PlayStation Store – Zugriff weg für Plus Premium",
+      "link": "https://www.playcentral.de/toy-story-klassiker-verschwinden-aus-dem-playstation-store-zugriff-weg-fuer-plus-premium/",
+      "pubDate": "29.09.2026 um 21:32 Uhr",
+      "timestamp": 1790717529.0,
+      "source": "PlayCentral",
+      "summary": "Drei klassische Spiele aus dem Toy Story Universum sind Ende September 2026 aus dem PlayStation Store verschwunden. Betroffen sind Umsetzungen älterer..."
+    },
+    {
+      "title": "PS5-Horrorspiel Abandoned im PlayStation Store mit Release-Fenster 2027",
+      "link": "https://www.playcentral.de/ps5-horrorspiel-abandoned-im-playstation-store-mit-release-fenster-2027/",
+      "pubDate": "29.09.2026 um 21:31 Uhr",
+      "timestamp": 1790717480.0,
+      "source": "PlayCentral",
+      "summary": "Das lange verschollen geglaubte PS5-Horrorspiel Abandoned sorgt erneut für Gesprächsstoff. Nach mehreren Jahren voller Verzögerungen, Kontroversen und..."
+    },
+    {
+      "title": "Das „große“ Herbst-Update: Microsoft veröffentlicht Windows 11 26H2",
+      "link": "https://www.computerbase.de/news/betriebssysteme/das-grosse-herbst-update-microsoft-veroeffentlicht-windows-11-26h2.99606/",
+      "pubDate": "29.09.2026 um 22:05 Uhr",
+      "timestamp": 1790712300.0,
+      "source": "ComputerBase",
+      "summary": "Microsoft hat mit Windows 11 26H2 das alljährliche Herbst-Update veröffentlicht. Relevante Neuerungen wurden bereits in den letzten Monaten ausgespiel..."
+    },
+    {
       "title": "Ocarina of Time für Switch 2 – neues Video zeigt Zoras Reich im Detail",
       "link": "https://www.playcentral.de/ocarina-of-time-fuer-switch-2-neues-video-zeigt-zoras-reich-im-detail/",
       "pubDate": "29.09.2026 um 18:32 Uhr",
@@ -111,184 +143,152 @@
       "timestamp": 1790698629.0,
       "source": "Mein-MMO",
       "summary": "In Wardogs kann jeder Spieler Geld gebrauchen. Ein YouTuber ist dafür zum quacksalberischen Verkäufer geworden und verkaufte sabotierte Ware. Der Beit..."
-    },
-    {
-      "title": "Hades 2: Studio-Chef erklärt, warum die Fortsetzung keine reine Geldfrage war",
-      "link": "https://www.eurogamer.de/hades-2-sequel-wahre-gruende",
-      "pubDate": "29.09.2026 um 16:02 Uhr",
-      "timestamp": 1790697744.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Entscheidung, eine Fortsetzung zum &auml;u&szlig;erst erfolgreichen Roguelike-Titel Hades zu entwickeln, traf Supergiant Games nicht allein aus ge..."
-    },
-    {
-      "title": "PS5 und Switch 2: Ex-PlayStation-Chef rät Sony und Nintendo zum Herauszögern der neuen Konsolen",
-      "link": "https://www.eurogamer.de/ps5-switch-2-naechste-generation-aufschieben",
-      "pubDate": "29.09.2026 um 16:01 Uhr",
-      "timestamp": 1790697664.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ex-PlayStation-Chef Shuhei Yoshida ist der Ansicht, dass Sony und Nintendo die aktuelle Hardwaregeneration so lange wie m&ouml;glich am Leben halten s..."
-    },
-    {
-      "title": "Amazon hat gerade über die Zukunft von Reacher bei Prime Video entschieden",
-      "link": "https://mein-mmo.de/reacher-zukunft-bei-prime/",
-      "pubDate": "29.09.2026 um 16:00 Uhr",
-      "timestamp": 1790697600.0,
-      "source": "Mein-MMO",
-      "summary": "Reacher erweist sich für Amazon als Erfolg. Der Konzern hat neue Zahlen veröffentlicht und angekündigt, wie es in Zukunft weitergeht. Der Beitrag Amaz..."
-    },
-    {
-      "title": "Dunebound Tactics: Taktik-Roguelite macht das Terrain zum Werkzeug",
-      "link": "https://www.computerbase.de/news/gaming/dunebound-tactics-taktik-roguelite-macht-das-terrain-zum-werkzeug.99599/",
-      "pubDate": "29.09.2026 um 17:45 Uhr",
-      "timestamp": 1790696700.0,
-      "source": "ComputerBase",
-      "summary": "Dunebound Tactics ist erschienen und verbindet rundenbasierte Taktikkämpfe mit einer prozeduralen Wüstenreise. Spieler führen eine Karawane durch fein..."
     }
   ],
   "int": [
     {
-      "title": "Forgotten PvPvE Mecha Game Ending Service After Just Two Years, But An Offline Mode Could Save It",
-      "link": "https://kotaku.com/forgotten-pvpve-mecha-game-ending-service-after-just-two-years-but-an-offline-mode-could-save-it-2000738089",
-      "pubDate": "29.09.2026 um 19:00 Uhr",
-      "timestamp": 1790708414.0,
-      "source": "Kotaku",
-      "summary": "Synduality: Echo of Ada will replace its PvPvE online mode with a new offline PvE mode some players think will fix many of the game's issues"
+      "title": "One of my all-time favorite games just announced an expansion, yet all I feel is fear",
+      "link": "https://www.pcgamer.com/games/survival-crafting/one-of-my-all-time-favorite-games-just-announced-an-expansion-yet-all-i-feel-is-fear/",
+      "pubDate": "29.09.2026 um 23:15 Uhr",
+      "timestamp": 1790723721.0,
+      "source": "PCGamer latest",
+      "summary": "More Satisfactory is a good thing. Why, then, do I feel this dread welling up inside me?"
     },
     {
-      "title": "Grand Theft Auto 6 Will Include Over 170 Species Of Animals As Well As Hurricanes: ‘Wind Will Blow Ripples Over The Water Surface’",
-      "link": "https://kotaku.com/grand-theft-auto-6-will-include-over-170-species-of-animals-as-well-as-hurricanes-wind-will-blow-ripples-over-the-water-surface-2000738371",
-      "pubDate": "29.09.2026 um 18:30 Uhr",
-      "timestamp": 1790706600.0,
+      "title": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody",
+      "link": "https://kotaku.com/it-sure-doesnt-sound-like-gta-6-will-include-a-disney-world-parody-2000738468",
+      "pubDate": "29.09.2026 um 23:13 Uhr",
+      "timestamp": 1790723600.0,
       "source": "Kotaku",
-      "summary": "You'll be able track legendary animals down in Rockstar's massive digital recreation of Florida"
+      "summary": "But other parts of central Florida seem to be represented"
     },
     {
-      "title": "'Game of Thrones' Officially Returns in 2029 with First Movie",
-      "link": "https://www.polygon.com/game-of-thrones-movie-2029-release-date-aegons-conquest/",
-      "pubDate": "29.09.2026 um 18:14 Uhr",
-      "timestamp": 1790705649.0,
+      "title": "Xbox’s Disc-To-Digital Is Rolling Out Now To All Users",
+      "link": "https://kotaku.com/xboxs-disc-to-digital-is-rolling-out-now-to-all-users-2000738475",
+      "pubDate": "29.09.2026 um 23:01 Uhr",
+      "timestamp": 1790722883.0,
+      "source": "Kotaku",
+      "summary": "Dust off your boxes, folks, it's time to claim those licenses"
+    },
+    {
+      "title": "10 Game Cancellations That Are Still Devastating Years Later",
+      "link": "https://www.polygon.com/canceled-games/",
+      "pubDate": "29.09.2026 um 22:52 Uhr",
+      "timestamp": 1790722358.0,
       "source": "Polygon.com",
-      "summary": "Game of Thrones: Aegon's Conquest gets a June 2029 release date from Warner Bros and HBO, the first feature film in George R.R. Martin's fantasy epic."
+      "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise."
     },
     {
-      "title": "GTA 6 devs spent years \"going to strip clubs\" and the beach to research Florida life",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/",
-      "pubDate": "29.09.2026 um 18:07 Uhr",
-      "timestamp": 1790705245.0,
+      "title": "Garry Newman adds necks to his neckless characters because the lack of necks 'comes up consistently in our many many many negative reviews'",
+      "link": "https://www.pcgamer.com/software/garry-newman-adds-necks-to-his-neckless-characters-because-the-lack-of-necks-comes-up-consistently-in-our-many-many-many-negative-reviews/",
+      "pubDate": "29.09.2026 um 22:44 Uhr",
+      "timestamp": 1790721855.0,
+      "source": "PCGamer latest",
+      "summary": "\"...the feedback we've consistently got is that people hate them. They hate everything about them.\""
+    },
+    {
+      "title": "Deadlock's gigantic new update gives its city a spooky new coat of paint and debuts 6 new heroes, including the one and only Rat King",
+      "link": "https://www.pcgamer.com/games/moba/deadlocks-gigantic-new-update-gives-its-city-a-spooky-new-coat-of-paint-and-debuts-6-new-heroes-including-the-one-and-only-rat-king/",
+      "pubDate": "29.09.2026 um 22:19 Uhr",
+      "timestamp": 1790720367.0,
+      "source": "PCGamer latest",
+      "summary": "Valve continues to polish the game into one of the moodiest MOBAs out there."
+    },
+    {
+      "title": "Valve Rolls Out Huge Update for Hero Shooter Deadlock as Game Hits All-Time Peak",
+      "link": "https://www.polygon.com/valve-deadlock-update-september-2026-development/",
+      "pubDate": "29.09.2026 um 22:18 Uhr",
+      "timestamp": 1790720321.0,
+      "source": "Polygon.com",
+      "summary": "Deadlock's City Never Sleeps update is huge and pushes the PC multiplayer hero shooter to an all-time peak concurrent player count on Steam."
+    },
+    {
+      "title": "007 First Light Is Getting Free DLC Later This Week",
+      "link": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week",
+      "pubDate": "29.09.2026 um 22:15 Uhr",
+      "timestamp": 1790720138.0,
+      "source": "IGN All",
+      "summary": "007 First Light is getting new, free DLC later this week."
+    },
+    {
+      "title": "American Truck Simulator adds DLC where you don't have to drive a truck, sets a new Steam record",
+      "link": "https://www.gamesradar.com/games/simulation/american-truck-simulator-adds-dlc-where-you-dont-have-to-drive-a-truck-suddenly-sets-a-new-all-time-steam-player-record/",
+      "pubDate": "29.09.2026 um 22:13 Uhr",
+      "timestamp": 1790719994.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Rockstar is dedicated to realism"
+      "summary": "\"We cannot thank you enough for your support over the years\""
     },
     {
-      "title": "UK government wants people to be rude to AI: 'You don't need to say thank you'",
-      "link": "https://www.pcgamer.com/software/ai/uk-government-wants-people-to-be-rude-to-ai-you-dont-need-to-say-thank-you/",
-      "pubDate": "29.09.2026 um 18:05 Uhr",
-      "timestamp": 1790705112.0,
+      "title": "Jennifer Lawrence to Star in Zach Cregger’s Sci-Fi Thriller The Flood",
+      "link": "https://www.ign.com/articles/jennifer-lawrence-to-star-in-zach-creggers-sci-fi-thriller-the-flood",
+      "pubDate": "29.09.2026 um 22:13 Uhr",
+      "timestamp": 1790719993.0,
+      "source": "IGN All",
+      "summary": "Zach Cregger’s next movie, a science fiction thriller called The Flood, is set to release in theaters on August 11, 2028."
+    },
+    {
+      "title": "Diablo 5 director promises Diablo 2-style combat where 'the right build' matters more than Diablo 4's action-heavy approach",
+      "link": "https://www.pcgamer.com/games/rpg/diablo-5-director-promises-diablo-2-style-combat-where-the-right-build-matters-more-than-diablo-4s-action-heavy-approach/",
+      "pubDate": "29.09.2026 um 22:10 Uhr",
+      "timestamp": 1790719846.0,
       "source": "PCGamer latest",
-      "summary": "It's about time."
+      "summary": "Blizzard wants some classic action RPG DNA in the next Diablo game."
     },
     {
-      "title": "Toem 2 review: A sweet sequel that's a tad too easy to be memorable",
-      "link": "https://www.pcgamer.com/games/adventure/toem-2-review/",
-      "pubDate": "29.09.2026 um 18:04 Uhr",
-      "timestamp": 1790705083.0,
+      "title": "Ace Combat 8 Steam reviewers are steaming mad about its pre-order bonus not being a standalone app",
+      "link": "https://www.pcgamer.com/games/sim/ace-combat-8-steam-reviewers-are-steaming-mad-about-its-pre-order-bonus-not-being-a-standalone-app/",
+      "pubDate": "29.09.2026 um 22:05 Uhr",
+      "timestamp": 1790719543.0,
       "source": "PCGamer latest",
-      "summary": "This photo-based adventure is super sweet but a little too easy to capture the glee of solving adventure game puzzles."
+      "summary": "The fine print for freebie Ace Combat Zero changed before launch."
     },
     {
-      "title": "An NFL Legend Is About to Reveal the Minecraft City He Spent 12 Years Building",
-      "link": "https://www.polygon.com/nfl-legend-revealing-minecraft-city/",
-      "pubDate": "29.09.2026 um 18:00 Uhr",
-      "timestamp": 1790704815.0,
+      "title": "Ace Combat 8 Wings of Theve release time in your time zone",
+      "link": "https://www.polygon.com/ace-combat-8-wings-of-theve-release-time-edt-pdt/",
+      "pubDate": "29.09.2026 um 22:01 Uhr",
+      "timestamp": 1790719275.0,
       "source": "Polygon.com",
-      "summary": "The former head coach of the Pittsburgh Steelers is showing off his 12-year creative mode project this Wednesday."
+      "summary": "Here's when Ace Combat 8: Wings of Theve will release in different time zones as well as the bonuses you obtain by pre-ordering it."
     },
     {
-      "title": "An Ace Combat 8: Wings Of Theve PC Pre-Order Bonus Snafu Has Fans Pissed Off Enough To Tank Its Steam Reviews",
-      "link": "https://kotaku.com/an-ace-combat-8-wings-of-theve-pc-pre-order-bonus-snafu-has-fans-pissed-off-enough-to-tank-its-steam-reviews-2000738328",
-      "pubDate": "29.09.2026 um 18:00 Uhr",
-      "timestamp": 1790704804.0,
+      "title": "Dune: Awakening On PS5 Is Making Me Break My Rule Against Playing Survival Games",
+      "link": "https://kotaku.com/dune-awakening-on-ps5-is-making-me-break-my-rule-against-playing-survival-games-2000738431",
+      "pubDate": "29.09.2026 um 22:00 Uhr",
+      "timestamp": 1790719224.0,
       "source": "Kotaku",
-      "summary": "Ace Combat 0: The Belkan War is a standalone game on console, but works like a DLC on PC"
+      "summary": "I'm getting lost in the sands of Arrakis and I'm enjoying every minute of it"
     },
     {
-      "title": "Crocs x Chainsaw Man Collection Revealed With 4 New Clog Designs",
-      "link": "https://www.ign.com/articles/crocs-x-chainsaw-man-foot-locker-collaboration-reveal",
-      "pubDate": "29.09.2026 um 17:41 Uhr",
-      "timestamp": 1790703666.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Xbox’s Platinum Trophy Equivalent Officially Revealed",
-      "link": "https://www.polygon.com/xbox-mythic-achievement-announced-release-date/",
-      "pubDate": "29.09.2026 um 17:34 Uhr",
-      "timestamp": 1790703276.0,
+      "title": "Reality Fracture Is the best Magic: The Gathering Set In a Very Long Time",
+      "link": "https://www.polygon.com/mtg-reality-fracture-magic-the-gathering-set-review-commander-staples/",
+      "pubDate": "29.09.2026 um 22:00 Uhr",
+      "timestamp": 1790719215.0,
       "source": "Polygon.com",
-      "summary": "Mythic Achievements, Xbox's long-overdue answer to PlayStation's Platinum Trophy, are real and available starting today"
+      "summary": "Here's why Reality Fracture is a game-changing Magic: The Gathering set for Commander players."
     },
     {
-      "title": "You Might Be Able To Play Zelda: Ocarina Of Time Remake With Navi’s Original Voice",
-      "link": "https://kotaku.com/fans-think-navis-original-1998-voice-actress-ocarina-of-time-zelda-japanese-2000738323",
-      "pubDate": "29.09.2026 um 17:30 Uhr",
-      "timestamp": 1790703044.0,
-      "source": "Kotaku",
-      "summary": "Listen!"
+      "title": "Nearly 20 years later, Guillermo del Toro finally confirms old BioShock movie rumors",
+      "link": "https://www.gamesradar.com/entertainment/action-movies/nearly-20-years-later-guillermo-del-toro-finally-confirms-old-bioshock-movie-rumors-probably-one-of-the-most-disastrous-calls-ive-ever-had/",
+      "pubDate": "29.09.2026 um 21:59 Uhr",
+      "timestamp": 1790719196.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The rumors came about back in 2008"
     },
     {
-      "title": "The Steam Frame: VR’s Future or the Beginning of the End?",
-      "link": "https://www.ign.com/articles/the-steam-frame-vrs-future-or-the-beginning-of-the-end",
-      "pubDate": "29.09.2026 um 17:30 Uhr",
-      "timestamp": 1790703000.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now",
-      "link": "https://www.polygon.com/gta-6-game-informer-app-article-something-went-wrong-screenshots/",
-      "pubDate": "29.09.2026 um 17:28 Uhr",
-      "timestamp": 1790702881.0,
-      "source": "Polygon.com",
-      "summary": "The gaming magazine's app can't seem to handle all the interest in its exclusive GTA 6 news and screenshots as users report issues and glitches"
-    },
-    {
-      "title": "All paralogue dates and deadlines in Fire Emblem Fortune's Weave",
-      "link": "https://www.polygon.com/all-fire-emblem-fortunes-weave-paralogues-dates/",
-      "pubDate": "29.09.2026 um 17:22 Uhr",
-      "timestamp": 1790702574.0,
-      "source": "Polygon.com",
-      "summary": "These are all the paralogues in Fire Emblem Fortune's Weave, including paralogue start dates and end dates"
-    },
-    {
-      "title": "Lego Officially Retiring Star Wars and X-Men Sets in 2026",
-      "link": "https://www.polygon.com/best-lego-sets-retired-december-2026/",
-      "pubDate": "29.09.2026 um 17:15 Uhr",
-      "timestamp": 1790702125.0,
-      "source": "Polygon.com",
-      "summary": "Later this year, Lego is discontinuing some of its best sets, including the Millennium Falcon."
-    },
-    {
-      "title": "Why Control Resonant Developer Remedy Avoided Using Yellow Paint to Guide Players",
-      "link": "https://www.ign.com/articles/why-control-resonant-developer-remedy-avoided-using-yellow-paint-to-guide-players",
-      "pubDate": "29.09.2026 um 17:09 Uhr",
-      "timestamp": 1790701773.0,
-      "source": "IGN All",
-      "summary": "Control Resonant's director has explained how the team chose to handle exploration in a way that doesn't feel like it is holding the player's hand wit..."
-    },
-    {
-      "title": "After trading space babies and running people over with a truck, Strange Scaffold want you to organise a haunted library in Something is Wrong with the Library",
-      "link": "https://www.rockpapershotgun.com/after-trading-space-babies-and-running-people-over-with-a-truck-strange-scaffold-want-you-to-organise-a-haunted-library-in-something-is-wrong-with-the-library",
-      "pubDate": "29.09.2026 um 17:02 Uhr",
-      "timestamp": 1790701357.0,
+      "title": "With Deadlock's latest updating promising six new heroes, over 10,000 new voice lines and too much more to mention, it's clear Valve are still pretty committed to it",
+      "link": "https://www.rockpapershotgun.com/with-deadlocks-latest-updating-promising-six-new-heroes-over-10000-new-voice-lines-and-too-much-more-to-mention-its-clear-valve-are-still-pretty-committed-to-it",
+      "pubDate": "29.09.2026 um 21:52 Uhr",
+      "timestamp": 1790718735.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "\"At the time, I didn't immediately think my boss was filling the walls of our place of business with corpses,\" so opens the reveal trailer for Somethi..."
+      "summary": "It feels weird that Deadlock is technically a game that isn't out yet, doesn't it? You can't even just play it as someone that's never done so, you ha..."
     },
     {
-      "title": "Fire Emblem: Fortune’s Weave Is So Full Of Stuff That Isn’t Major Battles That It’s Putting Me To Sleep",
-      "link": "https://kotaku.com/fire-emblem-fortunes-weave-is-so-full-of-stuff-that-isnt-major-battles-that-its-putting-me-to-sleep-2000738285",
-      "pubDate": "29.09.2026 um 17:00 Uhr",
-      "timestamp": 1790701219.0,
-      "source": "Kotaku",
-      "summary": "I enjoy this game, but everything between major battles is snooze-inducing"
+      "title": "The Flexispot Lotus Swivel Rocker and Recliner Is on Clearance for $250 Plus Free Shipping",
+      "link": "https://www.ign.com/articles/flexispot-xc6-swivel-rocker-recliner-chair-deal",
+      "pubDate": "29.09.2026 um 21:50 Uhr",
+      "timestamp": 1790718600.0,
+      "source": "IGN All",
+      "summary": "Game in lounging comfort."
     }
   ],
   "sim": [
