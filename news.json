@@ -1,6 +1,78 @@
 {
   "de": [
     {
+      "title": "PS5 am 8. Oktober 2026 mit neun Releases – diese Spiele erscheinen dann",
+      "link": "https://www.playcentral.de/ps5-am-8-oktober-2026-mit-neun-releases-diese-spiele-erscheinen-dann/",
+      "pubDate": "03.10.2026 um 16:31 Uhr",
+      "timestamp": 1791045061.0,
+      "source": "PlayCentral",
+      "summary": "Der Donnerstag, 8. Oktober 2026, entwickelt sich zu einem der vollsten Veröffentlichungstage des Jahres für die PlayStation 5. Sofern es nicht noch zu..."
+    },
+    {
+      "title": "Wie gut ist Star Wars: Galactic Racer?: Das packendste Arcade-Rennspiel seit langem",
+      "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-star-wars-galactic-racer-das-packendste-arcade-rennspiel-seit-langem.99662/",
+      "pubDate": "03.10.2026 um 18:30 Uhr",
+      "timestamp": 1791045000.0,
+      "source": "ComputerBase",
+      "summary": "Man kann aus dem Podracing in Star Wars: Episode One ein ganzes Spiel stricken. Sogar das packendste Arcade-Rennspiel seit Langem! Rezensionen feiern ..."
+    },
+    {
+      "title": "Gaming-Strom: Der Steckdose ist die RTX 5090 herzlich egal",
+      "link": "https://www.computerbase.de/news/gaming/gaming-strom-der-steckdose-ist-die-rtx-5090-herzlich-egal.99665/",
+      "pubDate": "03.10.2026 um 17:39 Uhr",
+      "timestamp": 1791041940.0,
+      "source": "ComputerBase",
+      "summary": "Gaming-Mäuse, Gaming-Stühle, Gaming-Tische – und nun Gaming-Strom: meinGAMING richtet einen gewöhnlichen Stromtarif mit viel Branchenvokabular an Spie..."
+    },
+    {
+      "title": "Terafab-Projekt: Elon Musk in Gesprächen mit TSMC für Mega-Fabrik",
+      "link": "https://www.computerbase.de/news/wirtschaft/terafab-projekt-elon-musk-in-gespraechen-mit-tsmc-fuer-mega-fabrik.99664/",
+      "pubDate": "03.10.2026 um 16:43 Uhr",
+      "timestamp": 1791038580.0,
+      "source": "ComputerBase",
+      "summary": "Das ehrgeizige Projekt Terafab von Elon Musk sucht nicht nur Hilfe von Intel, sondern auch TSMC. Das bestätigte Musk nach Medienberichten via X. Ohne ..."
+    },
+    {
+      "title": "Perfekt für MMOs: Diese geniale Gaming-Maus von Razer gibt es gerade zum historisch günstigsten Preis",
+      "link": "https://mein-mmo.de/perfekt-mmos-geniale-gaming-maus-razer-historisch-guenstigster-preis/",
+      "pubDate": "03.10.2026 um 14:22 Uhr",
+      "timestamp": 1791037352.0,
+      "source": "Mein-MMO",
+      "summary": "Dank ihrer vielen Tasten eignet sich diese Gaming-Maus von Razer hervorragend für MMOs und ist gerade besonders günstig. Der Beitrag Perfekt für MMOs:..."
+    },
+    {
+      "title": "Xbox Game Pass – Diese 9 Spiele fliegen am 15. Oktober 2026 raus",
+      "link": "https://www.playcentral.de/xbox-game-pass-diese-9-spiele-fliegen-am-15-oktober-2026-raus/",
+      "pubDate": "03.10.2026 um 13:30 Uhr",
+      "timestamp": 1791034245.0,
+      "source": "PlayCentral",
+      "summary": "Der Xbox Game Pass verliert am 15. Oktober 2026 einen seiner größten Rollenspielhits. Mit Clair Obscur: Expedition 33 verschwindet ein Titel aus dem K..."
+    },
+    {
+      "title": "Star Wars Galactic Racer: Metacritic-Wert ist einer der höchsten des gesamten Franchises",
+      "link": "https://www.eurogamer.de/star-wars-galactic-racer-hoher-metacritic-wert",
+      "pubDate": "03.10.2026 um 12:54 Uhr",
+      "timestamp": 1791032056.0,
+      "source": "Eurogamer.de News",
+      "summary": "Star Wars: Galactic Racer vom Entwicklerstudio Fuse Games erscheint am 6. Oktober und k&ouml;nnte endlich das Rennspiel sein, auf das Star Wars-Fans s..."
+    },
+    {
+      "title": "s&box kostenlos auf Steam bis 5. Oktober 2026 – was das Probewochenende bietet",
+      "link": "https://www.playcentral.de/sbox-kostenlos-auf-steam-bis-5-oktober-2026-was-das-probewochenende-bietet/",
+      "pubDate": "03.10.2026 um 12:32 Uhr",
+      "timestamp": 1791030722.0,
+      "source": "PlayCentral",
+      "summary": "Auf Steam lässt sich an diesem Wochenende ein besonders umfangreiches Kreativprojekt kostenlos ausprobieren. s&#38;box von Facepunch Studios steht bis..."
+    },
+    {
+      "title": "Steam – Dieses Arcade Spiel bleibt gratis, wenn ihr es bis 13. Oktober holt",
+      "link": "https://www.playcentral.de/steam-dieses-arcade-spiel-bleibt-gratis-wenn-ihr-es-bis-13-oktober-holt/",
+      "pubDate": "03.10.2026 um 12:30 Uhr",
+      "timestamp": 1791030647.0,
+      "source": "PlayCentral",
+      "summary": "Auf Steam lässt sich aktuell ein kleines Arcade-Spiel dauerhaft kostenlos sichern. JAYWALK: An Endless Arcade Hopper Game soll am 13. Oktober 2026 vom..."
+    },
+    {
       "title": "RTX 5090 nur mit Ausweis: Händler lässt Käufer Exportverbot unterschreiben",
       "link": "https://www.computerbase.de/news/grafikkarten/rtx-5090-nur-mit-ausweis-haendler-laesst-kaeufer-exportverbot-unterschreiben.99660/",
       "pubDate": "03.10.2026 um 14:06 Uhr",
@@ -71,227 +143,163 @@
       "timestamp": 1791015540.0,
       "source": "ComputerBase",
       "summary": "Microsoft weitet Advanced Shader Delivery auf Nvidia und Intel aus. Die Technik liefert vorkompilierte Shader mit dem Spiel aus und verkürzt damit lan..."
-    },
-    {
-      "title": "Sony hat wohl still und leise ein neues PS5-Modell veröffentlicht und das könnte die Haltbarkeit stark verbessern",
-      "link": "https://mein-mmo.de/sony-neues-ps5-modell-haltbarkeit-verbessern/",
-      "pubDate": "03.10.2026 um 08:00 Uhr",
-      "timestamp": 1791014400.0,
-      "source": "Mein-MMO",
-      "summary": "Sony soll ein neues PS5-Modell verkaufen. Im Inneren der Konsole stecken laut einem Techniker wichtige Verbesserungen für die Lebenszeit. Der Beitrag ..."
-    },
-    {
-      "title": "Bei WoW fragt man sich: Was ist eigentlich mit Weißsträhnes Hose passiert?",
-      "link": "https://mein-mmo.de/wow-was-los-mit-whitemanes-hose/",
-      "pubDate": "03.10.2026 um 07:30 Uhr",
-      "timestamp": 1791012600.0,
-      "source": "Mein-MMO",
-      "summary": "Die beliebteste, fanatische Priesterin aus World of Warcraft steckt in Erklärungsnot. Warum genau hat sie in WoW eigentlich keine Hose an? Der Beitrag..."
-    },
-    {
-      "title": "Sicherheitsprobleme: Ältere Grafikkarten von AMD und Nvidia erhalten Updates",
-      "link": "https://www.computerbase.de/news/grafikkarten/sicherheitsprobleme-aeltere-grafikkarten-von-amd-und-nvidia-erhalten-updates.99658/",
-      "pubDate": "03.10.2026 um 09:12 Uhr",
-      "timestamp": 1791011520.0,
-      "source": "ComputerBase",
-      "summary": "GeForce- und Radeon-Grafikkarten älteren Datums erhalten unverhoffte Treiber- und Firmware-Updates. Der Grund sind Sicherheitsprobleme. Bei Nvidia sch..."
-    },
-    {
-      "title": "Ein riesiges Spiel aus Asien warnt seine Fans, nachdem es Gift-Cocktails gepostet hat",
-      "link": "https://mein-mmo.de/love-and-deepspace-gift-cocktails/",
-      "pubDate": "03.10.2026 um 07:00 Uhr",
-      "timestamp": 1791010800.0,
-      "source": "Mein-MMO",
-      "summary": "Love and Deepspace ist ein erfolgreiches Mobile Game aus China. Eine süße Aktion auf Social Media ging nun gehört nach hinten los. Der Beitrag Ein rie..."
-    },
-    {
-      "title": "50 Millionen Metro-Spiele: Fans erhalten Technikupdate für Teil 1 und 2",
-      "link": "https://www.computerbase.de/news/gaming/spielreihe-metro-50-millionen-verkaeufe-werden-mit-updates-gefeiert.99655/",
-      "pubDate": "03.10.2026 um 08:30 Uhr",
-      "timestamp": 1791009000.0,
-      "source": "ComputerBase",
-      "summary": "Die von 4A Games entwickelte Videospielreihe Metro feiert einen Meilenstein: Weltweit wurden inzwischen 50 Millionen Exemplare der seit 16 Jahren best..."
-    },
-    {
-      "title": "Den neuen Schurken im MCU gibt es eigentlich schon seit 1977, aber kaum jemand kennt ihn",
-      "link": "https://mein-mmo.de/mcu-neue-serie-neuer-schurke-den-kaum-einer-kennt/",
-      "pubDate": "03.10.2026 um 06:30 Uhr",
-      "timestamp": 1791009000.0,
-      "source": "Mein-MMO",
-      "summary": "Bevor Avengers: Doomsday ins Kino kommt, kehrt Vision in einer neuen Serie zurück. Ihm stellt sich ein kaum bekannter Schurke entgegen. Der Beitrag De..."
-    },
-    {
-      "title": "Im Test vor 15 Jahren: Red Orchestra 2 war sackschwer und unfertig",
-      "link": "https://www.computerbase.de/news/gaming/im-test-vor-15-jahren-red-orchestra-2-war-sackschwer-und-unfertig.99628/",
-      "pubDate": "03.10.2026 um 08:00 Uhr",
-      "timestamp": 1791007200.0,
-      "source": "ComputerBase",
-      "summary": "Mit Red Orchestra 2: Heroes of Stalingrad trat Tripwire Interactive 2011 bewusst gegen den damaligen Trend zu immer zugänglicheren Militär-Shootern an..."
-    },
-    {
-      "title": "Gears of War: E-Day – Darum entwickelt The Coalition ein Prequel statt Gears 6",
-      "link": "https://www.eurogamer.de/gears-of-war-e-day-warum-prequel",
-      "pubDate": "03.10.2026 um 05:30 Uhr",
-      "timestamp": 1791005400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Auf die urspr&uuml;ngliche Gears-of-War-Trilogie folgten die beiden Ableger Gears of War 4 und Gears 5. Statt jedoch an den f&uuml;nften Teil anzukn&u..."
-    },
-    {
-      "title": "Herr der Ringe Online legt sich auf seine alten Tage nochmal mit WoW an",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-1-oktober-2026/",
-      "pubDate": "03.10.2026 um 05:12 Uhr",
-      "timestamp": 1791004355.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit viel Aion 2 und Forever, aber auch Mittelerdes Angriff auf Azeroth. Der Beitrag Herr der..."
     }
   ],
   "int": [
     {
-      "title": "Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales",
-      "link": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039",
-      "pubDate": "03.10.2026 um 12:04 Uhr",
-      "timestamp": 1791029063.0,
-      "source": "Eurogamer.net News",
-      "summary": "A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more"
+      "title": "'Game Changer' Season 9 Will Have \"Unexplainable\" Games, Dropout CEO Sam Reich Reveals",
+      "link": "https://www.polygon.com/game-changer-season-9-dropout-ceo-sam-reich-interview/",
+      "pubDate": "03.10.2026 um 17:00 Uhr",
+      "timestamp": 1791046819.0,
+      "source": "Polygon.com",
+      "summary": "Dropout CEO Sam Reich chats with Polygon about lessons he's learned from eight seasons of Game Changer and how the Topeka trip almost didn't happen."
     },
     {
-      "title": "From Batman to Wonder Woman, here are the 3 must-read DC Absolute Universe comics",
-      "link": "https://www.gamesradar.com/comics/dc-comics/3-must-read-dc-absolute-universe-comics/",
-      "pubDate": "03.10.2026 um 12:00 Uhr",
-      "timestamp": 1791028800.0,
+      "title": "\"Fable's original combat has a legacy of being quite approachable,\" so the RPG's devs don't want to change that with the new game",
+      "link": "https://www.gamesradar.com/games/rpg/fables-original-combat-has-a-legacy-of-being-quite-approachable-so-the-rpgs-devs-dont-want-to-change-that-with-the-new-game/",
+      "pubDate": "03.10.2026 um 17:00 Uhr",
+      "timestamp": 1791046800.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Ahead of the New York Comic-Con DC Absolute Universe panel, here are the three must-reads to get you started..."
+      "summary": "\"That's something we kept in mind while developing our combat system\""
     },
     {
-      "title": "Final Fantasy 7 Revelation lead says making each game in the trilogy complete was \"non-negotiable\"",
-      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-explains-that-making-each-game-in-the-rpg-trilogy-a-complete-experience-was-non-negotiable-from-the-beginning/",
-      "pubDate": "03.10.2026 um 11:35 Uhr",
-      "timestamp": 1791027303.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "No compromises here"
+      "title": "RTX 5090 Buyer Asked To Sign A Resale Loyalty Pledge: ‘NO EXPORT – NO EXCEPTIONS’",
+      "link": "https://kotaku.com/rtx-5090-buyer-asked-to-sign-a-resale-loyalty-pledge-no-export-no-exceptions-2000739582",
+      "pubDate": "03.10.2026 um 16:45 Uhr",
+      "timestamp": 1791045913.0,
+      "source": "Kotaku",
+      "summary": "Government policies continue to echo in the consumer tech space, with Nvidia customers reporting heightened security around purchases, even requiring ..."
     },
     {
-      "title": "Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls",
-      "link": "https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/",
-      "pubDate": "03.10.2026 um 11:17 Uhr",
-      "timestamp": 1791026273.0,
+      "title": "The Witcher 3's remaster just brought it to a new all-time concurrent player count peak",
+      "link": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/",
+      "pubDate": "03.10.2026 um 16:40 Uhr",
+      "timestamp": 1791045635.0,
       "source": "PCGamer latest",
-      "summary": "Lead an alien invasion in this fun-but-fair game of colossal damage numbers."
+      "summary": "Toss a coin—oh, it's a free upgrade."
     },
     {
-      "title": "Ex-PlayStation lead says it's \"impossible\" for devs to make a profit on Game Pass",
-      "link": "https://www.gamesradar.com/platforms/xbox/ex-playstation-lead-says-its-impossible-for-devs-to-make-a-profit-on-game-pass-even-if-microsoft-is-the-house-always-wins/",
-      "pubDate": "03.10.2026 um 11:16 Uhr",
-      "timestamp": 1791026183.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Your $69.99 game has one chance to bust out and break through\""
-    },
-    {
-      "title": "NBC's Unbeatable 98-Episode Action Thriller Is Officially Free to Watch on Streaming",
-      "link": "https://www.polygon.com/the-a-team-streaming-free-tubi/",
-      "pubDate": "03.10.2026 um 11:00 Uhr",
-      "timestamp": 1791025216.0,
-      "source": "Polygon.com",
-      "summary": "The A-Team mixed cartoonish violence, ridiculous characters and plenty of heart into one of the biggest action shows of the ’80s."
-    },
-    {
-      "title": "Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'",
-      "link": "https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/",
-      "pubDate": "03.10.2026 um 10:42 Uhr",
-      "timestamp": 1791024151.0,
+      "title": "Forget what PC Gamer said: The Witcher 3 will always be my 2015 GOTY",
+      "link": "https://www.pcgamer.com/games/the-witcher/forget-what-pc-gamer-said-the-witcher-3-will-always-be-my-2015-goty/",
+      "pubDate": "03.10.2026 um 16:39 Uhr",
+      "timestamp": 1791045589.0,
       "source": "PCGamer latest",
-      "summary": "But that isn't necessarily the same as a generative AI game engine."
+      "summary": "And now it looks better than ever."
     },
     {
-      "title": "Memory shortages set to persist into 2028, warns Micron CEO",
-      "link": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand",
-      "pubDate": "03.10.2026 um 10:34 Uhr",
-      "timestamp": 1791023653.0,
+      "title": "Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan",
+      "link": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan",
+      "pubDate": "03.10.2026 um 16:24 Uhr",
+      "timestamp": 1791044678.0,
       "source": "Eurogamer.net News",
-      "summary": "Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year'..."
+      "summary": "Sony is reportedly in talks to acquire a big-screen adaptation of Electronic Arts' Battlefield, with Christopher McQuarrie attached to write, direct a..."
     },
     {
-      "title": "Game of Thrones’ Biggest Villain Is Even More Terrifying in an Upcoming Official Release",
-      "link": "https://www.polygon.com/game-thrones-war-for-westeros-monster-interview/",
-      "pubDate": "03.10.2026 um 10:00 Uhr",
-      "timestamp": 1791021615.0,
+      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects",
+      "link": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+      "pubDate": "03.10.2026 um 16:20 Uhr",
+      "timestamp": 1791044408.0,
+      "source": "Kotaku",
+      "summary": "Vibe coders are getting legal notices"
+    },
+    {
+      "title": "Deadlock is the king of MOBA character designs, and it's all thanks to Valve's embrace of New Yorkyness",
+      "link": "https://www.pcgamer.com/games/moba/deadlock-is-the-king-of-moba-character-designs-and-its-all-thanks-to-valves-embrace-of-new-yorkyness/",
+      "pubDate": "03.10.2026 um 16:06 Uhr",
+      "timestamp": 1791043583.0,
+      "source": "PCGamer latest",
+      "summary": "I want to be a part of it…"
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave Doesn't Have to Be a Slog",
+      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-free-time-too-big/",
+      "pubDate": "03.10.2026 um 16:00 Uhr",
+      "timestamp": 1791043217.0,
       "source": "Polygon.com",
-      "summary": "The designers of War for Westeros gave the Night King a terrifying weapon"
+      "summary": "Fire Emblem Fortune's Weave's free time segments seem overwhelming, but you don't have to spend hours doing tasks that have no value"
     },
     {
-      "title": "After over 8 years, Warhammer 40K finally got the Custodes right",
-      "link": "https://www.gamesradar.com/tabletop-gaming/after-over-8-years-warhammer-40k-finally-got-the-custodes-right/",
-      "pubDate": "03.10.2026 um 09:00 Uhr",
-      "timestamp": 1791018000.0,
+      "title": "11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos",
+      "link": "https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/",
+      "pubDate": "03.10.2026 um 16:00 Uhr",
+      "timestamp": 1791043200.0,
+      "source": "PCGamer latest",
+      "summary": "We asked 11 very particular PCG staffers what game they think everyone should buy in Steam's Autumn Sale—here's what they picked."
+    },
+    {
+      "title": "Has your life ever been changed by someone you met in an MMO?",
+      "link": "https://www.pcgamer.com/games/mmo/has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo/",
+      "pubDate": "03.10.2026 um 16:00 Uhr",
+      "timestamp": 1791043200.0,
+      "source": "PCGamer latest",
+      "summary": "Raise a glass to your digital ride-or-dies."
+    },
+    {
+      "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
+      "link": "https://www.polygon.com/dan-houser-absured-ventures-open-world-game/",
+      "pubDate": "03.10.2026 um 15:50 Uhr",
+      "timestamp": 1791042602.0,
+      "source": "Polygon.com",
+      "summary": "Rockstar founder Dan Houser is avoiding GTA 6's gameplay reveal while working on a new open-world game at Absurd Ventures, his new company"
+    },
+    {
+      "title": "Game Pass Is About To Lose Clair Obscur: Expedition 33 And Some Other Incredible Games",
+      "link": "https://kotaku.com/game-pass-is-about-to-lose-clair-obscur-expedition-33-and-some-other-incredible-games-2000739411",
+      "pubDate": "03.10.2026 um 15:34 Uhr",
+      "timestamp": 1791041671.0,
+      "source": "Kotaku",
+      "summary": "The RPG sensation and more gems are leaving in October"
+    },
+    {
+      "title": "Rockstar co-founder Dan Houser is avoiding GTA 6 so it doesn't \"distract or disrupt\" his new games",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-co-founder-dan-houser-is-avoiding-gta-6-so-it-doesnt-distract-or-disrupt-his-new-games-including-another-open-world-comedy/",
+      "pubDate": "03.10.2026 um 15:23 Uhr",
+      "timestamp": 1791041031.0,
       "source": "Latest from GamesRadar+",
-      "summary": "We got our hands on the Custodes Codex for Warhammer 40K early, and the Emperor's finest are finally as impressive as they should be"
+      "summary": "\"I will try and avoid it\""
     },
     {
-      "title": "45 Years Ago, a Failed Lord of the Rings Movie Became a Film That Transcended Fantasy",
-      "link": "https://www.polygon.com/excalibur-john-boorman-45-years-anniversary/",
-      "pubDate": "03.10.2026 um 08:52 Uhr",
-      "timestamp": 1791017535.0,
+      "title": "'Lanterns' Makes Even More Sense If You Know About DC's Iconic 20-Year-Old Meme",
+      "link": "https://www.polygon.com/green-lantern-head-trauma/",
+      "pubDate": "03.10.2026 um 15:00 Uhr",
+      "timestamp": 1791039616.0,
       "source": "Polygon.com",
-      "summary": "John Boorman's take on the Arthurian saga still stands as one of the best attempts to translate myth into movies."
+      "summary": "If not for the universal reboots, Hal might be having some problems by now"
     },
     {
-      "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
-      "link": "https://www.ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day",
-      "pubDate": "03.10.2026 um 08:40 Uhr",
-      "timestamp": 1791016836.0,
-      "source": "IGN All",
-      "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now"
+      "title": "Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down",
+      "link": "https://www.pcgamer.com/games/rpg/fallen-london-is-where-the-writers-of-baldurs-gate-3-dishonored-and-stellaris-come-to-let-their-hair-down/",
+      "pubDate": "03.10.2026 um 15:00 Uhr",
+      "timestamp": 1791039600.0,
+      "source": "PCGamer latest",
+      "summary": "These interactive short stories are too bold and surprising to stay secret."
     },
     {
-      "title": "Sicario 3 is Happening with Taylor Sheridan Returning to Write",
-      "link": "https://www.polygon.com/sicario-3-script-taylor-sheridan-paramount/",
-      "pubDate": "03.10.2026 um 08:20 Uhr",
-      "timestamp": 1791015615.0,
+      "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\"",
+      "link": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "pubDate": "03.10.2026 um 14:47 Uhr",
+      "timestamp": 1791038829.0,
+      "source": "Eurogamer.net News",
+      "summary": "Capcom wants to transform its in-house RE Engine into what it's calling an \"AI-generation game engine\". Read more"
+    },
+    {
+      "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
+      "link": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
+      "pubDate": "03.10.2026 um 14:31 Uhr",
+      "timestamp": 1791037886.0,
       "source": "Polygon.com",
-      "summary": "The follow-up to Sicario and Sicario: Day of the Soldado is finally happening, with Yellowstone creator Taylor Sheridan returning to the franchise."
-    },
-    {
-      "title": "Dimension 20 Best Season to Start? 6 Campaigns to Get Into Dropout’s D&D Show",
-      "link": "https://www.polygon.com/dimension-20-best-seasons-episodes-to-start-with/",
-      "pubDate": "03.10.2026 um 08:05 Uhr",
-      "timestamp": 1791014715.0,
-      "source": "Polygon.com",
-      "summary": "Looking to dive into Dropout's actual-play show? Here are some recommendations for first-time viewers of Dimension 20."
-    },
-    {
-      "title": "Steam Horror Game Turns PS1-Era Graphics Into Backrooms-Style Nightmare Fuel",
-      "link": "https://www.polygon.com/steam-horror-game-turns-ps1-era-graphics-into-backrooms-style-nightmare-fuel/",
-      "pubDate": "03.10.2026 um 08:00 Uhr",
-      "timestamp": 1791014415.0,
-      "source": "Polygon.com",
-      "summary": "Nearly 6 years ago, this strange PS1-style horror game found terror in \"kenopsia.\""
-    },
-    {
-      "title": "12 New Horror Movies to Watch in October on Netflix, HBO, and Hulu",
-      "link": "https://www.polygon.com/horror-movies-streaming-october-2026/",
-      "pubDate": "03.10.2026 um 04:00 Uhr",
-      "timestamp": 1791000020.0,
-      "source": "Polygon.com",
-      "summary": "Check out genre classics and brand new nightmares"
-    },
-    {
-      "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
-      "link": "https://www.ign.com/articles/love-and-deepspace-devs-issue-warning-to-players-after-deadly-drink-recipes-go-viral",
-      "pubDate": "03.10.2026 um 02:18 Uhr",
-      "timestamp": 1790993937.0,
-      "source": "IGN All",
-      "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cockta..."
-    },
-    {
-      "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
-      "link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "pubDate": "03.10.2026 um 01:33 Uhr",
-      "timestamp": 1790991219.0,
-      "source": "IGN All",
-      "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transfor..."
+      "summary": "The next iteration of RE Engine is being built so Capcom can make games \"together with AI,\" although it's still not using generative AI"
     }
   ],
   "sim": [
+    {
+      "title": "Gran Turismo Spec IV Update Part 1: Arrives October 15, Ferrari F355 Revealed",
+      "link": "https://www.gtplanet.net/gran-turismo-spec-iv-october-15-20261003/",
+      "pubDate": "03.10.2026 um 12:46 Uhr",
+      "timestamp": 1791031598.0,
+      "source": "GTPlanet",
+      "summary": "Polyphony Digital has revealed more about the upcoming &#8220;Part 1&#8221; of the split Gran Turismo 7 Spec IV update, including the date it will arr..."
+    },
     {
       "title": "Xiaomi Vision Gran Turismo: Confirmed for October 2026, More In-Game Footage",
       "link": "https://www.gtplanet.net/xiaomi-vision-gran-turismo-confirmed-for-october-2026-more-in-game-footage-20261003/",
@@ -411,14 +419,6 @@
       "timestamp": 1790383853.0,
       "source": "GTPlanet",
       "summary": "Polyphony Digital's audio team presented on Gran Turismo 7's engine sound systems at the Acoustical Society of Japan, and the slides show a Lotus Evor..."
-    },
-    {
-      "title": "Gran Turismo 7 Weekly Challenges: Major Seventh",
-      "link": "https://www.gtplanet.net/gt7-weekly-challenges-major-seventh/",
-      "pubDate": "24.09.2026 um 15:10 Uhr",
-      "timestamp": 1790262608.0,
-      "source": "GTPlanet",
-      "summary": "The latest set of Gran Turismo 7 Weekly Challenges is starting to become available on consoles around the world, going live as your local clocks pass ..."
     }
   ]
 }
