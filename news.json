@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Pokémon Go: Neues World Space Week Event bringt begehrtes Astronauten-Pikachu",
+      "link": "https://www.eurogamer.de/pokemon-go-world-space-week-astronauten-pikachu",
+      "pubDate": "03.10.2026 um 22:01 Uhr",
+      "timestamp": 1791064860.0,
+      "source": "Eurogamer.de News",
+      "summary": "Seit heute um Mitternacht l&auml;uft in Pok&eacute;mon Go ein Event zur World Space Week 2026. Mehr"
+    },
+    {
+      "title": "Signal Veil angekündigt – Survival Horror im Anime-Stil mit Smartphone-Tool",
+      "link": "https://www.playcentral.de/signal-veil-angekuendigt-survival-horror-im-anime-stil-mit-smartphone-tool/",
+      "pubDate": "03.10.2026 um 21:30 Uhr",
+      "timestamp": 1791063056.0,
+      "source": "PlayCentral",
+      "summary": "Mit Signal Veil kündigt sich ein neues Survival-Horror-Spiel an, das klassische Genremechaniken mit einer auffälligen Anime-Optik verbindet. Das Proje..."
+    },
+    {
       "title": "PlayStation Plus im Oktober 2026 – Spider-Man-Avatare und 3 Spiele ab 6.10.",
       "link": "https://www.playcentral.de/playstation-plus-im-oktober-2026-spider-man-avatare-und-3-spiele-ab-6-10/",
       "pubDate": "03.10.2026 um 19:30 Uhr",
@@ -97,14 +113,6 @@
       "summary": "Star Wars: Galactic Racer vom Entwicklerstudio Fuse Games erscheint am 6. Oktober und k&ouml;nnte endlich das Rennspiel sein, auf das Star Wars-Fans s..."
     },
     {
-      "title": "s&box kostenlos auf Steam bis 5. Oktober 2026 – was das Probewochenende bietet",
-      "link": "https://www.playcentral.de/sbox-kostenlos-auf-steam-bis-5-oktober-2026-was-das-probewochenende-bietet/",
-      "pubDate": "03.10.2026 um 12:32 Uhr",
-      "timestamp": 1791030722.0,
-      "source": "PlayCentral",
-      "summary": "Auf Steam lässt sich an diesem Wochenende ein besonders umfangreiches Kreativprojekt kostenlos ausprobieren. s&#38;box von Facepunch Studios steht bis..."
-    },
-    {
       "title": "RTX 5090 nur mit Ausweis: Händler lässt Käufer Exportverbot unterschreiben",
       "link": "https://www.computerbase.de/news/grafikkarten/rtx-5090-nur-mit-ausweis-haendler-laesst-kaeufer-exportverbot-unterschreiben.99660/",
       "pubDate": "03.10.2026 um 14:06 Uhr",
@@ -135,17 +143,65 @@
       "timestamp": 1791023520.0,
       "source": "ComputerBase",
       "summary": "Auf die Ankündigung Nvidias, DGX Spark in der RAM-Ausstattung zu halbieren, folgte prompt eine Reaktion durch AMD-Partner (und AMD). Statt auf 64 GByt..."
-    },
-    {
-      "title": "Ken Kutaragi warnt: Videospiele stagnieren trotz Milliardengewinnen",
-      "link": "https://www.eurogamer.de/ken-kutaragi-videospiele-stagnieren-trotz-milliardengewinnen",
-      "pubDate": "03.10.2026 um 10:31 Uhr",
-      "timestamp": 1791023516.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ken Kutaragi spielte eine &uuml;beraus entscheidende Rolle bei der Entwicklung von Sonys Konsole und wird nicht selten als Vater der PlayStation bezei..."
     }
   ],
   "int": [
+    {
+      "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
+      "link": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
+      "pubDate": "03.10.2026 um 23:19 Uhr",
+      "timestamp": 1791069581.0,
+      "source": "PCGamer latest",
+      "summary": "Even a man forged from steel falters sometimes."
+    },
+    {
+      "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
+      "link": "https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/",
+      "pubDate": "03.10.2026 um 23:00 Uhr",
+      "timestamp": 1791068416.0,
+      "source": "Polygon.com",
+      "summary": "Naughty Dog's 2017 standalone spinoff that leaves Nathan Drake behind is an underappreciated masterpiece, and its director is leading Uncharted 5"
+    },
+    {
+      "title": "Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story",
+      "link": "https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/",
+      "pubDate": "03.10.2026 um 22:41 Uhr",
+      "timestamp": 1791067295.0,
+      "source": "PCGamer latest",
+      "summary": "Unlikely, but not impossible?"
+    },
+    {
+      "title": "Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming",
+      "link": "https://www.polygon.com/stephen-king-the-mist-movie-free-to-stream/",
+      "pubDate": "03.10.2026 um 22:00 Uhr",
+      "timestamp": 1791064817.0,
+      "source": "Polygon.com",
+      "summary": "The 2007 Stephen King adaptation remains one of horror's most devastating movies, and it's free on Roku."
+    },
+    {
+      "title": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
+      "link": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
+      "pubDate": "03.10.2026 um 21:44 Uhr",
+      "timestamp": 1791063889.0,
+      "source": "PCGamer latest",
+      "summary": "An unstoppable juggernaut."
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+      "link": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+      "pubDate": "03.10.2026 um 21:26 Uhr",
+      "timestamp": 1791062818.0,
+      "source": "Kotaku",
+      "summary": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal"
+    },
+    {
+      "title": "Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice",
+      "link": "https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice",
+      "pubDate": "03.10.2026 um 21:03 Uhr",
+      "timestamp": 1791061426.0,
+      "source": "IGN All",
+      "summary": "Inde Navarrette has opened up about playing Rogue in X-Men, saying she's \"doing everything humanly possible\" to make sure she does the character justi..."
+    },
     {
       "title": "Netflix Sets The Witcher Season 5's Fate",
       "link": "https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/",
@@ -169,6 +225,22 @@
       "timestamp": 1791057827.0,
       "source": "Kotaku",
       "summary": "Following the closure of Phil Tippett’s studio, hundreds of behind the scenes files from The Matrix, Jurassic Park and more have been uploaded to the ..."
+    },
+    {
+      "title": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
+      "link": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex",
+      "pubDate": "03.10.2026 um 20:00 Uhr",
+      "timestamp": 1791057641.0,
+      "source": "IGN All",
+      "summary": "RuneFest 2026 is over, and we’ve got a roundup of everything announced at Jagex’s big show celebrating its long-running fantasy MMORPG."
+    },
+    {
+      "title": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
+      "link": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal",
+      "pubDate": "03.10.2026 um 20:00 Uhr",
+      "timestamp": 1791057622.0,
+      "source": "IGN All",
+      "summary": "Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation."
     },
     {
       "title": "A RuneScape Animated Show Is Coming With a World-Famous Content Creator Attached",
@@ -211,84 +283,12 @@
       "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity."
     },
     {
-      "title": "The 7 Best Games Like Hollow Knight: Silksong to Speed Up the Wait for Sea of Sorrows",
-      "link": "https://www.polygon.com/best-games-like-silksong-sea-sorrows-wait/",
-      "pubDate": "03.10.2026 um 19:37 Uhr",
-      "timestamp": 1791056228.0,
-      "source": "Polygon.com",
-      "summary": "From brutal boss fights to precise platforming challenges, here are 7 games like SiIlksong to play while you wait for new DLC."
-    },
-    {
-      "title": "Overwatch's Most Radical Hero Rework in Years is Coming Soon",
-      "link": "https://www.polygon.com/overwatch-sombra-rework-support-dps-alec-dawson/",
-      "pubDate": "03.10.2026 um 19:28 Uhr",
-      "timestamp": 1791055692.0,
-      "source": "Polygon.com",
-      "summary": "Overwatch DPS hero Sombra is changing to a support role in season 5, but Blizzard says her lethality and aggressive play style isn't changing."
-    },
-    {
       "title": "Valorant Player Banned Due To Previous CPU Owner’s Cheating Ways",
       "link": "https://kotaku.com/valorant-player-banned-due-to-previous-gpu-owners-cheating-ways-2000739597",
       "pubDate": "03.10.2026 um 19:06 Uhr",
       "timestamp": 1791054411.0,
       "source": "Kotaku",
       "summary": "In a wild coincidence a German player was penalized over the playing habits of their Ryzen 7's previous owner, claiming that nothing short of replacin..."
-    },
-    {
-      "title": "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
-      "link": "https://www.ign.com/articles/best-deals-for-october-3-2026",
-      "pubDate": "03.10.2026 um 18:32 Uhr",
-      "timestamp": 1791052354.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Director Says It Was ‘Absolutely Essential’ Not To Turn The Remake Into ‘My Own Personal Fan Project’",
-      "link": "https://kotaku.com/final-fantasy-vii-revelation-director-says-it-was-absolutely-essential-not-to-turn-the-remake-into-my-own-personal-fan-project-2000739591",
-      "pubDate": "03.10.2026 um 18:15 Uhr",
-      "timestamp": 1791051304.0,
-      "source": "Kotaku",
-      "summary": "Balancing new content with staying faithful to the legacy of the original is never easy"
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
-      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
-      "pubDate": "03.10.2026 um 17:54 Uhr",
-      "timestamp": 1791050066.0,
-      "source": "IGN All",
-      "summary": "Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that."
-    },
-    {
-      "title": "Behold The Best New Witcher 3 Remastered Mod",
-      "link": "https://kotaku.com/behold-the-best-new-witcher-3-remastered-mod-2000739585",
-      "pubDate": "03.10.2026 um 17:30 Uhr",
-      "timestamp": 1791048621.0,
-      "source": "Kotaku",
-      "summary": "Nobody puts low-poly pigeon in a corner"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation director says he \"did his best\" to fight for a full disc release",
-      "link": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
-      "pubDate": "03.10.2026 um 17:25 Uhr",
-      "timestamp": 1791048303.0,
-      "source": "Eurogamer.net News",
-      "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi has responded to fans asking for a full disc version of the game, saying he \"did [his] best\" to pu..."
-    },
-    {
-      "title": "\"Fable's original combat has a legacy of being quite approachable,\" so the RPG's devs don't want to change that with the new game",
-      "link": "https://www.gamesradar.com/games/rpg/fables-original-combat-has-a-legacy-of-being-quite-approachable-so-the-rpgs-devs-dont-want-to-change-that-with-the-new-game/",
-      "pubDate": "03.10.2026 um 17:00 Uhr",
-      "timestamp": 1791046800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"That's something we kept in mind while developing our combat system\""
-    },
-    {
-      "title": "RTX 5090 Buyer Asked To Sign A Resale Loyalty Pledge: ‘NO EXPORT – NO EXCEPTIONS’",
-      "link": "https://kotaku.com/rtx-5090-buyer-asked-to-sign-a-resale-loyalty-pledge-no-export-no-exceptions-2000739582",
-      "pubDate": "03.10.2026 um 16:45 Uhr",
-      "timestamp": 1791045913.0,
-      "source": "Kotaku",
-      "summary": "Government policies continue to echo in the consumer tech space, with Nvidia customers reporting heightened security around purchases, even requiring ..."
     }
   ],
   "sim": [
