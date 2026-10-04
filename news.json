@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Kalit auf Steam – Survival-Open-World im Cuphead-Cartoonstil mit Demo",
+      "link": "https://www.playcentral.de/kalit-auf-steam-survival-open-world-im-cuphead-cartoonstil-mit-demo/",
+      "pubDate": "04.10.2026 um 04:30 Uhr",
+      "timestamp": 1791088257.0,
+      "source": "PlayCentral",
+      "summary": "Ein neues Survival-Spiel auf Steam verbindet zwei Welten, die auf den ersten Blick kaum unterschiedlicher sein könnten. Kalit kombiniert handgezeichne..."
+    },
+    {
+      "title": "Fallout 76 Roadmap bis Sommer 2027 – Begleiter, Hideouts, Raven Rock",
+      "link": "https://www.playcentral.de/fallout-76-roadmap-bis-sommer-2027-begleiter-hideouts-raven-rock/",
+      "pubDate": "04.10.2026 um 00:30 Uhr",
+      "timestamp": 1791073849.0,
+      "source": "PlayCentral",
+      "summary": "Bethesda Game Studios hat am 30. September 2026 einen konkreten Ausblick auf die Zukunft von Fallout 76 veröffentlicht. Die neue Roadmap reicht bis zu..."
+    },
+    {
       "title": "Pokémon Go: Neues World Space Week Event bringt begehrtes Astronauten-Pikachu",
       "link": "https://www.eurogamer.de/pokemon-go-world-space-week-astronauten-pikachu",
       "pubDate": "03.10.2026 um 22:01 Uhr",
@@ -57,14 +73,6 @@
       "summary": "Mit False Hero ist am 22. September 2026 ein neues Soulslike auf Steam erschienen, das direkt einen starken Start hingelegt hat. Kurz nach der Veröffe..."
     },
     {
-      "title": "PS5 am 8. Oktober 2026 mit neun Releases – diese Spiele erscheinen dann",
-      "link": "https://www.playcentral.de/ps5-am-8-oktober-2026-mit-neun-releases-diese-spiele-erscheinen-dann/",
-      "pubDate": "03.10.2026 um 16:31 Uhr",
-      "timestamp": 1791045061.0,
-      "source": "PlayCentral",
-      "summary": "Der Donnerstag, 8. Oktober 2026, entwickelt sich zu einem der vollsten Veröffentlichungstage des Jahres für die PlayStation 5. Sofern es nicht noch zu..."
-    },
-    {
       "title": "Wie gut ist Star Wars: Galactic Racer?: Das packendste Arcade-Rennspiel seit langem",
       "link": "https://www.computerbase.de/news/gaming/wie-gut-ist-star-wars-galactic-racer-das-packendste-arcade-rennspiel-seit-langem.99662/",
       "pubDate": "03.10.2026 um 18:30 Uhr",
@@ -95,14 +103,6 @@
       "timestamp": 1791037352.0,
       "source": "Mein-MMO",
       "summary": "Dank ihrer vielen Tasten eignet sich diese Gaming-Maus von Razer hervorragend für MMOs und ist gerade besonders günstig. Der Beitrag Perfekt für MMOs:..."
-    },
-    {
-      "title": "Xbox Game Pass – Diese 9 Spiele fliegen am 15. Oktober 2026 raus",
-      "link": "https://www.playcentral.de/xbox-game-pass-diese-9-spiele-fliegen-am-15-oktober-2026-raus/",
-      "pubDate": "03.10.2026 um 13:30 Uhr",
-      "timestamp": 1791034245.0,
-      "source": "PlayCentral",
-      "summary": "Der Xbox Game Pass verliert am 15. Oktober 2026 einen seiner größten Rollenspielhits. Mit Clair Obscur: Expedition 33 verschwindet ein Titel aus dem K..."
     },
     {
       "title": "Star Wars Galactic Racer: Metacritic-Wert ist einer der höchsten des gesamten Franchises",
@@ -147,6 +147,38 @@
   ],
   "int": [
     {
+      "title": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/",
+      "pubDate": "04.10.2026 um 03:14 Uhr",
+      "timestamp": 1791083681.0,
+      "source": "PCGamer latest",
+      "summary": "Lucia and Jason's appearance in a fashion magazine gives us a couple more titbits of GTA info."
+    },
+    {
+      "title": "10 Erotic Thrillers to Watch After Verity",
+      "link": "https://www.polygon.com/best-erotic-thrillers-movies-like-verity/",
+      "pubDate": "04.10.2026 um 03:00 Uhr",
+      "timestamp": 1791082816.0,
+      "source": "Polygon.com",
+      "summary": "Loved Verity? These 10 erotic thrillers, from Rebecca to The Housemaid, trace the genre's history of obsession and desire."
+    },
+    {
+      "title": "One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies",
+      "link": "https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/",
+      "pubDate": "04.10.2026 um 01:16 Uhr",
+      "timestamp": 1791076562.0,
+      "source": "PCGamer latest",
+      "summary": "SFO Grimhammer 3 has since been restored to its original version, but the point's been made."
+    },
+    {
+      "title": "31 Years Ago, 'X-Files' Reached Its Zenith with a Near-Perfect 3-Part Thriller",
+      "link": "https://www.polygon.com/the-x-files-anasazi-the-blessing-way-paper-clip/",
+      "pubDate": "04.10.2026 um 01:00 Uhr",
+      "timestamp": 1791075616.0,
+      "source": "Polygon.com",
+      "summary": "The X-Files episodes \"Anasazi,\" \"The Blessing Way,\" and \"Paper Clip\" was a three-part mythology story that was a high point for the series."
+    },
+    {
       "title": "Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'",
       "link": "https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/",
       "pubDate": "03.10.2026 um 23:19 Uhr",
@@ -169,6 +201,14 @@
       "timestamp": 1791067295.0,
       "source": "PCGamer latest",
       "summary": "Unlikely, but not impossible?"
+    },
+    {
+      "title": "Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches",
+      "link": "https://www.ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches",
+      "pubDate": "03.10.2026 um 22:03 Uhr",
+      "timestamp": 1791065025.0,
+      "source": "IGN All",
+      "summary": "Marvel Studios has revealed a new Avengers: Doomsday poster, giving audiences a closer look not only at Doctor Doom but also at the three Latverian wi..."
     },
     {
       "title": "Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming",
@@ -249,46 +289,6 @@
       "timestamp": 1791057617.0,
       "source": "Polygon.com",
       "summary": "A RuneScape animated adaptation is on the way from Jagex, in partnership with MoistCr1TiKaL and Lyrical Media."
-    },
-    {
-      "title": "Metroid Meets Dead Cells In October's Coolest New Action Game",
-      "link": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/",
-      "pubDate": "03.10.2026 um 20:00 Uhr",
-      "timestamp": 1791057617.0,
-      "source": "Polygon.com",
-      "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long."
-    },
-    {
-      "title": "RuneScape 4 Officially Revealed by Jagex",
-      "link": "https://www.polygon.com/runescape-4-announcement-runefest-reveal-jagex/",
-      "pubDate": "03.10.2026 um 20:00 Uhr",
-      "timestamp": 1791057617.0,
-      "source": "Polygon.com",
-      "summary": "Unveiled at RuneFest, RuneScape 4 is another MMO being developed in Unreal Engine, and it's in the works at Jagex."
-    },
-    {
-      "title": "Amazon's New 8-Episode Action Spinoff Dethrones Reacher to Become No. 1 Streaming Series",
-      "link": "https://www.polygon.com/reacher-neagley-spinoff-prime-video-streaming-success-october-2026/",
-      "pubDate": "03.10.2026 um 19:50 Uhr",
-      "timestamp": 1791057012.0,
-      "source": "Polygon.com",
-      "summary": "Reacher spinoff Neagley is dominating the Prime Video streaming charts in the U.S. and worldwide."
-    },
-    {
-      "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
-      "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
-      "pubDate": "03.10.2026 um 19:45 Uhr",
-      "timestamp": 1791056742.0,
-      "source": "IGN All",
-      "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity."
-    },
-    {
-      "title": "Valorant Player Banned Due To Previous CPU Owner’s Cheating Ways",
-      "link": "https://kotaku.com/valorant-player-banned-due-to-previous-gpu-owners-cheating-ways-2000739597",
-      "pubDate": "03.10.2026 um 19:06 Uhr",
-      "timestamp": 1791054411.0,
-      "source": "Kotaku",
-      "summary": "In a wild coincidence a German player was penalized over the playing habits of their Ryzen 7's previous owner, claiming that nothing short of replacin..."
     }
   ],
   "sim": [
