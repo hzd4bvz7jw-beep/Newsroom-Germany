@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Sonic Racing CrossWorlds – DLC-Fahrplan bis 2027 mit 6 Paketen und Crossovern",
+      "link": "https://www.playcentral.de/sonic-racing-crossworlds-dlc-fahrplan-bis-2027-mit-6-paketen-und-crossovern/",
+      "pubDate": "09.10.2026 um 23:32 Uhr",
+      "timestamp": 1791588734.0,
+      "source": "PlayCentral",
+      "summary": "Sega hat die Pläne für das zweite Jahr von Sonic Racing: CrossWorlds vorgestellt. Der Fun-Racer erhält bis Ende 2027 sechs kostenpflichtige DLC-Pakete..."
+    },
+    {
+      "title": "Silver Pines auf PS5 – Survival Horror mit Metroidvania kommt gut an",
+      "link": "https://www.playcentral.de/silver-pines-auf-ps5-survival-horror-mit-metroidvania-kommt-gut-an/",
+      "pubDate": "09.10.2026 um 23:31 Uhr",
+      "timestamp": 1791588662.0,
+      "source": "PlayCentral",
+      "summary": "Auf der PS5 wartet seit dem 8. Oktober 2026 ein neuer Geheimtipp für Horror-Fans. Silver Pines verbindet klassischen Survival-Horror mit einer Metroid..."
+    },
+    {
       "title": "Leak zu Pokémon-LEGO – Überraschungsboxen mit Release am 1. März 2027",
       "link": "https://www.playcentral.de/leak-zu-pokemon-lego-ueberraschungsboxen-mit-release-am-1-maerz-2027/",
       "pubDate": "09.10.2026 um 20:31 Uhr",
@@ -127,25 +143,105 @@
       "timestamp": 1791556560.0,
       "source": "ComputerBase",
       "summary": "20,1 Prozent ist der globale PC-Markt im 3. Quartal gefallen, wie wird das 4. Quartal laufen? Acer Deutschland will dem eigenen Absatz die kommenden W..."
-    },
-    {
-      "title": "Final Fantasy 7 Revelation: Polydroid-Shiva bittet Vincent Valentine zum Snowboarden",
-      "link": "https://www.eurogamer.de/ff7-revelation-polydroid-shiva-snowboard-minispiel",
-      "pubDate": "09.10.2026 um 14:33 Uhr",
-      "timestamp": 1791556412.0,
-      "source": "Eurogamer.de News",
-      "summary": "Auf der New York Comic Con 2026 wurden neue Informationen zu Final Fantasy VII Revelation enth&uuml;llt. In dem gezeigten Videomaterial gibt es eine n..."
-    },
-    {
-      "title": "Pokémon GO Halloween 2026 – Kostüm-Debüts, Schillernde Gruff, Mega-Zobiris+",
-      "link": "https://www.playcentral.de/pokemon-go-halloween-2026-kostuem-debuets-schillernde-gruff-mega-zobiris/",
-      "pubDate": "09.10.2026 um 14:32 Uhr",
-      "timestamp": 1791556324.0,
-      "source": "PlayCentral",
-      "summary": "Pokémon GO läutet Halloween 2026 mit mehreren besonderen Debüts ein. Neben drei kostümierten Pokémon dürfen sich Trainer erstmals auf Schillernde Gruf..."
     }
   ],
   "int": [
+    {
+      "title": "Pokémon Go Zorua Community Day event guide",
+      "link": "https://www.polygon.com/pokemon-go-zorua-community-day-event-shiny-zoroark-moveset/",
+      "pubDate": "10.10.2026 um 03:13 Uhr",
+      "timestamp": 1791602032.0,
+      "source": "Polygon.com",
+      "summary": "Zorua Community Day takes place on Oct. 10. Here's how to find a shiny and make the most of the Community Day's bonuses."
+    },
+    {
+      "title": "Scarlett Johansson's New Exorcist Movie Gets First Terrifying Trailer",
+      "link": "https://www.polygon.com/the-exorcist-martyrs-trailer-mike-flanagan/",
+      "pubDate": "10.10.2026 um 01:55 Uhr",
+      "timestamp": 1791597309.0,
+      "source": "Polygon.com",
+      "summary": "First The Exorcist: Martyrs trailer shows director Mike Flanagan's revival of the franchise with Scarlett Johansson and Chiwetel Ejiofor."
+    },
+    {
+      "title": "Pokémon Winds and Waves' Water Starter Breaks a Series Curse",
+      "link": "https://www.polygon.com/pokemon-winds-waves-water-starter-series-curse/",
+      "pubDate": "10.10.2026 um 01:20 Uhr",
+      "timestamp": 1791595215.0,
+      "source": "Polygon.com",
+      "summary": "Nintendo and Game Freak's 10th Gen Pokémon starters are led by Browt, Pombon, and Gecqua, the breakout water starter of Winds and Waves"
+    },
+    {
+      "title": "Magic: The Gathering Returns to Marvel with Darkhold Destiny",
+      "link": "https://www.ign.com/articles/magic-the-gathering-returns-to-marvel-with-darkhold-destiny",
+      "pubDate": "10.10.2026 um 00:36 Uhr",
+      "timestamp": 1791592602.0,
+      "source": "IGN All",
+      "summary": "Magic the Gathering and Marvel have already crossed over a couple of times with Spider-Man and the Marvel Super Heroes set last year. But for its thir..."
+    },
+    {
+      "title": "MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027",
+      "link": "https://www.polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks/",
+      "pubDate": "10.10.2026 um 00:30 Uhr",
+      "timestamp": 1791592216.0,
+      "source": "Polygon.com",
+      "summary": "Head to Asgard or Doctor Strange’s wizarding school"
+    },
+    {
+      "title": "It’s Officially the Dawn of a New Era for 'Magic the Gathering' Universes Beyond",
+      "link": "https://www.polygon.com/mtg-darkhold-destinies-spoilers-marvel-universes-beyond/",
+      "pubDate": "10.10.2026 um 00:30 Uhr",
+      "timestamp": 1791592216.0,
+      "source": "Polygon.com",
+      "summary": "Magic's head designers tell Polygon that their new Marvel crossover set, Darkhold Destiny, is their most ambitious and \"complex\" crossover yet"
+    },
+    {
+      "title": "MTG Marvel Darkhold Destiny has a wild pitch featuring the supernatural and teamups with a \"pantheon of gods\"",
+      "link": "https://www.gamesradar.com/tabletop-gaming/mtg-marvel-darkhold-destiny-has-a-wild-pitch-featuring-the-supernatural-and-teamups-with-a-pantheon-of-gods/",
+      "pubDate": "10.10.2026 um 00:30 Uhr",
+      "timestamp": 1791592200.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "MTG Darkhold Destiny revealed for April, and brings the first original Marvel story for a Magic set"
+    },
+    {
+      "title": "2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana",
+      "link": "https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/",
+      "pubDate": "10.10.2026 um 00:20 Uhr",
+      "timestamp": 1791591652.0,
+      "source": "PCGamer latest",
+      "summary": "All you need is a ridiculously fast monitor and endless patience for tinkering to get a glimpse of how good retro games looked in motion back in the '..."
+    },
+    {
+      "title": "'Common Side Effects' Officially Break Their Silence on Season 2 Plans",
+      "link": "https://www.polygon.com/common-side-effects-season-2-release-date-creators-interview/",
+      "pubDate": "10.10.2026 um 00:00 Uhr",
+      "timestamp": 1791590415.0,
+      "source": "Polygon.com",
+      "summary": "Polygon sat down with Joe Bennet and Steve Hely ahead of their big New York Comic Con announcement"
+    },
+    {
+      "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+      "link": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+      "pubDate": "09.10.2026 um 23:56 Uhr",
+      "timestamp": 1791590183.0,
+      "source": "IGN All",
+      "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed t..."
+    },
+    {
+      "title": "'Overcooked broke you apart and Stage Fright is there to put you back together'",
+      "link": "https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/",
+      "pubDate": "09.10.2026 um 23:43 Uhr",
+      "timestamp": 1791589393.0,
+      "source": "PCGamer latest",
+      "summary": "Developers of the stressful cooking game series talk to PC Gamer about their more 'positive' co-op adventure."
+    },
+    {
+      "title": "Hytale creator is giving early access players 1 copy of the RPG for every chapter released until 1.0",
+      "link": "https://www.gamesradar.com/games/rpg/hytale-creator-is-giving-the-rpgs-premium-early-access-supporters-1-copy-of-the-game-for-every-chapter-released-before-1-0-to-give-to-friends-and-family/",
+      "pubDate": "09.10.2026 um 23:41 Uhr",
+      "timestamp": 1791589260.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "If you have the Cursebreaker Edition, keep an eye on your inbox when a new Hytale chapter drops"
+    },
     {
       "title": "5 Hilarious 'Calvin and Hobbes' Comic Strips About Hating School",
       "link": "https://www.polygon.com/calvin-hobbes-vs-school-best-comic-stripes/",
@@ -153,6 +249,14 @@
       "timestamp": 1791586816.0,
       "source": "Polygon.com",
       "summary": "In Calvin and Hobbes, school was usually the enemy"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation: I Played a New Slice from the Early Game With a Boss Fight | IGN Preview",
+      "link": "https://www.ign.com/articles/final-fantasy-7-revelation-i-played-a-new-slice-from-the-early-game-with-a-boss-fight-ign-preview",
+      "pubDate": "09.10.2026 um 22:58 Uhr",
+      "timestamp": 1791586723.0,
+      "source": "IGN All",
+      "summary": "While our earlier previews described a giant open-world game absolutely chock-full of activities, it was nice to see that the story-intense linear bit..."
     },
     {
       "title": "Square Enix's Forgotten Loot-Shooter Was Years Ahead of Its Time",
@@ -163,6 +267,14 @@
       "summary": "Outriders, the 2021 loot-shooter published by Square Enix, set the standard for multiplayer shooter. Then everyone moved on."
     },
     {
+      "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
+      "link": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
+      "pubDate": "09.10.2026 um 22:47 Uhr",
+      "timestamp": 1791586050.0,
+      "source": "IGN All",
+      "summary": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto."
+    },
+    {
       "title": "The Exorcist: Martyrs trailer arrives online, promising unholy horrors for Scarlett Johansson",
       "link": "https://www.gamesradar.com/entertainment/horror-movies/the-exorcist-martyrs-trailer-arrives-online-promising-unholy-horrors-for-scarlett-johansson/",
       "pubDate": "09.10.2026 um 22:45 Uhr",
@@ -171,124 +283,12 @@
       "summary": "Mike Flanagan's new movie teases a hell of a time"
     },
     {
-      "title": "Marathon Is the Scariest Horror Game of 2026",
-      "link": "https://www.polygon.com/marathon-scariest-horror-game/",
-      "pubDate": "09.10.2026 um 22:40 Uhr",
-      "timestamp": 1791585648.0,
-      "source": "Polygon.com",
-      "summary": "Player ambushes, powerful NPC enemy robots, and the fear of losing loot makes Marathon terrifying."
-    },
-    {
-      "title": "GTA 6's Nudity Sure Sounds Hopelessly Outdated",
-      "link": "https://www.polygon.com/gta-6-nudity-jason-lucia-sounds-hopelessly-outdated/",
-      "pubDate": "09.10.2026 um 22:19 Uhr",
-      "timestamp": 1791584394.0,
-      "source": "Polygon.com",
-      "summary": "GTA 6's nude leaks suggest Rockstar isn't treating the crime game with the maturity and sense of realism that it promised"
-    },
-    {
-      "title": "Steven Spielberg's 145-Minute 2026 Sci-fi Thriller Now Officially Streaming",
-      "link": "https://www.polygon.com/steven-spielberg-disclosure-day-streaming-peacock-october-2026/",
-      "pubDate": "09.10.2026 um 22:16 Uhr",
-      "timestamp": 1791584175.0,
-      "source": "Polygon.com",
-      "summary": "Disclosure Day, the Spielberg alien thriller with Emily Blunt and Josh O'Connor, is now officially streaming on Peacock."
-    },
-    {
-      "title": "VisionQuest star Ruaridh Mollica compares Tommy figuring out his powers to Peter Parker",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-star-ruaridh-mollica-compares-tommy-figuring-out-his-powers-to-peter-parker/",
-      "pubDate": "09.10.2026 um 22:10 Uhr",
-      "timestamp": 1791583800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Exclusive: \"My favorite journey when I watch superhero stuff is when people are figuring out their powers for the first time\""
-    },
-    {
-      "title": "Mike Flanagan dreams of directing a new Jaws or Jurassic World movie",
-      "link": "https://www.gamesradar.com/entertainment/adventure-movies/mike-flanagan-dreams-of-directing-a-new-jaws-or-jurassic-world-movie/",
-      "pubDate": "09.10.2026 um 22:07 Uhr",
-      "timestamp": 1791583667.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"I'd want to go really scary with it. A true dinosaur horror film would be a blast.\""
-    },
-    {
-      "title": "The 7 Best Racing Games Like Star Wars: Galactic Racer",
-      "link": "https://www.polygon.com/best-racing-games-like-star-wars-galactic-racer/",
-      "pubDate": "09.10.2026 um 22:00 Uhr",
-      "timestamp": 1791583216.0,
-      "source": "Polygon.com",
-      "summary": "Check out other classics of sci-fi racing like F-Zero and Wipeout, plus earlier games from the developers like Burnout and Need for Speed"
-    },
-    {
-      "title": "Netflix Quietly Dropped a Gorgeous 20-Episode WWI Drama That Should Go Down as a Modern Classic",
-      "link": "https://www.polygon.com/love-through-a-prism-netflix-anime-period-romance-recommendation/",
-      "pubDate": "09.10.2026 um 22:00 Uhr",
-      "timestamp": 1791583216.0,
-      "source": "Polygon.com",
-      "summary": "Netflix anime ‘Love Through a Prism’ begins as an art-school romance before becoming a heartbreaking drama set against World War I."
-    },
-    {
-      "title": "5 Movies to Watch on Netflix This Weekend (Oct. 9-11)",
-      "link": "https://www.polygon.com/movies-to-watch-on-netflix-this-weekend-oct-9-11/",
-      "pubDate": "09.10.2026 um 22:00 Uhr",
-      "timestamp": 1791583216.0,
-      "source": "Polygon.com",
-      "summary": "These stylish, eerie movies are perfect for Halloween streaming on Netflix."
-    },
-    {
-      "title": "Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny",
-      "link": "https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/",
-      "pubDate": "09.10.2026 um 21:54 Uhr",
-      "timestamp": 1791582866.0,
-      "source": "PCGamer latest",
-      "summary": "Remember Johnny Mnemonic? If you haven't seen it, it's time."
-    },
-    {
-      "title": "We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo, The Simpsons: Hit And Run, And GTA: Vice City Seem To Work Perfectly",
-      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "pubDate": "09.10.2026 um 21:45 Uhr",
-      "timestamp": 1791582314.0,
-      "source": "Kotaku",
-      "summary": "Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight"
-    },
-    {
-      "title": "Finn Jones teases Heroes For Hire arc in Daredevil: Born Again season 3",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/finn-jones-teases-heroes-for-hire-arc-in-daredevil-born-again-season-3/",
-      "pubDate": "09.10.2026 um 21:11 Uhr",
-      "timestamp": 1791580293.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Exclusive: The Iron Fist shares details about a potential new business plan in the MCU"
-    },
-    {
-      "title": "My new cozy obsession is a Lord of the Rings-inspired Animal Crossing riff blowing up on Kickstarter",
-      "link": "https://www.gamesradar.com/games/simulation/my-new-most-anticipated-cozy-game-is-a-lord-of-the-rings-and-d-and-d-inspired-take-on-animal-crossing-thats-blowing-up-on-kickstarter/",
-      "pubDate": "09.10.2026 um 20:52 Uhr",
-      "timestamp": 1791579164.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Humblets was fully funded on day one of its Kickstarter campaign, and I can see why"
-    },
-    {
-      "title": "The Street Fighter 2 Bonus Stage Car Is Real and You Can Win It",
-      "link": "https://www.ign.com/articles/the-street-fighter-2-bonus-stage-car-is-real-and-you-can-win-it",
-      "pubDate": "09.10.2026 um 20:47 Uhr",
-      "timestamp": 1791578857.0,
+      "title": "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
+      "link": "https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026",
+      "pubDate": "09.10.2026 um 22:45 Uhr",
+      "timestamp": 1791585902.0,
       "source": "IGN All",
-      "summary": "The General is teaming up with Capcom to bring the destroyable car from Street Fighter II to life, and you have a chance to win it — along with more t..."
-    },
-    {
-      "title": "Marvel Comics Reveals New Captain Marvel Series and Daredevil #700 - NYCC 2026",
-      "link": "https://www.ign.com/articles/marvel-comics-reveals-new-captain-marvel-series-and-daredevil-700-nycc-2026",
-      "pubDate": "09.10.2026 um 20:30 Uhr",
-      "timestamp": 1791577800.0,
-      "source": "IGN All",
-      "summary": "Marvel dropped some big announcements at NYCC, including Daredevil #700 and a brand-new Captain Marvel series from Kamala Khan co-creator G. Willow Wi..."
-    },
-    {
-      "title": "Save 53% Off Like New Sony WH-1000XM6 Noise Canceling Headphones With Extended 2 Year Warranty",
-      "link": "https://www.ign.com/articles/sony-wh-1000xm6-noise-canceling-headphone-deal-october-2026",
-      "pubDate": "09.10.2026 um 20:20 Uhr",
-      "timestamp": 1791577200.0,
-      "source": "IGN All",
-      "summary": "One of the best noise canceling headphones you can get."
+      "summary": "Blumhouse Productions has partnered with YouTube star Matthew ‘MatPat’ Patrick to create a series of movies based on viral indie horror games, and Ama..."
     }
   ],
   "sim": [
