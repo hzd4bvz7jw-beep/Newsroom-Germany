@@ -1,6 +1,86 @@
 {
   "de": [
     {
+      "title": "5 schlechte Filmtode, bei denen gute Schauspieler völlig versagt haben",
+      "link": "https://mein-mmo.de/5-schlechte-filmtode/",
+      "pubDate": "10.10.2026 um 20:21 Uhr",
+      "timestamp": 1791663698.0,
+      "source": "Mein-MMO",
+      "summary": "In Filmen wird zuhauf gestorben. In den folgenden fünf Beispielen zeigen eigentlich gute Darsteller, wie ein schlechter Filmtod aussieht. Der Beitrag ..."
+    },
+    {
+      "title": "Ghost of Yotei Patch 2.07 behebt Fortschrittsbugs und Blackscreens",
+      "link": "https://www.playcentral.de/ghost-of-yotei-patch-2-07-behebt-fortschrittsbugs-und-blackscreens/",
+      "pubDate": "10.10.2026 um 19:31 Uhr",
+      "timestamp": 1791660696.0,
+      "source": "PlayCentral",
+      "summary": "Sucker Punch Productions hat am 9. Oktober 2026 ein neues Update für Ghost of Yotei veröffentlicht. Patch 2.07 konzentriert sich vollständig auf Fehle..."
+    },
+    {
+      "title": "Epic Games Store – Diese Gratis-Spiele gibt es ab 15. Oktober 2026",
+      "link": "https://www.playcentral.de/epic-games-store-diese-gratis-spiele-gibt-es-ab-15-oktober-2026/",
+      "pubDate": "10.10.2026 um 19:30 Uhr",
+      "timestamp": 1791660653.0,
+      "source": "PlayCentral",
+      "summary": "Der Epic Games Store hat die nächsten Gratisangebote für PC offiziell bestätigt. Ab Donnerstag, dem 15. Oktober 2026, können sich Nutzer mit Agent A: ..."
+    },
+    {
+      "title": "KI & Spieleentwicklung: Vibecoding bringt Spieleklassiker in den Browser",
+      "link": "https://www.computerbase.de/news/gaming/ki-und-spieleentwicklung-vibecoding-bringt-spieleklassiker-in-den-browser.99762/",
+      "pubDate": "10.10.2026 um 20:40 Uhr",
+      "timestamp": 1791657600.0,
+      "source": "ComputerBase",
+      "summary": "Vibecoding hat ungeahnte Vorteile für alte Spiele: Klassiker profitieren seit einigen Wochen durch KI-Remaster und Browser-Portierungen, die in steige..."
+    },
+    {
+      "title": "PlayStation Portal Update 7.3.0 – 3D-Audio-Schalter und neue Suche",
+      "link": "https://www.playcentral.de/playstation-portal-update-7-3-0-3d-audio-schalter-und-neue-suche/",
+      "pubDate": "10.10.2026 um 18:31 Uhr",
+      "timestamp": 1791657096.0,
+      "source": "PlayCentral",
+      "summary": "Sony hat im Oktober 2026 überraschend ein neues Systemsoftware-Update für den PlayStation Portal Remote-Player veröffentlicht. Version 7.3.0 fällt zwa..."
+    },
+    {
+      "title": "Blaster! zurück auf Steam und GOG – restaurierte PC-Version mit Extras",
+      "link": "https://www.playcentral.de/blaster-zurueck-auf-steam-und-gog-restaurierte-pc-version-mit-extras/",
+      "pubDate": "10.10.2026 um 18:30 Uhr",
+      "timestamp": 1791657049.0,
+      "source": "PlayCentral",
+      "summary": "Fast drei Jahrzehnte nach seiner ursprünglichen Veröffentlichung kehrt ein beinahe vergessener Science-Fiction-Shooter zurück. Blaster!, das in seiner..."
+    },
+    {
+      "title": "Formula V Line Air Power G10: Bewegliche Lüfter haben nur einen Vorteil",
+      "link": "https://www.computerbase.de/news/gehaeuse/formula-v-line-air-power-g10-bewegliche-luefter-haben-nur-einen-vorteil.99758/",
+      "pubDate": "10.10.2026 um 20:03 Uhr",
+      "timestamp": 1791655380.0,
+      "source": "ComputerBase",
+      "summary": "Im Air Power G10 von Formula V Line sitzen Lüfter in neigbaren Halterungen. Dadurch können sie ausgerichtet werden, um den Luftstrom im Gehäuse geziel..."
+    },
+    {
+      "title": "Mafia III Definitive Edition erhält PS5- und Xbox Series Update mit 60 FPS",
+      "link": "https://www.playcentral.de/mafia-iii-definitive-edition-erhaelt-ps5-und-xbox-series-update-mit-60-fps/",
+      "pubDate": "10.10.2026 um 17:32 Uhr",
+      "timestamp": 1791653523.0,
+      "source": "PlayCentral",
+      "summary": "Zehn Jahre nach der ursprünglichen Veröffentlichung erhält Mafia III überraschend ein umfangreiches Update. 2K und Hangar 13 haben am 8. Oktober 2026 ..."
+    },
+    {
+      "title": "Warner Bros. bestätigt Hogwarts Legacy 2 offiziell – noch ohne Termin",
+      "link": "https://www.playcentral.de/warner-bros-bestaetigt-hogwarts-legacy-2-offiziell-noch-ohne-termin/",
+      "pubDate": "10.10.2026 um 17:31 Uhr",
+      "timestamp": 1791653460.0,
+      "source": "PlayCentral",
+      "summary": "Warner Bros. hat die Entwicklung von Hogwarts Legacy 2 noch einmal offiziell bestätigt. In einem Schreiben an die Anteilseigner nennt der Konzern ausd..."
+    },
+    {
+      "title": "Metroid Ravenous für Switch 2 terminiert – Release am 28. Januar 2027",
+      "link": "https://www.playcentral.de/metroid-ravenous-fuer-switch-2-terminiert-release-am-28-januar-2027/",
+      "pubDate": "10.10.2026 um 16:31 Uhr",
+      "timestamp": 1791649864.0,
+      "source": "PlayCentral",
+      "summary": "Nintendo hat den nächsten großen Exklusivtitel für die Switch 2 offiziell terminiert. Nach dem Remake von The Legend of Zelda: Ocarina of Time übernim..."
+    },
+    {
       "title": "Xbox-PC-App: Microsoft macht Schluss mit der trägen Oberfläche",
       "link": "https://www.computerbase.de/news/apps/xbox-pc-app-microsoft-macht-schluss-mit-der-traegen-oberflaeche.99759/",
       "pubDate": "10.10.2026 um 17:40 Uhr",
@@ -15,14 +95,6 @@
       "timestamp": 1791642686.0,
       "source": "PlayCentral",
       "summary": "EA und Battlefield Studios haben die vollständige Roadmap für Season 5 von Battlefield 6 vorgestellt. Die bislang größte Season des Shooters startet a..."
-    },
-    {
-      "title": "Dead by Daylight x NieR Automata – 2B, A2 und Emil als neue Outfits",
-      "link": "https://www.playcentral.de/dead-by-daylight-x-nier-automata-2b-a2-und-emil-als-neue-outfits/",
-      "pubDate": "10.10.2026 um 14:30 Uhr",
-      "timestamp": 1791642642.0,
-      "source": "PlayCentral",
-      "summary": "Behaviour Interactive bringt zwei auf den ersten Blick ungewöhnliche Welten zusammen: Dead by Daylight erhält eine offizielle Kooperation mit NieR: Au..."
     },
     {
       "title": "“Einer der interessantesten Fernseher auf dem Markt”: Brillanter OLED-TV mit Ambilight jetzt 50 Prozent reduziert",
@@ -41,22 +113,6 @@
       "summary": "Sony soll 419 Patente aus den Bereichen virtuelle Realität (VR), erweiterte Realität (AR) und Extended Reality (XR) an Meta übertragen haben. Das könn..."
     },
     {
-      "title": "Fur and Fang erweitert Elder Scrolls Brettspiel um Werwölfe und Vampire",
-      "link": "https://www.playcentral.de/fur-and-fang-erweitert-elder-scrolls-brettspiel-um-werwoelfe-und-vampire/",
-      "pubDate": "10.10.2026 um 13:32 Uhr",
-      "timestamp": 1791639125.0,
-      "source": "PlayCentral",
-      "summary": "Mit The Elder Scrolls: Fur and Fang erhält das umfangreiche Brettspiel The Elder Scrolls: Betrayal of the Second Era seine nächste düstere Erweiterung..."
-    },
-    {
-      "title": "Steam verschenkt zwei Indie-Spiele bis 12. Oktober 2026, plus 4 DLCs gratis",
-      "link": "https://www.playcentral.de/steam-verschenkt-zwei-indie-spiele-bis-12-oktober-2026-plus-4-dlcs-gratis/",
-      "pubDate": "10.10.2026 um 13:31 Uhr",
-      "timestamp": 1791639063.0,
-      "source": "PlayCentral",
-      "summary": "Auf Steam könnt ihr euch derzeit zwei sehr unterschiedliche Indie-Spiele kostenlos für eure Bibliothek sichern. Fireside Feelings und Pony Island lass..."
-    },
-    {
       "title": "Nach Dekaden dummer Gegner: Sony will NPCs endlich das Lernen beibringen",
       "link": "https://www.computerbase.de/news/gaming/nach-dekaden-dummer-gegner-sony-will-npcs-endlich-das-lernen-beibringen.99752/",
       "pubDate": "10.10.2026 um 15:15 Uhr",
@@ -73,22 +129,6 @@
       "summary": "Auch nach dem Prime Day hat Amazon ein Gaming-Headset aus Logitechs Premiumsparte besonders günstig im befristeten Angebot. Der Beitrag Auch nach dem ..."
     },
     {
-      "title": "Phantom Blade Zero: Erste Wertungen zeichnen vielversprechendes Bild",
-      "link": "https://www.playcentral.de/phantom-blade-zero-erste-wertungen-vielversprechend/",
-      "pubDate": "10.10.2026 um 12:32 Uhr",
-      "timestamp": 1791635561.0,
-      "source": "PlayCentral",
-      "summary": "Am 29. Oktober 2026 erscheint Phantom Blade Zero für den PC und PlayStation 5. Die ersten Previews des Action-Rollenspiels zeichnen ein überwiegend po..."
-    },
-    {
-      "title": "WoW Forever – Sylvanas kehrt am 4. November 2026 mit neuem Modell zurück",
-      "link": "https://www.playcentral.de/wow-forever-sylvanas-kehrt-am-4-november-2026-mit-neuem-modell-zurueck/",
-      "pubDate": "10.10.2026 um 12:30 Uhr",
-      "timestamp": 1791635439.0,
-      "source": "PlayCentral",
-      "summary": "Sylvanas Windläufer kehrt am 4. November 2026 offiziell in World of Warcraft zurück. In World of Warcraft: Forever übernimmt die Dunkle Fürstin erneut..."
-    },
-    {
       "title": "Silent Hill: Konami kündigt nach erfolgreichem Comeback weitere Spiele-Wellen an",
       "link": "https://www.eurogamer.de/silent-hill-konami-plant-weitere-spiele-wellen",
       "pubDate": "10.10.2026 um 12:13 Uhr",
@@ -103,195 +143,163 @@
       "timestamp": 1791632248.0,
       "source": "Eurogamer.de News",
       "summary": "Star Wars: Zero Company hat &uuml;ber eine Million Einheiten verkauft. Das teilt Publisher EA in den sozialen Medien mit. Damit ist der geistige XCOM-..."
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 – Early Access inklusive DMZ-Modus & das Launch-Event",
-      "link": "https://www.playcentral.de/call-of-duty-modern-warfare-4-early-access-dmz-launch-event/",
-      "pubDate": "10.10.2026 um 11:15 Uhr",
-      "timestamp": 1791630942.0,
-      "source": "PlayCentral",
-      "summary": "Die Veröffentlichung von Call of Duty: Modern Warfare 4 rückt näher. Am 23. Oktober 2026 erscheint der neue Shooter von Activision und Infinity Ward f..."
-    },
-    {
-      "title": "LEGO Marvel-Skyline kommt 2027 – 14 Schauplätze, Preis und Details zum Set 67006",
-      "link": "https://www.playcentral.de/lego-marvel-skyline-kommt-2027-14-schauplaetze-preis-und-details-zum-set-67006/",
-      "pubDate": "10.10.2026 um 10:30 Uhr",
-      "timestamp": 1791628247.0,
-      "source": "PlayCentral",
-      "summary": "LEGO hat mit der Marvel-Skyline ein neues Sammlerset für erwachsene Marvel-Fans offiziell vorgestellt. Das Modell mit der Setnummer 67006 bringt zahlr..."
-    },
-    {
-      "title": "Seagate Expansion: Externe HDDs im neuen Gewand mit USB-C und 30 TB",
-      "link": "https://www.computerbase.de/news/storage/seagate-expansion-serie-erhaelt-usb-c-neues-design-und-bis-zu-30-tb.99757/",
-      "pubDate": "10.10.2026 um 12:30 Uhr",
-      "timestamp": 1791628200.0,
-      "source": "ComputerBase",
-      "summary": "Seagate legt die externen Festplatten der Expansion-Serie neu auf. Die neuen Varianten gibt es mit USB-C-Kabel und deutlich verändertem Design. Die ne..."
-    },
-    {
-      "title": "Gears of War: E-Day begeistert selbst Serienschöpfer CliffyB",
-      "link": "https://www.eurogamer.de/gears-of-war-e-day-lob-von-serienschoepfer-cliffyb",
-      "pubDate": "10.10.2026 um 10:28 Uhr",
-      "timestamp": 1791628101.0,
-      "source": "Eurogamer.de News",
-      "summary": "Gears of War: E-Day ist am 6. Oktober erschienen und konnte sowohl Spieler als auch Kritiker begeistern. Die Entwickler von The Coalition haben ein be..."
-    },
-    {
-      "title": "Zwei IPS-Bildschirme und Stylus: Anbernic RG DDS greift den Nintendo 3DS an",
-      "link": "https://www.computerbase.de/news/gaming/zwei-ips-bildschirme-und-stylus-anbernic-rg-dds-greift-den-nintendo-3ds-an.99754/",
-      "pubDate": "10.10.2026 um 12:00 Uhr",
-      "timestamp": 1791626400.0,
-      "source": "ComputerBase",
-      "summary": "Anbernic hat überraschend den RG DDS vorgestellt, ein Dual-Screen-Handheld, der stark an den New Nintendo 3DS erinnert. Die beiden IPS-Displays bieten..."
     }
   ],
   "int": [
     {
-      "title": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
-      "link": "https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos",
-      "pubDate": "10.10.2026 um 16:07 Uhr",
-      "timestamp": 1791648427.0,
+      "title": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
+      "link": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
+      "pubDate": "10.10.2026 um 20:24 Uhr",
+      "timestamp": 1791663875.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "I've spoken here before how the ultimate way to rope me into checking your game out is by having a nebulously designed Strong Vibe, a look that immedi..."
+      "summary": "You can wait another month and some change to play GTA 6, right? I mean, everyone reading this who has a console, anyway, still no bloomin' sight of a..."
     },
     {
-      "title": "WandaVision Creator Set To Develop New Stargate Series",
-      "link": "https://www.polygon.com/stargate-new-amazon-mgm-series-jac-schaeffer/",
-      "pubDate": "10.10.2026 um 16:01 Uhr",
-      "timestamp": 1791648116.0,
-      "source": "Polygon.com",
-      "summary": "Amazon is having another go at creating a new Stargate series, this time bringing WandaVision's Jac Schaeffer onboard to develop it."
-    },
-    {
-      "title": "Avatar: Seven Havens is a brilliant take-down of Korra's biggest haters",
-      "link": "https://www.polygon.com/avatar-seven-havens-korra-haters-are-wrong/",
-      "pubDate": "10.10.2026 um 16:00 Uhr",
-      "timestamp": 1791648016.0,
-      "source": "Polygon.com",
-      "summary": "Revenge is a dish best served 12 years later"
-    },
-    {
-      "title": "I Have Discovered The Best Game Soundtrack of 2026 and It Is Super Woden: Rally Edge",
-      "link": "https://www.polygon.com/super-woden-rally-edge-game-music-best-2026/",
-      "pubDate": "10.10.2026 um 15:31 Uhr",
-      "timestamp": 1791646302.0,
-      "source": "Polygon.com",
-      "summary": "Super Woden: Rally Edge evokes the grubby thrills of the arcade with its banging music."
-    },
-    {
-      "title": "Hands-on Impressions of Hoid's Storybook Collection by Brandon Sanderson",
-      "link": "https://www.ign.com/articles/hands-on-impressions-of-hoids-storybook-cosmere-collection-by-brandon-sanderson",
-      "pubDate": "10.10.2026 um 15:30 Uhr",
-      "timestamp": 1791646200.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Avatar: Seven Havens’ Glowing Reviews Say That The New Avatar: The Last Airbender Animated Series Is A Return To Form",
-      "link": "https://kotaku.com/avatar-seven-havens-glowing-reviews-say-that-the-new-avatar-the-last-airbender-animated-series-is-a-return-to-form-2000743771",
-      "pubDate": "10.10.2026 um 15:20 Uhr",
-      "timestamp": 1791645623.0,
-      "source": "Kotaku",
-      "summary": "Critics are uniformly praising the latest entry in the Avatar: The Last Airbender series, with the only point of disagreement being the quality of Ava..."
-    },
-    {
-      "title": "Grand Theft Ocarina Could Be Gaming's Barbenheimer",
-      "link": "https://www.polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer/",
-      "pubDate": "10.10.2026 um 15:00 Uhr",
-      "timestamp": 1791644418.0,
-      "source": "Polygon.com",
-      "summary": "Nintendo's gamble on the November release date clash between GTA 6 and Zelda: Ocarina of Time for Switch 2 seems to be paying off"
-    },
-    {
-      "title": "Star Citizen Spinoff Squadron 42 Officially Reveals Huge Cast in New Look",
-      "link": "https://www.polygon.com/star-citizen-squadron-42-trailer-gameplay-cast/",
-      "pubDate": "10.10.2026 um 15:00 Uhr",
-      "timestamp": 1791644418.0,
-      "source": "Polygon.com",
-      "summary": "The 'Star Citizen' spinoff 'Squadron 42' got a new trailer featuring gameplay and cinematics."
-    },
-    {
-      "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
-      "link": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
-      "pubDate": "10.10.2026 um 15:00 Uhr",
-      "timestamp": 1791644400.0,
-      "source": "IGN All",
-      "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch ..."
-    },
-    {
-      "title": "WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/",
-      "pubDate": "10.10.2026 um 15:00 Uhr",
-      "timestamp": 1791644400.0,
-      "source": "PCGamer latest",
-      "summary": "No Season-ing."
-    },
-    {
-      "title": "60 Years Later, the Best 'Great Pumpkin, Charlie Brown' Quote Is Still an All-Time 'Peanuts' Classic",
-      "link": "https://www.polygon.com/great-pumpkin-charlie-brown-best-quote-movie/",
-      "pubDate": "10.10.2026 um 14:53 Uhr",
-      "timestamp": 1791643991.0,
-      "source": "Polygon.com",
-      "summary": "The 1966 TV special, It's the Great Pumpkin, Charlie Brown, written by Charles Schulz is full of classic lines. Here is the most iconic."
-    },
-    {
-      "title": "New Risk of Rain 2 expansion debuts to \"Very Positive\" Steam reviews",
-      "link": "https://www.gamesradar.com/games/roguelike/gearbox-is-doing-a-much-better-job-with-roguelike-icon-risk-of-rain-2-as-its-new-expansion-debuts-to-very-positive-steam-reviews/",
-      "pubDate": "10.10.2026 um 14:30 Uhr",
-      "timestamp": 1791642610.0,
+      "title": "Josh Brolin talks Sicario 3 without Taylor Sheridan",
+      "link": "https://www.gamesradar.com/entertainment/action-movies/josh-brolin-talks-sicario-3-without-taylor-sheridan/",
+      "pubDate": "10.10.2026 um 20:07 Uhr",
+      "timestamp": 1791662851.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Hallowed Concepts is a hit"
+      "summary": "Steven Knight is set to write the long-anticipated sequel"
     },
     {
-      "title": "New Paranormal Activity Movie Will Bring the Franchise Back to its Roots",
-      "link": "https://www.polygon.com/paranormal-activity-8-blumhouse-panel-nycc/",
-      "pubDate": "10.10.2026 um 14:23 Uhr",
-      "timestamp": 1791642233.0,
+      "title": "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs",
+      "link": "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781",
+      "pubDate": "10.10.2026 um 19:51 Uhr",
+      "timestamp": 1791661868.0,
+      "source": "Kotaku",
+      "summary": "Support for PlayStation 3 discs appears to be on the way too"
+    },
+    {
+      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+      "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "pubDate": "10.10.2026 um 19:42 Uhr",
+      "timestamp": 1791661341.0,
+      "source": "Eurogamer.net News",
+      "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more"
+    },
+    {
+      "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
+      "link": "https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791",
+      "pubDate": "10.10.2026 um 19:18 Uhr",
+      "timestamp": 1791659915.0,
+      "source": "Kotaku",
+      "summary": "Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use"
+    },
+    {
+      "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
+      "link": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+      "pubDate": "10.10.2026 um 19:09 Uhr",
+      "timestamp": 1791659359.0,
+      "source": "Eurogamer.net News",
+      "summary": "Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power p..."
+    },
+    {
+      "title": "10 Stephen King Movie Adaptations That Are Better Than The Books",
+      "link": "https://www.polygon.com/stephen-king-books-better-adaptations/",
+      "pubDate": "10.10.2026 um 19:00 Uhr",
+      "timestamp": 1791658816.0,
       "source": "Polygon.com",
-      "summary": "We learned new details about the next Paranormal Activity movie and more upcoming Blumhouse films at a New York Comic-Con panel."
+      "summary": "Adaptations that take advantage of the medium to improve upon an already brilliant story."
     },
     {
-      "title": "Magic’s Next Marvel Set Just Revealed a One Ring Replacement That Can Destroy the Whole Table",
-      "link": "https://www.polygon.com/mtg-marvel-darkhold-destiny-headliner-card-the-one-ring-replacement/",
-      "pubDate": "10.10.2026 um 14:21 Uhr",
-      "timestamp": 1791642098.0,
+      "title": "Russell Crowe’s New Crime Netflix Thriller Is Officially a Streaming Hit",
+      "link": "https://www.polygon.com/russell-crowe-unabomber-netflix-streaming-success-september-2026/",
+      "pubDate": "10.10.2026 um 18:48 Uhr",
+      "timestamp": 1791658093.0,
       "source": "Polygon.com",
-      "summary": "Magic: The Gathering’s Darkhold rivals The One Ring as a powerful draw engine — and its deadly combos can wipe out an entire Commander table."
+      "summary": "The new Netflix thriller Unabomber explores Ted Kaczynski’s radicalization and the FBI investigation into his bombing campaign."
     },
     {
-      "title": "Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much",
-      "link": "https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/",
-      "pubDate": "10.10.2026 um 14:07 Uhr",
-      "timestamp": 1791641223.0,
-      "source": "PCGamer latest",
-      "summary": "\"Oof, a mine!\""
+      "title": "Avatar: Seven Havens co-creator and EP explain the show's new animation style, say they wanted to make an “old school anime”",
+      "link": "https://www.gamesradar.com/entertainment/animation-shows/avatar-seven-havens-co-creator-and-ep-explain-the-shows-new-animation-style-say-they-wanted-to-make-an-old-school-anime/",
+      "pubDate": "10.10.2026 um 18:28 Uhr",
+      "timestamp": 1791656916.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The new chapter uses all the elements and '70s anime’ to tell its story"
     },
     {
-      "title": "The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever",
-      "link": "https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/",
-      "pubDate": "10.10.2026 um 14:00 Uhr",
-      "timestamp": 1791640800.0,
-      "source": "PCGamer latest",
-      "summary": "Revisiting the forgotten fourth state of PC gaming."
-    },
-    {
-      "title": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'",
-      "link": "https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/",
-      "pubDate": "10.10.2026 um 14:00 Uhr",
-      "timestamp": 1791640800.0,
-      "source": "PCGamer latest",
-      "summary": "It wouldn't be the first cozy game with horrific debts to pay, though."
-    },
-    {
-      "title": "Ray Gunn Review",
-      "link": "https://www.ign.com/articles/ray-gunn-review-brad-bird-netflix",
-      "pubDate": "10.10.2026 um 13:45 Uhr",
-      "timestamp": 1791639900.0,
+      "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
+      "link": "https://www.ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
+      "pubDate": "10.10.2026 um 18:27 Uhr",
+      "timestamp": 1791656868.0,
       "source": "IGN All",
-      "summary": "Director Brad Bird’s Ray Gunn is a love letter to film noir and old-school science fiction, beautifully bringing its retro-futuristic world to life wi..."
+      "summary": "We spoke to Crystal Lake showrunner Brad Caleb Kane, star Linda Cardellini, and other cast members about retelling the Friday the 13th story."
+    },
+    {
+      "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
+      "link": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
+      "pubDate": "10.10.2026 um 18:16 Uhr",
+      "timestamp": 1791656190.0,
+      "source": "IGN All",
+      "summary": "DC veteran Grant Morrison reviewed Lanterns, and they had more than a few criticisms of its \"morally and legally incoherent\" finale."
+    },
+    {
+      "title": "10 Essential GameCube Games Still Missing From Switch Online",
+      "link": "https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/",
+      "pubDate": "10.10.2026 um 18:00 Uhr",
+      "timestamp": 1791655217.0,
+      "source": "Polygon.com",
+      "summary": "The GameCube library on Switch Online is off to a fine start, but 10 additions would make it much better."
+    },
+    {
+      "title": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer",
+      "link": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
+      "pubDate": "10.10.2026 um 17:53 Uhr",
+      "timestamp": 1791654831.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Discourse notwithstanding, there is a time and a place for cosiness in games. It's nice to chill out sometimes! I can admit that. I also just prefer a..."
+    },
+    {
+      "title": "James Bond will return in comic book form written by Grant Morrison",
+      "link": "https://www.gamesradar.com/entertainment/james-bond-movies/james-bond-will-return-in-comic-book-form-written-by-grant-morrison/",
+      "pubDate": "10.10.2026 um 17:35 Uhr",
+      "timestamp": 1791653702.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "For your eyes only and IDW Publishing"
+    },
+    {
+      "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
+      "link": "https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/",
+      "pubDate": "10.10.2026 um 17:34 Uhr",
+      "timestamp": 1791653691.0,
+      "source": "Polygon.com",
+      "summary": "Disney hikes ticket prices at Disney World and Disneyland prices, but there are still ways for fans to find affordable prices."
+    },
+    {
+      "title": "MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie",
+      "link": "https://kotaku.com/matpat-and-blumhouse-productions-collaborating-on-amanda-the-adventurer-movie-2000743782",
+      "pubDate": "10.10.2026 um 17:22 Uhr",
+      "timestamp": 1791652964.0,
+      "source": "Kotaku",
+      "summary": "YouTube’s ‘Game Theorist’ and Hollywood’s horror house have signed a multi-project deal to turn more mascot menaces into big screen hits"
+    },
+    {
+      "title": "GTA 6 Leaker Threatens Rockstar With Doomsday Scenario If Meme Coin Hits $30 Million",
+      "link": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779",
+      "pubDate": "10.10.2026 um 17:12 Uhr",
+      "timestamp": 1791652373.0,
+      "source": "Kotaku",
+      "summary": "Cyberleeks is back and asking for more money"
+    },
+    {
+      "title": "Nicolas Cage Says He'll 'Probably Not Work With' Amazon Again After Declining Spider-Noir AI Waiver",
+      "link": "https://www.ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
+      "pubDate": "10.10.2026 um 17:06 Uhr",
+      "timestamp": 1791651993.0,
+      "source": "IGN All",
+      "summary": "Nicolas Cage said he'll \"probably not work with\" Amazon again after declining to sign a waiver to use AI on Spider-Noir."
     }
   ],
   "sim": [
+    {
+      "title": "Igor Fraga Scores First Super Formula Pole and Full-Race Win at Fuji",
+      "link": "https://www.gtplanet.net/igor-fraga-scores-first-super-formula-pole-and-full-race-win-at-fuji-20261010/",
+      "pubDate": "10.10.2026 um 18:03 Uhr",
+      "timestamp": 1791655403.0,
+      "source": "GTPlanet",
+      "summary": "Igor Fraga converted his first Super Formula pole position into his first full-length race win at Fuji Speedway, moving up to second in the 2026 champ..."
+    },
     {
       "title": "2026 IMSA Esports Global Championship | Sebring International Raceway | Race #2 Preview",
       "link": "https://www.iracing.com/2026-imsa-esports-global-championship-sebring-international-raceway-race-2-preview/",
@@ -411,14 +419,6 @@
       "timestamp": 1791031598.0,
       "source": "GTPlanet",
       "summary": "Polyphony Digital has revealed more about the upcoming &#8220;Part 1&#8221; of the split Gran Turismo 7 Spec IV update, including the date it will arr..."
-    },
-    {
-      "title": "Xiaomi Vision Gran Turismo: Confirmed for October 2026, More In-Game Footage",
-      "link": "https://www.gtplanet.net/xiaomi-vision-gran-turismo-confirmed-for-october-2026-more-in-game-footage-20261003/",
-      "pubDate": "03.10.2026 um 10:52 Uhr",
-      "timestamp": 1791024721.0,
-      "source": "GTPlanet",
-      "summary": "Polyphony Digital and Xiaomi, the first Chinese marque to have a vehicle appear in the Gran Turismo series, have revealed more footage of the upcoming..."
     }
   ]
 }
