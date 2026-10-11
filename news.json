@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "FF14-FF15-Event endet bald – 24 Stunden Wartung nimmt fast einen Tag",
+      "link": "https://www.playcentral.de/ff14-ff15-event-endet-bald-24-stunden-wartung-nimmt-fast-einen-tag/",
+      "pubDate": "11.10.2026 um 22:30 Uhr",
+      "timestamp": 1791757847.0,
+      "source": "PlayCentral",
+      "summary": "Fans von Final Fantasy 14 müssen sich beim aktuellen Crossover mit Final Fantasy 15 beeilen. Eine angekündigte 24-stündige Wartung nimmt ihnen ausgere..."
+    },
+    {
+      "title": "Apple HomeView: Smart-Home-Zentrale soll im November starten",
+      "link": "https://www.computerbase.de/news/smart-home/apple-homeview-smart-home-zentrale-soll-im-november-starten.99773/",
+      "pubDate": "11.10.2026 um 21:45 Uhr",
+      "timestamp": 1791747900.0,
+      "source": "ComputerBase",
+      "summary": "Apples bevorstehender Smart-Home-Hub mit Display, der am kommenden Dienstag zum „Welcome home“-Event vorgestellt werden soll, soll laut Bloomberg unte..."
+    },
+    {
       "title": "Good Heavens! startet im Oktober 2026 auf Steam – das steckt im Koop-Survival",
       "link": "https://www.playcentral.de/good-heavens-startet-im-oktober-2026-auf-steam-das-steckt-im-koop-survival/",
       "pubDate": "11.10.2026 um 18:30 Uhr",
@@ -127,25 +143,81 @@
       "timestamp": 1791724860.0,
       "source": "ComputerBase",
       "summary": "Blizzard „baut“ ein Gehäuse. Das Diablo IV Lilith Case ist genau das: Ein Midi-Tower im Design der Schurkin aus dem Action-Rollenspiel. Trotz eines no..."
-    },
-    {
-      "title": "Starfield: Neue Mod ermöglicht endlich nahtlose Landungen auf Planeten",
-      "link": "https://www.eurogamer.de/starfield-mod-nahtlose-planetenlandung",
-      "pubDate": "11.10.2026 um 13:06 Uhr",
-      "timestamp": 1791723960.0,
-      "source": "Eurogamer.de News",
-      "summary": "Einer der gr&ouml;&szlig;ten Kritikpunkte an Starfield seit dem Release ist die Tatsache, dass es keine nahtlosen Starts und Landungen auf Planeten gi..."
-    },
-    {
-      "title": "Leaker hat angeblich die ganze Story von GTA 6, will sie veröffentlichen, wenn er genug Kohle bekommt",
-      "link": "https://mein-mmo.de/gta-6-cyberleek-droht-mit-story-modus/",
-      "pubDate": "11.10.2026 um 12:56 Uhr",
-      "timestamp": 1791723409.0,
-      "source": "Mein-MMO",
-      "summary": "Cyberleek will den Story-Modus von GTA 6 veröffentlichen, wenn Take-Two keine Disc-Version des Spiels herausrückt. Der Beitrag Leaker hat angeblich di..."
     }
   ],
   "int": [
+    {
+      "title": "Yahtzee is still out there being mean about videogames, and good for him",
+      "link": "https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/",
+      "pubDate": "11.10.2026 um 22:32 Uhr",
+      "timestamp": 1791757957.0,
+      "source": "PCGamer latest",
+      "summary": "Zero Punctuation was an essential watch back in the day. Its successor Fully Ramblomatic still carries the torch."
+    },
+    {
+      "title": "10 Best Episodes of 'Buffy the Vampire Slayer' Of All Time, Ranked by Their IMDb Score",
+      "link": "https://www.polygon.com/the-10-best-episodes-of-buffy-the-vampire-slayer-ranked-by-their-imdb-score/",
+      "pubDate": "11.10.2026 um 22:00 Uhr",
+      "timestamp": 1791756015.0,
+      "source": "Polygon.com",
+      "summary": "The top Buffy episode is obvious, but there are some surprises along the way"
+    },
+    {
+      "title": "GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto",
+      "link": "https://kotaku.com/gta-6-leaker-posts-lucia-skydiving-naked-to-sell-crypto-2000744175",
+      "pubDate": "11.10.2026 um 21:30 Uhr",
+      "timestamp": 1791754259.0,
+      "source": "Kotaku",
+      "summary": "Cyberleek is more Lucia 'nudes' if $Cyberleek coin keeps going up"
+    },
+    {
+      "title": "3 Essential Remedy Games To Play After Control Resonant",
+      "link": "https://www.polygon.com/control-resonant-games-to-play/",
+      "pubDate": "11.10.2026 um 21:00 Uhr",
+      "timestamp": 1791752416.0,
+      "source": "Polygon.com",
+      "summary": "After playing Control Resonant, try these games from Remedy Entertainment that expand the lore even more."
+    },
+    {
+      "title": "EA Producer Announces Wing Commander 3 Remaster At Portland Retro Gaming Expo",
+      "link": "https://kotaku.com/ea-producer-announces-wing-commander-3-remaster-at-portland-retro-gaming-expo-2000744166",
+      "pubDate": "11.10.2026 um 20:52 Uhr",
+      "timestamp": 1791751977.0,
+      "source": "Kotaku",
+      "summary": "Using recently discovered master tapes of its live action sequences, one of the crown jewels of '90s PC gaming could make an unexpected comeback"
+    },
+    {
+      "title": "Arrow Co-Creator Gives Glimpse At The Lanterns That Could Have Been",
+      "link": "https://kotaku.com/arrow-co-creator-gives-glimpse-at-the-lanterns-that-could-have-been-2000744162",
+      "pubDate": "11.10.2026 um 20:00 Uhr",
+      "timestamp": 1791748823.0,
+      "source": "Kotaku",
+      "summary": "While HBO’s series ultimately charmed skeptics, Marc Guggenheim shared concept art of what could have been a more CW approach to Green Lantern"
+    },
+    {
+      "title": "Notorious Hacker Steals 250,000 User Discord Server For Infamous Terraria Mod Calamity, Immediately Uses It To Pump And Dump A Crypto Coin",
+      "link": "https://kotaku.com/notorious-hacker-steals-250000-user-discord-server-for-infamous-terraria-mod-calamity-immediately-uses-it-to-pump-and-dump-a-crypto-coin-2000744152",
+      "pubDate": "11.10.2026 um 19:14 Uhr",
+      "timestamp": 1791746094.0,
+      "source": "Kotaku",
+      "summary": "The former Calamity mod team put out an 'Emergency PSA' post warning users not to fall for crypto scam and to promptly leave the server"
+    },
+    {
+      "title": "Robert De Niro's 123-Minute Gothic Thriller Is Officially Streaming on Netflix",
+      "link": "https://www.polygon.com/robert-de-niro-gothic-horror-streaming-netflix/",
+      "pubDate": "11.10.2026 um 19:00 Uhr",
+      "timestamp": 1791745216.0,
+      "source": "Polygon.com",
+      "summary": "A classic horror tale is told through a heightened, emotional lens."
+    },
+    {
+      "title": "Disney Officially Confirms New 'Die Hard with Fairies' TV Series Adaptation",
+      "link": "https://www.polygon.com/artemis-fowl-tv-series-announced-disney-plus/",
+      "pubDate": "11.10.2026 um 18:45 Uhr",
+      "timestamp": 1791744316.0,
+      "source": "Polygon.com",
+      "summary": "Artemis Fowl is returning to Disney Plus with a new animated series led by creator Eoin Colfer, Disney announced at New York Comic Con."
+    },
     {
       "title": "EU Taking Action Against Activision, Riot, Ubisoft On Gaming’s Oldest Monetization Scheme",
       "link": "https://kotaku.com/eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-monetization-scheme-2000744153",
@@ -217,78 +289,6 @@
       "timestamp": 1791734585.0,
       "source": "IGN All",
       "summary": "Bandai Namco has revealed a first look at Tekken 8 DLC character Yujiro Hanma, and the Baki rep is looking just as uncanny as fans expected."
-    },
-    {
-      "title": "To Reinvent a Stephen King Classic, Mike Flanagan Needed \"One of the Best Actors I’ve Ever Met\"",
-      "link": "https://www.polygon.com/carrie-interview-mike-flanagan-samantha-sloyan/",
-      "pubDate": "11.10.2026 um 16:00 Uhr",
-      "timestamp": 1791734416.0,
-      "source": "Polygon.com",
-      "summary": "Prime Video’s Carrie reboot hinges on one major change that only Samantha Sloyan could pull off"
-    },
-    {
-      "title": "RPGs are simply better when you're an idiot",
-      "link": "https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/",
-      "pubDate": "11.10.2026 um 16:00 Uhr",
-      "timestamp": 1791734400.0,
-      "source": "PCGamer latest",
-      "summary": "I just can't relate to these capable heroes."
-    },
-    {
-      "title": "Godzilla Minus Zero's Latest Trailer Continues Teasing A New Monstrous Threat",
-      "link": "https://www.polygon.com/godzilla-minus-zero-second-trailer/",
-      "pubDate": "11.10.2026 um 15:15 Uhr",
-      "timestamp": 1791731725.0,
-      "source": "Polygon.com",
-      "summary": "A new threat emerges in the latest trailer for Godzilla Minus Zero, suggesting that Gidorah will show up in the highly-anticipated sequel"
-    },
-    {
-      "title": "Halo Already Delivered the Perfect Master Chief Origin Story, 25 Years Ago",
-      "link": "https://www.polygon.com/halo-activision-master-chief-origin-story-fall-of-reach/",
-      "pubDate": "11.10.2026 um 15:00 Uhr",
-      "timestamp": 1791730817.0,
-      "source": "Polygon.com",
-      "summary": "Halo: The Fall of Reach gave Master Chief a definitive origin story 25 years ago — and any new prequel should follow its example."
-    },
-    {
-      "title": "Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form",
-      "link": "https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/",
-      "pubDate": "11.10.2026 um 15:00 Uhr",
-      "timestamp": 1791730800.0,
-      "source": "PCGamer latest",
-      "summary": "My back hurts from carrying so hard."
-    },
-    {
-      "title": "Early reactions for Wildwood draws Lord of the Rings comparisons as Laika's best film yet",
-      "link": "https://www.gamesradar.com/entertainment/fantasy-movies/wildwood-draws-lord-of-the-rings-comparisons-as-laikas-best-film-yet/",
-      "pubDate": "11.10.2026 um 14:52 Uhr",
-      "timestamp": 1791730338.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Laika's 'crowning achievement' isn't far away"
-    },
-    {
-      "title": "Rockstar has a whole team of GTA 6 writers for to pedestrian dialogue: \"There are no shortcuts\"",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-has-a-whole-team-of-gta-6-writers-dedicated-to-pedestrian-dialogue-there-are-no-shortcuts-when-it-comes-to-building-a-world-like-this/",
-      "pubDate": "11.10.2026 um 14:36 Uhr",
-      "timestamp": 1791729387.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"No one you meet is an extra\""
-    },
-    {
-      "title": "Marvel Tokon: Fighting Souls Officially Adding Thor, Venom, and Jubilee Next Year",
-      "link": "https://www.polygon.com/marvel-tokon-fighting-souls-year-1-dlc-characters/",
-      "pubDate": "11.10.2026 um 14:36 Uhr",
-      "timestamp": 1791729360.0,
-      "source": "Polygon.com",
-      "summary": "Arc System Works revealed three more DLC fighters coming to the game in 2027: Jane Foster's Thor, Venom, and Jubilee"
-    },
-    {
-      "title": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
-      "link": "https://www.ign.com/articles/im-shocked-that-people-are-still-playing-how-gta-5-took-over-the-world",
-      "pubDate": "11.10.2026 um 14:30 Uhr",
-      "timestamp": 1791729000.0,
-      "source": "IGN All",
-      "summary": "Could GTA 6 be as big as its predecessor? We take a look at how GTA 5 became one of the biggest games in history, selling over 230m copies and being p..."
     }
   ],
   "sim": [
