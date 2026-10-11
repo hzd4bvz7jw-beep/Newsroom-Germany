@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Hello Kitty Island Adventure als Switch Online Game Trial bis 15. Oktober 2026",
+      "link": "https://www.playcentral.de/hello-kitty-island-adventure-als-switch-online-game-trial-bis-15-oktober-2026/",
+      "pubDate": "10.10.2026 um 22:31 Uhr",
+      "timestamp": 1791671501.0,
+      "source": "PlayCentral",
+      "summary": "Nintendo erweitert sein Game Trials Programm um einen weiteren gemütlichen Titel. Mitglieder von Nintendo Switch Online können Hello Kitty Island Adve..."
+    },
+    {
+      "title": "Dementium II kommt im Oktober 2026 auf Steam – das bietet die DS-Neuauflage",
+      "link": "https://www.playcentral.de/dementium-ii-kommt-im-oktober-2026-auf-steam-das-bietet-die-ds-neuauflage/",
+      "pubDate": "10.10.2026 um 22:30 Uhr",
+      "timestamp": 1791671448.0,
+      "source": "PlayCentral",
+      "summary": "Ein ungewöhnliches Kapitel der Nintendo-DS-Geschichte kehrt nach 16 Jahren zurück. Atooi bringt den Survival-Horror-Titel Dementium II im Oktober 2026..."
+    },
+    {
       "title": "5 schlechte Filmtode, bei denen gute Schauspieler völlig versagt haben",
       "link": "https://mein-mmo.de/5-schlechte-filmtode/",
       "pubDate": "10.10.2026 um 20:21 Uhr",
@@ -73,28 +89,12 @@
       "summary": "Warner Bros. hat die Entwicklung von Hogwarts Legacy 2 noch einmal offiziell bestätigt. In einem Schreiben an die Anteilseigner nennt der Konzern ausd..."
     },
     {
-      "title": "Metroid Ravenous für Switch 2 terminiert – Release am 28. Januar 2027",
-      "link": "https://www.playcentral.de/metroid-ravenous-fuer-switch-2-terminiert-release-am-28-januar-2027/",
-      "pubDate": "10.10.2026 um 16:31 Uhr",
-      "timestamp": 1791649864.0,
-      "source": "PlayCentral",
-      "summary": "Nintendo hat den nächsten großen Exklusivtitel für die Switch 2 offiziell terminiert. Nach dem Remake von The Legend of Zelda: Ocarina of Time übernim..."
-    },
-    {
       "title": "Xbox-PC-App: Microsoft macht Schluss mit der trägen Oberfläche",
       "link": "https://www.computerbase.de/news/apps/xbox-pc-app-microsoft-macht-schluss-mit-der-traegen-oberflaeche.99759/",
       "pubDate": "10.10.2026 um 17:40 Uhr",
       "timestamp": 1791646800.0,
       "source": "ComputerBase",
       "summary": "Die Xbox-App für Windows bekommt eine neue Benutzeroberfläche. Unter dem Codenamen „Garrison“ arbeitet Microsoft vor allem an kürzeren Ladezeiten und ..."
-    },
-    {
-      "title": "Battlefield 6 Season 5 Roadmap – Server-Browser und Platoons ab Dezember",
-      "link": "https://www.playcentral.de/battlefield-6-season-5-roadmap-server-browser-und-platoons-ab-dezember/",
-      "pubDate": "10.10.2026 um 14:31 Uhr",
-      "timestamp": 1791642686.0,
-      "source": "PlayCentral",
-      "summary": "EA und Battlefield Studios haben die vollständige Roadmap für Season 5 von Battlefield 6 vorgestellt. Die bislang größte Season des Shooters startet a..."
     },
     {
       "title": "“Einer der interessantesten Fernseher auf dem Markt”: Brillanter OLED-TV mit Ambilight jetzt 50 Prozent reduziert",
@@ -147,12 +147,132 @@
   ],
   "int": [
     {
+      "title": "Blade Runner 2099's New York Comic Con Trailer Teases A New Replicant Conspiracy",
+      "link": "https://www.polygon.com/blade-runner-2099-new-york-comic-con/",
+      "pubDate": "10.10.2026 um 23:45 Uhr",
+      "timestamp": 1791675916.0,
+      "source": "Polygon.com",
+      "summary": "Blade Runner 2099 debuted a new trailer featuring Hunter Schafer and Michelle Yeoh at a New York Comic Con panel"
+    },
+    {
+      "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+      "pubDate": "10.10.2026 um 23:32 Uhr",
+      "timestamp": 1791675149.0,
+      "source": "PCGamer latest",
+      "summary": "\"Take-Two gets one way out: physical disks and a public apology.\""
+    },
+    {
+      "title": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
+      "link": "https://www.polygon.com/in-a-violent-nature-2-horror-movie-release-date-shudder/",
+      "pubDate": "10.10.2026 um 23:30 Uhr",
+      "timestamp": 1791675016.0,
+      "source": "Polygon.com",
+      "summary": "In A Violent Nature 2 was confirmed for a February 2027 theatrical release date by Shudder and IFC at New York Comic Con on Oct. 10."
+    },
+    {
+      "title": "Forget John Wick, the Ultimate Action Thriller of the Century Is Officially Streaming on Netflix",
+      "link": "https://www.polygon.com/the-equalizer-is-streaming-on-netflix/",
+      "pubDate": "10.10.2026 um 23:00 Uhr",
+      "timestamp": 1791673216.0,
+      "source": "Polygon.com",
+      "summary": "Denzel Washington is at his most terrifying in this brutally satisfying action thriller."
+    },
+    {
+      "title": "Naruto To Get New Manga, Crossover Anime, And More Before The End Of The Decade",
+      "link": "https://www.polygon.com/naruto-roadmap-project-rasengan/",
+      "pubDate": "10.10.2026 um 22:47 Uhr",
+      "timestamp": 1791672427.0,
+      "source": "Polygon.com",
+      "summary": "At New York Comic Con, several new Naruto projects were announced as part of the Project Rasengan roadmap"
+    },
+    {
+      "title": "Squadron 42 has a Steam page",
+      "link": "https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/",
+      "pubDate": "10.10.2026 um 22:25 Uhr",
+      "timestamp": 1791671154.0,
+      "source": "PCGamer latest",
+      "summary": "Star Citizen's singleplayer mode gets a new trailer and more signs of life."
+    },
+    {
+      "title": "Warner Bros. 41-Year-Old Fantasy Classic Reboot is Officially Happening",
+      "link": "https://www.polygon.com/thundercats-movie-update/",
+      "pubDate": "10.10.2026 um 22:12 Uhr",
+      "timestamp": 1791670338.0,
+      "source": "Polygon.com",
+      "summary": "The live-action reboot of Thundercats is still happening, according to director Adam Wingard (Godzilla vs. Kong, Onslaught) in a new update."
+    },
+    {
+      "title": "Lego is combining Star Wars with Marvel for an all-new set, and you get to design it",
+      "link": "https://www.gamesradar.com/toys-collectibles/lego-is-combining-star-wars-with-marvel-for-an-all-new-set-and-you-get-to-design-it/",
+      "pubDate": "10.10.2026 um 22:00 Uhr",
+      "timestamp": 1791669600.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Lego has revealed a first-of-its-kind Ideas Challenge that mashes up Star Wars with Marvel"
+    },
+    {
+      "title": "Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial",
+      "link": "https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial",
+      "pubDate": "10.10.2026 um 21:55 Uhr",
+      "timestamp": 1791669300.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Excitedly, I boot up the new demo for Militsioner, a game I've had a watchful eye on since its announcement. A phone rings, it's my lawyer. I don't kn..."
+    },
+    {
+      "title": "New Deadlock Hero’s Reload Animations Based On Famous Chess Matches",
+      "link": "https://kotaku.com/new-deadlock-heros-reload-animations-based-on-famous-chess-matches-2000743806",
+      "pubDate": "10.10.2026 um 21:30 Uhr",
+      "timestamp": 1791667815.0,
+      "source": "Kotaku",
+      "summary": "From within a closed beta, the board-wielding Solomon already has fans eager to crown him royalty"
+    },
+    {
+      "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
+      "link": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
+      "pubDate": "10.10.2026 um 21:07 Uhr",
+      "timestamp": 1791666474.0,
+      "source": "IGN All",
+      "summary": "The new Arc Raiders 2.0 update has triggered a seven-month high for its concurrent player count on Steam as fans show up for its \"Spider-Man\" grapplin..."
+    },
+    {
+      "title": "Henry Cavill's New Sci-fi Streaming Series Sets Carrie Reboot Creator to Direct",
+      "link": "https://www.polygon.com/warhammer-40k-tv-series-henry-cavill-mike-flanagan/",
+      "pubDate": "10.10.2026 um 21:06 Uhr",
+      "timestamp": 1791666407.0,
+      "source": "Polygon.com",
+      "summary": "Prime Video's Warhammer 40K TV series led by Henry Cavill has Carrie reboot creator and veteran horror director Mike Flanagan on board to adapt."
+    },
+    {
+      "title": "Star Trek: Starfleet Academy Returns For Its Final Season Early Next Year",
+      "link": "https://www.polygon.com/star-trek-starfleet-academy-season-2-release-window/",
+      "pubDate": "10.10.2026 um 20:42 Uhr",
+      "timestamp": 1791664947.0,
+      "source": "Polygon.com",
+      "summary": "We got a release window for the second (and final) season of Star Trek: Starfleet Academy at New York Comic Con"
+    },
+    {
+      "title": "Ben Affleck’s ‘Ethical AI’ Vehicle Failing To Impress Human Viewers",
+      "link": "https://kotaku.com/ben-afflecks-ethical-ai-vehicle-failing-to-impress-human-viewers-2000743803",
+      "pubDate": "10.10.2026 um 20:30 Uhr",
+      "timestamp": 1791664239.0,
+      "source": "Kotaku",
+      "summary": "As Affleck seeks to establish a seat for movie stars at AI's table, his use-case political thriller Animals isn't exactly persuasive"
+    },
+    {
       "title": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
       "link": "https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game",
       "pubDate": "10.10.2026 um 20:24 Uhr",
       "timestamp": 1791663875.0,
       "source": "Rock Paper Shotgun News",
       "summary": "You can wait another month and some change to play GTA 6, right? I mean, everyone reading this who has a console, anyway, still no bloomin' sight of a..."
+    },
+    {
+      "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
+      "link": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
+      "pubDate": "10.10.2026 um 20:15 Uhr",
+      "timestamp": 1791663300.0,
+      "source": "IGN All",
+      "summary": "In one of the coolest announcements to come out of NYCC, IGN can exclusively reveal that Paper Girls creators Brian K. Vaughan and Cliff Chiang are re..."
     },
     {
       "title": "Josh Brolin talks Sicario 3 without Taylor Sheridan",
@@ -169,126 +289,6 @@
       "timestamp": 1791661868.0,
       "source": "Kotaku",
       "summary": "Support for PlayStation 3 discs appears to be on the way too"
-    },
-    {
-      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-      "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-      "pubDate": "10.10.2026 um 19:42 Uhr",
-      "timestamp": 1791661341.0,
-      "source": "Eurogamer.net News",
-      "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more"
-    },
-    {
-      "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
-      "link": "https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791",
-      "pubDate": "10.10.2026 um 19:18 Uhr",
-      "timestamp": 1791659915.0,
-      "source": "Kotaku",
-      "summary": "Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use"
-    },
-    {
-      "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
-      "link": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
-      "pubDate": "10.10.2026 um 19:09 Uhr",
-      "timestamp": 1791659359.0,
-      "source": "Eurogamer.net News",
-      "summary": "Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power p..."
-    },
-    {
-      "title": "10 Stephen King Movie Adaptations That Are Better Than The Books",
-      "link": "https://www.polygon.com/stephen-king-books-better-adaptations/",
-      "pubDate": "10.10.2026 um 19:00 Uhr",
-      "timestamp": 1791658816.0,
-      "source": "Polygon.com",
-      "summary": "Adaptations that take advantage of the medium to improve upon an already brilliant story."
-    },
-    {
-      "title": "Russell Crowe’s New Crime Netflix Thriller Is Officially a Streaming Hit",
-      "link": "https://www.polygon.com/russell-crowe-unabomber-netflix-streaming-success-september-2026/",
-      "pubDate": "10.10.2026 um 18:48 Uhr",
-      "timestamp": 1791658093.0,
-      "source": "Polygon.com",
-      "summary": "The new Netflix thriller Unabomber explores Ted Kaczynski’s radicalization and the FBI investigation into his bombing campaign."
-    },
-    {
-      "title": "Avatar: Seven Havens co-creator and EP explain the show's new animation style, say they wanted to make an “old school anime”",
-      "link": "https://www.gamesradar.com/entertainment/animation-shows/avatar-seven-havens-co-creator-and-ep-explain-the-shows-new-animation-style-say-they-wanted-to-make-an-old-school-anime/",
-      "pubDate": "10.10.2026 um 18:28 Uhr",
-      "timestamp": 1791656916.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The new chapter uses all the elements and '70s anime’ to tell its story"
-    },
-    {
-      "title": "Crystal Lake Showrunner on Retelling the Friday the 13th Story: ‘It's Always Ripe for Reinterpretation’",
-      "link": "https://www.ign.com/articles/crystal-lake-showrunner-on-retelling-the-friday-the-13th-story-its-always-ripe-for-reinterpretation",
-      "pubDate": "10.10.2026 um 18:27 Uhr",
-      "timestamp": 1791656868.0,
-      "source": "IGN All",
-      "summary": "We spoke to Crystal Lake showrunner Brad Caleb Kane, star Linda Cardellini, and other cast members about retelling the Friday the 13th story."
-    },
-    {
-      "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
-      "link": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
-      "pubDate": "10.10.2026 um 18:16 Uhr",
-      "timestamp": 1791656190.0,
-      "source": "IGN All",
-      "summary": "DC veteran Grant Morrison reviewed Lanterns, and they had more than a few criticisms of its \"morally and legally incoherent\" finale."
-    },
-    {
-      "title": "10 Essential GameCube Games Still Missing From Switch Online",
-      "link": "https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/",
-      "pubDate": "10.10.2026 um 18:00 Uhr",
-      "timestamp": 1791655217.0,
-      "source": "Polygon.com",
-      "summary": "The GameCube library on Switch Online is off to a fine start, but 10 additions would make it much better."
-    },
-    {
-      "title": "Nivalis Nights might not have any combat, \"but that doesn't mean it's a cosy game,\" so says its lead writer",
-      "link": "https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer",
-      "pubDate": "10.10.2026 um 17:53 Uhr",
-      "timestamp": 1791654831.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Discourse notwithstanding, there is a time and a place for cosiness in games. It's nice to chill out sometimes! I can admit that. I also just prefer a..."
-    },
-    {
-      "title": "James Bond will return in comic book form written by Grant Morrison",
-      "link": "https://www.gamesradar.com/entertainment/james-bond-movies/james-bond-will-return-in-comic-book-form-written-by-grant-morrison/",
-      "pubDate": "10.10.2026 um 17:35 Uhr",
-      "timestamp": 1791653702.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "For your eyes only and IDW Publishing"
-    },
-    {
-      "title": "Disney World and Disneyland Official Price Surge Concerns Attendees",
-      "link": "https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/",
-      "pubDate": "10.10.2026 um 17:34 Uhr",
-      "timestamp": 1791653691.0,
-      "source": "Polygon.com",
-      "summary": "Disney hikes ticket prices at Disney World and Disneyland prices, but there are still ways for fans to find affordable prices."
-    },
-    {
-      "title": "MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie",
-      "link": "https://kotaku.com/matpat-and-blumhouse-productions-collaborating-on-amanda-the-adventurer-movie-2000743782",
-      "pubDate": "10.10.2026 um 17:22 Uhr",
-      "timestamp": 1791652964.0,
-      "source": "Kotaku",
-      "summary": "YouTube’s ‘Game Theorist’ and Hollywood’s horror house have signed a multi-project deal to turn more mascot menaces into big screen hits"
-    },
-    {
-      "title": "GTA 6 Leaker Threatens Rockstar With Doomsday Scenario If Meme Coin Hits $30 Million",
-      "link": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779",
-      "pubDate": "10.10.2026 um 17:12 Uhr",
-      "timestamp": 1791652373.0,
-      "source": "Kotaku",
-      "summary": "Cyberleeks is back and asking for more money"
-    },
-    {
-      "title": "Nicolas Cage Says He'll 'Probably Not Work With' Amazon Again After Declining Spider-Noir AI Waiver",
-      "link": "https://www.ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
-      "pubDate": "10.10.2026 um 17:06 Uhr",
-      "timestamp": 1791651993.0,
-      "source": "IGN All",
-      "summary": "Nicolas Cage said he'll \"probably not work with\" Amazon again after declining to sign a waiver to use AI on Spider-Noir."
     }
   ],
   "sim": [
