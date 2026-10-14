@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "Cyberangriff: Notebooksbilliger warnt vor möglichem Datenleck",
+      "link": "https://www.computerbase.de/news/wirtschaft/cyberangriff-notebooksbilliger-warnt-vor-moeglichem-datenleck.99833/",
+      "pubDate": "15.10.2026 um 00:03 Uhr",
+      "timestamp": 1792015380.0,
+      "source": "ComputerBase",
+      "summary": "Der Internetversandhändler notebooksbilliger.de ist nach eigenen Aussagen Ziel eines Hackerangriffs geworden. In einer am Mittwochabend verschickten K..."
+    },
+    {
+      "title": "Spellogger auf Steam – Cozy Fantasy-RPG mit magischer Holzfällerarbeit",
+      "link": "https://www.playcentral.de/spellogger-auf-steam-cozy-fantasy-rpg-mit-magischer-holzfaellerarbeit/",
+      "pubDate": "14.10.2026 um 21:31 Uhr",
+      "timestamp": 1792013476.0,
+      "source": "PlayCentral",
+      "summary": "Wer sich schon immer gefragt hat, wie eine Mischung aus Stardew Valley und The Elder Scrolls 5: Skyrim aussehen könnte, bekommt mit Spellogger eine üb..."
+    },
+    {
+      "title": "Titanium Court kommt auf PS5, Switch, Switch 2 und Mobile – Termin steht",
+      "link": "https://www.playcentral.de/titanium-court-kommt-auf-ps5-switch-switch-2-und-mobile-termin-steht/",
+      "pubDate": "14.10.2026 um 20:31 Uhr",
+      "timestamp": 1792009888.0,
+      "source": "PlayCentral",
+      "summary": "Mit Titanium Court schafft eines der ungewöhnlichsten und bestbewerteten Indie-Spiele des Jahres 2026 den Sprung von Steam auf weitere Plattformen. En..."
+    },
+    {
+      "title": "Epic Games: Fortnite kommt für Linux, Easy Anti-Cheat wird überarbeitet",
+      "link": "https://www.computerbase.de/news/betriebssysteme/epic-games-fortnite-kommt-fuer-linux-easy-anti-cheat-wird-ueberarbeitet.99829/",
+      "pubDate": "14.10.2026 um 20:52 Uhr",
+      "timestamp": 1792003920.0,
+      "source": "ComputerBase",
+      "summary": "Lange Zeit hatte sich Epic Games Linux verwehrt. Der eigene Spiele-Client war auf Windows beschränkt, der hauseigene Goldesel in Form von Fortnite ver..."
+    },
+    {
+      "title": "Telekom erhöht Preise: DSL, Glasfaser und MagentaTV kosten bis zu 5 Euro mehr",
+      "link": "https://www.computerbase.de/news/internet/telekom-erhoeht-preise-dsl-glasfaser-und-magentatv-kosten-bis-zu-5-euro-mehr.99824/",
+      "pubDate": "14.10.2026 um 20:00 Uhr",
+      "timestamp": 1792000800.0,
+      "source": "ComputerBase",
+      "summary": "Zum Stichtag 1. Oktober hat die Telekom die Preise mehrerer Internet- und TV-Tarife erhöht. MagentaTV SmartStream verteuert sich um 3 Euro pro Monat, ..."
+    },
+    {
       "title": "Craft Attack 14 ist voll mit KI, ein Twitch-Streamer baut aus Protest ein Datenzentrum mitten in die schöne Natur",
       "link": "https://mein-mmo.de/craft-attack-veni-datenzentrum/",
       "pubDate": "14.10.2026 um 18:00 Uhr",
@@ -103,195 +143,163 @@
       "timestamp": 1791993379.0,
       "source": "Eurogamer.de News",
       "summary": "Bei Summer Eternal wollen ehemalige Entwickler von Disco Elysium nicht nur Spiele anders machen. Auch das Studio selbst soll anders funktionieren. F&u..."
-    },
-    {
-      "title": "STARDUST Wish of Witch kommt 2027 für PS5 und Nintendo Switch 2",
-      "link": "https://www.playcentral.de/stardust-wish-of-witch-kommt-2027-fuer-ps5-und-nintendo-switch-2/",
-      "pubDate": "14.10.2026 um 15:31 Uhr",
-      "timestamp": 1791991888.0,
-      "source": "PlayCentral",
-      "summary": "Das rundenbasierte Strategie-JRPG STARDUST: Wish of Witch wagt den Sprung vom PC auf die Konsolen. Entwickler Kniv Studio und Publisher Silver Lining ..."
-    },
-    {
-      "title": "Deutsches Survival-Spiel verlässt nach 2 Jahren den Early Access auf Steam, schürt vor dem Release nochmal kräftig Hype",
-      "link": "https://mein-mmo.de/enshrouded-vollstaendiger-release-1-0-hype-trailer/",
-      "pubDate": "14.10.2026 um 15:31 Uhr",
-      "timestamp": 1791991864.0,
-      "source": "Mein-MMO",
-      "summary": "Das deutsche Survival-Spiel Enshrouded startet in den vollständigen Release. Passend dazu feuert ein neuer Launch-Trailer die Vorfreude der Community ..."
-    },
-    {
-      "title": "Battlefield 6: Fünf Pistolen und „Secuty“ – Fans vermuten KI hinter neuen Skins",
-      "link": "https://www.eurogamer.de/battlefield-6-neue-skins-ki-vorwuerfe-fuenf-pistolen-secuty",
-      "pubDate": "14.10.2026 um 15:25 Uhr",
-      "timestamp": 1791991517.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wie viele Pistolen braucht ein Soldat? Wer sich den neuen Battle Pass von Battlefield 6 anschaut, k&ouml;nnte zu dem Schluss kommen: mindestens f&uuml..."
-    },
-    {
-      "title": "Epic baut seinen Launcher komplett neu – die Bibliothek lädt bis zu 30-mal schneller",
-      "link": "https://www.eurogamer.de/epic-games-launcher-komplett-neu-bibliothek-30-mal-schneller",
-      "pubDate": "14.10.2026 um 15:16 Uhr",
-      "timestamp": 1791991015.0,
-      "source": "Eurogamer.de News",
-      "summary": "Der Epic Games Launcher war bislang nicht unbedingt daf&uuml;r bekannt, besonders flott zu reagieren. Genau das soll sich nun &auml;ndern. Epic hat se..."
-    },
-    {
-      "title": "Zwei Halbleiter-Fabs: Globalfoundries nutzt japanisches Geld für große Erweiterung",
-      "link": "https://www.computerbase.de/news/wirtschaft/zwei-halbleiter-fabs-globalfoundries-nutzt-japanisches-geld-fuer-grosse-erweiterung.99826/",
-      "pubDate": "14.10.2026 um 17:02 Uhr",
-      "timestamp": 1791990120.0,
-      "source": "ComputerBase",
-      "summary": "Globalfoundries (GF) wird am Standort Malta im Bundesstaat New York zwei neue Fabriken bauen. Grundlage dafür ist eine „U.S.-Japan initiative“, was be..."
     }
   ],
   "int": [
     {
-      "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
-      "link": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
-      "pubDate": "14.10.2026 um 18:17 Uhr",
-      "timestamp": 1792001823.0,
-      "source": "Eurogamer.net News",
-      "summary": "Epic Games isn't lifting its foot off the gen-AI pedal. The company behind Fortnite and Unreal Engine has now vibe-coded a new Epic Games Launcher in ..."
-    },
-    {
-      "title": "Xbox Officially Announces New Nano Controller",
-      "link": "https://www.polygon.com/xbox-nano-controller-portable-price-reveal/",
-      "pubDate": "14.10.2026 um 18:14 Uhr",
-      "timestamp": 1792001643.0,
-      "source": "Polygon.com",
-      "summary": "The Xbox Nano Controller is light, practical, and portable, allowing players to take their gaming just about anywhere."
-    },
-    {
-      "title": "Nintendo Breathes Quality Of Life Into The Ocarina Of Time Remake",
-      "link": "https://kotaku.com/nintendo-breathes-quality-of-life-into-the-ocarina-of-time-remake-2000745964",
-      "pubDate": "14.10.2026 um 18:00 Uhr",
-      "timestamp": 1792000821.0,
-      "source": "Kotaku",
-      "summary": "Hands-on previews praise Nintendo for adding modern conventions"
-    },
-    {
-      "title": "Soulslikes Don't Work in First-Person — Yet",
-      "link": "https://www.polygon.com/valor-mortis-soulslike-first-person-pov/",
-      "pubDate": "14.10.2026 um 18:00 Uhr",
-      "timestamp": 1792000816.0,
-      "source": "Polygon.com",
-      "summary": "Valor Mortis is a Soulslike from the studio behind Ghostrunner. It has grand ideas, but struggles to replicate Soulslike combat in first-person POV."
-    },
-    {
-      "title": "Paul Bettany says it was \"really fun\" to tap into a more ruthless version of Vision in VisionQuest",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/paul-bettany-says-it-was-really-fun-to-tap-into-a-more-ruthless-version-of-vision-in-visionquest/",
-      "pubDate": "14.10.2026 um 18:00 Uhr",
-      "timestamp": 1792000800.0,
+      "title": "Wardogs is getting loadouts, CEO confirms, but the devs want you to \"keep trying\" new builds",
+      "link": "https://www.gamesradar.com/games/fps/wardogs-is-getting-loadouts-ceo-confirms-but-the-devs-want-you-to-keep-trying-different-weapons-rather-than-settling-on-one-setup/",
+      "pubDate": "14.10.2026 um 21:54 Uhr",
+      "timestamp": 1792014891.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Exclusive: VisionQuest showrunner and Paul Bettany break down Vision's \"ruthless\" personality switch in episode 2"
+      "summary": "\"Quality of life features are useful, but they can get in the way of vital learning\""
     },
     {
-      "title": "Remember When The MCU Was Good? VisionQuest Sure Does",
-      "link": "https://kotaku.com/remember-when-the-mcu-was-good-visionquest-sure-does-2000745995",
-      "pubDate": "14.10.2026 um 17:45 Uhr",
-      "timestamp": 1791999949.0,
-      "source": "Kotaku",
-      "summary": "After years of messy TV mishaps, the third show in the WandaVision trilogy knows what once made Marvel’s movies compelling"
-    },
-    {
-      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
-      "pubDate": "14.10.2026 um 17:30 Uhr",
-      "timestamp": 1791999045.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Sweat it out"
-    },
-    {
-      "title": "There’s A New Xbox Controller That’s Cheaper, Smaller, And Doesn’t Use AA Batteries",
-      "link": "https://kotaku.com/theres-a-new-xbox-controller-thats-cheaper-smaller-and-doesnt-use-aa-batteries-2000745986",
-      "pubDate": "14.10.2026 um 17:30 Uhr",
-      "timestamp": 1791999027.0,
-      "source": "Kotaku",
-      "summary": "Microsoft says it's for gaming on the go"
-    },
-    {
-      "title": "‘Obsession’ Could Get a Sequel, and Its Breakout Star Is All In",
-      "link": "https://www.polygon.com/obsession-2-sequel-inde-navarrette-comments/",
-      "pubDate": "14.10.2026 um 17:27 Uhr",
-      "timestamp": 1791998829.0,
-      "source": "Polygon.com",
-      "summary": "Could Obsession 2 happen? Inde Navarrette is ready to return as Nikki after the hit horror movie’s disturbing ending."
-    },
-    {
-      "title": "Zero Escape And Hundred Line Director’s New Game Canceled Before He Could Announce New Studio",
-      "link": "https://kotaku.com/kotaro-uchikoshi-hundred-line-zero-escape-crash-keys-2000745989",
-      "pubDate": "14.10.2026 um 17:10 Uhr",
-      "timestamp": 1791997834.0,
-      "source": "Kotaku",
-      "summary": "Kotaro Uchikoshi planned to announce new studio Crash Keys alongside its first game"
-    },
-    {
-      "title": "GTA 6 Lead Reacts To The Infamous 2022 Leak: ‘Like Somebody’s Wading Through Your Dirty Washing’",
-      "link": "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968",
-      "pubDate": "14.10.2026 um 17:00 Uhr",
-      "timestamp": 1791997252.0,
-      "source": "Kotaku",
-      "summary": "Rockstar also said it likely won't return to a work-from-home model as too many people want to 'steal' its games"
-    },
-    {
-      "title": "Magic: The Gathering Is Officially Reprinting a Powerful $18 Card for the First Time in 20 Years",
-      "link": "https://www.polygon.com/magic-the-gathering-soul-spike-secret-lair-reprint-reality-fracture/",
-      "pubDate": "14.10.2026 um 17:00 Uhr",
-      "timestamp": 1791997215.0,
-      "source": "Polygon.com",
-      "summary": "Two decades later, a scarce drain spell returns."
-    },
-    {
-      "title": "Living world, god-mind or \"something far more terrifying\": Etre is an eye-melting, Control-inspired action game about reshaping a cosmic brain",
-      "link": "https://www.rockpapershotgun.com/living-world-god-mind-or-something-far-more-terrifying-etre-is-an-eye-melting-control-inspired-action-game-about-reshaping-a-cosmic-brain",
-      "pubDate": "14.10.2026 um 17:00 Uhr",
-      "timestamp": 1791997200.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "If I ever go looking for my significant other and find myself inside a planet-sized megamind that's on the verge of gaining consciousness, I will not ..."
-    },
-    {
-      "title": "The assassination of Bruce Wayne, Absolute Justice, and more reveals from DC's NYCC panels",
-      "link": "https://www.gamesradar.com/comics/dc-comics/the-assassination-of-bruce-wayne-absolute-justice-and-more-reveals-from-dcs-nycc-panels/",
-      "pubDate": "14.10.2026 um 17:00 Uhr",
-      "timestamp": 1791997200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The biggest reveals from DC's various NYCC panels"
-    },
-    {
-      "title": "I've given GTA 5's cars Bond-style ejector seats",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
-      "pubDate": "14.10.2026 um 17:00 Uhr",
-      "timestamp": 1791997200.0,
+      "title": "'My idea of a Netflix for games doesn’t work': Garry's Mod successor is getting 'sweeping changes'",
+      "link": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
+      "pubDate": "14.10.2026 um 21:54 Uhr",
+      "timestamp": 1792014865.0,
       "source": "PCGamer latest",
-      "summary": "Going up."
+      "summary": "\"I’m sorry—we are going to do better.\""
     },
     {
-      "title": "'Yellowjackets' Season 4 Gets Grisly First Trailer",
-      "link": "https://www.polygon.com/yellowjackets-season-4-trailer/",
-      "pubDate": "14.10.2026 um 16:56 Uhr",
-      "timestamp": 1791997002.0,
-      "source": "Polygon.com",
-      "summary": "Yellowjackets season 4 just got its first trailer, teasing what's next for this gruesome series."
+      "title": "Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it",
+      "link": "https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/",
+      "pubDate": "14.10.2026 um 21:44 Uhr",
+      "timestamp": 1792014275.0,
+      "source": "PCGamer latest",
+      "summary": "Klepacki shared his thoughts on the state of the real-time strategy genre in the latest issue of Edge."
     },
     {
-      "title": "PlayStation Plus Game Catalog October 2026 Lineup Confirmed",
-      "link": "https://www.ign.com/articles/playstation-plus-game-catalog-october-2026-lineup-confirmed",
-      "pubDate": "14.10.2026 um 16:55 Uhr",
-      "timestamp": 1791996919.0,
-      "source": "IGN All",
-      "summary": "The PlayStation Plus game catalog adds some fantastic titles to its library this month, including Mafia: The Old Country. Check out the lineup in full..."
+      "title": "Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’",
+      "link": "https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031",
+      "pubDate": "14.10.2026 um 21:30 Uhr",
+      "timestamp": 1792013456.0,
+      "source": "Kotaku",
+      "summary": "The Fortnite maker is promoting faster response times"
     },
     {
-      "title": "Xbox just announced its brand-new controller, and it's far from the pro pad we all expected",
-      "link": "https://www.gamesradar.com/hardware/gaming-controllers/xbox-just-announced-its-brand-new-controller-and-its-far-from-the-pro-pad-we-all-expected/",
-      "pubDate": "14.10.2026 um 16:52 Uhr",
-      "timestamp": 1791996723.0,
+      "title": "Pokemon lead is making an \"original\" RPG where you wash your outfits and let them dry in real time",
+      "link": "https://www.gamesradar.com/games/pokemon/after-24-years-working-on-pokemon-scarlet-and-violet-lead-is-making-a-completely-original-game-an-rpg-where-you-have-to-wash-your-outfits-and-let-them-dry-in-real-time/",
+      "pubDate": "14.10.2026 um 21:08 Uhr",
+      "timestamp": 1792012114.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Xbox has announced the Nano Controller, a pocket-friendly gamepad that squishes its base model in form and price."
+      "summary": "You'll have to watch the real-life weather to make sure your laundry dries right"
+    },
+    {
+      "title": "After Valve was criticized, devs back Steam's refund policy by creating 2-hour game Refund This Game",
+      "link": "https://www.gamesradar.com/games/platformer/after-valve-was-criticized-devs-back-steams-refund-policy-by-creating-a-2-hour-game-literally-called-refund-this-game-we-celebrate-players-right-to-refund/",
+      "pubDate": "14.10.2026 um 21:05 Uhr",
+      "timestamp": 1792011952.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Feel free to refund the game after\""
+    },
+    {
+      "title": "2026 GOTY Contender Officially Sets Nintendo Switch 2 Release Date",
+      "link": "https://www.polygon.com/007-first-light-nintendo-switch-2-release-date-price-confirmed-preorder/",
+      "pubDate": "14.10.2026 um 20:56 Uhr",
+      "timestamp": 1792011398.0,
+      "source": "Polygon.com",
+      "summary": "007 First Light, the James Bond origin story, finally has a Nintendo Switch 2 release date after several delays."
+    },
+    {
+      "title": "The Internet Loves Star Wars: Galactic Racer’s Biddy Blas And The Alien’s Actor Is ‘Overwhelmed’ But Thankful",
+      "link": "https://kotaku.com/the-internet-loves-star-wars-galactic-racers-biddy-blas-and-the-aliens-actor-is-overwhelmed-but-thankful-2000746042",
+      "pubDate": "14.10.2026 um 20:40 Uhr",
+      "timestamp": 1792010428.0,
+      "source": "Kotaku",
+      "summary": "Scrib doon, pookie pookie, ding dong"
+    },
+    {
+      "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
+      "link": "https://www.ign.com/articles/moyaca-led-mask-halloween-deal-october-2026",
+      "pubDate": "14.10.2026 um 20:40 Uhr",
+      "timestamp": 1792010400.0,
+      "source": "IGN All",
+      "summary": "Powered by over 200 high‑brightness RGB LEDs."
+    },
+    {
+      "title": "Arc Raiders devs had the same debates as players over PvE, but \"dad gamers\" pushed them to try it",
+      "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-devs-had-the-same-debates-players-are-currently-having-over-pve-mode-but-the-dad-gamers-pushed-them-to-try-it-anyway/",
+      "pubDate": "14.10.2026 um 20:38 Uhr",
+      "timestamp": 1792010300.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "If you're not sure about Arc Raiders PvE mode, well, so are the devs"
+    },
+    {
+      "title": "Jeremy Renner Is Teasing the West Coast Avengers in the MCU, and It's About Time",
+      "link": "https://www.ign.com/articles/jeremy-renner-hawkeye-west-coast-avengers-mcu-teaser",
+      "pubDate": "14.10.2026 um 20:31 Uhr",
+      "timestamp": 1792009914.0,
+      "source": "IGN All",
+      "summary": "Jeremy Renner has teased the return of Hawkeye to the MCU in a West Coast Avengers project. Here's why we think that's an excellent idea."
+    },
+    {
+      "title": "Total War Fans Blast New Remaster Over Bugs, AI Accusations",
+      "link": "https://www.polygon.com/total-war-shogun-2-complete-edition/",
+      "pubDate": "14.10.2026 um 20:29 Uhr",
+      "timestamp": 1792009796.0,
+      "source": "Polygon.com",
+      "summary": "Total War: Shogun 2 Complete Edition is a bug, genAI-filled mess and a greedy rerelease fans say in Steam reviews of Creative Assembly's game."
+    },
+    {
+      "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
+      "link": "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
+      "pubDate": "14.10.2026 um 20:15 Uhr",
+      "timestamp": 1792008909.0,
+      "source": "IGN All",
+      "summary": "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much s..."
+    },
+    {
+      "title": "The New A Court of Thorns and Roses Hardcover Box Set Gets a Massive Price Cut After Release",
+      "link": "https://www.ign.com/articles/new-a-court-of-thorns-and-roses-hardcover-box-set-deal-october-2026",
+      "pubDate": "14.10.2026 um 20:10 Uhr",
+      "timestamp": 1792008649.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
+      "link": "https://www.polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year/",
+      "pubDate": "14.10.2026 um 20:01 Uhr",
+      "timestamp": 1792008099.0,
+      "source": "Polygon.com",
+      "summary": "This week on Point It Out! We discuss the unfolding news around the GTA 6 Cyberleek leaks, a gaming favorite going to mobile and the sneaky favorite f..."
+    },
+    {
+      "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+      "link": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
+      "pubDate": "14.10.2026 um 20:00 Uhr",
+      "timestamp": 1792008048.0,
+      "source": "Kotaku",
+      "summary": "You've got a little more than a month to check it out before it's gone"
+    },
+    {
+      "title": "Fallout co-creator worries RPGs are ditching secrets because \"nobody thinks people will find things\"",
+      "link": "https://www.gamesradar.com/games/rpg/hidden-content-made-baldurs-gate-3-special-but-fallout-co-creator-worries-rpgs-are-ditching-secrets-because-nobody-thinks-people-will-find-things-on-their-own/",
+      "pubDate": "14.10.2026 um 19:21 Uhr",
+      "timestamp": 1792005705.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Things are really going to linear storylines, with one end state\""
+    },
+    {
+      "title": "Valve May Be Working on an OLED Steam Frame, According to Datamined Source Code",
+      "link": "https://www.ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code",
+      "pubDate": "14.10.2026 um 19:17 Uhr",
+      "timestamp": 1792005456.0,
+      "source": "IGN All",
+      "summary": "The Steam Frame came out a month ago, and while it is one of the best PCVR headsets, its lenses weren't quite as high-quality as some of its competito..."
     }
   ],
   "sim": [
+    {
+      "title": "iRacing Weekly Tune-in | eSports & Community Events | October 14th to October 21st, 2026",
+      "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-october-14th-to-october-21st-2026/",
+      "pubDate": "14.10.2026 um 21:00 Uhr",
+      "timestamp": 1792011656.0,
+      "source": "iRacing.com",
+      "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
+    },
     {
       "title": "2026-27 eNASCAR College iRacing Series | Queen City Crown at Charlotte | Week 2 Tournament Preview",
       "link": "https://www.iracing.com/2026-27-enascar-college-iracing-series-queen-city-crown-at-charlotte-week-2-tournament-preview/",
@@ -387,14 +395,6 @@
       "timestamp": 1791820848.0,
       "source": "iRacing.com",
       "summary": "The eNASCAR Coca-Cola iRacing Championship Series comes down to this. One race, one champion, $100,000 on the line. Steven Wilson enters the reigning ..."
-    },
-    {
-      "title": "Warren, Sánchez complete Coanda sweep at Interlagos as Porsche Esports Supercup World Championship points battle gets physical",
-      "link": "https://www.iracing.com/warren-sanchez-complete-coanda-sweep-at-interlagos-as-porsche-esports-supercup-world-championship-points-battle-gets-physical/",
-      "pubDate": "12.10.2026 um 14:00 Uhr",
-      "timestamp": 1791813644.0,
-      "source": "iRacing.com",
-      "summary": "If the rain last week was any indication of the massive uptick in drama that the 2026 Porsche Esports Supercup World Championship Series was about to ..."
     },
     {
       "title": "Igor Fraga Scores First Super Formula Pole and Full-Race Win at Fuji",
