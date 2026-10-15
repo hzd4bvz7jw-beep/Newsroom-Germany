@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "007 First Light kommt am 18. März 2027 für Nintendo Switch 2",
+      "link": "https://www.playcentral.de/007-first-light-kommt-am-18-maerz-2027-fuer-nintendo-switch-2/",
+      "pubDate": "15.10.2026 um 00:31 Uhr",
+      "timestamp": 1792024302.0,
+      "source": "PlayCentral",
+      "summary": "IO Interactive hat den Veröffentlichungstermin von 007 First Light für Nintendo Switch 2 bestätigt. Das Spionageabenteuer erscheint am 18. März 2027 f..."
+    },
+    {
       "title": "Cyberangriff: Notebooksbilliger warnt vor möglichem Datenleck",
       "link": "https://www.computerbase.de/news/wirtschaft/cyberangriff-notebooksbilliger-warnt-vor-moeglichem-datenleck.99833/",
       "pubDate": "15.10.2026 um 00:03 Uhr",
@@ -135,17 +143,89 @@
       "timestamp": 1791993600.0,
       "source": "Mein-MMO",
       "summary": "Lex Luthor ist der große Gegner von Superman, aber nicht seine größte Sorge. Die schlummert in Form einer „Waffe“ in seinem eigenen Körper. Der Beitra..."
-    },
-    {
-      "title": "Ehemalige Disco-Elysium-Entwickler geben Spielern fünf Prozent ihres Studios – und echtes Mitspracherecht",
-      "link": "https://www.eurogamer.de/summer-eternal-spieler-fuenf-prozent-studio-mitspracherecht",
-      "pubDate": "14.10.2026 um 15:56 Uhr",
-      "timestamp": 1791993379.0,
-      "source": "Eurogamer.de News",
-      "summary": "Bei Summer Eternal wollen ehemalige Entwickler von Disco Elysium nicht nur Spiele anders machen. Auch das Studio selbst soll anders funktionieren. F&u..."
     }
   ],
   "int": [
+    {
+      "title": "After avoiding GTA 5 for 13 years, Trevor actor says he's excited for GTA 6 and might even stream it",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/after-avoiding-gta-5-for-13-years-trevor-actor-says-hes-excited-for-gta-6-and-might-even-stream-it/",
+      "pubDate": "15.10.2026 um 00:15 Uhr",
+      "timestamp": 1792023337.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Steven Ogg is coming home"
+    },
+    {
+      "title": "3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'",
+      "link": "https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/",
+      "pubDate": "14.10.2026 um 23:56 Uhr",
+      "timestamp": 1792022186.0,
+      "source": "PCGamer latest",
+      "summary": "New Champions will continue to roll out for now."
+    },
+    {
+      "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
+      "link": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
+      "pubDate": "14.10.2026 um 23:22 Uhr",
+      "timestamp": 1792020131.0,
+      "source": "PCGamer latest",
+      "summary": "Several US states have sued the company, alleging that ChatGPT is harming the public."
+    },
+    {
+      "title": "Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'",
+      "link": "https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/",
+      "pubDate": "14.10.2026 um 22:54 Uhr",
+      "timestamp": 1792018493.0,
+      "source": "PCGamer latest",
+      "summary": "The former Blizzard developer has moved on."
+    },
+    {
+      "title": "Callina Liang Says She Felt 'A Lot of Pressure' After Seeing How Reddit Reacted to Her Being Cast as Chun-Li",
+      "link": "https://www.ign.com/articles/callina-liang-says-she-felt-a-lot-of-pressure-after-seeing-how-reddit-reacted-to-her-being-cast-as-chun-li",
+      "pubDate": "14.10.2026 um 22:50 Uhr",
+      "timestamp": 1792018200.0,
+      "source": "IGN All",
+      "summary": "Callina Liang admitted that she felt a ton of pressure after she saw fans’ reactions to her getting cast as Chun-Li in the Street Fighter movie, speci..."
+    },
+    {
+      "title": "Xbox Reportedly Surveys Users On Return to Full Exclusivity for its Games",
+      "link": "https://www.ign.com/articles/xbox-reportedly-surveys-users-on-return-to-full-exclusivity-for-its-games",
+      "pubDate": "14.10.2026 um 22:45 Uhr",
+      "timestamp": 1792017928.0,
+      "source": "IGN All",
+      "summary": "Xbox has reportedly surveyed players on how they would feel about a return to console exclusivity for all of its games, with the exception of Call of ..."
+    },
+    {
+      "title": "I want to love the new Castlevania, but it just feels a little off",
+      "link": "https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/",
+      "pubDate": "14.10.2026 um 22:31 Uhr",
+      "timestamp": 1792017114.0,
+      "source": "PCGamer latest",
+      "summary": "Castlevania: Belmont's Curse has the right pieces for a grand revival, but it hasn't quite nailed the assembly."
+    },
+    {
+      "title": "Xbox Considers Making Fallout, Elder Scrolls, and Minecraft Exclusive",
+      "link": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/",
+      "pubDate": "14.10.2026 um 22:30 Uhr",
+      "timestamp": 1792017047.0,
+      "source": "Polygon.com",
+      "summary": "Microsoft is surveying Xbox Insiders about making franchises like Fallout, Minecraft and The Elder Scrolls (but not Call of Duty) Xbox exclusives."
+    },
+    {
+      "title": "The Street Fighter Cast Would Love to Make a Mortal Kombat Crossover Movie",
+      "link": "https://www.ign.com/articles/the-street-fighter-cast-would-love-to-make-a-mortal-kombat-crossover-movie",
+      "pubDate": "14.10.2026 um 22:12 Uhr",
+      "timestamp": 1792015978.0,
+      "source": "IGN All",
+      "summary": "I got the chance to chat with the cast of the Street Fighter movie ahead of its theatrical release, and almost all of them are game for a crossover fi..."
+    },
+    {
+      "title": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”",
+      "link": "https://www.ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic",
+      "pubDate": "14.10.2026 um 22:04 Uhr",
+      "timestamp": 1792015494.0,
+      "source": "IGN All",
+      "summary": "Mick Gordon On How He Helped to Make Warhammer 40,000: Boltgun 2’s Climactic Boss Fight “Big and Bombastic”"
+    },
     {
       "title": "Wardogs is getting loadouts, CEO confirms, but the devs want you to \"keep trying\" new builds",
       "link": "https://www.gamesradar.com/games/fps/wardogs-is-getting-loadouts-ceo-confirms-but-the-devs-want-you-to-keep-trying-different-weapons-rather-than-settling-on-one-setup/",
@@ -155,7 +235,7 @@
       "summary": "\"Quality of life features are useful, but they can get in the way of vital learning\""
     },
     {
-      "title": "'My idea of a Netflix for games doesn’t work': Garry's Mod successor is getting 'sweeping changes'",
+      "title": "'My idea of a Netflix for games doesn't work': Garry's Mod successor is getting 'sweeping changes'",
       "link": "https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/",
       "pubDate": "14.10.2026 um 21:54 Uhr",
       "timestamp": 1792014865.0,
@@ -179,6 +259,22 @@
       "summary": "The Fortnite maker is promoting faster response times"
     },
     {
+      "title": "The Fantik S1 Pro Precision Electric Screwdriver Set With up to 6Nm of Electric Torque Drops to $35",
+      "link": "https://www.ign.com/articles/fantik-s1-pro-precision-electric-screwdriver-deal-october-2026",
+      "pubDate": "14.10.2026 um 21:30 Uhr",
+      "timestamp": 1792013400.0,
+      "source": "IGN All",
+      "summary": "Time-saving tool for all of your precision electronics work."
+    },
+    {
+      "title": "A Broken iPhone Duo Could Cost Up to $1,499 to Repair",
+      "link": "https://www.ign.com/articles/a-broken-iphone-duo-could-cost-up-to-1499-to-repair",
+      "pubDate": "14.10.2026 um 21:17 Uhr",
+      "timestamp": 1792012636.0,
+      "source": "IGN All",
+      "summary": "The iPhone Duo, Apple's first foldable, is already an incredibly expensive phone, rolling in at $1,999 to start. But, while the buy-in price is high, ..."
+    },
+    {
       "title": "Pokemon lead is making an \"original\" RPG where you wash your outfits and let them dry in real time",
       "link": "https://www.gamesradar.com/games/pokemon/after-24-years-working-on-pokemon-scarlet-and-violet-lead-is-making-a-completely-original-game-an-rpg-where-you-have-to-wash-your-outfits-and-let-them-dry-in-real-time/",
       "pubDate": "14.10.2026 um 21:08 Uhr",
@@ -193,102 +289,6 @@
       "timestamp": 1792011952.0,
       "source": "Latest from GamesRadar+",
       "summary": "\"Feel free to refund the game after\""
-    },
-    {
-      "title": "2026 GOTY Contender Officially Sets Nintendo Switch 2 Release Date",
-      "link": "https://www.polygon.com/007-first-light-nintendo-switch-2-release-date-price-confirmed-preorder/",
-      "pubDate": "14.10.2026 um 20:56 Uhr",
-      "timestamp": 1792011398.0,
-      "source": "Polygon.com",
-      "summary": "007 First Light, the James Bond origin story, finally has a Nintendo Switch 2 release date after several delays."
-    },
-    {
-      "title": "The Internet Loves Star Wars: Galactic Racer’s Biddy Blas And The Alien’s Actor Is ‘Overwhelmed’ But Thankful",
-      "link": "https://kotaku.com/the-internet-loves-star-wars-galactic-racers-biddy-blas-and-the-aliens-actor-is-overwhelmed-but-thankful-2000746042",
-      "pubDate": "14.10.2026 um 20:40 Uhr",
-      "timestamp": 1792010428.0,
-      "source": "Kotaku",
-      "summary": "Scrib doon, pookie pookie, ding dong"
-    },
-    {
-      "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
-      "link": "https://www.ign.com/articles/moyaca-led-mask-halloween-deal-october-2026",
-      "pubDate": "14.10.2026 um 20:40 Uhr",
-      "timestamp": 1792010400.0,
-      "source": "IGN All",
-      "summary": "Powered by over 200 high‑brightness RGB LEDs."
-    },
-    {
-      "title": "Arc Raiders devs had the same debates as players over PvE, but \"dad gamers\" pushed them to try it",
-      "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-devs-had-the-same-debates-players-are-currently-having-over-pve-mode-but-the-dad-gamers-pushed-them-to-try-it-anyway/",
-      "pubDate": "14.10.2026 um 20:38 Uhr",
-      "timestamp": 1792010300.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "If you're not sure about Arc Raiders PvE mode, well, so are the devs"
-    },
-    {
-      "title": "Jeremy Renner Is Teasing the West Coast Avengers in the MCU, and It's About Time",
-      "link": "https://www.ign.com/articles/jeremy-renner-hawkeye-west-coast-avengers-mcu-teaser",
-      "pubDate": "14.10.2026 um 20:31 Uhr",
-      "timestamp": 1792009914.0,
-      "source": "IGN All",
-      "summary": "Jeremy Renner has teased the return of Hawkeye to the MCU in a West Coast Avengers project. Here's why we think that's an excellent idea."
-    },
-    {
-      "title": "Total War Fans Blast New Remaster Over Bugs, AI Accusations",
-      "link": "https://www.polygon.com/total-war-shogun-2-complete-edition/",
-      "pubDate": "14.10.2026 um 20:29 Uhr",
-      "timestamp": 1792009796.0,
-      "source": "Polygon.com",
-      "summary": "Total War: Shogun 2 Complete Edition is a bug, genAI-filled mess and a greedy rerelease fans say in Steam reviews of Creative Assembly's game."
-    },
-    {
-      "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
-      "link": "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
-      "pubDate": "14.10.2026 um 20:15 Uhr",
-      "timestamp": 1792008909.0,
-      "source": "IGN All",
-      "summary": "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much s..."
-    },
-    {
-      "title": "The New A Court of Thorns and Roses Hardcover Box Set Gets a Massive Price Cut After Release",
-      "link": "https://www.ign.com/articles/new-a-court-of-thorns-and-roses-hardcover-box-set-deal-october-2026",
-      "pubDate": "14.10.2026 um 20:10 Uhr",
-      "timestamp": 1792008649.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
-      "link": "https://www.polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year/",
-      "pubDate": "14.10.2026 um 20:01 Uhr",
-      "timestamp": 1792008099.0,
-      "source": "Polygon.com",
-      "summary": "This week on Point It Out! We discuss the unfolding news around the GTA 6 Cyberleek leaks, a gaming favorite going to mobile and the sneaky favorite f..."
-    },
-    {
-      "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
-      "link": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
-      "pubDate": "14.10.2026 um 20:00 Uhr",
-      "timestamp": 1792008048.0,
-      "source": "Kotaku",
-      "summary": "You've got a little more than a month to check it out before it's gone"
-    },
-    {
-      "title": "Fallout co-creator worries RPGs are ditching secrets because \"nobody thinks people will find things\"",
-      "link": "https://www.gamesradar.com/games/rpg/hidden-content-made-baldurs-gate-3-special-but-fallout-co-creator-worries-rpgs-are-ditching-secrets-because-nobody-thinks-people-will-find-things-on-their-own/",
-      "pubDate": "14.10.2026 um 19:21 Uhr",
-      "timestamp": 1792005705.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Things are really going to linear storylines, with one end state\""
-    },
-    {
-      "title": "Valve May Be Working on an OLED Steam Frame, According to Datamined Source Code",
-      "link": "https://www.ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code",
-      "pubDate": "14.10.2026 um 19:17 Uhr",
-      "timestamp": 1792005456.0,
-      "source": "IGN All",
-      "summary": "The Steam Frame came out a month ago, and while it is one of the best PCVR headsets, its lenses weren't quite as high-quality as some of its competito..."
     }
   ],
   "sim": [
