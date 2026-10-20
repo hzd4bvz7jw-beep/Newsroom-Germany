@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WoW: Der neuste Content war so verbuggt, dass Blizzard die eigenen Regeln bricht",
+      "link": "https://mein-mmo.de/wow-neuster-content-so-verbuggt-blizzard-aendert-regeln/",
+      "pubDate": "20.10.2026 um 03:30 Uhr",
+      "timestamp": 1792467000.0,
+      "source": "Mein-MMO",
+      "summary": "Patch 12.1.5 von World of Warcraft ist so voller Fehler gewesen, dass sogar eine legendäre Heldentat verlängert wird. Gute Nachrichten für alle, die e..."
+    },
+    {
       "title": "Ghost of Yōtei – 5,4 Mio. Verkäufe, Umsatz fast auf Tsushima-Niveau",
       "link": "https://www.playcentral.de/ghost-of-yotei-54-mio-verkaeufe-umsatz-fast-auf-tsushima-niveau/",
       "pubDate": "19.10.2026 um 22:32 Uhr",
@@ -135,17 +143,49 @@
       "timestamp": 1792423879.0,
       "source": "PlayCentral",
       "summary": "Neue Gerüchte gewähren einen umfangreichen Einblick in ein eingestelltes Halo-Projekt, das Battle-Royale- und Extraction-Shooter-Elemente miteinander ..."
-    },
-    {
-      "title": "Nach 6 Jahren kehrt die größte Band von LoL zurück, feiern Comeback mit über 3,6 Millionen Views in nur 8 Stunden",
-      "link": "https://mein-mmo.de/kda-neues-musikvideo-league-of-legends-riot/",
-      "pubDate": "19.10.2026 um 14:50 Uhr",
-      "timestamp": 1792421434.0,
-      "source": "Mein-MMO",
-      "summary": "Riot hat ihre wohl erfolgreichste Band wiederbelebt und begeistert Fans mit einem neuen Song und Musikvideo. Der Beitrag Nach 6 Jahren kehrt die größt..."
     }
   ],
   "int": [
+    {
+      "title": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
+      "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-pop-up-the-dmz-has-never-been-this-much-fun",
+      "pubDate": "20.10.2026 um 01:24 Uhr",
+      "timestamp": 1792459463.0,
+      "source": "IGN All",
+      "summary": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun"
+    },
+    {
+      "title": "3 Video Games Where Your Choices Actually Make a Difference",
+      "link": "https://www.polygon.com/best-games-choices-impact/",
+      "pubDate": "20.10.2026 um 00:34 Uhr",
+      "timestamp": 1792456482.0,
+      "source": "Polygon.com",
+      "summary": "Games where choices matter often narrow what matters to character death or branching endings. These narrative-driven games do it differently"
+    },
+    {
+      "title": "Red Dead Redemption 2 gets a Shadow of Mordor-style nemesis system in massive new mod",
+      "link": "https://www.gamesradar.com/games/red-dead/red-dead-redemption-2-gets-a-shadow-of-mordor-style-nemesis-system-in-massive-new-mod-where-everyone-you-cross-in-the-west-can-become-your-nemesis/",
+      "pubDate": "20.10.2026 um 00:11 Uhr",
+      "timestamp": 1792455067.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Rob a man, beat him or insult him, and he may not forget\""
+    },
+    {
+      "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
+      "link": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
+      "pubDate": "19.10.2026 um 23:33 Uhr",
+      "timestamp": 1792452789.0,
+      "source": "PCGamer latest",
+      "summary": "ReVamp will get a limited Discord playtest."
+    },
+    {
+      "title": "Save $150 Off the 2026 MacBook Air With New Apple M5 Chip Ahead of Black Friday",
+      "link": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-october-2026",
+      "pubDate": "19.10.2026 um 23:30 Uhr",
+      "timestamp": 1792452600.0,
+      "source": "IGN All",
+      "summary": "The best MacBook for most people."
+    },
     {
       "title": "'Red Dead Redemption' 2 Mod Is 'Shadow of Mordor' Meets the Wild West",
       "link": "https://www.polygon.com/red-dead-redemption-2-nemesis-system-mod-shadow-of-mordor/",
@@ -155,12 +195,28 @@
       "summary": "The enRAGE mod brings a Nemesis system to Red Dead Redemption 2, adding personal grudges, rival factions and evolving gang wars."
     },
     {
+      "title": "Clayface Stars Praise Batman: The Animated Series and Ron Perlman's 'Amazing' Performance as the DC Villain",
+      "link": "https://www.ign.com/articles/clayface-cast-batman-animated-series-fandom",
+      "pubDate": "19.10.2026 um 23:10 Uhr",
+      "timestamp": 1792451453.0,
+      "source": "IGN All",
+      "summary": "Clayface stars Tom Rhys Harries and Naomi Ackie were big fans of Batman: The Animated Series growing up in the UK, recalling how they would rush home ..."
+    },
+    {
       "title": "8 Classic PlayStation Adventure Games that are Barely Playable Today",
       "link": "https://www.polygon.com/classic-playstation-adventure-games-unplayable-today/",
       "pubDate": "19.10.2026 um 23:01 Uhr",
       "timestamp": 1792450877.0,
       "source": "Polygon.com",
       "summary": "From Tomb Raider to Silent Hill, eight classic PlayStation games whose tank controls, cameras, or lost code make them hard to play today"
+    },
+    {
+      "title": "The Legend of Zelda Encyclopedia Is on Sale at Amazon Today",
+      "link": "https://www.ign.com/articles/the-legend-of-zelda-encyclopedia-book-sale-amazon-october-2026",
+      "pubDate": "19.10.2026 um 23:01 Uhr",
+      "timestamp": 1792450860.0,
+      "source": "IGN All",
+      "summary": ""
     },
     {
       "title": "A Star Wars Battlefront 3 Made By Bungie Would Probably Be Great But Also A Waste",
@@ -185,6 +241,14 @@
       "timestamp": 1792449005.0,
       "source": "Kotaku",
       "summary": "YouTuber Sky-B will have to haggle with insurance agents over the fair market value of a stolen order"
+    },
+    {
+      "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
+      "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
+      "pubDate": "19.10.2026 um 22:18 Uhr",
+      "timestamp": 1792448288.0,
+      "source": "IGN All",
+      "summary": "You will soon be able to play as Austin Abrams in this fanmade, retro-style video game adapting Zach Cregger’s take on the Resident Evil universe, com..."
     },
     {
       "title": "Modern Warfare 4 Is Legitimately a Top-5 Call of Duty Campaign",
@@ -225,70 +289,6 @@
       "timestamp": 1792447086.0,
       "source": "Latest from GamesRadar+",
       "summary": "Skövde, Sweden has yet another multi-million seller to celebrate with RV There Yet"
-    },
-    {
-      "title": "Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM",
-      "link": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/",
-      "pubDate": "19.10.2026 um 21:47 Uhr",
-      "timestamp": 1792446437.0,
-      "source": "PCGamer latest",
-      "summary": "Turning up the heat a little."
-    },
-    {
-      "title": "Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'",
-      "link": "https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/",
-      "pubDate": "19.10.2026 um 21:46 Uhr",
-      "timestamp": 1792446383.0,
-      "source": "PCGamer latest",
-      "summary": "Not every Star Wars game has to be a big-budget blockbuster to be successful."
-    },
-    {
-      "title": "Hellraiser's Clive Barker Feared New Game Would Be 'Overly Censored' But Is 'Proud as F**k at the End Result'",
-      "link": "https://www.ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result",
-      "pubDate": "19.10.2026 um 21:44 Uhr",
-      "timestamp": 1792446282.0,
-      "source": "IGN All",
-      "summary": "Hellraiser creator Clive Barker was worried the franchise's new video game would be \"overly censored,\" but he's \"proud as f**k\" of \"how far they've be..."
-    },
-    {
-      "title": "James Gunn officially confirms Mister Miracle casting with a new look at the DCU animated series",
-      "link": "https://www.gamesradar.com/entertainment/dc-tv-shows/james-gunn-officially-confirms-mister-miracle-casting-with-a-new-look-at-the-dcu-animated-series/",
-      "pubDate": "19.10.2026 um 21:42 Uhr",
-      "timestamp": 1792446153.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Josh Hutcherson and Mackenzie Davis will voice Mister Miracle and Barda before possibly playing them in a future live-action project"
-    },
-    {
-      "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece",
-      "link": "https://www.ign.com/articles/lisen-usb-cable-deals-october-2026",
-      "pubDate": "19.10.2026 um 21:40 Uhr",
-      "timestamp": 1792446000.0,
-      "source": "IGN All",
-      "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 18, or laptop."
-    },
-    {
-      "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
-      "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "pubDate": "19.10.2026 um 21:38 Uhr",
-      "timestamp": 1792445906.0,
-      "source": "IGN All",
-      "summary": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems..."
-    },
-    {
-      "title": "Street Fighter Officially Sets a New Franchise Box Office Record",
-      "link": "https://www.polygon.com/street-fighter-movie-2026-box-office-success/",
-      "pubDate": "19.10.2026 um 21:31 Uhr",
-      "timestamp": 1792445517.0,
-      "source": "Polygon.com",
-      "summary": "Capcom's new Street Fighter (2026) movie opens to $31 million domestically, setting a new box office record for the fighting game franchise."
-    },
-    {
-      "title": "Voice Of Goku Responds To AI Stealing Her Voice: ‘I can’t Forgive Them…It Makes Me Really Angry, It’s No Different Than Theft’",
-      "link": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
-      "pubDate": "19.10.2026 um 21:30 Uhr",
-      "timestamp": 1792445450.0,
-      "source": "Kotaku",
-      "summary": "A union representing gaming and anime voice actors has issued guidance on the issue after many high-profile voice actors spoke out against generative ..."
     }
   ],
   "sim": [
