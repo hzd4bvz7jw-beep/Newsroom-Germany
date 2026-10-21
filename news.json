@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WoW Forever: Kostenlos vor Release spielen – Datum, Uhrzeit, wie ihr teilnehmt und mehr zum offenen Stresstest",
+      "link": "https://mein-mmo.de/wow-forever-stresstest/",
+      "pubDate": "21.10.2026 um 00:43 Uhr",
+      "timestamp": 1792543393.0,
+      "source": "Mein-MMO",
+      "summary": "Vor dem Release findet ein Stresstest für die Server von WoW Forever statt. Alles, was ihr dazu wissen müsst, lest ihr hier bei MeinMMO. Der Beitrag W..."
+    },
+    {
       "title": "Xbox Game Pass – Acht neue Day-One-Spiele angekündigt, drei kommen 2026",
       "link": "https://www.playcentral.de/xbox-game-pass-acht-neue-day-one-spiele-angekuendigt-drei-kommen-2026/",
       "pubDate": "20.10.2026 um 21:33 Uhr",
@@ -41,14 +49,6 @@
       "summary": "Mehr als ein Jahrzehnt nach der ursprünglichen Veröffentlichung erhält Fallout 4 weiterhin umfangreiche neue Inhalte. Bethesda hat im Vorfeld des Fall..."
     },
     {
-      "title": "Eine neue Demo auf Steam verfrachtet mich in die beste Zeit des Gamings zurück, ist ein Geheimtipp für Godzilla-Fans",
-      "link": "https://mein-mmo.de/steam-next-fest-godzilla-demo-meinung/",
-      "pubDate": "20.10.2026 um 18:00 Uhr",
-      "timestamp": 1792519200.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteur Niko hat sich die neue Demo eines Godzilla-Spiels mit Freude auf Steam angeschaut, kann es aber nicht jedem empfehlen. Der Beitrag E..."
-    },
-    {
       "title": "Entwickler baut 3 Jahre ein MMO nach, stellt nach über 1.000 Stunden verbittert fest: KI schafft das jetzt an einem Tag",
       "link": "https://mein-mmo.de/entwickler-mmo-wiederaufbau-ki/",
       "pubDate": "20.10.2026 um 18:00 Uhr",
@@ -57,20 +57,12 @@
       "summary": "Über 1.000 Stunden arbeitete ein Entwickler daran, ein totes MMO wieder spielbar zu machen. Jetzt hat KI das an einem Wochenende geschafft. Der Beitra..."
     },
     {
-      "title": "Nvidia GB300: Amazon kauft für Milliarden, doch der Strom fehlt",
-      "link": "https://www.computerbase.de/news/wirtschaft/nvidia-gb300-amazon-kauft-fuer-milliarden-doch-der-strom-fehlt.99906/",
-      "pubDate": "20.10.2026 um 19:32 Uhr",
-      "timestamp": 1792517520.0,
-      "source": "ComputerBase",
-      "summary": "Amazon will KI-Rechenzentren schneller erweitern, als deren Energieversorgung Schritt hält. Interne Dokumente nennen für August Nvidia-GB300-Racks im ..."
-    },
-    {
-      "title": "AMD FSR Redstone: FSR 4.1 kommt für Vulkan, DLL schon über OptiScaler nutzbar (Update)",
-      "link": "https://www.computerbase.de/news/grafikkarten/amd-fsr-redstone-fsr-4-1-erhaelt-vulkan-und-ein-besseres-frame-gen-pacing.99913/",
-      "pubDate": "20.10.2026 um 19:00 Uhr",
-      "timestamp": 1792515600.0,
-      "source": "ComputerBase",
-      "summary": "AMD hat mehrere Neuerungen für FSR 4.1 „Redstone“ verkündet. Bis jetzt war DirectX die einzige API, unter der die neueste Version von FSR Upscaling 4...."
+      "title": "Eine neue Demo auf Steam verfrachtet mich in die beste Zeit des Gamings zurück, ist ein Geheimtipp für Godzilla-Fans",
+      "link": "https://mein-mmo.de/steam-next-fest-godzilla-demo-meinung/",
+      "pubDate": "20.10.2026 um 18:00 Uhr",
+      "timestamp": 1792519200.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteur Niko hat sich die neue Demo eines Godzilla-Spiels mit Freude auf Steam angeschaut, kann es aber nicht jedem empfehlen. Der Beitrag E..."
     },
     {
       "title": "Ex-Call-of-Duty-Entwickler kritisiert Führungskräfte, die sich mit Remastern \"die Taschen füllen\"",
@@ -87,14 +79,6 @@
       "timestamp": 1792514225.0,
       "source": "Eurogamer.de News",
       "summary": "Cygames m&ouml;chte sich auf die Ver&ouml;ffentlichung kleinerer Titel konzentrieren. Kein Triple-A? Ja, genau das ist der Plan. Drei kleinere Spiele ..."
-    },
-    {
-      "title": "Upscaling-Technik: AMD FSR 4.1 jetzt offiziell für RDNA 2 und RDNA 3.5, Xbox folgt",
-      "link": "https://www.computerbase.de/news/grafikkarten/upscaling-technik-amd-fsr-4-1-jetzt-offiziell-fuer-rdna-2-und-rdna-3-5.99912/",
-      "pubDate": "20.10.2026 um 18:37 Uhr",
-      "timestamp": 1792514220.0,
-      "source": "ComputerBase",
-      "summary": "Jetzt ist es soweit: AMD erweitert mit dem neuen Adrenalin-Treiber 26.10.1 die Unterstützung von FSR 4.1 auf APUs der Serien Ryzen AI und Ryzen AI Max..."
     },
     {
       "title": "LEGO-Fan baut Millennium Falcon aus Vaiana-2-Heihei-Set, ohne Extras",
@@ -137,15 +121,103 @@
       "summary": "Spieler beschweren sich aktuell über die Masse KI-generierter Titel beim Steam Next Fest und fordern von Valve, Maßnahmen zu ergreifen. Der Beitrag KI..."
     },
     {
-      "title": "Microsoft Surface: AMD-Chip mit Arm-Kernen soll neue Einstiegsklasse bedienen",
-      "link": "https://www.computerbase.de/news/prozessoren/microsoft-surface-amd-sound-wave-wird-2027-wieder-zum-thema.99909/",
-      "pubDate": "20.10.2026 um 17:49 Uhr",
-      "timestamp": 1792511340.0,
-      "source": "ComputerBase",
-      "summary": "Seit Jahren ranken sich Gerüchte um eine AMD-APU mit Arm-Kernen, die bei Microsofts Surface-Notebooks eingesetzt werden sollte. Der Codename lautet an..."
+      "title": "WoW Forever ändert die eine Sache, die am PvP in Vanilla richtig blöd war",
+      "link": "https://mein-mmo.de/wow-forever-pvp-gerettet/",
+      "pubDate": "20.10.2026 um 15:00 Uhr",
+      "timestamp": 1792508400.0,
+      "source": "Mein-MMO",
+      "summary": "Für viele könnte PvP in WoW Forever ein echter Reiz sein. Denn die Entwickler stellen sicher, dass es simpel und spaßig bleibt. Der Beitrag WoW Foreve..."
+    },
+    {
+      "title": "Helldivers 2 wechselt zu Easy Anti-Cheat: GameGuard war laut Entwickler zu ineffektiv",
+      "link": "https://www.eurogamer.de/helldivers-2-easy-anti-cheat-wechsel",
+      "pubDate": "20.10.2026 um 14:39 Uhr",
+      "timestamp": 1792507169.0,
+      "source": "Eurogamer.de News",
+      "summary": "Helldivers bekommt ein neues Anti-Cheat-System. Entwickler Arrowhead Game Studios hat n&auml;mlich einger&auml;umt, dass die bisherige Gameguard-Richt..."
+    },
+    {
+      "title": "Subnautica 2: Early Access 2.0 bringt bald unheimliche Tiefen",
+      "link": "https://www.eurogamer.de/subnautica-2-early-access-20-update",
+      "pubDate": "20.10.2026 um 13:56 Uhr",
+      "timestamp": 1792504616.0,
+      "source": "Eurogamer.de News",
+      "summary": "Subnautica 2 ist ja bereits seit Mai spielbar. Jetzt geht die Reise Schritt f&uuml;r Schritt in Richtung Early Access 2.0 - oder h&auml;tte ich es lie..."
     }
   ],
   "int": [
+    {
+      "title": "Red Rising Is Officially Returning In 2027",
+      "link": "https://www.polygon.com/red-rising-digital-edition-2027-release/",
+      "pubDate": "21.10.2026 um 01:00 Uhr",
+      "timestamp": 1792544418.0,
+      "source": "Polygon.com",
+      "summary": "A digital adaptation of Pierce Brown's beloved sci-fi saga is on its way."
+    },
+    {
+      "title": "VisionQuest episodes 3 and 4 Easter eggs: All the Marvel references explained",
+      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-episode-3-4-easter-eggs-mcu/",
+      "pubDate": "21.10.2026 um 01:00 Uhr",
+      "timestamp": 1792544400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Here's your weekly breakdown of all the MCU nods in VisionQuest"
+    },
+    {
+      "title": "KPop Demon Hunters 2 Gets a Theatrical Release After First Movie's Smashing Success on Streaming",
+      "link": "https://www.ign.com/articles/kpop-demon-hunters-2-gets-a-theatrical-release-after-first-movies-smashing-success-on-streaming",
+      "pubDate": "20.10.2026 um 23:34 Uhr",
+      "timestamp": 1792539282.0,
+      "source": "IGN All",
+      "summary": "The KPop Demon Hunters sequel won’t be repeating the mistakes of its predecessor, having secured a guaranteed theatrical release following the first f..."
+    },
+    {
+      "title": "Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer",
+      "link": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/",
+      "pubDate": "20.10.2026 um 23:05 Uhr",
+      "timestamp": 1792537559.0,
+      "source": "Polygon.com",
+      "summary": "Shrek 2 Remastered launches in November 2026 with 4K visuals, online co-op and updated graphics, Aspyr confirms."
+    },
+    {
+      "title": "Henry Cavill’s Upcoming Sci-Fi Space Opera Series Writer Admits It's Been ‘Brutally Difficult’",
+      "link": "https://www.polygon.com/mike-flanagan-henry-cavill-warhammer-40k-tv-show/",
+      "pubDate": "20.10.2026 um 23:02 Uhr",
+      "timestamp": 1792537334.0,
+      "source": "Polygon.com",
+      "summary": "Mike Flanagan discusses his Warhammer 40,000 TV adaptation, the franchise's lore and why it's harder to tackle than Stephen King's novels."
+    },
+    {
+      "title": "The Chronicles of Narnia Books are on Sale at Amazon, Including a Deluxe Edition Hardcover",
+      "link": "https://www.ign.com/articles/the-chronicles-of-narnia-books-are-on-sale-at-amazon-october-2026",
+      "pubDate": "20.10.2026 um 23:01 Uhr",
+      "timestamp": 1792537260.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "link": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "pubDate": "20.10.2026 um 22:48 Uhr",
+      "timestamp": 1792536517.0,
+      "source": "IGN All",
+      "summary": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action t..."
+    },
+    {
+      "title": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+      "link": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
+      "pubDate": "20.10.2026 um 22:45 Uhr",
+      "timestamp": 1792536355.0,
+      "source": "IGN All",
+      "summary": "Finnish Counter-Strike 2 pro Aleksi “Aleksib” Virolainen is facing a possible four-month suspended prison sentence over alleged “aggravated tax fraud”..."
+    },
+    {
+      "title": "Save $50 Off a 512GB Nintendo Switch 2 Memory Card That We've Personally Tested and Vetted",
+      "link": "https://www.ign.com/articles/samsung-p9-512gb-nintendo-switch-2-memory-card-deal-october-2026",
+      "pubDate": "20.10.2026 um 22:05 Uhr",
+      "timestamp": 1792533900.0,
+      "source": "IGN All",
+      "summary": "The Samsung P9 MicroSD Express card will triple your total Switch 2 storage."
+    },
     {
       "title": "Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List",
       "link": "https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058",
@@ -195,6 +267,14 @@
       "summary": "A former Capcom manager says Resident Evil Code Veronica formed a \"direct line\" to Resident Evil 5 and 6"
     },
     {
+      "title": "Mel Brooks Insisted on Shooting His Scenes for Spaceballs: The New One Before the Rest of the Cast",
+      "link": "https://www.ign.com/articles/mel-brooks-spaceballs-sequel-scenes-filmed-first",
+      "pubDate": "20.10.2026 um 21:46 Uhr",
+      "timestamp": 1792532803.0,
+      "source": "IGN All",
+      "summary": "Mel Brooks, the centenarian comedy legend who directed the original Spaceballs, arranged to have his scenes for Spaceballs: The New One shot first to ..."
+    },
+    {
       "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
       "link": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
       "pubDate": "20.10.2026 um 21:34 Uhr",
@@ -209,86 +289,6 @@
       "timestamp": 1792531704.0,
       "source": "Polygon.com",
       "summary": "Call of Duty: Modern Warfare 4 introduces an extensive parry mechanic, but do Call of Duty games really need parries? Really?"
-    },
-    {
-      "title": "CoD Dev Who Crunched On Black Ops 1 + 2 Reacts To Remasters Blowing Up: ‘Hard To Watch The Suits Rake In Giant Financial Windfalls From Our Old Code’",
-      "link": "https://kotaku.com/cod-dev-who-crunched-on-black-ops-1-2-reacts-to-remasters-blowing-up-hard-to-watch-the-suits-rake-in-giant-financial-windfalls-from-our-old-code-2000748065",
-      "pubDate": "20.10.2026 um 21:01 Uhr",
-      "timestamp": 1792530081.0,
-      "source": "Kotaku",
-      "summary": "'That wealth needs to be shared retroactively,' argued the former Black Ops level designer"
-    },
-    {
-      "title": "Next-gen Xbox Could Cost Up to $1,800, New Report Says",
-      "link": "https://www.polygon.com/next-gen-xbox-project-helix-price-release-date-2028/",
-      "pubDate": "20.10.2026 um 21:00 Uhr",
-      "timestamp": 1792530004.0,
-      "source": "Polygon.com",
-      "summary": "Project Helix, the next-generation Xbox coming in 2028, costs between $1200 and $1800, according to a new report."
-    },
-    {
-      "title": "My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons",
-      "link": "https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/",
-      "pubDate": "20.10.2026 um 20:59 Uhr",
-      "timestamp": 1792529952.0,
-      "source": "PCGamer latest",
-      "summary": "Hell Clock's Journey of Miracles update changes the entire game like a new Diablo season, but it won't ever expire."
-    },
-    {
-      "title": "Original Street Fighter star Kylie Minogue was reportedly asked to appear in the new movie",
-      "link": "https://www.gamesradar.com/entertainment/action-movies/original-street-fighter-star-kylie-minogue-was-reportedly-asked-to-appear-in-the-new-movie-but-it-didnt-work-out-with-timing/",
-      "pubDate": "20.10.2026 um 20:58 Uhr",
-      "timestamp": 1792529911.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Orville Peck says he tried to orchestrate Minogue's cameo"
-    },
-    {
-      "title": "Greta Gerwig Reportedly Clashed With Netflix Film Boss Over Narnia: The Magician’s Nephew",
-      "link": "https://www.ign.com/articles/greta-gerwig-netflix-narnia-clash",
-      "pubDate": "20.10.2026 um 20:51 Uhr",
-      "timestamp": 1792529481.0,
-      "source": "IGN All",
-      "summary": "Barbie writer-director Greta Gerwig reportedly had a bitter falling out with Netflix’s then-head of film, Dan Lin, over her upcoming movie, Narnia: Th..."
-    },
-    {
-      "title": "The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat",
-      "link": "https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/",
-      "pubDate": "20.10.2026 um 20:43 Uhr",
-      "timestamp": 1792529039.0,
-      "source": "PCGamer latest",
-      "summary": "Don't Nod has begun \"safeguard proceedings\" to protect itself from creditors and says up to 85 employees are at risk of being let go under its new res..."
-    },
-    {
-      "title": "The First Kingdom Hearts Featured Final Fantasy In A Way I Wish The Series Would Again",
-      "link": "https://kotaku.com/kingdom-hearts-disney-final-fantasy-characters-leon-aerith-2000748060",
-      "pubDate": "20.10.2026 um 20:41 Uhr",
-      "timestamp": 1792528894.0,
-      "source": "Kotaku",
-      "summary": "Sora’s first meeting with Final Fantasy characters raised some logistical questions, but the series has sidelined them as the years have gone on"
-    },
-    {
-      "title": "This Love And Deepspace / Blade Runner 2049 Event Is Either An Unfortunate Coincidence Or An Elaborate Troll",
-      "link": "https://kotaku.com/this-love-and-deepspace-blade-runner-2049-event-is-either-an-unfortunate-coincidence-or-an-elaborate-troll-2000748020",
-      "pubDate": "20.10.2026 um 20:36 Uhr",
-      "timestamp": 1792528577.0,
-      "source": "Kotaku",
-      "summary": "Why is this gacha game that's currently under fire for deleting digital lovers referencing an almost 10-year-old movie that features deleting digital ..."
-    },
-    {
-      "title": "EA finally says the words PS3 gamers have waited 15 years to hear: \"Fight Night is coming back\"",
-      "link": "https://www.gamesradar.com/games/sports/ea-finally-says-the-words-ps3-gamers-have-waited-15-years-to-hear-fight-night-is-coming-back/",
-      "pubDate": "20.10.2026 um 20:36 Uhr",
-      "timestamp": 1792528561.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"The fight is never over\""
-    },
-    {
-      "title": "After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster",
-      "link": "https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/",
-      "pubDate": "20.10.2026 um 20:34 Uhr",
-      "timestamp": 1792528483.0,
-      "source": "PCGamer latest",
-      "summary": "We need time-traveling Jean Reno on PC."
     }
   ],
   "sim": [
