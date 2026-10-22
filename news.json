@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Leak zeigt Trailer zu Mass Effect Universe – neues Team mit Liara",
+      "link": "https://www.playcentral.de/leak-zeigt-trailer-zu-mass-effect-universe-neues-team-mit-liara/",
+      "pubDate": "22.10.2026 um 21:31 Uhr",
+      "timestamp": 1792704685.0,
+      "source": "PlayCentral",
+      "summary": "Nur einen Tag nach dem angekündigten Ende von BioWare ist offenbar ein bislang unveröffentlichter Trailer zum nächsten Mass Effect im Netz aufgetaucht..."
+    },
+    {
+      "title": "Mass Effect: Universe: Geleakter Trailer zu Teil 5 legt Finger in die Wunde",
+      "link": "https://www.computerbase.de/news/gaming/mass-effect-universe-geleakter-trailer-zu-teil-5-legt-finger-in-die-wunde.99960/",
+      "pubDate": "22.10.2026 um 21:14 Uhr",
+      "timestamp": 1792696440.0,
+      "source": "ComputerBase",
+      "summary": "Mit Enttäuschung haben Fans gerade erst von der Schließung des Studios BioWare erfahren und davon, dass es damit keine Fortsetzung der Mass-Effect-Ser..."
+    },
+    {
+      "title": "Gran Turismo DualSense Limited Edition – Vorbestellung in Deutschland startet",
+      "link": "https://www.playcentral.de/gran-turismo-dualsense-limited-edition-vorbestellung-in-deutschland-startet/",
+      "pubDate": "22.10.2026 um 18:31 Uhr",
+      "timestamp": 1792693879.0,
+      "source": "PlayCentral",
+      "summary": "Sony erweitert sein Angebot an limitierten PS5-Controllern um ein neues Modell für Rennsportfans. Der DualSense Wireless-Controller Gran Turismo Limit..."
+    },
+    {
+      "title": "G11 NAND: Micron überspringt G10 und geht auf 400+ Layer mit höchster Bitdichte",
+      "link": "https://www.computerbase.de/news/storage/g11-nand-micron-ueberspringt-g10-und-geht-auf-400-plus-layer-mit-hoechster-bitdichte.99957/",
+      "pubDate": "22.10.2026 um 20:30 Uhr",
+      "timestamp": 1792693800.0,
+      "source": "ComputerBase",
+      "summary": "Schon lange hat Micron keine Neuigkeiten im Bereich NAND-Flash-Speicher präsentiert. Doch jetzt überrascht das Unternehmen: Statt der erwarteten Gener..."
+    },
+    {
       "title": "Über 100 Millionen Zuschauer: Eine Serie mit Chris Pratt als US Navy Seal kehrt auf Prime Video zurück",
       "link": "https://mein-mmo.de/ein-thriller-mit-ueber-100-millionen-zuschauern-kehrt-zu-prime-video-zurueck-8-neue-folgen-zeigen-chris-pratt-als-us-navy-seal/",
       "pubDate": "22.10.2026 um 17:45 Uhr",
@@ -111,187 +143,163 @@
       "timestamp": 1792683086.0,
       "source": "PlayCentral",
       "summary": "CD Projekt RED schickt euch erneut nach Night City: Das kostenlose Update 2.5 für Cyberpunk 2077 ist seit dem 22. Oktober 2026 auf PC, Mac über Steam,..."
-    },
-    {
-      "title": "BioWare-Aus: Larian, CD Projekt und Branchen-Legenden trauern um das RPG-Studio",
-      "link": "https://www.eurogamer.de/bioware-aus-reaktionen-spieleindustrie-ea",
-      "pubDate": "22.10.2026 um 15:10 Uhr",
-      "timestamp": 1792681800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Nach der &uuml;berraschenden Schlie&szlig;ung von BioWare gestern Abend regnet es Beileidsbekundungen aus der gesamten Spielebranche. Branchenvertrete..."
-    },
-    {
-      "title": "Markierte KI-Texte: ChatGPT folgt Claude bei Er­kennung per Wasserzeichen",
-      "link": "https://www.computerbase.de/news/apps/markierte-ki-texte-chatgpt-folgt-claude-bei-erkennung-per-wasserzeichen.99951/",
-      "pubDate": "22.10.2026 um 17:00 Uhr",
-      "timestamp": 1792681200.0,
-      "source": "ComputerBase",
-      "summary": "OpenAI plant, künftig auch ChatGPT-Texte mit unsichtbaren Wasserzeichen zu markieren, Anthropic nutzt solch ein Verfahren bei neuen Claude-Modellen be..."
-    },
-    {
-      "title": "Über 50 Prozent reduziert: Aktueller Samsung OLED-TV mit 77 Zoll hat ein neues Preistief erreicht",
-      "link": "https://mein-mmo.de/ueber-50-prozent-reduziert-samsung-oled-tv-77-zoll-neues-preistief/",
-      "pubDate": "22.10.2026 um 14:56 Uhr",
-      "timestamp": 1792680964.0,
-      "source": "Mein-MMO",
-      "summary": "Mit dem 77 Zoll großen Samsung OLED S90H bekommt ihr einen sehr gut bewerteten 4K-Fernseher aus diesem Jahr gerade besonders günstig. Der Beitrag Über..."
-    },
-    {
-      "title": "Final Fantasy 14, Umamusume und mehr: PHP-Sicherheitslücke erzwingt weltweite Serverausfälle",
-      "link": "https://www.eurogamer.de/final-fantasy-14-php-sicherheitsluecke",
-      "pubDate": "22.10.2026 um 14:40 Uhr",
-      "timestamp": 1792680047.0,
-      "source": "Eurogamer.de News",
-      "summary": "Gleich mehrere Spiele &ndash; darunter Final Fantasy 14 und Umamusume: Pretty Derby &ndash; k&auml;mpfen aktuell mit Serverausf&auml;llen und technisc..."
     }
   ],
   "int": [
     {
-      "title": "Ubisoft confirms Assassin's Creed Black Flag Resynced New Game Plus is coming \"next week\"",
-      "link": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-is-finally-getting-the-new-game-plus-update-players-begged-for-ubisoft-confirms/",
-      "pubDate": "22.10.2026 um 18:03 Uhr",
-      "timestamp": 1792692189.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Better late than never, I suppose"
-    },
-    {
-      "title": "Steam Pricing Analyst Found Hollow Knight: Silksong’s $20 Price Annoying: ‘I Was A Bit Like, Oh God, Please Price It Higher’",
-      "link": "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802",
-      "pubDate": "22.10.2026 um 18:00 Uhr",
-      "timestamp": 1792692053.0,
-      "source": "Kotaku",
-      "summary": "Indie devs are facing tighter pricing pressures than ever"
-    },
-    {
-      "title": "The 5 best new shows and movies streaming this week on Netflix, HBO Max, Prime Video, and more (October 23-25)",
-      "link": "https://www.gamesradar.com/entertainment/streaming-services/5-best-new-shows--movies-streaming-netflix-hbo-max-prime-video-october-23-25/",
-      "pubDate": "22.10.2026 um 18:00 Uhr",
-      "timestamp": 1792692000.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "From a live-action remake of a Disney classic, to a return trip to Night City, there's plenty to watch this weekend"
-    },
-    {
-      "title": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
-      "link": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
-      "pubDate": "22.10.2026 um 17:57 Uhr",
-      "timestamp": 1792691846.0,
-      "source": "PCGamer latest",
-      "summary": "Just because we saw this coming doesn't mean it hurts less."
-    },
-    {
-      "title": "Forgotten Pokémon Card Collection Goes for $2 Million",
-      "link": "https://www.polygon.com/pokemon-card-forgotten-collection-millionaire-auction/",
-      "pubDate": "22.10.2026 um 17:55 Uhr",
-      "timestamp": 1792691755.0,
-      "source": "Polygon.com",
-      "summary": "A British retiree sold their forgotten Pokémon card collection for roughly $2 million at auction."
-    },
-    {
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "link": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
-      "pubDate": "22.10.2026 um 17:52 Uhr",
-      "timestamp": 1792691573.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Half-Life 3, is that you?"
-    },
-    {
-      "title": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play",
-      "link": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
-      "pubDate": "22.10.2026 um 17:45 Uhr",
-      "timestamp": 1792691141.0,
+      "title": "A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely",
+      "link": "https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely",
+      "pubDate": "22.10.2026 um 21:50 Uhr",
+      "timestamp": 1792705840.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Yesterday, only a couple of months after EA went private after having been acquired by Saudi Arabia's Public Investment Fund, equity firm Silver Lake,..."
+      "summary": "We've had about roughly four decades of games as we generally know them now, and yet somehow, so often their stories feel so limited in scope. I'm not..."
     },
     {
-      "title": "Blood of Dawnwalker’s Massive Update Is Finally Here and the Full List of Changes Is Wild",
-      "link": "https://www.polygon.com/blood-of-dawnwalker-update-1-1-released-patch-notes/",
-      "pubDate": "22.10.2026 um 17:43 Uhr",
-      "timestamp": 1792691013.0,
-      "source": "Polygon.com",
-      "summary": "Blood of Dawnwalker's long-awaited update 1.1 is finally out, bringing huge changes to the vampire RPG"
-    },
-    {
-      "title": "LEGO Disney Sets Are Hitting All-Time Low Prices on Amazon Right Now",
-      "link": "https://www.ign.com/articles/lego-disney-sets-are-hitting-all-time-low-prices-on-amazon-right-now",
-      "pubDate": "22.10.2026 um 17:42 Uhr",
-      "timestamp": 1792690943.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
-      "link": "https://www.ign.com/articles/gta-6-trade-in-old-console-save-on-upgrade-paymore",
-      "pubDate": "22.10.2026 um 17:37 Uhr",
-      "timestamp": 1792690620.0,
-      "source": "IGN All",
-      "summary": "What is your old system worth?"
-    },
-    {
-      "title": "'The Walking Dead' Star’s Resident Evil Fan Film Sets a Surprising Record",
-      "link": "https://www.polygon.com/resident-evil-biohazard-fan-film-walking-dead/",
-      "pubDate": "22.10.2026 um 17:35 Uhr",
-      "timestamp": 1792690519.0,
-      "source": "Polygon.com",
-      "summary": "Chandler Riggs adapted one of Resident Evil's most memorable sequences, and he's open to making a feature-length version."
-    },
-    {
-      "title": "Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too",
-      "link": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
-      "pubDate": "22.10.2026 um 17:34 Uhr",
-      "timestamp": 1792690444.0,
+      "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
+      "link": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+      "pubDate": "22.10.2026 um 21:39 Uhr",
+      "timestamp": 1792705170.0,
       "source": "PCGamer latest",
-      "summary": "An undisclosed number of employees have been let go from the studio behind survival game Scum."
+      "summary": "The Unreal Engine and Fortnite company has extended the public a many-fingered invitation."
     },
     {
-      "title": "New Star Wars: Galactic Racer Update Makes The Already Great Game Even Better",
-      "link": "https://kotaku.com/new-star-wars-galactic-racer-update-makes-the-already-great-game-even-better-2000748846",
-      "pubDate": "22.10.2026 um 17:30 Uhr",
-      "timestamp": 1792690228.0,
-      "source": "Kotaku",
-      "summary": "Party sizes are increased among some other nice changes and quality-of-life updates"
+      "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+      "link": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+      "pubDate": "22.10.2026 um 21:26 Uhr",
+      "timestamp": 1792704389.0,
+      "source": "PCGamer latest",
+      "summary": "Avi Lewis, leader of one of Canada's top opposition parties, is not a fan of private equity."
     },
     {
-      "title": "Magic’s Foundations Commander Precons Are in Stock at Amazon for MSRP — But There’s a Catch",
-      "link": "https://www.ign.com/articles/mtg-foundations-commander-precons-are-in-stock-at-amazon-for-msrp-but-theres-a-catch",
-      "pubDate": "22.10.2026 um 17:30 Uhr",
-      "timestamp": 1792690200.0,
-      "source": "IGN All",
-      "summary": "Amazon is selling MTG's rare Foundations precons again for MSRP, but there's a catch."
-    },
-    {
-      "title": "Seth Rogen and Brad Bird Lead 2026 Infinity Festival Lineup",
-      "link": "https://www.ign.com/articles/seth-rogen-brad-bird-infinity-festival",
-      "pubDate": "22.10.2026 um 17:30 Uhr",
-      "timestamp": 1792690200.0,
-      "source": "IGN All",
-      "summary": "Seth Rogen, Brad Bird, and Travis Knight will showcase upcoming animated projects like Tangles and Wildwood at L.A.’s Infinity Festival this November."
-    },
-    {
-      "title": "Today’s Top Deals: Pokémon Pokopia, a LEGO Star Wars Starship, and a Sci-Fi Humble Bundle",
-      "link": "https://www.ign.com/articles/best-deals-for-october-22-2026",
-      "pubDate": "22.10.2026 um 17:20 Uhr",
-      "timestamp": 1792689600.0,
-      "source": "IGN All",
-      "summary": "Plus, request an invite to buy the Pokémon 30th Celebration ETB for $59.99 and more savings."
-    },
-    {
-      "title": "Dispatch celebrates its first anniversary with commentary and storyboard modes for every single episode, if you've got the deluxe edition anyway",
-      "link": "https://www.rockpapershotgun.com/dispatch-celebrates-its-first-anniversary-with-commentary-and-storyboard-modes-for-every-single-episode-if-youve-got-the-deluxe-edition-anyway",
-      "pubDate": "22.10.2026 um 17:08 Uhr",
-      "timestamp": 1792688934.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "I'm going to park my feelings of unease at the fact that it's somehow already been a year since Dispatch came out, as developer AdHoc Studio have reve..."
-    },
-    {
-      "title": "'Marvel’s Wolverine' Soars on PS5 Sales Charts Despite Negative Buzz",
-      "link": "https://www.polygon.com/marvel-wolverine-best-selling-game-september-us/",
-      "pubDate": "22.10.2026 um 17:08 Uhr",
-      "timestamp": 1792688880.0,
+      "title": "Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip",
+      "link": "https://www.polygon.com/valve-half-life-3-hlx/",
+      "pubDate": "22.10.2026 um 21:16 Uhr",
+      "timestamp": 1792703788.0,
       "source": "Polygon.com",
-      "summary": "Despite mixed reviews, 'Marvel's Wolverine' was September's best-selling game in the U.S."
+      "summary": "A Valve employee just casually mentioned Half-Life 3's rumored codename HLX in public, reigniting rumors that the shooter is returning."
+    },
+    {
+      "title": "Masters of the Universe director doesn't know if a sequel is on the way after streaming success",
+      "link": "https://www.gamesradar.com/entertainment/fantasy-movies/masters-of-the-universe-director-still-doesnt-know-if-a-sequel-is-on-the-way-after-the-he-man-movies-massive-streaming-success-these-sorts-of-decisions-are-out-of-our-control/",
+      "pubDate": "22.10.2026 um 21:14 Uhr",
+      "timestamp": 1792703686.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The movie did not make its budget, but it remained number one on Prime Video for five weeks"
+    },
+    {
+      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+      "link": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+      "pubDate": "22.10.2026 um 21:09 Uhr",
+      "timestamp": 1792703378.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Vibe your way to 50K,\" Epic promises"
+    },
+    {
+      "title": "Only one person on Earth can play this Steam game at a time: \"You control it for one minute\"",
+      "link": "https://www.gamesradar.com/games/platformer/only-one-person-on-earth-can-play-this-steam-game-at-a-time-when-it-is-your-turn-you-control-it-for-one-minute/",
+      "pubDate": "22.10.2026 um 21:00 Uhr",
+      "timestamp": 1792702838.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The original Angry Birds artist's new game is oddly social"
+    },
+    {
+      "title": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
+      "link": "https://www.polygon.com/clayface-joker-easter-eggs/",
+      "pubDate": "22.10.2026 um 21:00 Uhr",
+      "timestamp": 1792702819.0,
+      "source": "Polygon.com",
+      "summary": "Clayface is filled with some very noticible Easter eggs about the Joker"
+    },
+    {
+      "title": "Zelda: Ocarina of Time on N64 actually had a jump button early in development",
+      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-on-n64-actually-had-a-jump-button-early-in-development-29-years-before-nintendos-remake-added-one/",
+      "pubDate": "22.10.2026 um 20:59 Uhr",
+      "timestamp": 1792702763.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Ocarina of Time was almost a normal 3D game in 1998"
+    },
+    {
+      "title": "The search for the next James Bond has come down to four finalists, including one \"mystery actor\"",
+      "link": "https://www.gamesradar.com/entertainment/james-bond-movies/the-search-for-the-next-james-bond-has-come-down-to-four-finalists-including-one-mystery-actor/",
+      "pubDate": "22.10.2026 um 20:45 Uhr",
+      "timestamp": 1792701945.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The news comes just one month after Jack Lowden was rumored to be the frontrunner"
+    },
+    {
+      "title": "Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player",
+      "link": "https://kotaku.com/sony-continues-its-march-towards-an-all-digital-future-as-it-reportedly-kills-off-its-last-4k-uhd-player-2000748873",
+      "pubDate": "22.10.2026 um 20:41 Uhr",
+      "timestamp": 1792701661.0,
+      "source": "Kotaku",
+      "summary": "It's part of a larger push by the PlayStation maker to move away from making home electronics, like TVs"
+    },
+    {
+      "title": "Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now",
+      "link": "https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now",
+      "pubDate": "22.10.2026 um 20:36 Uhr",
+      "timestamp": 1792701364.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Virtue and a Sledgehammer looks like a satisfying game. There is perhaps no more wonderfully chunky and impact frame friendly a weapon than the reliab..."
+    },
+    {
+      "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
+      "link": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+      "pubDate": "22.10.2026 um 20:16 Uhr",
+      "timestamp": 1792700199.0,
+      "source": "PCGamer latest",
+      "summary": "There's no mistaking it this time—he said it."
+    },
+    {
+      "title": "Everything We Know About the PS6, Sony’s Next-Gen Console",
+      "link": "https://www.polygon.com/ps6-playstation-6-release-date-price/",
+      "pubDate": "22.10.2026 um 20:12 Uhr",
+      "timestamp": 1792699951.0,
+      "source": "Polygon.com",
+      "summary": "A rundown of everything announced, reported, leaked, and rumored about PlayStation 6, including release date, price, and specs"
+    },
+    {
+      "title": "Everything We Know About Project Helix, the Next Xbox",
+      "link": "https://www.polygon.com/next-xbox-console-release-date-price-project-helix/",
+      "pubDate": "22.10.2026 um 20:12 Uhr",
+      "timestamp": 1792699943.0,
+      "source": "Polygon.com",
+      "summary": "A rundown of everything announced, reported, leaked, and rumored about the next-gen Xbox, including, release date, price, and specs"
+    },
+    {
+      "title": "'Avatar: Seven Havens' Producers Provide a Suspicious Answer About the Anomaly",
+      "link": "https://www.polygon.com/avatar-seven-havens-producers-interview-anomaly-vaatu-connection/",
+      "pubDate": "22.10.2026 um 20:01 Uhr",
+      "timestamp": 1792699279.0,
+      "source": "Polygon.com",
+      "summary": "Avatar: Seven Havens producers address whether the Anomaly’s mysterious diamond-shaped entity is connected to Vaatu."
+    },
+    {
+      "title": "Sid Meier's Civilization games: the oral history",
+      "link": "https://www.polygon.com/civilization-games-oral-history/",
+      "pubDate": "22.10.2026 um 20:00 Uhr",
+      "timestamp": 1792699232.0,
+      "source": "Polygon.com",
+      "summary": "From MS-DOS Civilization to 35 years and Civ 7's upcoming Earthrise expansion, Meier and Firaxis creatives walk up us through gaming history."
+    },
+    {
+      "title": "Mass Effect 5’s Leaked Trailer: 9 Things We Noticed",
+      "link": "https://kotaku.com/mass-effect-5-universe-leak-trailer-breakdown-liara-bioware-2000748896",
+      "pubDate": "22.10.2026 um 19:36 Uhr",
+      "timestamp": 1792697774.0,
+      "source": "Kotaku",
+      "summary": "The now-canceled Mass Effect: Universe would have included the return of old party member Liara"
     }
   ],
   "sim": [
+    {
+      "title": "Gran Turismo 7 Online Time Trial: N-escapable",
+      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-n-escapable-20261022/",
+      "pubDate": "22.10.2026 um 18:27 Uhr",
+      "timestamp": 1792693648.0,
+      "source": "GTPlanet",
+      "summary": "The Hyundai Elantra N TC '24 heads to the chicane-free Barcelona-Catalunya GP layout on Racing Hards, one week after the 1..."
+    },
     {
       "title": "Gran Turismo 7 Weekly Challenges: Circle the WGNs",
       "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-circle-the-wgns-20261022/",
@@ -411,14 +419,6 @@
       "timestamp": 1791997247.0,
       "source": "iRacing.com",
       "summary": "The second Tournament of the 2026-27 season for the eNASCAR College iRacing Series presented by Logitech G concludes on Wednesday night at America&#82..."
-    },
-    {
-      "title": "Gran Turismo 30th Anniversary DualSense Revealed, Launches December 10",
-      "link": "https://www.gtplanet.net/gran-turismo-30th-anniversary-dualsense-revealed-launches-december-10-20261014/",
-      "pubDate": "14.10.2026 um 14:45 Uhr",
-      "timestamp": 1791989100.0,
-      "source": "GTPlanet",
-      "summary": "Coinciding with the announcement of the first part of the Gran Turismo 7 Spec IV update that&#8217;s coming this week, PlayStation has revealed a new ..."
     }
   ]
 }
