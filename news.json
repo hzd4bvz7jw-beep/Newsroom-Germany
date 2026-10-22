@@ -1,12 +1,116 @@
 {
   "de": [
     {
-      "title": "WoW Forever Stresstest am 21. Oktober im Live-Ticker – Startzeit, Status der Server, Dauer",
-      "link": "https://mein-mmo.de/wow-forever-stresstest-beta-21-oktober-2026-live-ticker/",
-      "pubDate": "22.10.2026 um 01:06 Uhr",
-      "timestamp": 1792631190.0,
+      "title": "Anker Solix Solarbank Max: Verkaufsstart für 7-kWh-PV-Akku für 10.000 Watt Solar",
+      "link": "https://www.computerbase.de/news/smart-home/anker-solix-solarbank-max-verkaufsstart-fuer-7-kwh-pv-akku-fuer-10-000-watt-solar.99941/",
+      "pubDate": "22.10.2026 um 09:00 Uhr",
+      "timestamp": 1792652400.0,
+      "source": "ComputerBase",
+      "summary": "Anker Solix startet heute nach der Vorbestellerphase den Verkauf der Solarbank Max. Der zur IFA 2026 vorgestellte Solar-Akku mit 7 kWh Kapazität biete..."
+    },
+    {
+      "title": "5 düstere Demos auf Steam, die ihr auch als Horror-Muffel gefahrlos testen könnt",
+      "link": "https://mein-mmo.de/steam-demos-duester/",
+      "pubDate": "22.10.2026 um 07:00 Uhr",
+      "timestamp": 1792652400.0,
       "source": "Mein-MMO",
-      "summary": "MeinMMO begleitet den Stresstest von WoW: Forever am 21. Oktober 2026 im Live-Ticker. Hier erfahrt ihr, wie es um die Server steht. Der Beitrag WoW Fo..."
+      "summary": "Beim Steam Next Fest kann man viele Spiele kostenlos testen. Diese 5 Titel bieten ein düsteres Setting, sind aber nicht zu gruselig. Der Beitrag 5 düs..."
+    },
+    {
+      "title": "EA stellt ein unangekündigtes „Die Sims“-Projekt ein und verkleinert das „Skate“-Team",
+      "link": "https://www.eurogamer.de/ea-entlassungen-sims-skate",
+      "pubDate": "22.10.2026 um 06:49 Uhr",
+      "timestamp": 1792651774.0,
+      "source": "Eurogamer.de News",
+      "summary": "Bei Electronic Arts &uuml;berschlagen sich die Ereignisse: EA macht nicht nur BioWare dicht und streicht das n&auml;chste Mass Effect, sondern k&uuml;..."
+    },
+    {
+      "title": "„Ein Damoklesschwert über uns“: BioWare-Urgestein über das Ende und was mit Mass Effect und Dragon Age passiert",
+      "link": "https://mein-mmo.de/bioware-schliessung-damoklesschwert/",
+      "pubDate": "22.10.2026 um 06:41 Uhr",
+      "timestamp": 1792651297.0,
+      "source": "Mein-MMO",
+      "summary": "Ein Veteran von BioWare gibt nähere Einblicke hinter die Schließung des Entwicklerstudios und verrät, was mit den bekannten IPs passiert.  Der Beitrag..."
+    },
+    {
+      "title": "Marvel zeigt in der neuen Serie zum 1. Mal die Großmutter von Ultron, dabei war sie vor 50 Jahren noch seine Braut",
+      "link": "https://mein-mmo.de/marvel-neue-serie-1-mal-grossmutter-ultron-vor-50-jahren-braut/",
+      "pubDate": "22.10.2026 um 06:39 Uhr",
+      "timestamp": 1792651183.0,
+      "source": "Mein-MMO",
+      "summary": "Mit VisionQuest läuft auf Disney+ eine neue Serie von Marvel. Mit dabei ist eine Figur, die bislang noch nicht im MCU aufgetaucht ist. Der Beitrag Mar..."
+    },
+    {
+      "title": "Elder Scrolls Online schenkt euch jetzt „Skyrim“ und 2 Verliese",
+      "link": "https://mein-mmo.de/elder-scrolls-online-saison-2-start-roadmap/",
+      "pubDate": "22.10.2026 um 06:30 Uhr",
+      "timestamp": 1792650615.0,
+      "source": "Mein-MMO",
+      "summary": "Am 21. Oktober 2026 ist Saison 2 von The Elder Scrolls Online gestartet. Freut euch auf zwei Geschenke und die Premiere der Soloverliese. Der Beitrag ..."
+    },
+    {
+      "title": "Valor Mortis wirft bereits nach sieben Tagen Gewinn ab",
+      "link": "https://www.eurogamer.de/valor-mortis-entwicklungskosten-eingespielt-gewinn",
+      "pubDate": "22.10.2026 um 06:29 Uhr",
+      "timestamp": 1792650563.0,
+      "source": "Eurogamer.de News",
+      "summary": "Entwickler One More Level legt mit seinem k&uuml;rzlich erschienenen First-Person-Soulslike Valor Mortis einen echten Wallrun hin und steuert auf den ..."
+    },
+    {
+      "title": "Kapazitätsausbau: Zwei neue Intel-Fabriken nehmen Gestalt an",
+      "link": "https://www.computerbase.de/news/wirtschaft/intel-fabriken-erste-ohio-fab-bekommt-ein-dach-fab-62-wird-ausgeruestet.99946/",
+      "pubDate": "22.10.2026 um 08:20 Uhr",
+      "timestamp": 1792650000.0,
+      "source": "ComputerBase",
+      "summary": "Intels Fab 62 in Arizona ist fertig; zumindest fertig gebaut. Nach dem Tool-in-Prozess, also dem Aufstellen der wichtigsten Maschinen, wird sie für di..."
+    },
+    {
+      "title": "Darth Vader nutzt bald die Waffe, mit der Thanos im MCU das halbe Universum auslöschte",
+      "link": "https://mein-mmo.de/star-wars-marvel-crossover-vader/",
+      "pubDate": "22.10.2026 um 05:45 Uhr",
+      "timestamp": 1792647900.0,
+      "source": "Mein-MMO",
+      "summary": "Star Wars und Marvel erhalten bald ein Crossover. Nun wurde ein Bild enthüllt, das Darth Vader mit einer mächtigen Waffe zeigt. Der Beitrag Darth Vade..."
+    },
+    {
+      "title": "Football Manager 27: Sega will mit Gratis-Test Vertrauen zurückgewinnen",
+      "link": "https://www.computerbase.de/news/gaming/football-manager-27-sega-will-mit-gratis-test-vertrauen-zurueckgewinnen.99919/",
+      "pubDate": "22.10.2026 um 07:39 Uhr",
+      "timestamp": 1792647540.0,
+      "source": "ComputerBase",
+      "summary": "Football Manager 27 erscheint am 10. November, doch Ende Oktober dürfen Interessierte den neuen Fußballmanager fünf Tage kostenlos testen. Nach dem Ab..."
+    },
+    {
+      "title": "Ein neues Update von Nvidia beseitigt ein paar der nervigsten Ladezeiten, die viele Spiele plagen",
+      "link": "https://mein-mmo.de/update-nvidia-nervigsten-ladezeiten-spiele-plagen/",
+      "pubDate": "22.10.2026 um 05:30 Uhr",
+      "timestamp": 1792647000.0,
+      "source": "Mein-MMO",
+      "summary": "Das Kompilieren von Shadern nervt jeden Spieler. Ein Update von Nvidia reduziert das jetzt wohl auf ein Minimum. Der Beitrag Ein neues Update von Nvid..."
+    },
+    {
+      "title": "Nach 700 Stunden muss ich ein Survival-Spiel neu lernen, weil der DLC alles über den Haufen wirft",
+      "link": "https://mein-mmo.de/once-human-dlc-isles-of-abyss-anspielbericht/",
+      "pubDate": "22.10.2026 um 05:00 Uhr",
+      "timestamp": 1792645200.0,
+      "source": "Mein-MMO",
+      "summary": "Isles of Abyss bringt frischen Content zu Once Human und wirft alte Systeme buchstäblich über Bord. Nicole hat sich vorab in die Fluten gestürzt. Der ..."
+    },
+    {
+      "title": "Neuer Xbox-Handheld: Streit mit Windows-Team eskalierte offenbar",
+      "link": "https://www.computerbase.de/news/gaming/xbox-gegen-windows-neuer-xbox-handheld-stand-offenbar-auf-der-kippe.99944/",
+      "pubDate": "22.10.2026 um 05:58 Uhr",
+      "timestamp": 1792641480.0,
+      "source": "ComputerBase",
+      "summary": "Bei Microsoft soll ein Konflikt über die Software des kommenden Xbox-Handhelds eskaliert sein. Laut Fortune wollte das Windows-Team eine reduzierte Ve..."
+    },
+    {
+      "title": "WoW Forever: Die Beta endet, aber die Community hat noch Sorgen",
+      "link": "https://mein-mmo.de/wow-forever-beta-endet-community-noch-sorgen/",
+      "pubDate": "22.10.2026 um 03:30 Uhr",
+      "timestamp": 1792639800.0,
+      "source": "Mein-MMO",
+      "summary": "In wenigen Stunden ist Schluss mit der Beta von WoW Forever. Doch noch immer gibt es Sorgen und Fragen, die eine Antwort wollen. Der Beitrag WoW Forev..."
     },
     {
       "title": "Ocarina of Time Remake – Digitales Zelda-Jubiläums-Wallpaper als Bonus",
@@ -39,113 +143,81 @@
       "timestamp": 1792611095.0,
       "source": "PlayCentral",
       "summary": "Steam-Nutzer können sich am 28. Oktober 2026 einen der einflussreichsten Ego-Shooter der vergangenen Jahre kostenlos sichern. Lenovo verteilt über sei..."
-    },
-    {
-      "title": "Ende einer Ära: BioWare und Mass Effect sind Geschichte",
-      "link": "https://www.computerbase.de/news/gaming/ende-einer-aera-bioware-und-mass-effect-sind-geschichte.99943/",
-      "pubDate": "21.10.2026 um 21:27 Uhr",
-      "timestamp": 1792610820.0,
-      "source": "ComputerBase",
-      "summary": "Im Zuge massiver Stellenkürzungen bei EA schließt BioWare die Pforten. Zusammen mit dem legendären RPG-Studio wird auch Mass Effect beerdigt. Beide pa..."
-    },
-    {
-      "title": "TH Deggendorf eröffnet „ROBERT“: Europas erstes Lehr­rechen­zentrum auf 238 m²",
-      "link": "https://www.computerbase.de/news/wirtschaft/th-deggendorf-eroeffnet-robert-europas-erstes-lehrrechenzentrum-auf-238-m2.99938/",
-      "pubDate": "21.10.2026 um 21:00 Uhr",
-      "timestamp": 1792609200.0,
-      "source": "ComputerBase",
-      "summary": "Die TH Deggendorf hat mit ROBERT nach eigenen Angaben Europas erstes ganzheitliches Lehrrechenzentrum eröffnet. Studenten sollen dort an produktionsna..."
-    },
-    {
-      "title": "Gerücht um Xbox Game Pass – Microsoft plant Baukasten-Tarife",
-      "link": "https://www.playcentral.de/geruecht-um-xbox-game-pass-microsoft-plant-baukasten-tarife/",
-      "pubDate": "21.10.2026 um 18:33 Uhr",
-      "timestamp": 1792607609.0,
-      "source": "PlayCentral",
-      "summary": "Microsoft könnte den Xbox Game Pass grundlegend umbauen und Abonnenten künftig deutlich mehr Kontrolle über den Umfang ihres Tarifs geben. Laut einem ..."
-    },
-    {
-      "title": "EA schließt BioWare – Entwicklung am neuen Mass Effect endet",
-      "link": "https://www.playcentral.de/ea-schliesst-bioware-entwicklung-am-neuen-mass-effect-endet/",
-      "pubDate": "21.10.2026 um 18:32 Uhr",
-      "timestamp": 1792607554.0,
-      "source": "PlayCentral",
-      "summary": "Eine der prägendsten Rollenspielschmieden der Videospielgeschichte steht vor dem endgültigen Aus. Electronic Arts hat am 21. Oktober 2026 bestätigt, d..."
-    },
-    {
-      "title": "WoW-Statue Alexstrasza von HEX Collectibles kommt 2027 – Preis, Größe",
-      "link": "https://www.playcentral.de/wow-statue-alexstrasza-von-hex-collectibles-kommt-2027-preis-groesse/",
-      "pubDate": "21.10.2026 um 18:31 Uhr",
-      "timestamp": 1792607490.0,
-      "source": "PlayCentral",
-      "summary": "Ein neuer offizieller World of Warcraft Release für 2027 dürfte vor allem Sammler aufhorchen lassen. Dabei handelt es sich allerdings nicht um eine we..."
-    },
-    {
-      "title": "CB-Funk-Podcast #189: FSR 4.1 überrascht, DLSS 5 gibt Gas und COD nervt",
-      "link": "https://www.computerbase.de/news/grafikkarten/cb-funk-podcast-189-fsr-4-1-ueberrascht-dlss-5-gibt-gas-und-cod-nervt.99933/",
-      "pubDate": "21.10.2026 um 20:29 Uhr",
-      "timestamp": 1792607340.0,
-      "source": "ComputerBase",
-      "summary": "AMD did it again! Was FSR 4.1 für Spieler mit RDNA-2-Grafikkarten und RDNA-3.5-APUs bedeutet und wie viel schneller DLSS 5 geworden ist, besprechen Ja..."
-    },
-    {
-      "title": "EA schließt Bioware: 400 Stellen und das neue Mass Effect gestrichen",
-      "link": "https://www.eurogamer.de/ea-schliesst-bioware-mass-effect-eingestellt",
-      "pubDate": "21.10.2026 um 17:53 Uhr",
-      "timestamp": 1792605210.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wow, das ist keine tolle Nachricht an diesem Abend. Electronic Arts schlie&szlig;t Bioware und 400 Stellen fallen im Zuge dieser Entscheidung weg. Das..."
-    },
-    {
-      "title": "Thermaltake View 590: Glaskasten kühlt schräg hinter L-Fenster",
-      "link": "https://www.computerbase.de/news/gehaeuse/thermaltake-view-590-glaskasten-kuehlt-schraeg-hinter-l-fenster.99939/",
-      "pubDate": "21.10.2026 um 19:40 Uhr",
-      "timestamp": 1792604400.0,
-      "source": "ComputerBase",
-      "summary": "Schräge Ecke, großes L-Fenster und ein verstecktes Abteil für hässliche Hardware ergeben in Kombination das Thermaltake View 590 TG ARGB. Eine Besonde..."
-    },
-    {
-      "title": "EA verpasst BioWare den Todesstoß, entlässt 400 Mitarbeiter",
-      "link": "https://mein-mmo.de/ea-entlaesst-400-mitarbeiter-schliesst-bioware/",
-      "pubDate": "21.10.2026 um 17:17 Uhr",
-      "timestamp": 1792603054.0,
-      "source": "Mein-MMO",
-      "summary": "Electronic Arts entlässt 400 Mitarbeiter. BioWare, das Studio hinter Rollenspiel-Lieblingen wie Dragon Age und Mass Effect wird geschlossen. Der Beitr..."
-    },
-    {
-      "title": "Gigabyte: Zwei Dutzend Z990-Mainboards, zwei davon mit „Wood“",
-      "link": "https://www.computerbase.de/news/mainboards/gigabyte-zwei-dutzend-z990-mainboards-zwei-davon-mit-wood.99934/",
-      "pubDate": "21.10.2026 um 18:55 Uhr",
-      "timestamp": 1792601700.0,
-      "source": "ComputerBase",
-      "summary": "Gigabyte hat gleich zwei Dutzend Namen für Z990-Mainboards registrieren lassen. Dazu zählen zu erwartende Modelle wie das Aorus Z990 Xtreme als auch n..."
-    },
-    {
-      "title": "Automatisiertes Fahren: Volvo plant L2++ will Kunden vor Kauf eine Test­phase anbieten",
-      "link": "https://www.computerbase.de/news/mobilitaet/volvo-im-gtc-gespraech-volvo-plant-l2-plus-plus-und-will-testphase-vor-dem-kauf-anbieten.99932/",
-      "pubDate": "21.10.2026 um 18:35 Uhr",
-      "timestamp": 1792600500.0,
-      "source": "ComputerBase",
-      "summary": "Volvo will noch vor 2030 das automatisierte Fahren nach Level 2++ mit Nvidia auf die Straße bringen. Die Funktion soll Fahrten von Parkplatz zu Parkpl..."
-    },
-    {
-      "title": "FF14 Online Store – Square Enix verkauft Kostüm-Frisuren jetzt einzeln",
-      "link": "https://www.playcentral.de/ff14-online-store-square-enix-verkauft-kostuem-frisuren-jetzt-einzeln/",
-      "pubDate": "21.10.2026 um 16:33 Uhr",
-      "timestamp": 1792600408.0,
-      "source": "PlayCentral",
-      "summary": "Für viele Fans von Final Fantasy 14 gehört das Zusammenstellen neuer Glamour-Looks längst zum eigentlichen Endgame. Square Enix macht diesen Teil des ..."
-    },
-    {
-      "title": "World of Warcraft: Forever verlängert die Beta, während die Community um ihre Jäger-Begleiter trauert",
-      "link": "https://www.eurogamer.de/world-of-warcraft-forever-beta-verlaengerung",
-      "pubDate": "21.10.2026 um 16:31 Uhr",
-      "timestamp": 1792600287.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Beta von World of Warcraft: Forever geht in die Verl&auml;ngerung: Zur gro&szlig;en Freude der Community l&auml;uft die Testphase nun noch bis die..."
     }
   ],
   "int": [
+    {
+      "title": "\"Development on the next Mass Effect is ending\": EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
+      "link": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
+      "pubDate": "22.10.2026 um 06:56 Uhr",
+      "timestamp": 1792652160.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Venerable RPG studio Bioware announced on it is shutting down after more than 30 years of making RPGs. The studio is responsible for making the origin..."
+    },
+    {
+      "title": "'We Were Working on a Great Game' — Former Mass Effect 5 Writers Speak Out After EA Shuts Down BioWare",
+      "link": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware",
+      "pubDate": "22.10.2026 um 05:56 Uhr",
+      "timestamp": 1792648618.0,
+      "source": "IGN All",
+      "summary": "`Former writers for the now-canceled Mass Effect 5 are speaking out on social media following news that BioWare, a beloved studio with more than 30 ye..."
+    },
+    {
+      "title": "All party members in Final Fantasy Resonance",
+      "link": "https://www.polygon.com/final-fantasy-resonance-party-members-location-how-to-unlock/",
+      "pubDate": "22.10.2026 um 04:01 Uhr",
+      "timestamp": 1792641677.0,
+      "source": "Polygon.com",
+      "summary": "In this guide, you find the list of all party members you can recruit in Final Fantasy Resonance, when you unlock them, and their roles."
+    },
+    {
+      "title": "All unlockable Visions in Final Fantasy Resonance",
+      "link": "https://www.polygon.com/final-fantasy-resonance-visions-locations-how-to-unlock/",
+      "pubDate": "22.10.2026 um 04:01 Uhr",
+      "timestamp": 1792641677.0,
+      "source": "Polygon.com",
+      "summary": "Here's a list of all Visions available in Final Fantasy Resonance, where you can find them, and the prerequisites for unlocking each one."
+    },
+    {
+      "title": "Where to find all ancient equipment in Final Fantasy Resonance",
+      "link": "https://www.polygon.com/final-fantasy-resonance-ancient-equipment-upgrade-locations/",
+      "pubDate": "22.10.2026 um 04:01 Uhr",
+      "timestamp": 1792641677.0,
+      "source": "Polygon.com",
+      "summary": "Here's where to upgrade ancient equipment into the best weapons in Final Fantasy Resonance, and where to find all the ancient equips."
+    },
+    {
+      "title": "How to find Mysidia in Final Fantasy Resonance",
+      "link": "https://www.polygon.com/final-fantasy-resonance-mysidia-location-how-to-find/",
+      "pubDate": "22.10.2026 um 04:01 Uhr",
+      "timestamp": 1792641677.0,
+      "source": "Polygon.com",
+      "summary": "In this guide, you learn how to find Mysidia in Final Fantasy Resonance, the Magiopolis as well as the exact location where you must use the radar."
+    },
+    {
+      "title": "Where to find and use Adamantite in Final Fantasy Resonance",
+      "link": "https://www.polygon.com/final-fantasy-resonance-adamantite-use-locations-weapons/",
+      "pubDate": "22.10.2026 um 04:01 Uhr",
+      "timestamp": 1792641677.0,
+      "source": "Polygon.com",
+      "summary": "Here's where to find Adamantite in Final Fantasy Resonance, which makes some powerful weapons and armor, if you bring it to the right person."
+    },
+    {
+      "title": "How to get Sephiroth's Vision in Final Fantasy Resonance",
+      "link": "https://www.polygon.com/final-fantasy-resonance-sephiroth-vision-where-to-find-boss-fight/",
+      "pubDate": "22.10.2026 um 04:01 Uhr",
+      "timestamp": 1792641677.0,
+      "source": "Polygon.com",
+      "summary": "If you want the Sephiroth's Vision in Final Fantasy Resonance, you'll need to take on the One-Winged Angel himself. Here's how to beat him."
+    },
+    {
+      "title": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
+      "link": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
+      "pubDate": "22.10.2026 um 01:14 Uhr",
+      "timestamp": 1792631680.0,
+      "source": "PCGamer latest",
+      "summary": "BioWare had paid attention to Larian and CD Projekt."
+    },
     {
       "title": "Can you identify the horror game by its horrors?",
       "link": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
@@ -153,6 +225,22 @@
       "timestamp": 1792631344.0,
       "source": "PCGamer latest",
       "summary": "Put a name to the nightmare."
+    },
+    {
+      "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
+      "link": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+      "pubDate": "22.10.2026 um 00:41 Uhr",
+      "timestamp": 1792629708.0,
+      "source": "IGN All",
+      "summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more..."
+    },
+    {
+      "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
+      "link": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
+      "pubDate": "22.10.2026 um 00:14 Uhr",
+      "timestamp": 1792628090.0,
+      "source": "IGN All",
+      "summary": ""
     },
     {
       "title": "Holy crap, they're making Serious Sam: The Third Encounter",
@@ -201,94 +289,6 @@
       "timestamp": 1792623737.0,
       "source": "IGN All",
       "summary": "This bigger and better version of DMZ makes a great first impression."
-    },
-    {
-      "title": "SonicFox Reminds Everyone They’re Based, Backing Out Of A Gaming Convention Over An AI-Generated Promo",
-      "link": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
-      "pubDate": "21.10.2026 um 23:00 Uhr",
-      "timestamp": 1792623651.0,
-      "source": "Kotaku",
-      "summary": "Ninjutsu Entertainment posted a video asking SonicFox to reconsider their decision"
-    },
-    {
-      "title": "The 10 best alchemy cards in Magic: The Gathering, ranked",
-      "link": "https://www.polygon.com/best-alchemy-cards-magic-gathering-mgt/",
-      "pubDate": "21.10.2026 um 22:59 Uhr",
-      "timestamp": 1792623568.0,
-      "source": "Polygon.com",
-      "summary": "Alchemy produced some of Magic’s wildest digital-only cards"
-    },
-    {
-      "title": "Chris Pratt Reaffirms Star-Lord Will Return in the MCU and Plans Are Being Made Right Now",
-      "link": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now",
-      "pubDate": "21.10.2026 um 22:43 Uhr",
-      "timestamp": 1792622597.0,
-      "source": "IGN All",
-      "summary": "Chris Pratt has confirmed that Star-Lord's return to the MCU is actively being figured out."
-    },
-    {
-      "title": "Batman is \"around\" during the events of Clayface, confirms DC Studios co-CEO: \"This is the introduction to the live-action Gotham\"",
-      "link": "https://www.gamesradar.com/entertainment/dc-movies/batman-is-around-during-the-events-of-clayface-confirms-dc-studios-co-ceo-this-is-the-introduction-to-the-live-action-gotham/",
-      "pubDate": "21.10.2026 um 22:43 Uhr",
-      "timestamp": 1792622581.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "We first saw Batman in Creature Commandos"
-    },
-    {
-      "title": "BioWare Was the Greatest RPG Developer Ever",
-      "link": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
-      "pubDate": "21.10.2026 um 22:38 Uhr",
-      "timestamp": 1792622297.0,
-      "source": "IGN All",
-      "summary": "There are many great role-playing game developers, past and present. But none can touch what BioWare has done over 30-plus years."
-    },
-    {
-      "title": "The Future Of The Sims Just Got Even Messier",
-      "link": "https://kotaku.com/the-future-of-the-sims-just-got-even-messier-2000748398",
-      "pubDate": "21.10.2026 um 22:30 Uhr",
-      "timestamp": 1792621847.0,
-      "source": "Kotaku",
-      "summary": "Maxis is shifting its focus to something called Project Evergreen"
-    },
-    {
-      "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
-      "link": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
-      "pubDate": "21.10.2026 um 22:26 Uhr",
-      "timestamp": 1792621601.0,
-      "source": "PCGamer latest",
-      "summary": "Three cheers for the slop intolerant."
-    },
-    {
-      "title": "SonicFox Cancels Contract With Gaming Convention After Event Uses Likeness in AI-Generated Poster",
-      "link": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster",
-      "pubDate": "21.10.2026 um 22:19 Uhr",
-      "timestamp": 1792621195.0,
-      "source": "IGN All",
-      "summary": "Prolific fighting game player SonicFox has terminated their contract with a tournament in Norman, Oklahoma after organizers fed artwork of their masco..."
-    },
-    {
-      "title": "Baldur’s Gate 3 Returns With New Official Sequel Series",
-      "link": "https://www.polygon.com/baldurs-gate-3-sequel-series-hbo-streaming/",
-      "pubDate": "21.10.2026 um 22:09 Uhr",
-      "timestamp": 1792620557.0,
-      "source": "Polygon.com",
-      "summary": "HBO is developing Baldur's Gate with Last of Us and Chernobyl creator Craig Mazin. The D&amp;D fantasy series picks up where Baldur's Gate 3 left off."
-    },
-    {
-      "title": "Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closure",
-      "link": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
-      "pubDate": "21.10.2026 um 22:06 Uhr",
-      "timestamp": 1792620389.0,
-      "source": "IGN All",
-      "summary": "The Mass Effect video game franchise may have come to an end with the shocking demise of BioWare, but IGN can exclusively reveal that its future on th..."
-    },
-    {
-      "title": "Subnautica 2 Is Getting Scarier With ‘Early Access 2.0,’ But Its Early Access Period Has No End In Sight",
-      "link": "https://kotaku.com/subnautica-2-is-getting-scarier-with-early-access-2-0-but-its-early-access-period-has-no-end-in-sight-2000748322",
-      "pubDate": "21.10.2026 um 22:00 Uhr",
-      "timestamp": 1792620011.0,
-      "source": "Kotaku",
-      "summary": "Some players are a little fed up with the nebulous length of the game's early access timeline"
     }
   ],
   "sim": [
