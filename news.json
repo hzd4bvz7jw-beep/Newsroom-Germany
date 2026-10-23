@@ -1,297 +1,305 @@
 {
   "de": [
     {
-      "title": "Spotify Family: Ohne QR-Code-Prüfung droht 12-monatige Sperre",
-      "link": "https://www.computerbase.de/news/audio-video-foto/spotify-family-ohne-qr-code-pruefung-droht-12-monatige-sperre.99969/",
-      "pubDate": "23.10.2026 um 15:04 Uhr",
-      "timestamp": 1792760640.0,
+      "title": "Micron gibt Ausblick: Spezial-NAND für extrem viele IOPS und hohen Durchsatz",
+      "link": "https://www.computerbase.de/news/storage/micron-gibt-ausblick-spezial-nand-fuer-extrem-viele-iops-und-hohen-durchsatz.99959/",
+      "pubDate": "23.10.2026 um 19:14 Uhr",
+      "timestamp": 1792775640.0,
       "source": "ComputerBase",
-      "summary": "Spotify verstärkt die Kontrolle im Family-Abo, um Account-Sharing zu verhindern: Mitglieder müssen ihren gemeinsamen Haushalt im Zweifel persönlich pe..."
+      "summary": "Auch Micron arbeitet an speziellem NAND-Flash, um im KI-Boom SSDs mit bis zu 100 Millionen IOPS zu ermöglichen. Eine Form von High-Bandwidth Flash mit..."
     },
     {
-      "title": "Der wichtigste Plottwist in Dragon Ball war anfangs gar nicht geplant",
+      "title": "Wird Arkane Lyon auch bald geschlossen? Die Zeit rennt und noch ist kein Käufer in Sicht",
+      "link": "https://www.eurogamer.de/wird-arkane-lyon-auch-bald-geschlossen-die-zeit-rennt-und-noch-ist-kein-kaufer-in-sicht",
+      "pubDate": "23.10.2026 um 17:04 Uhr",
+      "timestamp": 1792775089.0,
+      "source": "Eurogamer.de News",
+      "summary": "In Frankreich ist es so, dass Unternehmen mit mehr als 1.000 Mitarbeitern nicht einfach so aus heiterem Himmel schlie&szlig;en d&uuml;rfen. Bevor ein ..."
+    },
+    {
+      "title": "CoD MW4: Meta – Die 4 besten Waffen mit Builds für die ersten Tage",
+      "link": "https://mein-mmo.de/cod-mw4-meta/",
+      "pubDate": "23.10.2026 um 16:55 Uhr",
+      "timestamp": 1792774503.0,
+      "source": "Mein-MMO",
+      "summary": "Wenn ihr in CoD MW4 den Multiplayer erobern wollt, müsst ihr die besten Waffen und Builds kennen. Wir zeigen euch, was aktuell Meta ist. Der Beitrag C..."
+    },
+    {
+      "title": "Gerücht zu LEGO Daily Planet 2027 – 2.981 Teile und 13 Minifiguren",
+      "link": "https://www.playcentral.de/geruecht-zu-lego-daily-planet-2027-2-981-teile-und-13-minifiguren/",
+      "pubDate": "23.10.2026 um 16:32 Uhr",
+      "timestamp": 1792773132.0,
+      "source": "PlayCentral",
+      "summary": "Mit dem Daily Planet könnte 2027 endlich einer der bekanntesten Schauplätze aus dem DC-Universum als großes LEGO-Set erscheinen. Ein aktuelles Gerücht..."
+    },
+    {
+      "title": "Leak zu Mass Effect Universe – Kalter Krieg, Spionage und Geth als Machtblock",
+      "link": "https://www.playcentral.de/leak-zu-mass-effect-universe-kalter-krieg-spionage-und-geth-als-machtblock/",
+      "pubDate": "23.10.2026 um 16:31 Uhr",
+      "timestamp": 1792773084.0,
+      "source": "PlayCentral",
+      "summary": "Wenige Tage nach dem Ende von BioWare sind neue angebliche Details zum eingestellten Mass Effect 5 im Netz aufgetaucht. Das Rollenspiel soll intern de..."
+    },
+    {
+      "title": "Elden Ring: Laut Analyst haben knapp 3,5 Millionen Spieler jedes einzelne Achievement",
+      "link": "https://www.eurogamer.de/elden-ring-millionen-spieler-alle-achievements",
+      "pubDate": "23.10.2026 um 16:27 Uhr",
+      "timestamp": 1792772854.0,
+      "source": "Eurogamer.de News",
+      "summary": "Elden Ring ist inzwischen etwa vier Jahre alt. Das ist schon verr&uuml;ckt, wie schnell die Zeit doch vergeht. Erst 2022 schnappte sich das Soulslike ..."
+    },
+    {
+      "title": "FF14-Keybound Brawler startet im Gold Saucer – Tastaturpflicht, Belohnungen",
+      "link": "https://www.playcentral.de/ff14-keybound-brawler-startet-im-gold-saucer-tastaturpflicht-belohnungen/",
+      "pubDate": "23.10.2026 um 15:31 Uhr",
+      "timestamp": 1792769511.0,
+      "source": "PlayCentral",
+      "summary": "Mit Keybound Brawler erhält Final Fantasy 14 am 28. Oktober 2026 ein neues Minispiel im Manderville Gold Saucer. Die Attraktion bildet den Auftakt ein..."
+    },
+    {
+      "title": "Assassins Creed Black Flag Resynced – New Game Plus kommt nächste Woche",
+      "link": "https://www.playcentral.de/assassins-creed-black-flag-resynced-new-game-plus-kommt-naechste-woche/",
+      "pubDate": "23.10.2026 um 15:31 Uhr",
+      "timestamp": 1792769471.0,
+      "source": "PlayCentral",
+      "summary": "Ubisoft bringt eine der am häufigsten gewünschten Funktionen in Assassin’s Creed Black Flag Resynced. Der bereits im Juli 2026 angekündigte New Game P..."
+    },
+    {
+      "title": "Spieler von Modern Warfare 4 DMZ wüten über neuen Wiederbelebungs-Perk",
+      "link": "https://www.eurogamer.de/modern-warfare-4-dmz-possum-perk",
+      "pubDate": "23.10.2026 um 15:29 Uhr",
+      "timestamp": 1792769350.0,
+      "source": "Eurogamer.de News",
+      "summary": "Der DMZ-Extraction-Shooter-Modus von Modern Warfare 4 ist erst seit zwei Tagen online &ndash; und das auch nur f&uuml;r Vorbesteller. Dennoch sorgt ei..."
+    },
+    {
+      "title": "Cyberpunk 2077: Update 2.5 bringt versteckte Witcher-Waffe ins Spiel",
+      "link": "https://www.eurogamer.de/cyberpunk-2077-update-witcher-waffen",
+      "pubDate": "23.10.2026 um 15:15 Uhr",
+      "timestamp": 1792768527.0,
+      "source": "Eurogamer.de News",
+      "summary": "Cyberpunk 2077 hat mit Update 2.5 einen &uuml;berraschenden Patch erhalten. Es f&uuml;hrte zwei neue Waffen ein, neue Quests und M&ouml;glichkeiten, e..."
+    },
+    {
+      "title": "Der wichtigste Plottwist in Dragon Ball war anfangs gar nicht geplant, Toriyama war darauf vorbereitet, dass der Manga schnell endet",
       "link": "https://mein-mmo.de/son-goku-war-anfangs-gar-kein-saiyajin/",
-      "pubDate": "23.10.2026 um 12:42 Uhr",
-      "timestamp": 1792759370.0,
+      "pubDate": "23.10.2026 um 14:53 Uhr",
+      "timestamp": 1792767207.0,
       "source": "Mein-MMO",
       "summary": "Toriyama führte viele Andeutungen in Dragon Ball lange weiter, aber vieles davon war wohl gar nicht geplant. Der Beitrag Der wichtigste Plottwist in D..."
     },
     {
-      "title": "Vor 38 Jahren veröffentlichte DC einen der besten Comics aller Zeiten, obwohl Batman vielleicht seine wichtigste Regel gebrochen hat",
+      "title": "Mass Effect: Fans starten Petition & EA erntet ordentlich Kritik",
+      "link": "https://www.playcentral.de/mass-effect-petition-ea-erntet-kritik/",
+      "pubDate": "23.10.2026 um 14:51 Uhr",
+      "timestamp": 1792767116.0,
+      "source": "PlayCentral",
+      "summary": "Die Schließung von BioWare und das Aus für das nächste Mass Effect sorgen in der Gaming-Branche für Entsetzen. Während Fans mit einer Petition um die ..."
+    },
+    {
+      "title": "Nvidia DLSS 5: Metro 2033 und Last Light überraschen mit Neural Rendering",
+      "link": "https://www.computerbase.de/news/gaming/metro-2033-und-last-light-4a-games-ueberrascht-nvidia-mit-dlss-5-nr.99971/",
+      "pubDate": "23.10.2026 um 16:33 Uhr",
+      "timestamp": 1792765980.0,
+      "source": "ComputerBase",
+      "summary": "Das Next-Gen-Update für Metro 2033 Redux und Metro: Last Light Redux bringt neben grafischen Verbesserungen überraschend auch Unterstützung für Nvidia..."
+    },
+    {
+      "title": "Cyberpunk 2077 Update 2.5 bringt geheimes Witcher-Ausrüstungspaket",
+      "link": "https://www.playcentral.de/cyberpunk-2077-update-2-5-bringt-geheimes-witcher-ausruestungspaket/",
+      "pubDate": "23.10.2026 um 14:32 Uhr",
+      "timestamp": 1792765939.0,
+      "source": "PlayCentral",
+      "summary": "Mit Update 2.5 hat CD Projekt Red am 22. Oktober 2026 überraschend neue Inhalte für Cyberpunk 2077 veröffentlicht. Neben der großen Kooperation mit Cy..."
+    },
+    {
+      "title": "Steelblood Allied Front – Retro-Weltkriegs-Shooter im Medal of Honor Stil",
+      "link": "https://www.playcentral.de/steelblood-allied-front-retro-weltkriegs-shooter-im-medal-of-honor-stil/",
+      "pubDate": "23.10.2026 um 14:31 Uhr",
+      "timestamp": 1792765897.0,
+      "source": "PlayCentral",
+      "summary": "Mit Steelblood: Allied Front kündigt sich auf Steam ein neuer Weltkriegs-Shooter an, der Erinnerungen an die frühen Jahre von Medal of Honor weckt. Da..."
+    },
+    {
+      "title": "Baldur's Gate 3 in Zahlen: Analyst zeigt, wie sich das Spiel bisher geschlagen hat",
+      "link": "https://www.eurogamer.de/baldurs-gate-3-in-zahlen-analyst-zeigt-wie-sich-das-spiel-bisher-geschlagen-hat",
+      "pubDate": "23.10.2026 um 14:09 Uhr",
+      "timestamp": 1792764572.0,
+      "source": "Eurogamer.de News",
+      "summary": "Erinnert ihr euch noch an 2023? Das Jahr, in dem das DnD-Rollenspiel Baldur's Gate 3 endlich erschienen ist? Nicht nur hat der Titel direkt den Award ..."
+    },
+    {
+      "title": "In einer Geschichte lacht sogar Batman über den Witz des Jokers, ist eine seiner besten Storys",
       "link": "https://mein-mmo.de/the-killing-joke-beste-batman-story/",
-      "pubDate": "23.10.2026 um 12:41 Uhr",
-      "timestamp": 1792759262.0,
+      "pubDate": "23.10.2026 um 14:08 Uhr",
+      "timestamp": 1792764496.0,
       "source": "Mein-MMO",
-      "summary": "Batman hat viele legendäre Storys, aber in einer seiner besten geht er an die Grenze seiner eigenen Regeln. Der Beitrag Vor 38 Jahren veröffentlichte ..."
+      "summary": "Batman hat viele legendäre Storys, aber in einer seiner besten geht er an die Grenze seiner eigenen Regeln. Der Beitrag In einer Geschichte lacht soga..."
     },
     {
-      "title": "Fallout-Serie – Prime 1 bringt Maximus als 67-cm-Statue, Preise und Extras",
-      "link": "https://www.playcentral.de/fallout-serie-prime-1-bringt-maximus-als-67-cm-statue-preise-und-extras/",
-      "pubDate": "23.10.2026 um 12:31 Uhr",
-      "timestamp": 1792758685.0,
-      "source": "PlayCentral",
-      "summary": "Hinter Fallout: Maximus verbirgt sich kein neues Videospiel, sondern ein besonders aufwendig gestaltetes Sammlerstück zur erfolgreichen Live-Action-Se..."
-    },
-    {
-      "title": "Mass Effect 5: Thomas Marrone wirft Publishern nach BioWare-Aus Selbstsabotage vor",
-      "link": "https://www.eurogamer.de/mass-effect-5-star-trek-online-bioware-aus",
-      "pubDate": "23.10.2026 um 12:00 Uhr",
-      "timestamp": 1792756857.0,
-      "source": "Eurogamer.de News",
-      "summary": "Eingespielte Entwicklerteams aufzul&ouml;sen, um stattdessen Start-ups von angeblichen \"AAA-Veteranen\" oder besonderen Technologien nachzujagen, gleic..."
-    },
-    {
-      "title": "Twitch-Streamer schmiedet in Craft Attack 14 kapitalistischen Superplan, um im echten Leben steinreich zu werden",
-      "link": "https://mein-mmo.de/twitch-craft-attack-14-nooreax-plan-big-5/",
-      "pubDate": "23.10.2026 um 12:00 Uhr",
-      "timestamp": 1792756800.0,
-      "source": "Mein-MMO",
-      "summary": "Der Twitch-Streamer Nooreax hat einen ganz bestimmten Plan, den er in Craft Attack 14 durchsetzen möchte. Der Beitrag Twitch-Streamer schmiedet in Cra..."
-    },
-    {
-      "title": "Performance & Bildqualität im Test: So gut ist FSR 4.1 auf RX 6000 im Vergleich zu RX 9000 & 7000",
-      "link": "https://www.computerbase.de/artikel/grafikkarten/fsr-4-1-radeon-rx-6000-rdna-3-test.99922/",
-      "pubDate": "23.10.2026 um 13:45 Uhr",
-      "timestamp": 1792755900.0,
+      "title": "Heute ab 19 Uhr: ARD-Konzert spielt Songs aus BioShock, Diablo & Tomb Raider",
+      "link": "https://www.computerbase.de/news/gaming/heute-ab-19-uhr-ard-konzert-spielt-songs-aus-bioshock-diablo-und-tomb-raider.99972/",
+      "pubDate": "23.10.2026 um 16:03 Uhr",
+      "timestamp": 1792764180.0,
       "source": "ComputerBase",
-      "summary": "Früher als angekündigt hat AMD am Dienstag mit dem Adrenalin 26.10.1 FSR Upscaling 4.1 für Radeon-RX-6000-Grafikkarten freigeschaltet. Wir haben uns d..."
-    },
-    {
-      "title": "PlayStation Plus November 2026 – diese Spiele stehen auf der Wunschliste",
-      "link": "https://www.playcentral.de/playstation-plus-november-2026-diese-spiele-stehen-auf-der-wunschliste/",
-      "pubDate": "23.10.2026 um 11:31 Uhr",
-      "timestamp": 1792755087.0,
-      "source": "PlayCentral",
-      "summary": "Der November 2026 könnte für PlayStation Plus besonders spannend werden. Kurz vor dem Weihnachtsgeschäft bietet sich Sony die Gelegenheit, einige prom..."
-    },
-    {
-      "title": "Delta 2.0 in der EU verfügbar: Retro-Emulator erhält großes iPhone-Duo-Update",
-      "link": "https://www.computerbase.de/news/apps/delta-2-0-in-der-eu-verfuegbar-retro-emulator-erhaelt-grosses-iphone-duo-update.99966/",
-      "pubDate": "23.10.2026 um 13:30 Uhr",
-      "timestamp": 1792755000.0,
-      "source": "ComputerBase",
-      "summary": "Delta 2.0 erweitert den mehr als 20 Millionen Mal geladenen iOS-Emulator um die Unterstützung für Apples erstes faltbares iPhone Duo sowie Sega Genesi..."
-    },
-    {
-      "title": "Könnte KI das Ende der Gaming-Konsolen bedeuten? PlayStation-Schöpfer Ken Kutagari befürchtet genau das",
-      "link": "https://www.eurogamer.de/playstation-erfinder-ken-kutaragi-ki-ende-konsolen",
-      "pubDate": "23.10.2026 um 11:27 Uhr",
-      "timestamp": 1792754865.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die &Auml;ra der Spielekonsolen k&ouml;nnte so langsam zu Ende gehen. Das sagt PlayStation-Sch&ouml;pfer Ken Kutaragi und begr&uuml;ndet diese Aussage..."
-    },
-    {
-      "title": "Elder Scrolls Online schenkt euch „Skyrim“ und 2 Dungeons",
-      "link": "https://mein-mmo.de/elder-scrolls-online-saison-2-start-roadmap/",
-      "pubDate": "23.10.2026 um 11:27 Uhr",
-      "timestamp": 1792754856.0,
-      "source": "Mein-MMO",
-      "summary": "Am 21. Oktober 2026 ist Saison 2 von The Elder Scrolls Online gestartet. Freut euch auf zwei Geschenke und die Premiere der Soloverliese. Der Beitrag ..."
-    },
-    {
-      "title": "Die Beta von WoW Forever hat lange nicht alles verraten, was euch bis Stufe 30 erwartet",
-      "link": "https://mein-mmo.de/wow-forever-geheimnisse-bis-stufe-30/",
-      "pubDate": "23.10.2026 um 11:26 Uhr",
-      "timestamp": 1792754787.0,
-      "source": "Mein-MMO",
-      "summary": "Im Bereich Stufe 1 bis 30 sollen in WoW Forever noch viele unentdeckte Geheimnisse auf alle Fans von World of Warcraft warten. Der Beitrag Die Beta vo..."
-    },
-    {
-      "title": "Total War: Shogun 2 Complete Edition: Creative Assembly entschuldigt sich nach Verkaufsstopp",
-      "link": "https://www.eurogamer.de/total-war-shogun-2-verkaufsstopp-statement",
-      "pubDate": "23.10.2026 um 11:14 Uhr",
-      "timestamp": 1792754083.0,
-      "source": "Eurogamer.de News",
-      "summary": "Nachdem die Complete Edition von Total War: Shogun 2 k&uuml;rzlich unmittelbar nach dem Launch aus dem Verkauf genommen wurde, hat sich das Entwickler..."
-    },
-    {
-      "title": "Nur noch KI-Browser Dia: Arc Browser wird am 22. Dezember abgeschaltet",
-      "link": "https://www.computerbase.de/news/apps/nur-noch-ki-browser-dia-arc-browser-wird-am-22-dezember-abgeschaltet.99967/",
-      "pubDate": "23.10.2026 um 12:57 Uhr",
-      "timestamp": 1792753020.0,
-      "source": "ComputerBase",
-      "summary": "Der Arc Browser von The Browser Company wird eingestellt. Die Abschaltung erfolgt in mehreren Schritten, bis Arc am 22. Dezember 2026 schließlich über..."
-    },
-    {
-      "title": "Dragon Age: The Veilguard: BioWare-Veteran James Ohlen nimmt Entwickler nach Studio-Aus in Schutz",
-      "link": "https://www.eurogamer.de/dragon-age-veilguard-ohlen-verteidigt",
-      "pubDate": "23.10.2026 um 10:43 Uhr",
-      "timestamp": 1792752216.0,
-      "source": "Eurogamer.de News",
-      "summary": "Als einer von vielen aus der Branche kommentierte auch James Ohlen, ehemaliger Lead Designer von Knights of the Old Republic und Dragon Age, in dieser..."
-    },
-    {
-      "title": "Hellraiser: Revival: Saber Interactive feiert Erfolg und stellt teure AAA-Giganten infrage",
-      "link": "https://www.eurogamer.de/hellraiser-revival-saber-interactive-erfolg",
-      "pubDate": "23.10.2026 um 10:42 Uhr",
-      "timestamp": 1792752157.0,
-      "source": "Eurogamer.de News",
-      "summary": "Laut Matthew Karch, CEO von Saber Interactive, schl&auml;gt sich das j&uuml;ngst ver&ouml;ffentlichte Hellraiser: Revival ziemlich gut. Mehr"
-    },
-    {
-      "title": "Die Community von CoD MW4 will sich nicht eingestehen, wie gut sie den PvP-Shooter findet, murrt: „Ist wie zuzugeben, dass deine Ex recht hatte”",
-      "link": "https://mein-mmo.de/cod-mw4-community-stimmungsbild-nach-multiplayer-release/",
-      "pubDate": "23.10.2026 um 10:41 Uhr",
-      "timestamp": 1792752098.0,
-      "source": "Mein-MMO",
-      "summary": "Call of Duty: Modern Warfare 4 ist da und die ersten Spieler konnten sich einen Eindruck verschaffen – und sind zwiegespalten. Der Beitrag Die Communi..."
-    },
-    {
-      "title": "Gears of War: E-Day: Drittes Update schraubt an Performance und Stabilität auf PC und Xbox",
-      "link": "https://www.eurogamer.de/gears-of-war-eday-update",
-      "pubDate": "23.10.2026 um 10:41 Uhr",
-      "timestamp": 1792752083.0,
-      "source": "Eurogamer.de News",
-      "summary": "Das n&auml;chste Update f&uuml;r The Coalitions Gears of War: E-Day ist da und korrigiert auf Xbox Series X/S sowie PC einige weitere Fehler. Mehr"
+      "summary": "Heute Abend lädt das Deutsche Symphonie-Orchester zu einem Sonderkonzert mit epischer Musik aus Computerspielen. Die Veranstaltung im Haus des Rundfun..."
     }
   ],
   "int": [
     {
-      "title": "A Canadian Politician Says BioWare Devs Should Be Given Government Funding To Buy The Studio And Get Back To Making Mass Effect",
-      "link": "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088",
-      "pubDate": "23.10.2026 um 13:04 Uhr",
-      "timestamp": 1792760683.0,
-      "source": "Kotaku",
-      "summary": "‘We should be keeping private equity out, not welcoming it in’"
-    },
-    {
-      "title": "6 Best Upcoming Steam Games Worth Adding to Your Wishlist",
-      "link": "https://www.polygon.com/steam-wishlister-oct-23/",
-      "pubDate": "23.10.2026 um 13:00 Uhr",
-      "timestamp": 1792760419.0,
+      "title": "The 25 Best Nintendo Switch 2 Games in 2026",
+      "link": "https://www.polygon.com/best-switch-2-games-nintendo/",
+      "pubDate": "23.10.2026 um 18:07 Uhr",
+      "timestamp": 1792778836.0,
       "source": "Polygon.com",
-      "summary": "No matter how many cool Steam games you think are coming, think again. Here are six cool upcoming Steam games to wishlist."
+      "summary": "What are the best Nintendo Switch 2 games? From Fire Emblem: Fortune's Weave to Nintendo Switch Sports Resort, here are our favorites"
     },
     {
-      "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
-      "link": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
-      "pubDate": "23.10.2026 um 12:43 Uhr",
-      "timestamp": 1792759402.0,
-      "source": "Eurogamer.net News",
-      "summary": "It's been 19 years since the release of Half-Life 2: Episode 2, and yet the ceaseless clamour for a Valve game with a number '3' in its title continue..."
-    },
-    {
-      "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
-      "link": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
-      "pubDate": "23.10.2026 um 12:33 Uhr",
-      "timestamp": 1792758825.0,
-      "source": "Eurogamer.net News",
-      "summary": "Chinese action game Phantom Blade Zero already appears to be outperforming massive games like Gears of War: E-Day and Control Resonant on Steam, despi..."
-    },
-    {
-      "title": "Helldivers 3 \"only makes sense\" if it’s so unlike Helldivers 2 \"that both games can exist side by side\", says Arrowhead boss, discussing their new prototype game",
-      "link": "https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game",
-      "pubDate": "23.10.2026 um 12:20 Uhr",
-      "timestamp": 1792758039.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Arrowhead Game Studios will only make a Helldivers 3 if it's lightyears apart in style from Helldivers 2, or if Helldivers 2's playercount falls throu..."
-    },
-    {
-      "title": "Carrie could be a true crime story",
-      "link": "https://www.polygon.com/video/carrie-could-be-a-true-crime-story/",
-      "pubDate": "23.10.2026 um 12:14 Uhr",
-      "timestamp": 1792757692.0,
+      "title": "All 23 BioWare Games, Ranked",
+      "link": "https://www.polygon.com/bioware-games-ranked/",
+      "pubDate": "23.10.2026 um 18:00 Uhr",
+      "timestamp": 1792778420.0,
       "source": "Polygon.com",
-      "summary": "Mike Flanagan lays out the real social media tragedy that inspired Netflix's Carrie."
+      "summary": "From Shattered Steel to Mass Effect 2, we ranked all 23 BioWare games, remasters and mobile spin-offs included, as EA closes the studio."
     },
     {
-      "title": "What makes a good \"last episode\" of Futurama?",
-      "link": "https://www.polygon.com/video/what-makes-a-good-last-episode-of-futurama/",
-      "pubDate": "23.10.2026 um 12:08 Uhr",
-      "timestamp": 1792757285.0,
+      "title": "4 Years Ago, 'Doctor Who’s Biggest Failure Was Just the Beginning of the End",
+      "link": "https://www.polygon.com/doctor-who-the-power-of-the-doctor-failed-jodie-whittaker-4th-anniversary/",
+      "pubDate": "23.10.2026 um 18:00 Uhr",
+      "timestamp": 1792778420.0,
       "source": "Polygon.com",
-      "summary": "The creators of this season of Futurama pinpoint what makes it special every time the series ends."
+      "summary": "Doctor Who has faced problems for years, and it all traces back to one specific finale."
     },
     {
-      "title": "My favorite PS2 Resident Evil game is now free to play in a web browser, but AI could be lurking",
-      "link": "https://www.gamesradar.com/hardware/retro/you-can-now-play-my-favorite-resident-evil-multiplayer-romp-for-free-in-a-web-browser-without-a-ps2-but-wretched-ai-vibecoding-could-be-lurking/",
-      "pubDate": "23.10.2026 um 12:07 Uhr",
-      "timestamp": 1792757227.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Resident Evil Outbreak and its File #2 sequel are now playable for free in your web browser, but the PS2 multiplayer romp might be the result of AI vi..."
+      "title": "Taylor Sheridan's Call of Duty Adaptation Will Have 'Soul,' Director Says",
+      "link": "https://www.polygon.com/call-of-duty-taylor-sheridan-movie-peter-berg/",
+      "pubDate": "23.10.2026 um 17:59 Uhr",
+      "timestamp": 1792778397.0,
+      "source": "Polygon.com",
+      "summary": "2028's Call of Duty movie adaptation from Peter Berg and Taylor Sheridan won't be a \"popcorn\" action thriller — it will have \"soul\" director says."
     },
     {
-      "title": "Nearly 10 million people have played Elden Ring for over 100 hours, analyst says",
-      "link": "https://www.gamesradar.com/games/rpg/nearly-10-million-people-have-played-elden-ring-for-over-100-hours-analyst-says-and-close-to-3-5-million-of-them-have-all-the-achievements/",
-      "pubDate": "23.10.2026 um 12:05 Uhr",
-      "timestamp": 1792757150.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "FromSoftware sickos are out in force on this one"
+      "title": "The 25 Best Games on Xbox Game Pass in 2026",
+      "link": "https://www.polygon.com/best-game-pass-games-xbox/",
+      "pubDate": "23.10.2026 um 17:59 Uhr",
+      "timestamp": 1792778361.0,
+      "source": "Polygon.com",
+      "summary": "The best games on Game Pass Ultimate, Premium, and Essential across Xbox console and PC"
     },
     {
-      "title": "All Genshin Impact 7.2 livestream codes",
-      "link": "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/",
-      "pubDate": "23.10.2026 um 12:04 Uhr",
-      "timestamp": 1792757073.0,
+      "title": "'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry",
+      "link": "https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/",
+      "pubDate": "23.10.2026 um 17:56 Uhr",
+      "timestamp": 1792778189.0,
       "source": "PCGamer latest",
-      "summary": "Collect the latest Primogems from the special program."
+      "summary": "BioWare was the catalyst for a generation of game development careers."
     },
     {
-      "title": "Nintendo icon Shigeru Miyamoto says he's working on several projects right now",
-      "link": "https://www.gamesradar.com/platforms/nintendo/nintendo-icon-shigeru-miyamoto-says-hes-working-on-several-projects-right-now-but-i-wouldnt-expect-those-to-be-new-games/",
-      "pubDate": "23.10.2026 um 12:03 Uhr",
-      "timestamp": 1792756998.0,
+      "title": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects ahead of GTA 6",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/for-most-of-development-gta-3-was-in-a-sorry-state-rockstar-veteran-reflects-on-25-years-of-grand-theft-auto-ahead-of-gta-6-says-i-dont-remember-much-crunch/",
+      "pubDate": "23.10.2026 um 17:36 Uhr",
+      "timestamp": 1792777012.0,
       "source": "Latest from GamesRadar+",
-      "summary": "The Zelda and Super Mario creator says he doesn't know how long he'll be working for, but wants to make the most of it"
+      "summary": "\"If they were fun, they were in. The story was secondary.\""
     },
     {
-      "title": "Star Wars introduces two new names for the Force to describe the light and dark side",
-      "link": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-introduces-two-new-names-for-the-force-to-describe-the-light-and-dark-side/",
-      "pubDate": "23.10.2026 um 12:02 Uhr",
-      "timestamp": 1792756920.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Star Wars has introduced a new way of talking about the Force"
-    },
-    {
-      "title": "Mass Effect 5 lead looks to the bright side of BioWare closure: \"I don't have to call in sick when GTA 6 comes out\"",
-      "link": "https://www.gamesradar.com/games/mass-effect/mass-effect-5-lead-says-outpouring-of-support-following-bioware-closure-means-so-much-to-us-but-is-looking-on-the-bright-side-at-least-i-dont-have-to-call-in-sick-when-gta-6-comes-out/",
-      "pubDate": "23.10.2026 um 12:01 Uhr",
-      "timestamp": 1792756876.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "He's not wrong"
-    },
-    {
-      "title": "15 Years Later, J.J. Abrams' Near-Perfect Sci-Fi Thriller Is Officially Back on Streaming",
-      "link": "https://www.polygon.com/kyle-chandler-super-8-streaming-peacock/",
-      "pubDate": "23.10.2026 um 12:00 Uhr",
-      "timestamp": 1792756818.0,
+      "title": "Where to find the Netshin Tech Complex in DMZ in Modern Warfare 4",
+      "link": "https://www.polygon.com/mw4-modern-warfare-4-netshin-tech-complex-location/",
+      "pubDate": "23.10.2026 um 17:35 Uhr",
+      "timestamp": 1792776907.0,
       "source": "Polygon.com",
-      "summary": "In 2011, J.J. Abrams directed his only original movie, an ode to Steven Spielberg and childhood movies."
+      "summary": "This guide explains where to find the Netshin Tech Complex location in DMZ in Modern Warfare 4."
     },
     {
-      "title": "Sony drops prices on the only PS5 consoles I'd recommend buying this holiday season, just in time for GTA 6",
-      "link": "https://www.gamesradar.com/hardware/sony-drops-prices-on-the-only-ps5-consoles-id-recommend-buying-this-holiday-season-just-in-time-for-gta-6/",
-      "pubDate": "23.10.2026 um 11:38 Uhr",
-      "timestamp": 1792755483.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "PS Direct has a new deal for its Certified Refurbished PS5s, saving you $40 when you grab an extra controller at the same time."
-    },
-    {
-      "title": "Shang-Chi is Marvel's best post-Endgame gamble, so it's no surprise he's a big part of Avengers: Doomsday",
-      "link": "https://www.gamesradar.com/entertainment/marvel-movies/shang-chi-is-marvels-best-post-endgame-gamble-so-its-no-surprise-hes-a-big-part-of-avengers-doomsday/",
-      "pubDate": "23.10.2026 um 11:31 Uhr",
-      "timestamp": 1792755107.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "On the road to Doomsday, Shang-Chi showed how to do right by Marvel newcomers"
-    },
-    {
-      "title": "Mass Effect-Style Game Exodus Picked a Hell of a Time to Reveal Its Redesigned Male Protagonist",
-      "link": "https://www.ign.com/articles/exodus-protagonist-jun-makeover",
-      "pubDate": "23.10.2026 um 11:31 Uhr",
-      "timestamp": 1792755079.0,
-      "source": "IGN All",
-      "summary": "The developers of Mass Effect-style game Exodus picked a hell of a time to reveal their redesigned male protagonist."
-    },
-    {
-      "title": "Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises",
-      "link": "https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises",
-      "pubDate": "23.10.2026 um 11:27 Uhr",
-      "timestamp": 1792754826.0,
+      "title": "Factorio's final major update has rolled off the assembly line, adding \"the things we wanted to do for 2.0 but didn't have time for\"",
+      "link": "https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for",
+      "pubDate": "23.10.2026 um 17:30 Uhr",
+      "timestamp": 1792776600.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has ..."
+      "summary": "In one of the happier endings to occur in games this week, impossibly enormous resource management sim Factorio has just released its last-ever major ..."
+    },
+    {
+      "title": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
+      "link": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+      "pubDate": "23.10.2026 um 17:26 Uhr",
+      "timestamp": 1792776392.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Open world ecosatire Future? No Thanks! has been updated to remove some AI-generated voices, after lead developer Paolo \"Molleindustria\" Pedercini bel..."
+    },
+    {
+      "title": "New Mass Effect 5 Leak Explains How It Was Going To Deal With Mass Effect 3’s Multiple Endings",
+      "link": "https://kotaku.com/mass-effect-5-universe-canon-ending-me3-shepard-2000749116",
+      "pubDate": "23.10.2026 um 17:22 Uhr",
+      "timestamp": 1792776140.0,
+      "source": "Kotaku",
+      "summary": "The game would have supposedly used time and distance to fit its story into every decision Shepard could have made"
+    },
+    {
+      "title": "Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare",
+      "link": "https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure",
+      "pubDate": "23.10.2026 um 17:19 Uhr",
+      "timestamp": 1792775990.0,
+      "source": "Eurogamer.net News",
+      "summary": "After EA's sudden shutdown of developer BioWare, upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6. Re..."
+    },
+    {
+      "title": "Arkane Devs Say Blade Is Nearly Finished But If It Can’t Find A Buyer Soon, The Studio Will Close",
+      "link": "https://kotaku.com/arkane-devs-say-blade-is-nearly-finished-but-if-it-cant-find-a-buyer-soon-the-studio-will-close-2000749096",
+      "pubDate": "23.10.2026 um 17:15 Uhr",
+      "timestamp": 1792775730.0,
+      "source": "Kotaku",
+      "summary": "Union reps say it'd be a 'monumental waste' for Blade to remain unfinished"
+    },
+    {
+      "title": "Tim Sweeney shares the time he called a beloved studio's death \"economically realistic\"",
+      "link": "https://www.gamesradar.com/games/this-isnt-a-sad-day-tim-sweeney-shares-the-time-he-called-a-beloved-studios-death-economically-realistic-more-or-less-says-you-shouldnt-boo-him-when-hes-right/",
+      "pubDate": "23.10.2026 um 17:00 Uhr",
+      "timestamp": 1792774849.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"The point of these posts is not to be popular\""
+    },
+    {
+      "title": "Creative Assembly Finally Addresses The Shogun 2 Remaster Disaster By Pointing Fingers",
+      "link": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+      "pubDate": "23.10.2026 um 16:57 Uhr",
+      "timestamp": 1792774658.0,
+      "source": "Kotaku",
+      "summary": "While claiming the buck stops with CA, VP Roger Collum repeatedly levels the blame elsewhere"
+    },
+    {
+      "title": "Sony Doubles Down on Officially Ditching Physical Media",
+      "link": "https://www.polygon.com/sony-blu-ray-exit-physical-media-playstation-no-discs/",
+      "pubDate": "23.10.2026 um 16:52 Uhr",
+      "timestamp": 1792774332.0,
+      "source": "Polygon.com",
+      "summary": "Sony is reportedly discontinuing its last UHD Blu-ray player, as the company further distances itself from physical media"
+    },
+    {
+      "title": "Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks",
+      "link": "https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/",
+      "pubDate": "23.10.2026 um 16:47 Uhr",
+      "timestamp": 1792774064.0,
+      "source": "PCGamer latest",
+      "summary": "I'm a chump who can't tell my gems from my minerals."
+    },
+    {
+      "title": "Prime Video's New Fallout TV Series Sets 2027 Release Date",
+      "link": "https://www.polygon.com/fallout-shelter-the-experiment-reality-series-release-date/",
+      "pubDate": "23.10.2026 um 16:32 Uhr",
+      "timestamp": 1792773164.0,
+      "source": "Polygon.com",
+      "summary": "The reality TV series 'Fallout Shelter: The Experiment' just got a Jan. 13, 2027 release date."
     }
   ],
   "sim": [
+    {
+      "title": "2026 Porsche Esports Supercup World Championship Series | Race #5 | Monza Championship Event | Preview",
+      "link": "https://www.iracing.com/2026-porsche-esports-supercup-world-championship-series-race-5-monza-championship-event-preview/",
+      "pubDate": "23.10.2026 um 14:00 Uhr",
+      "timestamp": 1792764051.0,
+      "source": "iRacing.com",
+      "summary": "The Porsche Esports Supercup World Championship Series concludes this Saturday, October 24th, featuring 32 of the best sim racers around the globe. Th..."
+    },
     {
       "title": "Gran Turismo 7 Online Time Trial: N-escapable",
       "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-n-escapable-20261022/",
@@ -411,14 +419,6 @@
       "timestamp": 1792011656.0,
       "source": "iRacing.com",
       "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
-    },
-    {
-      "title": "2026-27 eNASCAR College iRacing Series | Queen City Crown at Charlotte | Week 2 Tournament Preview",
-      "link": "https://www.iracing.com/2026-27-enascar-college-iracing-series-queen-city-crown-at-charlotte-week-2-tournament-preview/",
-      "pubDate": "14.10.2026 um 17:00 Uhr",
-      "timestamp": 1791997247.0,
-      "source": "iRacing.com",
-      "summary": "The second Tournament of the 2026-27 season for the eNASCAR College iRacing Series presented by Logitech G concludes on Wednesday night at America&#82..."
     }
   ]
 }
