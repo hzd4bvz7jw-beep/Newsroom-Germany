@@ -1,6 +1,94 @@
 {
   "de": [
     {
+      "title": "Kanadischer Politiker fordert: BioWare-Mitarbeiter sollen ihr Studio selbst kaufen",
+      "link": "https://www.eurogamer.de/bioware-aus-politiker-mitarbeiter-kauf",
+      "pubDate": "23.10.2026 um 07:00 Uhr",
+      "timestamp": 1792738838.0,
+      "source": "Eurogamer.de News",
+      "summary": "Das Aus der kanadischen RPG-Schmiede BioWare besch&auml;ftigt zumindest einen Politiker des Landes. Mehr"
+    },
+    {
+      "title": "Versprecher auf Konferenz: Valve-Entwickler nennt vermeintlichen Codenamen für Half-Life 3",
+      "link": "https://www.eurogamer.de/valve-half-life-3-hlx-codename",
+      "pubDate": "23.10.2026 um 06:59 Uhr",
+      "timestamp": 1792738767.0,
+      "source": "Eurogamer.de News",
+      "summary": "Auf einer Konferenz hat ein Entwickler von Valve j&uuml;ngst den Codenamen des vermeintlich in Arbeit befindlichen Half-Life 3 erw&auml;hnt. Mehr"
+    },
+    {
+      "title": "Cyberpunk 2 könnte Koop-Missionen bekommen: Neue Stellenausschreibung verrät spannende Details",
+      "link": "https://www.playcentral.de/cyberpunk-2-koop-missionen-multiplayer/",
+      "pubDate": "23.10.2026 um 06:58 Uhr",
+      "timestamp": 1792738681.0,
+      "source": "PlayCentral",
+      "summary": "Bei Cyberpunk 2 könnte ein lang gehegter Wunsch vieler Fans endlich Wirklichkeit werden. Entwickler CD Projekt Red arbeitet offenbar an Multiplayer-Fu..."
+    },
+    {
+      "title": "WoW Forever: Server-Wahl – So funktioniert’s",
+      "link": "https://mein-mmo.de/wow-forever-wahl-des-servers-funktioniert/",
+      "pubDate": "23.10.2026 um 06:31 Uhr",
+      "timestamp": 1792737112.0,
+      "source": "Mein-MMO",
+      "summary": "In WoW Forever müsst ihr einen Realm-Typ wählen, denn ihr könnt nicht mit allen anderen spielen. Die Wahl hat große Folgen. Der Beitrag WoW Forever: S..."
+    },
+    {
+      "title": "Smash-Bros-Schöpfer Masahiro Sakurai: Flut an KI-Spielen droht, doch Originalität ist unkopierbar",
+      "link": "https://www.eurogamer.de/masahiro-sakurai-ki-spiele-kreativitaet",
+      "pubDate": "23.10.2026 um 06:29 Uhr",
+      "timestamp": 1792736947.0,
+      "source": "Eurogamer.de News",
+      "summary": "Masahiro Sakurai sprach &uuml;ber die T&uuml;cken generativer KI in der Spieleentwicklung: Die Technologie d&uuml;rfte zwar eine Flut unorigineller Vi..."
+    },
+    {
+      "title": "Epic Games kündigt KI-Game-Jam mit Preisgeldern von 65.000 Dollar an",
+      "link": "https://www.eurogamer.de/epic-games-ki-game-jam-preisgeld-65000-dollar",
+      "pubDate": "23.10.2026 um 06:28 Uhr",
+      "timestamp": 1792736892.0,
+      "source": "Eurogamer.de News",
+      "summary": "Epic Games hat den AI MegaJam 2026  angek&uuml;ndigt und startet damit einen Wettbewerb, bei dem Entwickler innerhalb weniger Tage eigene Spiele mitte..."
+    },
+    {
+      "title": "Shadow of the Tomb Raider überraschend für Switch 2 erschienen – Survivor-Trilogie jetzt komplett im eShop erhältlich",
+      "link": "https://www.eurogamer.de/shadow-of-the-tomb-raider-switch-2-eshop",
+      "pubDate": "23.10.2026 um 06:13 Uhr",
+      "timestamp": 1792736029.0,
+      "source": "Eurogamer.de News",
+      "summary": "Publisher Aspyr hat k&uuml;rzlich Shadow of the Tomb Raider: Definitive Edition &uuml;berraschend im Nintendo eShop ver&ouml;ffentlicht. Mit dem unang..."
+    },
+    {
+      "title": "Trymacs sagt, er wird diesen Monat auf YouTube „mehr verdienen denn je“, fühlt sich schlecht dabei",
+      "link": "https://mein-mmo.de/twitch-youtube-trymacs-einnahmen-werbung-sauer/",
+      "pubDate": "23.10.2026 um 05:53 Uhr",
+      "timestamp": 1792734819.0,
+      "source": "Mein-MMO",
+      "summary": "Der Twitch-Streamer Trymacs meint, er würde aktuell viel Geld durch Werbung verdienen. Das würde ihn allerdings irgendwie sauer machen. Der Beitrag Tr..."
+    },
+    {
+      "title": "Beyond Good & Evil 2: 250 Mitarbeiter, 18 Jahre, noch immer kein Produktionsstart",
+      "link": "https://www.computerbase.de/news/gaming/beyond-good-und-evil-2-250-mitarbeiter-18-jahre-noch-immer-kein-produktionsstart.99961/",
+      "pubDate": "23.10.2026 um 07:14 Uhr",
+      "timestamp": 1792732440.0,
+      "source": "ComputerBase",
+      "summary": "2008 erstmals präsentiert, 2017 neu präsentiert und 2026 weiter ohne Termin: Beyond Good & Evil 2 steckt laut einer Untersuchung von Origami noch imme..."
+    },
+    {
+      "title": "In der Beta von WoW Forever könnt ihr jetzt etwas Einmaliges erleben, doch ihr habt nicht viel Zeit",
+      "link": "https://mein-mmo.de/wow-forever-beta-ende-event/",
+      "pubDate": "23.10.2026 um 05:13 Uhr",
+      "timestamp": 1792732411.0,
+      "source": "Mein-MMO",
+      "summary": "Zum Ende der Beta von WoW: Forever haut Blizzard nochmal einen raus. Wer bei der Gaudi dabei sein möchte, hat aber nur noch wenig Zeit. Der Beitrag In..."
+    },
+    {
+      "title": "WoW Forever kündigt neues Regelwerk an, startet direkt zum Launch",
+      "link": "https://mein-mmo.de/wow-forever-neues-regelwerk-direkt-zum-launch/",
+      "pubDate": "23.10.2026 um 03:30 Uhr",
+      "timestamp": 1792726200.0,
+      "source": "Mein-MMO",
+      "summary": "Das Beschweren hat geholfen. World of Warcraft Forever bringt einen vierten Spielmodus und will diesen sofort zum Start zur Verfügung stellen. Der Bei..."
+    },
+    {
       "title": "Zenith Nexus wird eingestellt – Server gehen am 18. Dezember 2026 offline",
       "link": "https://www.playcentral.de/zenith-nexus-wird-eingestellt-server-gehen-am-18-dezember-2026-offline/",
       "pubDate": "23.10.2026 um 00:31 Uhr",
@@ -55,97 +143,41 @@
       "timestamp": 1792693800.0,
       "source": "ComputerBase",
       "summary": "Schon lange hat Micron keine Neuigkeiten im Bereich NAND-Flash-Speicher präsentiert. Doch jetzt überrascht das Unternehmen: Statt der erwarteten Gener..."
-    },
-    {
-      "title": "Über 100 Millionen Zuschauer: Eine Serie mit Chris Pratt als US Navy Seal kehrt auf Prime Video zurück",
-      "link": "https://mein-mmo.de/ein-thriller-mit-ueber-100-millionen-zuschauern-kehrt-zu-prime-video-zurueck-8-neue-folgen-zeigen-chris-pratt-als-us-navy-seal/",
-      "pubDate": "22.10.2026 um 17:45 Uhr",
-      "timestamp": 1792691100.0,
-      "source": "Mein-MMO",
-      "summary": "Auf Prime Video läuft seit Kurzem die 2. Staffel einer Thriller-Serie, in der Marvel-Star Chris Pratt als harter US Navy Seal zu sehen ist.  Der Beitr..."
-    },
-    {
-      "title": "Pokémon Rot: Unbestätigter Prototyp steht in Auktion bei 25.000 Dollar",
-      "link": "https://www.computerbase.de/news/gaming/pokemon-rot-unbestaetigter-prototyp-steht-in-auktion-bei-25-000-dollar.99958/",
-      "pubDate": "22.10.2026 um 19:41 Uhr",
-      "timestamp": 1792690860.0,
-      "source": "ComputerBase",
-      "summary": "Ein seltener Entwicklungsprototyp der Pokémon Rote Edition für den Game Boy hat bei Goldin mit nur einem Gebot bereits 25.000 US-Dollar erreicht. PSA ..."
-    },
-    {
-      "title": "“Für kein Geld der Welt” – Eine Stream-Challenge bricht sogar HandOfBlood",
-      "link": "https://mein-mmo.de/handofblood-sonic-abbruch/",
-      "pubDate": "22.10.2026 um 17:33 Uhr",
-      "timestamp": 1792690434.0,
-      "source": "Mein-MMO",
-      "summary": "HandOfBlood ist bekannt für aufwendige Produktionen, verrückte Kostüme und abgefahrene Einfälle auf Twitch. Der Beitrag &#8220;Für kein Geld der Welt&..."
-    },
-    {
-      "title": "Starship Troopers: Extermination: Update 13 bringt fliegende Hopper-Bugs ins Spiel",
-      "link": "https://www.eurogamer.de/starship-troopers-extermination-update-13",
-      "pubDate": "22.10.2026 um 17:00 Uhr",
-      "timestamp": 1792688400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Starship Troopers: Extermination feiert seinen zweiten Geburtstag mit dem neuen Update 13, das einen frischen, aber wohlbekannten Gegner mit sich brin..."
-    },
-    {
-      "title": "Gears of War: E-Day: Angebliches Budget von 500 Millionen Dollar spaltet Branchen-Insider",
-      "link": "https://www.eurogamer.de/gears-war-eday-budget-geruechte",
-      "pubDate": "22.10.2026 um 16:41 Uhr",
-      "timestamp": 1792687267.0,
-      "source": "Eurogamer.de News",
-      "summary": "Offizielle Zahlen zum Budget von Gears of War: E-Day gibt es zwar nicht, aber einige Ger&uuml;chte. Dabei sind alles andere als kleine Summen im Umlau..."
-    },
-    {
-      "title": "Sony stellt Standalone-Player ein: PS5 bleibt einziges Blu-ray-Gerät des Herstellers",
-      "link": "https://www.eurogamer.de/sony-standalone-bluray-player-ps5",
-      "pubDate": "22.10.2026 um 16:40 Uhr",
-      "timestamp": 1792687213.0,
-      "source": "Eurogamer.de News",
-      "summary": "Nach dem angek&uuml;ndigten Aus der PlayStation-Discs ab 2028 zieht Sony sich nun auch vom Markt der Standalone-Blu-Ray-Player zur&uuml;ck. Mehr"
-    },
-    {
-      "title": "Mass Effect 5: Neuer Trailer nach Schließung von BioWare geleakt",
-      "link": "https://www.eurogamer.de/mass-effect-5-trailer-bioware-aus",
-      "pubDate": "22.10.2026 um 16:39 Uhr",
-      "timestamp": 1792687140.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ein neuer Trailer zum gestern eingestellten Mass Effect 5 war offenbar schon fertiggestellt, bevor EA das komplette Studio dichtmachte - und ist jetzt..."
-    },
-    {
-      "title": "Cyberpunk 2077 2.5: Großes Update bringt Konsolen-Mods, neue Quests und DLSS 4.5",
-      "link": "https://www.computerbase.de/news/gaming/cyberpunk-2077-2-5-grosses-update-bringt-konsolen-mods-neue-quests-und-dlss-4-5.99953/",
-      "pubDate": "22.10.2026 um 18:30 Uhr",
-      "timestamp": 1792686600.0,
-      "source": "ComputerBase",
-      "summary": "Fast sechs Jahre nach dem Release erhält Cyberpunk 2077 ein weiteres umfangreiches Update. Auf PS5 und Xbox Series X|S lassen sich künftig ausgewählte..."
-    },
-    {
-      "title": "WoW Forever: Klassen im Guide – Die Stärken und Schwächen aller 9 Klassen",
-      "link": "https://mein-mmo.de/wow-forever-klassen-guide-staerken-schwaechen/",
-      "pubDate": "22.10.2026 um 16:13 Uhr",
-      "timestamp": 1792685621.0,
-      "source": "Mein-MMO",
-      "summary": "In WoW: Forever stehen euch 9 Klassen zur Auswahl. Doch welche davon sollt ihr spielen? MeinMMO stellt euch ihre Stärken und Schwächen vor. Der Beitra..."
-    },
-    {
-      "title": "Ryzen übertakten: AMD bringt Overclocking Driver in den Linux-Kernel",
-      "link": "https://www.computerbase.de/news/prozessoren/ryzen-uebertakten-amd-bringt-overclocking-driver-in-den-linux-kernel.99955/",
-      "pubDate": "22.10.2026 um 18:12 Uhr",
-      "timestamp": 1792685520.0,
-      "source": "ComputerBase",
-      "summary": "Mit kommenden Patches für den Linux-Kernel wird der AMD Overclocking Driver (AOD) veröffentlicht. Damit besteht erstmals eine offizielle Schnittstelle..."
-    },
-    {
-      "title": "Nacon Revolution Pro X SE: Einstellbarer Widerstand zum interessanten Preis",
-      "link": "https://www.computerbase.de/news/gaming/nacon-revolution-pro-x-se-einstellbarer-widerstand-zum-interessanten-preis.99940/",
-      "pubDate": "22.10.2026 um 18:00 Uhr",
-      "timestamp": 1792684800.0,
-      "source": "ComputerBase",
-      "summary": "Thumbsticks auf einem Gamepad sind je nach Modell leicht- oder schwergängiger. Beim Revolution Pro X von Nacon können sie beides ganz nach Wahl sein. ..."
     }
   ],
   "int": [
+    {
+      "title": "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+      "link": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year",
+      "pubDate": "23.10.2026 um 02:12 Uhr",
+      "timestamp": 1792721554.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "Clayface Ending Explained",
+      "link": "https://www.ign.com/articles/clayface-ending-explained-batman-dcu",
+      "pubDate": "23.10.2026 um 01:00 Uhr",
+      "timestamp": 1792717200.0,
+      "source": "IGN All",
+      "summary": "The new movie Clayface marks the live-action film debut of the classic Batman villain but fans are obviously wondering if the film also introduces the..."
+    },
+    {
+      "title": "Wo Long 2: Wings of Ember Gets Wuxia… and Let Me Fight a Horrific Spider Thing | IGN Preview",
+      "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview",
+      "pubDate": "23.10.2026 um 01:00 Uhr",
+      "timestamp": 1792717200.0,
+      "source": "IGN All",
+      "summary": "Wo Long 2: Wings of Ember is shaping up to be an interesting sequel that combines elements of Team Ninja’s action game expertise with the Three Kingdo..."
+    },
+    {
+      "title": "Save $50 Off the Endlessly Useful ASUS ZenScreen 16\" 1080p Portable USB Monitor Ahead of Black Friday",
+      "link": "https://www.ign.com/articles/asus-zenscreen-usb-portable-monitor-deal-october-2026",
+      "pubDate": "23.10.2026 um 00:05 Uhr",
+      "timestamp": 1792713900.0,
+      "source": "IGN All",
+      "summary": "Doubles as a secondary monitor for your laptop or a portable display for your Nintendo Switch or Steam Deck."
+    },
     {
       "title": "The Acer Nitro  RX 9060 XT Gaming PC Offers Great 1440p Gaming Performance for Just $1,200",
       "link": "https://www.ign.com/articles/acer-nitro-radeon-rx-9060-xt-gaming-pc-deal-october-2026",
@@ -257,38 +289,6 @@
       "timestamp": 1792703686.0,
       "source": "Latest from GamesRadar+",
       "summary": "The movie did not make its budget, but it remained number one on Prime Video for five weeks"
-    },
-    {
-      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
-      "link": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-      "pubDate": "22.10.2026 um 21:09 Uhr",
-      "timestamp": 1792703378.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Vibe your way to 50K,\" Epic promises"
-    },
-    {
-      "title": "Only one person on Earth can play this Steam game at a time: \"You control it for one minute\"",
-      "link": "https://www.gamesradar.com/games/platformer/only-one-person-on-earth-can-play-this-steam-game-at-a-time-when-it-is-your-turn-you-control-it-for-one-minute/",
-      "pubDate": "22.10.2026 um 21:00 Uhr",
-      "timestamp": 1792702838.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The original Angry Birds artist's new game is oddly social"
-    },
-    {
-      "title": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
-      "link": "https://www.polygon.com/clayface-joker-easter-eggs/",
-      "pubDate": "22.10.2026 um 21:00 Uhr",
-      "timestamp": 1792702819.0,
-      "source": "Polygon.com",
-      "summary": "Clayface is filled with some very noticible Easter eggs about the Joker"
-    },
-    {
-      "title": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
-      "link": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
-      "pubDate": "22.10.2026 um 20:59 Uhr",
-      "timestamp": 1792702799.0,
-      "source": "IGN All",
-      "summary": "Tom Skerritt, the rugged, mustachioed actor best known to IGN readers for his roles in Top Gun and Alien, passed away from natural causes on Wednesday..."
     }
   ],
   "sim": [
