@@ -1,6 +1,78 @@
 {
   "de": [
     {
+      "title": "ESO Echoes of Skyrim startet – Greymoor und Wolfhunter jetzt im Grundspiel",
+      "link": "https://www.playcentral.de/eso-echoes-of-skyrim-startet-greymoor-und-wolfhunter-jetzt-im-grundspiel/",
+      "pubDate": "24.10.2026 um 16:32 Uhr",
+      "timestamp": 1792859531.0,
+      "source": "PlayCentral",
+      "summary": "Mit The Elder Scrolls Online: Echoes of Skyrim hat ZeniMax Online Studios die zweite Saison des Online-Rollenspiels offiziell gestartet. Seit dem 21. ..."
+    },
+    {
+      "title": "Tropico 7 kommt am 28. Januar 2027 Day One in den Xbox Game Pass",
+      "link": "https://www.playcentral.de/tropico-7-kommt-am-28-januar-2027-day-one-in-den-xbox-game-pass/",
+      "pubDate": "24.10.2026 um 16:31 Uhr",
+      "timestamp": 1792859484.0,
+      "source": "PlayCentral",
+      "summary": "Mit Tropico 7 steht ein weiterer großer Day-One-Zugang für den Xbox Game Pass fest. Die politische Aufbausimulation erscheint am 28. Januar 2027 und w..."
+    },
+    {
+      "title": "7 Klonkrieger aus Star Wars, die Boba Fett alt aussehen lassen",
+      "link": "https://mein-mmo.de/7-klonkrieger-aus-star-wars-die-boba-fett-alt-aussehen-lassen/",
+      "pubDate": "24.10.2026 um 16:30 Uhr",
+      "timestamp": 1792859400.0,
+      "source": "Mein-MMO",
+      "summary": "In diesem Ranking schauen wir uns sieben der stärksten Klonkrieger an, die es in der Galaxis von Star Wars gibt. Der Beitrag 7 Klonkrieger aus Star Wa..."
+    },
+    {
+      "title": "Steam macht den persönlichen Kalender zur festen Store-Funktion﻿",
+      "link": "https://www.playcentral.de/steam-macht-den-persoenlichen-kalender-zur-festen-store-funktion/",
+      "pubDate": "24.10.2026 um 15:32 Uhr",
+      "timestamp": 1792855928.0,
+      "source": "PlayCentral",
+      "summary": "Valve hat den persönlichen Kalender offiziell als feste Funktion in den Steam Store aufgenommen. Das neue Werkzeug soll euch dabei helfen, interessant..."
+    },
+    {
+      "title": "Mass-Effect-Petition knackt 121.000 Unterschriften nach BioWare-Aus",
+      "link": "https://www.playcentral.de/mass-effect-petition-knackt-121-000-unterschriften-nach-bioware-aus/",
+      "pubDate": "24.10.2026 um 15:31 Uhr",
+      "timestamp": 1792855875.0,
+      "source": "PlayCentral",
+      "summary": "Der Protest aus der Mass-Effect-Community gewinnt rasant an Stärke. Eine Petition für die Rettung der Science-Fiction-Reihe hat innerhalb weniger Tage..."
+    },
+    {
+      "title": "Warrior Cats – Clans of the Forest startet mit gemischten Wertungen",
+      "link": "https://www.playcentral.de/warrior-cats-clans-of-the-forest-startet-mit-gemischten-wertungen/",
+      "pubDate": "24.10.2026 um 14:34 Uhr",
+      "timestamp": 1792852454.0,
+      "source": "PlayCentral",
+      "summary": "Warrior Cats: Clans of the Forest ist seit dem 23. Oktober 2026 erhältlich und bringt die bekannte Buchreihe erstmals als eigenständiges, rundenbasier..."
+    },
+    {
+      "title": "Diablo 4 Update 3.2.4 – Scherben der Großen Übel stapelbar bis 99",
+      "link": "https://www.playcentral.de/diablo-4-update-3-2-4-scherben-der-grossen-uebel-stapelbar-bis-99/",
+      "pubDate": "24.10.2026 um 14:32 Uhr",
+      "timestamp": 1792852365.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard reagiert auf einen der häufigsten Kritikpunkte an Season 15 von Diablo 4. Mit Update 3.2.4 dürfen die Scherben der Großen Übel künftig gestap..."
+    },
+    {
+      "title": "Epic Games Store – Sorry Were Closed eine Woche gratis zu Halloween 2026",
+      "link": "https://www.playcentral.de/epic-games-store-sorry-were-closed-eine-woche-gratis-zu-halloween-2026/",
+      "pubDate": "24.10.2026 um 14:31 Uhr",
+      "timestamp": 1792852314.0,
+      "source": "PlayCentral",
+      "summary": "Der Epic Games Store setzt zum Abschluss des Oktobers 2026 noch einmal voll auf Horror. Als letztes reguläres Gratis-Spiel des Monats steht Sorry We&#..."
+    },
+    {
+      "title": "GeForce-Treiber 621.01: Nvidia bestätigt Black­screens nach Update",
+      "link": "https://www.computerbase.de/news/grafikkarten/geforce-treiber-621-01-nvidia-bestaetigt-blackscreens-nach-update.99982/",
+      "pubDate": "24.10.2026 um 16:27 Uhr",
+      "timestamp": 1792852020.0,
+      "source": "ComputerBase",
+      "summary": "Seit der Freigabe des GeForce Game Ready Drivers 621.01 am 21. Oktober melden Anwender über hängende Videos und vorübergehend schwarze Bildschirme. Di..."
+    },
+    {
       "title": "Quests und Überleben sind mir in Enshrouded egal, ich buddle seit 30 Stunden an einem riesigen Loch",
       "link": "https://mein-mmo.de/enshrouded-dariusz-hoehle/",
       "pubDate": "24.10.2026 um 13:56 Uhr",
@@ -71,224 +143,152 @@
       "timestamp": 1792833947.0,
       "source": "Eurogamer.de News",
       "summary": "Noch bis zum 24. November haben Spieler Zeit, um sich das Chucky-DLC-Pack zu kaufen, bevor es aus dem Store von Dead by Daylight verschwindet. Das tei..."
-    },
-    {
-      "title": "Gehackte Konten und Patch-Flut: Wie man sich schützt, wenn KI-Agenten das Internet unsicher machen",
-      "link": "https://www.computerbase.de/artikel/apps/cyperpokalyse-schutz-ki-agenten-sicherheit.99670/",
-      "pubDate": "24.10.2026 um 11:00 Uhr",
-      "timestamp": 1792832400.0,
-      "source": "ComputerBase",
-      "summary": "KI-Agenten entdecken im großen Umfang Sicherheitslücken, Angreifer erhalten mächtige Werkzeuge, die bestehende Risiken verschärfen und neue Unsicherhe..."
-    },
-    {
-      "title": "Shigeru Miyamoto deutet mögliche Rückkehr zu neuen Spielen an",
-      "link": "https://www.eurogamer.de/shigeru-miyamoto-moegliche-rueckkehr-zu-spieleentwicklung",
-      "pubDate": "24.10.2026 um 09:00 Uhr",
-      "timestamp": 1792832400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Shigeru Miyamoto hat in seiner langen Karriere die Videospielwelt mit Figuren wie Mario, Link, Donkey Kong, Yoshi und Fox McCloud nachhaltig gepr&auml..."
-    },
-    {
-      "title": "Papaplatte erklärt, warum ein Money-Glitch der Twitch-Streamer „das Schlechteste ist, was dem Livestreaming passiert ist“",
-      "link": "https://mein-mmo.de/twitch-clips-papaplatte-meinung/",
-      "pubDate": "24.10.2026 um 09:00 Uhr",
-      "timestamp": 1792832400.0,
-      "source": "Mein-MMO",
-      "summary": "Aus Twitch-Livestreams werden immer wieder Clips erstellt, die dann auf Social Media viral gehen. Dazu hat Papaplatte gemischte Gefühle. Der Beitrag P..."
-    },
-    {
-      "title": "Xbox verliert COO Helen Chiang nach nur drei Monaten im Amt",
-      "link": "https://www.eurogamer.de/coo-helen-chiang-verlaesst-xbox",
-      "pubDate": "24.10.2026 um 08:30 Uhr",
-      "timestamp": 1792830600.0,
-      "source": "Eurogamer.de News",
-      "summary": "Helen Chiang verl&auml;sst Microsoft nach mehr als zwei Jahrzehnten im Unternehmen &ndash; und bereits nach nur drei Monaten als Chief Operating Offic..."
-    },
-    {
-      "title": "7 Klonkrieger aus Star Wars, die Boba Fett alt aussehen lassen",
-      "link": "https://mein-mmo.de/7-klonkrieger-aus-star-wars-die-boba-fett-alt-aussehen-lassen/",
-      "pubDate": "24.10.2026 um 08:00 Uhr",
-      "timestamp": 1792828800.0,
-      "source": "Mein-MMO",
-      "summary": "In diesem Ranking schauen wir uns sieben der stärksten Klonkrieger an, die es in der Galaxis von Star Wars gibt. Der Beitrag 7 Klonkrieger aus Star Wa..."
-    },
-    {
-      "title": "25 Jahre iPod: Wie ein MP3-Player den Weg zum iPhone ebnete",
-      "link": "https://www.computerbase.de/news/audio-video-foto/25-jahre-ipod-wie-ein-mp3-player-den-weg-zum-iphone-ebnete.99977/",
-      "pubDate": "24.10.2026 um 09:56 Uhr",
-      "timestamp": 1792828560.0,
-      "source": "ComputerBase",
-      "summary": "Als Apple den iPod auf den Markt brachte, war das Unternehmen hauptsächlich für seine Computer bekannt. Der Musikplayer machte die Marke auch abseits ..."
-    },
-    {
-      "title": "Netflix und Xbox: Gemeinsamer Deal scheitert an 300 Millionen Dollar",
-      "link": "https://www.eurogamer.de/netflix-und-xbox-gemeinsamer-deal-scheitert",
-      "pubDate": "24.10.2026 um 07:45 Uhr",
-      "timestamp": 1792827930.0,
-      "source": "Eurogamer.de News",
-      "summary": "Mehr"
-    },
-    {
-      "title": "Fazit zur Beta von WoW Forever: Eine Goldgrube mit vielen Fragezeichen",
-      "link": "https://mein-mmo.de/wow-forever-beta-fazit/",
-      "pubDate": "24.10.2026 um 07:00 Uhr",
-      "timestamp": 1792825200.0,
-      "source": "Mein-MMO",
-      "summary": "Die Beta von WoW Forever ist vorbei. Die Stimmung ist gut, aber es gibt noch viele offene Fragen. Der Beitrag Fazit zur Beta von WoW Forever: Eine Gol..."
-    },
-    {
-      "title": "SOCAMM3: Neuer RAM für Nvidia Rosa Feynman und AMD Florence",
-      "link": "https://www.computerbase.de/news/arbeitsspeicher/socamm3-neuer-ram-fuer-nvidia-rosa-feynman-und-amd-florence.99970/",
-      "pubDate": "24.10.2026 um 08:58 Uhr",
-      "timestamp": 1792825080.0,
-      "source": "ComputerBase",
-      "summary": "SOCAMM hat sich binnen kurzer Zeit zu einem festen Speicherstandard etabliert. Die dritte Generation zielt auf CPUs ab dem Jahr 2028 ab. In erster Lin..."
     }
   ],
   "int": [
     {
-      "title": "Mass Effect Universe supposedly featured \"Hitman-style freedom\" and a \"galactic Cold War\"",
-      "link": "https://www.gamesradar.com/games/mass-effect/mass-effect-universe-supposedly-featured-hitman-style-freedom-and-a-galactic-cold-war-according-to-bioware-insider/",
-      "pubDate": "24.10.2026 um 14:01 Uhr",
-      "timestamp": 1792850472.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"They were a lot further in development than their statement suggested\""
+      "title": "Xbox’s Chief Operating Officer Out Three Months After Role’s Creation",
+      "link": "https://kotaku.com/xboxs-chief-operating-officer-out-three-months-after-roles-creation-2000749324",
+      "pubDate": "24.10.2026 um 17:27 Uhr",
+      "timestamp": 1792862871.0,
+      "source": "Kotaku",
+      "summary": "As turmoil continues to pile up, Microsoft veteran Helen Chiang departs the company just a few months after taking a newly created post to assure long..."
     },
     {
-      "title": "'Wildwood' Is a \"Risky\" Movie — Just Like 'Coraline' Was 20 Years Ago",
-      "link": "https://www.polygon.com/wildwood-coraline-interview/",
-      "pubDate": "24.10.2026 um 14:00 Uhr",
-      "timestamp": 1792850418.0,
+      "title": "The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos",
+      "link": "https://www.polygon.com/steam-next-fest-october-2026-most-played-games/",
+      "pubDate": "24.10.2026 um 17:22 Uhr",
+      "timestamp": 1792862550.0,
       "source": "Polygon.com",
-      "summary": "Discover the 16-year journey of Laika's Wildwood, a groundbreaking stop-motion film directed by Travis Knight."
+      "summary": "Worst Class Ever, Fart Together, and more co-op games are Steam Next Fest's most popular titles"
     },
     {
-      "title": "Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'",
-      "link": "https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/",
-      "pubDate": "24.10.2026 um 14:00 Uhr",
-      "timestamp": 1792850400.0,
-      "source": "PCGamer latest",
-      "summary": "\"The [Mass Effect] and [Dragon Age] games were a literal inspiration.\""
-    },
-    {
-      "title": "Aaron Paul Originally Had A Much More Important Role In Clayface",
-      "link": "https://www.polygon.com/clayface-aaron-paul-cameo-explained/",
-      "pubDate": "24.10.2026 um 13:45 Uhr",
-      "timestamp": 1792849548.0,
-      "source": "Polygon.com",
-      "summary": "A blink-and-you'll-miss-it Clayface cameo is the last remnant of a character mostly cut from the movie"
-    },
-    {
-      "title": "Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January",
-      "link": "https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date",
-      "pubDate": "24.10.2026 um 13:30 Uhr",
-      "timestamp": 1792848630.0,
+      "title": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards",
+      "link": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
+      "pubDate": "24.10.2026 um 17:17 Uhr",
+      "timestamp": 1792862273.0,
       "source": "Eurogamer.net News",
-      "summary": "Prime Video's Fallout reality competition, Fallout Shelter: The Experiment, will premiere on 13th January 2027. Read more"
+      "summary": "The FBI and Santa Ana police are investigating the theft of 6451 PSA-graded cards, including nearly 3000 Pok&eacute;mon cards, from a FedEx truck in C..."
     },
     {
-      "title": "Pokemon Winds and Waves might benefit from next-gen water tech",
-      "link": "https://www.gamesradar.com/games/pokemon/pokemon-winds-and-waves-might-benefit-from-next-gen-water-tech-as-a-game-freak-developer-publishes-water-simulation-research/",
-      "pubDate": "24.10.2026 um 13:00 Uhr",
-      "timestamp": 1792846858.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Making a splash"
+      "title": "Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features",
+      "link": "https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features",
+      "pubDate": "24.10.2026 um 17:03 Uhr",
+      "timestamp": 1792861435.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Since launch back in May of this year, life sim Paralives appears to have been trucking along nicely, with the dev team offering up fairly regular upd..."
     },
     {
-      "title": "Nintendo Is Still Being Wildly Underestimated",
-      "link": "https://www.polygon.com/switchboard-nintendo-switch-sports-resort/",
-      "pubDate": "24.10.2026 um 13:00 Uhr",
-      "timestamp": 1792846818.0,
-      "source": "Polygon.com",
-      "summary": "Once dismissed as 'for kids,' Nintendo now enjoys critical respect - except when it's making casual games like Nintendo Switch Sports Resort"
-    },
-    {
-      "title": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
-      "link": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
-      "pubDate": "24.10.2026 um 12:57 Uhr",
-      "timestamp": 1792846637.0,
-      "source": "Eurogamer.net News",
-      "summary": "Helen Chiang, Xbox&rsquo;s first-ever chief operating officer (COO), is leaving Microsoft just three months after taking the job. Read more"
-    },
-    {
-      "title": "After 14 years of development, Factorio's final major update is out now",
-      "link": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
-      "pubDate": "24.10.2026 um 12:10 Uhr",
-      "timestamp": 1792843844.0,
+      "title": "Now it's over, WoW: Forever's beta has left me with just one fear—its endgame",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/",
+      "pubDate": "24.10.2026 um 17:00 Uhr",
+      "timestamp": 1792861200.0,
       "source": "PCGamer latest",
-      "summary": "Patch 2.1 brings \"a big collection\" of small yet significant changes."
+      "summary": "How do you zig when all you know is zag?"
     },
     {
-      "title": "Peak devs explain why the viral co-op game's size tripled with new console ports",
-      "link": "https://www.gamesradar.com/games/co-op/peak-devs-explain-why-the-viral-co-op-games-size-tripled-with-new-console-ports-instead-of-the-same-30-daily-maps-rotating-forever-you-get-208-maps/",
-      "pubDate": "24.10.2026 um 12:04 Uhr",
-      "timestamp": 1792843495.0,
+      "title": "Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed",
+      "link": "https://kotaku.com/claudes-reverse-engineering-capabilities-used-to-recompile-games-may-have-been-quietly-nerfed-2000749320",
+      "pubDate": "24.10.2026 um 16:48 Uhr",
+      "timestamp": 1792860506.0,
+      "source": "Kotaku",
+      "summary": "Claude Opus 5.5 users are reporting that Anthropic’s AI suddenly seems to be a lot worse at stealing people's intellectual property"
+    },
+    {
+      "title": "Open-world spy game from Grand Theft Auto dev never happened because Rockstar couldn't get it right",
+      "link": "https://www.gamesradar.com/games/open-world/open-world-spy-game-from-grand-theft-auto-devs-never-happened-because-rockstar-couldnt-get-it-right-other-people-can-try-but-i-personally-think-its-hard/",
+      "pubDate": "24.10.2026 um 16:30 Uhr",
+      "timestamp": 1792859429.0,
       "source": "Latest from GamesRadar+",
-      "summary": "\"We wanted to make sure there was still re-playability for players,\" Team Peak says"
+      "summary": "\"It never quite worked,\" Dan Houser says"
     },
     {
-      "title": "5 Years Later, Metroid Dread’s Perfect Ending Is Still One of Nintendo’s Best",
-      "link": "https://www.polygon.com/metroid-dread-5-year-retrospective/",
-      "pubDate": "24.10.2026 um 12:00 Uhr",
-      "timestamp": 1792843219.0,
+      "title": "Stephen King's 10 Best Villains of All Time, Ranked",
+      "link": "https://www.polygon.com/stephen-kings-best-villains-of-all-time-ranked/",
+      "pubDate": "24.10.2026 um 16:01 Uhr",
+      "timestamp": 1792857680.0,
       "source": "Polygon.com",
-      "summary": "Five years after its release, Metroid Dread's haunting ending ranks among one of Nintendo's finest."
+      "summary": "Stephen King has been creating scary villains since the '70s. Here's a list of our favorites, ranked."
     },
     {
-      "title": "12 Anime Worth Watching This Fall",
-      "link": "https://www.ign.com/articles/new-anime-to-watch-in-fall-2006",
-      "pubDate": "24.10.2026 um 12:00 Uhr",
-      "timestamp": 1792843200.0,
-      "source": "IGN All",
-      "summary": "From a return to Night City to a legendary blacksmith and bizarre race, we run down the new and returning anime titles you need to check out."
-    },
-    {
-      "title": "Fallout Day 2026: Every Big Announcement from Bethesda’s Fan Event",
-      "link": "https://www.polygon.com/fallout-day-2026-announcements-roundup/",
-      "pubDate": "24.10.2026 um 11:50 Uhr",
-      "timestamp": 1792842618.0,
+      "title": "5 Hardest Platformers Ever Made, Ranked by Difficulty",
+      "link": "https://www.polygon.com/5-hardest-platformers-ever-ranked/",
+      "pubDate": "24.10.2026 um 16:01 Uhr",
+      "timestamp": 1792857680.0,
       "source": "Polygon.com",
-      "summary": "Bethesda made all sorts of exciting announcements for Fallout Day, giving fans of the series a lot to look forward to in the upcoming months."
+      "summary": "When missing a jump means certain doom, you might wish for death"
     },
     {
-      "title": "Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet",
-      "link": "https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/",
-      "pubDate": "24.10.2026 um 11:09 Uhr",
-      "timestamp": 1792840150.0,
+      "title": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims",
+      "link": "https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/",
+      "pubDate": "24.10.2026 um 16:00 Uhr",
+      "timestamp": 1792857600.0,
       "source": "PCGamer latest",
-      "summary": "\"We asked everyone: work on something that they loved about Galaxies, and showcase that to the world.\""
+      "summary": "\"It's not a good marketing term. And I don't think it helps.\""
     },
     {
-      "title": "Game of Thrones’ Perfect Replacement is a 100+ Hours Fantasy Series that's Free on YouTube",
-      "link": "https://www.polygon.com/game-of-thrones-replacement-critical-role/",
-      "pubDate": "24.10.2026 um 11:01 Uhr",
-      "timestamp": 1792839679.0,
+      "title": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component",
+      "link": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component",
+      "pubDate": "24.10.2026 um 15:57 Uhr",
+      "timestamp": 1792857453.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "I'll be honest folks: I didn't know that Steam's Personal Calendar feature was still technically in testing. I've been using it here and there to keep..."
+    },
+    {
+      "title": "The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover",
+      "link": "https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/",
+      "pubDate": "24.10.2026 um 15:46 Uhr",
+      "timestamp": 1792856775.0,
+      "source": "PCGamer latest",
+      "summary": "Of mice and meat."
+    },
+    {
+      "title": "Japan Actors Union pushes for heavy restrictions on AI copying dead actors",
+      "link": "https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/",
+      "pubDate": "24.10.2026 um 15:33 Uhr",
+      "timestamp": 1792856003.0,
+      "source": "PCGamer latest",
+      "summary": "It's part of a broader set of guidelines the union hopes to set an industry-wide precedent for."
+    },
+    {
+      "title": "Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games",
+      "link": "https://www.polygon.com/steam-personal-calendar-wide-release/",
+      "pubDate": "24.10.2026 um 15:20 Uhr",
+      "timestamp": 1792855231.0,
       "source": "Polygon.com",
-      "summary": "Few shows match 'Game of Thrones' gritty high-fantasy setting. So why not watch a Critical Role D&amp;D show instead?"
+      "summary": "Steam now features a Personal Calendar that will spotlight recently released and upcoming games that it thinks you'll like"
     },
     {
-      "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly",
-      "link": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
-      "pubDate": "24.10.2026 um 10:13 Uhr",
-      "timestamp": 1792836799.0,
+      "title": "Dead by Daylight Is Losing Another Horror Icon",
+      "link": "https://www.polygon.com/dead-by-daylight-chucky-removed/",
+      "pubDate": "24.10.2026 um 15:17 Uhr",
+      "timestamp": 1792855025.0,
       "source": "Polygon.com",
-      "summary": "Nintendo's Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation"
+      "summary": "This is Dead by Daylight's last Halloween with Chucky, as the horror movie icon is being removed from the game for good."
     },
     {
-      "title": "13 Years Later, 'Adventure Time's Scariest Episode Is Still a 10-Minute Masterpiece",
-      "link": "https://www.polygon.com/adventure-time-scariest-episode-simon-and-marcy/",
-      "pubDate": "24.10.2026 um 10:00 Uhr",
-      "timestamp": 1792836018.0,
+      "title": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+      "link": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+      "pubDate": "24.10.2026 um 15:10 Uhr",
+      "timestamp": 1792854600.0,
+      "source": "PCGamer latest",
+      "summary": "Uh oh, everything is cozy now."
+    },
+    {
+      "title": "One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies",
+      "link": "https://www.polygon.com/zero-parades-mass-effect-2-comparison/",
+      "pubDate": "24.10.2026 um 15:00 Uhr",
+      "timestamp": 1792854018.0,
       "source": "Polygon.com",
-      "summary": "Simon and Marcy remains the pinnacle of Adventure Time storytelling, and a must-watch for your Halloween Countdown"
+      "summary": "Mass Effect: Universe may be cancelled following BioWare's closure, but Zero Parades: For Died Spies is already Mass Effect meets James Bond"
     },
     {
-      "title": "Avengers: Doomsday Promoted With Baseball-Themed Crossover Featuring MLB Players During World Series",
-      "link": "https://www.ign.com/articles/avengers-doomsday-promoted-with-baseball-themed-crossover-featuring-mlb-players-during-world-series",
-      "pubDate": "24.10.2026 um 01:08 Uhr",
-      "timestamp": 1792804096.0,
-      "source": "IGN All",
-      "summary": "Marvel Studios debuted a unique promo for Avengers: Doomsday during Game 1 of the 2026 World Series on Fox tonight between the Milwaukee Brewers and T..."
+      "title": "The best feature in the original Alan Wake is an absence: the man has no reticle",
+      "link": "https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/",
+      "pubDate": "24.10.2026 um 15:00 Uhr",
+      "timestamp": 1792854000.0,
+      "source": "PCGamer latest",
+      "summary": "Remedy forgot the rules of third-person shooting to build its inaugural horror game."
     }
   ],
   "sim": [
