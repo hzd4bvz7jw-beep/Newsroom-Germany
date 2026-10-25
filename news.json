@@ -1,151 +1,207 @@
 {
   "de": [
     {
-      "title": "Mobile YouTube-App: Neuer Startbildschirm und Feeds für bessere Such­er­geb­nisse",
-      "link": "https://www.computerbase.de/news/apps/mobile-youtube-app-neuer-startbildschirm-und-feeds-fuer-bessere-suchergebnisse.99986/",
-      "pubDate": "24.10.2026 um 21:45 Uhr",
-      "timestamp": 1792871100.0,
-      "source": "ComputerBase",
-      "summary": "YouTube baut den Startbildschirm seiner mobilen App um und bündelt in einer neuen oberen Leiste den Zugriff auf Live-Inhalte, Musik, Filme und TV sowi..."
-    },
-    {
-      "title": "Nintendo Switch 2 – Diese 9 Spiele erscheinen im November 2026",
-      "link": "https://www.playcentral.de/nintendo-switch-2-diese-9-spiele-erscheinen-im-november-2026/",
-      "pubDate": "24.10.2026 um 19:31 Uhr",
-      "timestamp": 1792870299.0,
-      "source": "PlayCentral",
-      "summary": "Der November 2026 entwickelt sich für die Nintendo Switch 2 zu einem der abwechslungsreichsten Monate des Jahres. Gleich neun größere Veröffentlichung..."
-    },
-    {
-      "title": "KI statt Gaming: Fabriken zerlegen massenhaft GeForce RTX 5090",
-      "link": "https://www.computerbase.de/news/grafikkarten/ki-statt-gaming-fabriken-zerlegen-massenhaft-geforce-rtx-5090.99985/",
-      "pubDate": "24.10.2026 um 21:15 Uhr",
-      "timestamp": 1792869300.0,
-      "source": "ComputerBase",
-      "summary": "Während die GeForce RTX 5090 im deutschen Handel kaum verfügbar ist, zeigen neue Filmaufnahmen, wie fabrikneue Modelle in einer fachmännisch organisie..."
-    },
-    {
-      "title": "SteamOS 3.9.5 ist da: Valve aktualisiert Linux-Kernel und KDE Plasma",
-      "link": "https://www.computerbase.de/news/betriebssysteme/steamos-3-9-5-ist-da-valve-aktualisiert-linux-kernel-und-kde-plasma.99983/",
-      "pubDate": "24.10.2026 um 21:00 Uhr",
-      "timestamp": 1792868400.0,
-      "source": "ComputerBase",
-      "summary": "Valve hat die finale Version von SteamOS 3.9.5 veröffentlicht. Zu den Neuerungen zählen ein aktueller Linux-Kernel, die Desktop-Umgebung KDE Plasma 6...."
-    },
-    {
-      "title": "Kostenloser DNS-Dienst: Quad9 zieht sich nach beIN-Urteil aus Frankreich zu­rück",
-      "link": "https://www.computerbase.de/news/netzpolitik/kostenloser-dns-dienst-quad9-zieht-sich-nach-bein-urteil-aus-frankreich-zurueck.99984/",
-      "pubDate": "24.10.2026 um 20:34 Uhr",
-      "timestamp": 1792866840.0,
-      "source": "ComputerBase",
-      "summary": "Quad9 stellt seine kostenlosen DNS-Dienste für Anwender in Frankreich zum 24. November 2026 vollständig ein. Die gemeinnützige Stiftung reagiert damit..."
-    },
-    {
-      "title": "Zelda Ocarina of Time – Darum sollte Navi ursprünglich menschlich aussehen",
-      "link": "https://www.playcentral.de/zelda-ocarina-of-time-darum-sollte-navi-urspruenglich-menschlich-aussehen/",
-      "pubDate": "24.10.2026 um 18:31 Uhr",
-      "timestamp": 1792866679.0,
-      "source": "PlayCentral",
-      "summary": "Navi gehört zu den bekanntesten Begleitfiguren aus The Legend of Zelda: Ocarina of Time. Mit ihrer leuchtenden Gestalt, ihren Hinweisen und ihrer Unte..."
-    },
-    {
-      "title": "ESO Echoes of Skyrim startet – Greymoor und Wolfhunter jetzt im Grundspiel",
-      "link": "https://www.playcentral.de/eso-echoes-of-skyrim-startet-greymoor-und-wolfhunter-jetzt-im-grundspiel/",
-      "pubDate": "24.10.2026 um 16:32 Uhr",
-      "timestamp": 1792859531.0,
-      "source": "PlayCentral",
-      "summary": "Mit The Elder Scrolls Online: Echoes of Skyrim hat ZeniMax Online Studios die zweite Saison des Online-Rollenspiels offiziell gestartet. Seit dem 21. ..."
-    },
-    {
-      "title": "Tropico 7 kommt am 28. Januar 2027 Day One in den Xbox Game Pass",
-      "link": "https://www.playcentral.de/tropico-7-kommt-am-28-januar-2027-day-one-in-den-xbox-game-pass/",
-      "pubDate": "24.10.2026 um 16:31 Uhr",
-      "timestamp": 1792859484.0,
-      "source": "PlayCentral",
-      "summary": "Mit Tropico 7 steht ein weiterer großer Day-One-Zugang für den Xbox Game Pass fest. Die politische Aufbausimulation erscheint am 28. Januar 2027 und w..."
-    },
-    {
-      "title": "7 Klonkrieger aus Star Wars, die Boba Fett alt aussehen lassen",
-      "link": "https://mein-mmo.de/7-klonkrieger-aus-star-wars-die-boba-fett-alt-aussehen-lassen/",
-      "pubDate": "24.10.2026 um 16:30 Uhr",
-      "timestamp": 1792859400.0,
+      "title": "CoD MW4: Ein unscheinbares Gewehr ist meine Geheimwaffe gegen den Aim-Assist, lässt mich mit Maus Kills gegen Controller farmen",
+      "link": "https://mein-mmo.de/cod-mw4-dariusz-geheimwaffe-gegen-aim-assist/",
+      "pubDate": "25.10.2026 um 10:36 Uhr",
+      "timestamp": 1792924585.0,
       "source": "Mein-MMO",
-      "summary": "In diesem Ranking schauen wir uns sieben der stärksten Klonkrieger an, die es in der Galaxis von Star Wars gibt. Der Beitrag 7 Klonkrieger aus Star Wa..."
+      "summary": "Dariusz versucht in CoD MW4 mit Maus und Tastatur gegen den Aim-Assist zu bestehen. Ein Gewehr stellte sich dabei als Geheimwaffe heraus. Der Beitrag ..."
     },
     {
-      "title": "Steam macht den persönlichen Kalender zur festen Store-Funktion﻿",
-      "link": "https://www.playcentral.de/steam-macht-den-persoenlichen-kalender-zur-festen-store-funktion/",
-      "pubDate": "24.10.2026 um 15:32 Uhr",
-      "timestamp": 1792855928.0,
-      "source": "PlayCentral",
-      "summary": "Valve hat den persönlichen Kalender offiziell als feste Funktion in den Steam Store aufgenommen. Das neue Werkzeug soll euch dabei helfen, interessant..."
-    },
-    {
-      "title": "Mass-Effect-Petition knackt 121.000 Unterschriften nach BioWare-Aus",
-      "link": "https://www.playcentral.de/mass-effect-petition-knackt-121-000-unterschriften-nach-bioware-aus/",
-      "pubDate": "24.10.2026 um 15:31 Uhr",
-      "timestamp": 1792855875.0,
-      "source": "PlayCentral",
-      "summary": "Der Protest aus der Mass-Effect-Community gewinnt rasant an Stärke. Eine Petition für die Rettung der Science-Fiction-Reihe hat innerhalb weniger Tage..."
-    },
-    {
-      "title": "Warrior Cats – Clans of the Forest startet mit gemischten Wertungen",
-      "link": "https://www.playcentral.de/warrior-cats-clans-of-the-forest-startet-mit-gemischten-wertungen/",
-      "pubDate": "24.10.2026 um 14:34 Uhr",
-      "timestamp": 1792852454.0,
-      "source": "PlayCentral",
-      "summary": "Warrior Cats: Clans of the Forest ist seit dem 23. Oktober 2026 erhältlich und bringt die bekannte Buchreihe erstmals als eigenständiges, rundenbasier..."
-    },
-    {
-      "title": "Diablo 4 Update 3.2.4 – Scherben der Großen Übel stapelbar bis 99",
-      "link": "https://www.playcentral.de/diablo-4-update-3-2-4-scherben-der-grossen-uebel-stapelbar-bis-99/",
-      "pubDate": "24.10.2026 um 14:32 Uhr",
-      "timestamp": 1792852365.0,
-      "source": "PlayCentral",
-      "summary": "Blizzard reagiert auf einen der häufigsten Kritikpunkte an Season 15 von Diablo 4. Mit Update 3.2.4 dürfen die Scherben der Großen Übel künftig gestap..."
-    },
-    {
-      "title": "GeForce-Treiber 621.01: Nvidia bestätigt Black­screens nach Update",
-      "link": "https://www.computerbase.de/news/grafikkarten/geforce-treiber-621-01-nvidia-bestaetigt-blackscreens-nach-update.99982/",
-      "pubDate": "24.10.2026 um 16:27 Uhr",
-      "timestamp": 1792852020.0,
-      "source": "ComputerBase",
-      "summary": "Seit der Freigabe des GeForce Game Ready Drivers 621.01 am 21. Oktober melden Anwender über hängende Videos und vorübergehend schwarze Bildschirme. Di..."
-    },
-    {
-      "title": "Quests und Überleben sind mir in Enshrouded egal, ich buddle seit 30 Stunden an einem riesigen Loch",
-      "link": "https://mein-mmo.de/enshrouded-dariusz-hoehle/",
-      "pubDate": "24.10.2026 um 13:56 Uhr",
-      "timestamp": 1792850216.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteur Dariusz ist ein Zwerg aus Leidenschaft und gräbt seit 30 Stunden in dem Survival-Game Enshrouded ein riesiges Loch. Der Beitrag Ques..."
-    },
-    {
-      "title": "Ich habe 10 zukünftige Steam-Hits gespielt, damit ihr es nicht müsst: 2 wollte ich direkt weiterzocken",
-      "link": "https://mein-mmo.de/steam-next-fest-oktober-2026-top-10/",
-      "pubDate": "24.10.2026 um 13:48 Uhr",
-      "timestamp": 1792849697.0,
-      "source": "Mein-MMO",
-      "summary": "Ich habe die Top-10 der Demos beim Steam Next Fest gespielt und verrate euch, welche Releases ihr im Auge behalten solltet. Der Beitrag Ich habe 10 zu..."
-    },
-    {
-      "title": "Marvel’s Blade: Videospiel ist fast fertig, doch Arkane Lyon droht die Schließung",
-      "link": "https://www.eurogamer.de/marvels-blade-videospiel-fast-fertig-arkane-lyon-schliessung",
-      "pubDate": "24.10.2026 um 12:07 Uhr",
-      "timestamp": 1792843649.0,
+      "title": "Battlefield 3 wird 15 Jahre alt: Ein Rückblick auf den Shooter-Höhepunkt von DICE",
+      "link": "https://www.eurogamer.de/battlefield-3-15-jahre-jubilaeum",
+      "pubDate": "25.10.2026 um 10:30 Uhr",
+      "timestamp": 1792924200.0,
       "source": "Eurogamer.de News",
-      "summary": "Um Blade steht es derzeit nicht gerade gut. Nicht nur das Videospiel vom Entwickler Arkane Lyon steht auf der Kippe, auch der MCU-Film mit Mahershala ..."
+      "summary": "Im Oktober 2011 trat Entwickler DICE an, um der Call-of-Duty-Reihe die Shooter-Krone zu entrei&szlig;en. Mit Battlefield 3 warf das schwedische Studio..."
     },
     {
-      "title": "Total War: Shogun 2: Serienväter schalten sich nach Remaster-Debakel ein",
-      "link": "https://www.computerbase.de/news/gaming/total-war-shogun-2-serienvaeter-schalten-sich-nach-remaster-debakel-ein.99981/",
-      "pubDate": "24.10.2026 um 14:01 Uhr",
-      "timestamp": 1792843260.0,
+      "title": "Mass Effect Universe: Neuer Leak enthüllt Details zum eingestellten BioWare-Projekt",
+      "link": "https://www.eurogamer.de/mass-effect-universe-leak-details",
+      "pubDate": "25.10.2026 um 10:00 Uhr",
+      "timestamp": 1792922400.0,
+      "source": "Eurogamer.de News",
+      "summary": "Ein Content Creator, der nach eigenen Angaben Mitglied eines BioWare-Community-Councils war, teilte angebliche Details zum eingestellten n&auml;chsten..."
+    },
+    {
+      "title": "Alle kennen Stan Lee, doch sein legendärer Partner wurde in Marvel und DC zum mächtigen Gott",
+      "link": "https://mein-mmo.de/jack-kirby-gott-in-marvel-und-dc/",
+      "pubDate": "25.10.2026 um 10:00 Uhr",
+      "timestamp": 1792922400.0,
+      "source": "Mein-MMO",
+      "summary": "Der wichtigste Partner von Stan Lee wurde von Marvel und DC geehrt. Beide Verlage machten ihn zu einem Gott. Der Beitrag Alle kennen Stan Lee, doch se..."
+    },
+    {
+      "title": "Fortnite kündigt One-Piece-Crossover für neue Mini-Season an",
+      "link": "https://www.eurogamer.de/fortnite-one-piece-crossover",
+      "pubDate": "25.10.2026 um 09:30 Uhr",
+      "timestamp": 1792920600.0,
+      "source": "Eurogamer.de News",
+      "summary": "Epic Games hat die Ger&uuml;chte um eine m&ouml;gliche Zusammenarbeit zwischen Fortnite und One Piece endlich best&auml;tigt. Mit einem neuen Teaser-T..."
+    },
+    {
+      "title": "AV2: YouTube plant für 2027 den 30-Prozent-Sprung",
+      "link": "https://www.computerbase.de/news/audio-video-foto/av2-youtube-plant-fuer-2027-den-30-prozent-sprung.99988/",
+      "pubDate": "25.10.2026 um 10:00 Uhr",
+      "timestamp": 1792918800.0,
       "source": "ComputerBase",
-      "summary": "Nur zwei Tage überlebte die modernisierte Complete Edition des 4X-Strategieklassikers Total War: Shogun 2. Nach einer mittleren vierstelligen Anzahl „..."
+      "summary": "Nach AV1 steht mit AV2 die nächste Generation der Videokompression bereit. YouTube plant schon für Anfang 2027 erste Streams mit dem neuen Codec. Auch..."
+    },
+    {
+      "title": "Fallout Shelter: The Experiment startet im Januar 2027 bei Prime Video",
+      "link": "https://www.eurogamer.de/fallout-shelter-the-experiment-startet-im-januar-2027-bei-prime-video",
+      "pubDate": "25.10.2026 um 09:00 Uhr",
+      "timestamp": 1792918800.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Reality-Wettbewerbs-Serie Fallout Shelter: The Experiment von Prime Video feiert am 13. Januar 2027 Premiere. Mehr"
+    },
+    {
+      "title": "„Das Geile an Bandendelikten ist das Zusammenspiel der Personen“ – Jurist erklärt seine Straftaten in GTA Online auf Twitch",
+      "link": "https://mein-mmo.de/streamer-gta-online-tatbestaende-erklaert/",
+      "pubDate": "25.10.2026 um 09:00 Uhr",
+      "timestamp": 1792918800.0,
+      "source": "Mein-MMO",
+      "summary": "Dank einem Juristen könnt ihr jetzt rechtlich perfekt vorbereitet in GTA 6 gehen und wisst ganz genau, welche Straftaten ihr so begeht.  Der Beitrag „..."
+    },
+    {
+      "title": "Elden Ring: A24s ambitionierte Filmadaption wird mit 200 Millionen Dollar zum teuersten Film des Studios",
+      "link": "https://www.eurogamer.de/elden-ring-filmadaption-200-millionen-dollar",
+      "pubDate": "25.10.2026 um 08:30 Uhr",
+      "timestamp": 1792917000.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die geplante Verfilmung von Elden Ring entwickelt sich weiterhin zu einem der ambitioniertesten Filmprojekte von A24. Wie aus einem Bericht  des Wall ..."
+    },
+    {
+      "title": "Die 7 stärksten Klonkrieger aus Star Wars im Power-Ranking",
+      "link": "https://mein-mmo.de/7-klonkrieger-aus-star-wars-die-boba-fett-alt-aussehen-lassen/",
+      "pubDate": "25.10.2026 um 08:15 Uhr",
+      "timestamp": 1792916100.0,
+      "source": "Mein-MMO",
+      "summary": "In diesem Ranking schauen wir uns sieben der stärksten Klonkrieger an, die es in der Galaxis von Star Wars gibt. Der Beitrag Die 7 stärksten Klonkrieg..."
+    },
+    {
+      "title": "Wochenrück- und ausblick: Darum ist Half-Life 3 immer und überall Thema",
+      "link": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w43.99973/",
+      "pubDate": "25.10.2026 um 09:00 Uhr",
+      "timestamp": 1792915200.0,
+      "source": "ComputerBase",
+      "summary": "Was konnten unsere Benchmarks zu Call of Duty: Modern Warfare 4, AMDs absolut überraschende, Monate früher als erwartet durchgezogene Veröffentlichung..."
+    },
+    {
+      "title": "Stalker 2: PlayStation Asia leakt Update 2.1",
+      "link": "https://www.eurogamer.de/stalker-2-playstation-asia-leakt-update-21",
+      "pubDate": "25.10.2026 um 08:00 Uhr",
+      "timestamp": 1792915200.0,
+      "source": "Eurogamer.de News",
+      "summary": "PlayStation Asia hat Berichten zufolge Details zu einem noch nicht angek&uuml;ndigten Update f&uuml;r Stalker 2: Heart of Chornobyl (Version 2.1) ver&..."
+    },
+    {
+      "title": "WoW Forever: Die neuen Elfen brauchen ein Update, denn eine Sache nervt",
+      "link": "https://mein-mmo.de/wow-forever-himmelsgeborene-update-eine-sache-nervt/",
+      "pubDate": "25.10.2026 um 08:00 Uhr",
+      "timestamp": 1792915200.0,
+      "source": "Mein-MMO",
+      "summary": "Die Himmelsgeborenen in World of Warcraft Forever sind umstritten. Doch sie könnten interessanter sein, wenn Blizzard ein Detail anpasst. Der Beitrag ..."
+    },
+    {
+      "title": "30 Jahre Tomb Raider: Wie Lara Croft 1996 das 3D-Genre revolutionierte",
+      "link": "https://www.eurogamer.de/tomb-raider-30-jahre-jubilaeum",
+      "pubDate": "25.10.2026 um 07:00 Uhr",
+      "timestamp": 1792911600.0,
+      "source": "Eurogamer.de News",
+      "summary": "1996 ver&auml;nderte ein kleines britisches Studio die Gaming-Welt f&uuml;r immer. Mit Tomb Raider schickte Entwickler Core Design die furchtlose Arch..."
+    },
+    {
+      "title": "Die Lieblings-Armee von Henry Cavill in Warhammer 40.000 ist noch krasser als Space Marines, kommt menschlichen Göttern am nächsten",
+      "link": "https://mein-mmo.de/warhammer-40000-adeptus-custodes/",
+      "pubDate": "25.10.2026 um 07:00 Uhr",
+      "timestamp": 1792911600.0,
+      "source": "Mein-MMO",
+      "summary": "Das Adeptus Custodes bringt Wesen hervor, die selbst Space Marines aus Warhammer 40.000 übertreffen. Wer sind sie? Der Beitrag Die Lieblings-Armee von..."
+    },
+    {
+      "title": "Subnautica 2: Neue Einblicke in Story und Spielwelt des Early Access 2.0",
+      "link": "https://www.computerbase.de/news/gaming/subnautica-2-neue-einblicke-in-story-und-spielwelt-des-early-access-2-0.99987/",
+      "pubDate": "25.10.2026 um 07:30 Uhr",
+      "timestamp": 1792909800.0,
+      "source": "ComputerBase",
+      "summary": "Im Rahmen eines neuen Videos gibt es einen Ausblick auf die Story und Spielwelt des \"Early Access 2.0\" von Subnautica 2. Der Fokus des kommenden Inhal..."
+    },
+    {
+      "title": "25 Jahre Windows XP: Warum es ein Dauerbrenner war. Und welche Probleme es hatte",
+      "link": "https://www.computerbase.de/news/betriebssysteme/25-jahre-windows-xp-das-kult-windows-mit-dem-der-aktivierungszwang-begann.99974/",
+      "pubDate": "25.10.2026 um 07:00 Uhr",
+      "timestamp": 1792908000.0,
+      "source": "ComputerBase",
+      "summary": "Am 25. Oktober 2001 kam Windows XP im Handel. Für Microsoft war es ein voller Erfolg, das Betriebssystem entwickelte sich zum Dauerbrenner und zählte ..."
+    },
+    {
+      "title": "WoW Forever: Die 5 größten Verlierer der Beta",
+      "link": "https://mein-mmo.de/wow-forever-klassen-verlierer-beta/",
+      "pubDate": "25.10.2026 um 06:00 Uhr",
+      "timestamp": 1792908000.0,
+      "source": "Mein-MMO",
+      "summary": "WoW: Forever ändert Balancing und Design der Classic-Klassen. MeinMMO bestimmt die 5 größten Verlierer der Beta. Der Beitrag WoW Forever: Die 5 größte..."
     }
   ],
   "int": [
+    {
+      "title": "Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic",
+      "link": "https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/",
+      "pubDate": "25.10.2026 um 10:00 Uhr",
+      "timestamp": 1792922418.0,
+      "source": "Polygon.com",
+      "summary": "The Abominable Dr. Phibes is a campy horror movie about an organist who murders surgeons"
+    },
+    {
+      "title": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
+      "link": "https://www.gamesradar.com/entertainment/fantasy-movies/the-elden-ring-movie-is-reportedly-a24s-most-expensive-production-ever-the-studios-spending-an-eye-watering-usd200-million-on-fromsoftwares-rpg/",
+      "pubDate": "25.10.2026 um 09:16 Uhr",
+      "timestamp": 1792919814.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Grab the popcorn"
+    },
+    {
+      "title": "5 Near-Perfect Psychological Thriller Movies Streaming for Free",
+      "link": "https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/",
+      "pubDate": "25.10.2026 um 08:54 Uhr",
+      "timestamp": 1792918486.0,
+      "source": "Polygon.com",
+      "summary": "These tense genre picks are well worth your time."
+    },
+    {
+      "title": "The Witcher star Doug Cockle recorded all of Geralt's lines for the OG RPG in just 8 days",
+      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-star-doug-cockle-recorded-all-of-geralts-lines-for-the-og-rpg-in-just-8-days-my-voice-was-wrecked/",
+      "pubDate": "25.10.2026 um 08:52 Uhr",
+      "timestamp": 1792918325.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We were recording six, seven hours a day\""
+    },
+    {
+      "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
+      "link": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
+      "pubDate": "25.10.2026 um 08:08 Uhr",
+      "timestamp": 1792915698.0,
+      "source": "Polygon.com",
+      "summary": "Spike's best quote sums up his arc as one of the main characters in Buffy the Vampire Slayer."
+    },
+    {
+      "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+      "link": "https://www.polygon.com/paul-atreides-best-dune-quote/",
+      "pubDate": "25.10.2026 um 08:00 Uhr",
+      "timestamp": 1792915218.0,
+      "source": "Polygon.com",
+      "summary": "This brilliant quote from Frank Herbert's Dune reveals an unsavory truth."
+    },
+    {
+      "title": "Man Arrested for Brandishing Knife at Crew on the Set of Miami Vice ‘85",
+      "link": "https://www.ign.com/articles/man-arrested-for-brandishing-knife-at-crew-on-the-set-of-miami-vice-85",
+      "pubDate": "25.10.2026 um 04:23 Uhr",
+      "timestamp": 1792902212.0,
+      "source": "IGN All",
+      "summary": "A knife-wielding man was arrested Friday night for threatening crew members on the Brooklyn set of Miami Vice ‘85. Citing information from the NYPD, T..."
+    },
     {
       "title": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
       "link": "https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/",
@@ -195,30 +251,6 @@
       "summary": "From Tempest to Captain Blood, unearth these classic 1980s games from the 8-bit era that deserve to make a comeback."
     },
     {
-      "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
-      "link": "https://www.polygon.com/kingdom-hearts-4-worlds-theories/",
-      "pubDate": "25.10.2026 um 00:39 Uhr",
-      "timestamp": 1792888756.0,
-      "source": "Polygon.com",
-      "summary": "Kingdom Hearts has a complicated history of representing Disney worlds, so here's a look at what should and should not be included in KH4."
-    },
-    {
-      "title": "Every Legend of Zelda Movie Character and Cast Member Confirmed So Far",
-      "link": "https://www.polygon.com/the-legend-of-zelda-2027-movie-cast-link-zelda-ganondorf/",
-      "pubDate": "25.10.2026 um 00:30 Uhr",
-      "timestamp": 1792888215.0,
-      "source": "Polygon.com",
-      "summary": "Nintendo's The Legend of Zelda live-action movie hits theaters in 2027. Here's who's confirmed to appear in the film to date."
-    },
-    {
-      "title": "Johnny Depp's 96-Minute Stephen King Thriller Is an Underrated Gem on Streaming",
-      "link": "https://www.polygon.com/johnny-depp-secret-window-stephen-king-streaming-hbo-max-october-2026/",
-      "pubDate": "24.10.2026 um 22:18 Uhr",
-      "timestamp": 1792880298.0,
-      "source": "Polygon.com",
-      "summary": "Johnny Depp’s Secret Window, a 2004 Stephen King adaptation about plagiarism and paranoia, is finding a new audience on HBO Max."
-    },
-    {
       "title": "James Gunn Defends the DCU's Approach to Interconnected Stories, Doesn't Want Movies Like Clayface to Exist Just to 'Set Up' Crossovers",
       "link": "https://www.ign.com/articles/james-gunn-defends-the-dcus-approach-to-interconnected-stories-doesnt-want-movies-like-clayface-to-exist-just-to-set-up-crossovers",
       "pubDate": "24.10.2026 um 22:09 Uhr",
@@ -243,14 +275,6 @@
       "summary": "I have no particular thoughts on what the afterlife may look like, namely because if there is one, and I'm allowed to hang out in it, I don't want to ..."
     },
     {
-      "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
-      "link": "https://www.polygon.com/best-books-cozy-horror-fall-season/",
-      "pubDate": "24.10.2026 um 21:00 Uhr",
-      "timestamp": 1792875619.0,
-      "source": "Polygon.com",
-      "summary": "Spooky season is always better with horror stories that feel cozy."
-    },
-    {
       "title": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
       "link": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
       "pubDate": "24.10.2026 um 20:29 Uhr",
@@ -265,30 +289,6 @@
       "timestamp": 1792872592.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
-      "link": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
-      "pubDate": "24.10.2026 um 19:45 Uhr",
-      "timestamp": 1792871131.0,
-      "source": "Kotaku",
-      "summary": "The longtime caretaker of the Zelda series traveled to Paris to receive his title, honored for inspiring the world’s 'imagination'"
-    },
-    {
-      "title": "Call of Duty Movie Director Teases Story That Explores 'the Cost of War,' Praises Modern Warfare Characters",
-      "link": "https://www.ign.com/articles/call-of-duty-movie-director-teases-story-that-explores-the-cost-of-war-praises-modern-warfare-characters",
-      "pubDate": "24.10.2026 um 19:45 Uhr",
-      "timestamp": 1792871114.0,
-      "source": "IGN All",
-      "summary": "Call of Duty movie director Peter Berg has teased more details from his live-action film, promising an adaptation with \"a very strong soul\" that explo..."
-    },
-    {
-      "title": "HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week",
-      "link": "https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week",
-      "pubDate": "24.10.2026 um 18:58 Uhr",
-      "timestamp": 1792868306.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Yes, I'm doing it, I'm writing about a megastructure game for the second time this week because come on, HELENA : Cloud District just looks stunning, ..."
     }
   ],
   "sim": [
