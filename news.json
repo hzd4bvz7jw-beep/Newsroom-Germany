@@ -1,151 +1,231 @@
 {
   "de": [
     {
-      "title": "Discord: Google kann bald Chat-Nachrichten mitlesen",
-      "link": "https://www.computerbase.de/news/apps/discord-google-kann-bald-chat-nachrichten-mitlesen.100061/",
-      "pubDate": "28.10.2026 um 20:55 Uhr",
-      "timestamp": 1793217300.0,
-      "source": "ComputerBase",
-      "summary": "Öffentliche Discord-Server lassen sich ohne Einladung beitreten. Dennoch sind ihre Gespräche über gewöhnliche Suchmaschinen kaum zu finden. Das soll s..."
+      "title": "GTA 6: Rockstar-Entwickler über den enormen Druck und die monumentale Entwicklung",
+      "link": "https://www.eurogamer.de/gta-6-rockstar-entwickler-druck-und-erwartungen",
+      "pubDate": "29.10.2026 um 09:28 Uhr",
+      "timestamp": 1793266098.0,
+      "source": "Eurogamer.de News",
+      "summary": "Noch drei Wochen trennen uns vom 19. November und somit auch vom Release von Grand Theft Auto 6. Seit inzwischen 13 Jahren t&uuml;fteln die Entwickler..."
     },
     {
-      "title": "Satelliteninternet: FCC genehmigt Amazons Übernahme von Globalstar",
-      "link": "https://www.computerbase.de/news/internet/satelliteninternet-fcc-genehmigt-amazons-uebernahme-von-globalstar.100057/",
-      "pubDate": "28.10.2026 um 20:31 Uhr",
-      "timestamp": 1793215860.0,
-      "source": "ComputerBase",
-      "summary": "Die US-Aufsichtsbehörde FCC hat Amazons Übernahme des Satellitenbetreibers Globalstar für 11,5 Milliarden US-Dollar genehmigt. Amazon will mit dem Zuk..."
+      "title": "GTA 6: Neues Hundekot-Gameplay in South Park aufgetaucht",
+      "link": "https://www.eurogamer.de/gta-6-gameplay-south-park",
+      "pubDate": "29.10.2026 um 09:10 Uhr",
+      "timestamp": 1793265049.0,
+      "source": "Eurogamer.de News",
+      "summary": "Am Mittwochabend wurde eine neue Folge von South Park gezeigt. Was das mit GTA 6 zu tun hat? Nun, in dieser frischen Folge wird Gameplay des Rockstar-..."
     },
     {
-      "title": "Reacher könnte auf Prime Video bald Konkurrenz bekommen und die ist genauso taff wie der Action-Held",
-      "link": "https://mein-mmo.de/reacher-spin-of-autor-wunsch/",
-      "pubDate": "28.10.2026 um 18:30 Uhr",
-      "timestamp": 1793212200.0,
+      "title": "Gemini 4 Carbon: Neues Frontier-Modell mit Fo­kus auf Coding und Cyber­secu­rity",
+      "link": "https://www.computerbase.de/news/apps/gemini-4-carbon-neues-frontier-modell-mit-fokus-auf-coding-und-cybersecurity.100063/",
+      "pubDate": "29.10.2026 um 10:00 Uhr",
+      "timestamp": 1793264400.0,
+      "source": "ComputerBase",
+      "summary": "Google startet mit Gemini 4 Carbon sein bisher leistungsfähigstes KI-Modell, das vor allem auf lang laufende Coding-Aufgaben und Cybersecurity ausgele..."
+    },
+    {
+      "title": "GTA 6: Neues Gameplay in South Park zeigt bizarre Strandszene mit Jason und Lucia",
+      "link": "https://www.playcentral.de/gta-6-gameplay-south-park/",
+      "pubDate": "29.10.2026 um 08:38 Uhr",
+      "timestamp": 1793263102.0,
+      "source": "PlayCentral",
+      "summary": "In einer Folge von South Park ist neues Gameplay aus GTA 6 zu sehen. Der kurze Ausschnitt zeigt Jason und Lucia an einem belebten Strand und später ei..."
+    },
+    {
+      "title": "GTA Online: Halloween geht in die letzte Runde – 2 Millionen GTA-Dollar, dreifache Belohnungen und zahlreiche Rabatte",
+      "link": "https://www.playcentral.de/gta-online-halloween-finale-boni-rabatte-29-oktober-2026/",
+      "pubDate": "29.10.2026 um 08:31 Uhr",
+      "timestamp": 1793262706.0,
+      "source": "PlayCentral",
+      "summary": "In GTA Online beginnt am 29. Oktober 2026 die letzte Woche des diesjährigen Halloween-Events. Bis zum 4. November können sich Spieler noch zahlreiche ..."
+    },
+    {
+      "title": "BioWare-Schließung war für Mitbegründer Greg Zeschuk nach EA-Übernahme absehbar",
+      "link": "https://www.eurogamer.de/bioware-aus-greg-zeschuk-nach-ea-uebernahme-absehbar",
+      "pubDate": "29.10.2026 um 08:31 Uhr",
+      "timestamp": 1793262672.0,
+      "source": "Eurogamer.de News",
+      "summary": "F&uuml;r BioWare-Mitbegr&uuml;nder Greg Zeschuk kommt die k&uuml;rzliche Schlie&szlig;ung des Studios nicht &uuml;berraschend. In einem Interview mit ..."
+    },
+    {
+      "title": "Minecraft: Switch 2 erhält eigene Ver­sion und umfang­reiches Up­date",
+      "link": "https://www.computerbase.de/news/gaming/minecraft-switch-2-erhaelt-eigene-version-und-umfangreiches-update.100064/",
+      "pubDate": "29.10.2026 um 09:22 Uhr",
+      "timestamp": 1793262120.0,
+      "source": "ComputerBase",
+      "summary": "Minecraft steht ab sofort als native Version für Nintendo Switch 2 bereit und unterstützt Vibrant Visuals. Für Besitzer der Switch-Fassung gibt es je ..."
+    },
+    {
+      "title": "Palworld auf Switch 2 – Pocketpair zeigt Interesse, aber keine Pläne",
+      "link": "https://www.playcentral.de/palworld-switch-2-pocketpair-interesse-gespraeche/",
+      "pubDate": "29.10.2026 um 08:18 Uhr",
+      "timestamp": 1793261936.0,
+      "source": "PlayCentral",
+      "summary": "Pocketpair kann sich Palworld grundsätzlich auf Nintendo Switch 2 vorstellen. Studiochef Takuro Mizobe äußerte sich offen gegenüber möglichen Gespräch..."
+    },
+    {
+      "title": "Don't Nod: Neues Spiel trotz Massenentlassungen in Gefahr",
+      "link": "https://www.eurogamer.de/dont-nod-insolvenz-life-is-strange-aphelion",
+      "pubDate": "29.10.2026 um 08:10 Uhr",
+      "timestamp": 1793261414.0,
+      "source": "Eurogamer.de News",
+      "summary": "Im franz&ouml;sischen Studio Don't Nod &ndash; dem Entwickler von Life is Strange, Remember Me, Vampyr, Banishers: New Eden und zuletzt Aphelion &ndas..."
+    },
+    {
+      "title": "Alien Isolation 2 kommt auch physisch – SEGA und Creative Assembly bestätigen",
+      "link": "https://www.playcentral.de/alien-isolation-2-physische-edition-bestaetigt/",
+      "pubDate": "29.10.2026 um 08:08 Uhr",
+      "timestamp": 1793261335.0,
+      "source": "PlayCentral",
+      "summary": "SEGA und Creative Assembly haben Sammlern eine klare Zusage gegeben: Alien: Isolation 2 erscheint nicht ausschließlich als Download, sondern erhält au..."
+    },
+    {
+      "title": "Modern Warfare 4 Saison 1 – neue Karten, Modi und DMZ-Region X01",
+      "link": "https://www.playcentral.de/modern-warfare-4-saison-1-karten/",
+      "pubDate": "29.10.2026 um 08:02 Uhr",
+      "timestamp": 1793260927.0,
+      "source": "PlayCentral",
+      "summary": "Call of Duty: Modern Warfare 4 legt kurz nach der Veröffentlichung kräftig nach. Saison 1 startet am 6. November 2026 um 6 Uhr deutscher Zeit und brin..."
+    },
+    {
+      "title": "Neues PowerOS: Anker Solix bringt um­fas­sendes Software-Update für Solarbank",
+      "link": "https://www.computerbase.de/news/smart-home/neues-poweros-anker-solix-bringt-umfassendes-software-update-fuer-solarbank.100056/",
+      "pubDate": "29.10.2026 um 09:00 Uhr",
+      "timestamp": 1793260800.0,
+      "source": "ComputerBase",
+      "summary": "Anker Solix bringt ein umfassendes Software-Update für die Solarbank-Balkonkraftwerke und X-Energiespeicher-Serie, das die Software weiter zu einem ag..."
+    },
+    {
+      "title": "Nach Netflix nutzt GTA 6 eine Kultserie voller Tabubrüche, um so exklusives wie verstörendes Gameplay zu zeigen",
+      "link": "https://mein-mmo.de/gta-6-southpark-gameplay/",
+      "pubDate": "29.10.2026 um 07:59 Uhr",
+      "timestamp": 1793260776.0,
       "source": "Mein-MMO",
-      "summary": "Der Autor von Reacher denkt schon über die nächste Serie nach und bringt eine Figur ins Spiel, die dem Helden mehr als ebenbürtig ist. Der Beitrag Rea..."
+      "summary": "Die Macher von GTA 6 wählen den nächsten ungewöhnlichen Weg und veröffentlichen neues Gameplay in South Park. Der Beitrag Nach Netflix nutzt GTA 6 ein..."
     },
     {
-      "title": "Rayman Legends Retold: Exklusives Astro-Bot-Outfit für die PS5 enthüllt",
-      "link": "https://www.eurogamer.de/rayman-legends-retold-exklusives-astro-bot-outfit-fur-die-ps5-enthullt",
-      "pubDate": "28.10.2026 um 18:07 Uhr",
-      "timestamp": 1793210832.0,
+      "title": "WoW Midnight – Grimmflut Shop-Items sorgen wegen Blizzard Leitlinien für Kritik",
+      "link": "https://www.playcentral.de/wow-midnight-grimmflut-shop-leitlinien-kritik/",
+      "pubDate": "29.10.2026 um 07:55 Uhr",
+      "timestamp": 1793260544.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard sorgt mit neuen Mikrotransaktionen für die Behausungen in World of Warcraft für Ärger. Teile der Community sehen im Grimmflut-Anwesen und dem..."
+    },
+    {
+      "title": "GTA 6 für PC – Analyst rechnet mit Release im Frühjahr 2027",
+      "link": "https://www.playcentral.de/gta-6-pc-release-fruehjahr-2027-analyst/",
+      "pubDate": "29.10.2026 um 07:48 Uhr",
+      "timestamp": 1793260104.0,
+      "source": "PlayCentral",
+      "summary": "Nur drei Wochen vor dem Konsolenstart von GTA 6 gibt es neue Spekulationen über eine PC-Version. Der Branchenanalyst Michael Pachter rechnet damit, da..."
+    },
+    {
+      "title": "One Piece – Was über Imus Akuma no Mi und mögliche Formen bekannt ist",
+      "link": "https://www.playcentral.de/one-piece-imu-akuma-no-mi-elbaf-arc/",
+      "pubDate": "29.10.2026 um 07:46 Uhr",
+      "timestamp": 1793259979.0,
+      "source": "PlayCentral",
+      "summary": "Achtung, massive Manga-Spoiler: Der Elbaf-Arc von One Piece rückt Imu und dessen übernatürliche Kräfte immer stärker in den Mittelpunkt. Dabei entsteh..."
+    },
+    {
+      "title": "Alien: Isolation 2 bestätigt physische Edition und enthüllt neue Details zum Xenomorph",
+      "link": "https://www.eurogamer.de/alien-isolation-2-physische-edition-kommt",
+      "pubDate": "29.10.2026 um 07:43 Uhr",
+      "timestamp": 1793259837.0,
       "source": "Eurogamer.de News",
-      "summary": "Rayman kommt mit seinem Remake Rayman Legends Retold endlich wieder auf die PlayStation 5. Passend dazu k&ouml;nnen sich Spieler auf ein ganz besonder..."
+      "summary": "Die Entwickler von Alien: Isolation 2 haben eine vollst&auml;ndige physische Ausgabe angek&uuml;ndigt und noch mehr Details zu dieser mit Spannung erw..."
     },
     {
-      "title": "Alienware AW3226Q: Dells erster 32\"-Monitor mit RGB-Stripe-WOLED ist erhältlich",
-      "link": "https://www.computerbase.de/news/monitore/alienware-aw3226q-dells-erster-32-monitor-mit-rgb-stripe-woled-ist-erhaeltlich.100060/",
-      "pubDate": "28.10.2026 um 18:59 Uhr",
-      "timestamp": 1793210340.0,
-      "source": "ComputerBase",
-      "summary": "Dell bringt den auf der IFA vorgestellten Alienware AW3226Q jetzt auf den Markt. Der Gaming-Monitor bietet ein neues Tandem-WOLED-Panel mit RGB-Stripe..."
-    },
-    {
-      "title": "MacBook Pro mit OLED und Touch: Apple wagt größten Display-Umbau seit Jahren",
-      "link": "https://www.computerbase.de/news/notebooks/macbook-pro-mit-oled-und-touch-apple-wagt-den-groessten-display-umbau-seit-jahren.100059/",
-      "pubDate": "28.10.2026 um 18:43 Uhr",
-      "timestamp": 1793209380.0,
-      "source": "ComputerBase",
-      "summary": "Apple stattet das MacBook Pro erstmals mit einem OLED-Touchdisplay aus. Die unter dem Namen PROLED XDR vermarktete Technik verspricht bis zu 2.000 Nit..."
-    },
-    {
-      "title": "PS Plus: Das sind die monatlichen Spiele für November",
-      "link": "https://www.eurogamer.de/ps-plus-november-spiele-dead-island-tomb-raider",
-      "pubDate": "28.10.2026 um 17:31 Uhr",
-      "timestamp": 1793208692.0,
+      "title": "Epic Games setzt bei Fortnite und Unreal Engine 6 verstärkt auf KI",
+      "link": "https://www.eurogamer.de/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "pubDate": "29.10.2026 um 07:22 Uhr",
+      "timestamp": 1793258531.0,
       "source": "Eurogamer.de News",
-      "summary": "Sony hat die neuen monatlichen Spiele f&uuml;r PlayStation Plus Premium und Extra enth&uuml;llt. Am 3. November landet eine Mischung aus Triple-A-Krac..."
-    },
-    {
-      "title": "Company of Heroes 3: Erster Kampagnen-DLC Operation Torch erscheint am 25. November",
-      "link": "https://www.eurogamer.de/company-heroes-3-operation-torch",
-      "pubDate": "28.10.2026 um 17:00 Uhr",
-      "timestamp": 1793206800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Dreieinhalb Jahre nach der Ver&ouml;ffentlichung erh&auml;lt das Strategiespiel Company of Heroes 3 einen ersten Kampagnen-DLC. Mehr"
-    },
-    {
-      "title": "Die neue Serie von Marvel bringt einen Schurken zurück, der das MCU erst so richtig ins Rollen brachte",
-      "link": "https://mein-mmo.de/mcu-rueckkehr-vision-quest-iron-man/",
-      "pubDate": "28.10.2026 um 17:00 Uhr",
-      "timestamp": 1793206800.0,
-      "source": "Mein-MMO",
-      "summary": "Eine neue Serie von Marvel bringt einen alten Charakter zurück, der schon im ersten Film mit Iron Man für Furore sorgte.  Der Beitrag Die neue Serie v..."
-    },
-    {
-      "title": "Nvidia GeForce: Hotfix-Treiber 621.12 gegen Blackscreens bei Videos veröffentlicht",
-      "link": "https://www.computerbase.de/news/grafikkarten/nvidia-geforce-hotfix-treiber-621-12-gegen-blackscreens-bei-videos-veroeffentlicht.100058/",
-      "pubDate": "28.10.2026 um 17:52 Uhr",
-      "timestamp": 1793206320.0,
-      "source": "ComputerBase",
-      "summary": "Seit dem Update des GeForce Game Ready Drivers 621.01 am 21. Oktober mehrten sich Berichte über hängende Videos und vorübergehend schwarze Bildschirme..."
-    },
-    {
-      "title": "No Mans Sky Update 7.10 Forsaken – Händler, Warps, iOS-Version",
-      "link": "https://www.playcentral.de/no-mans-sky-update-7-10/",
-      "pubDate": "28.10.2026 um 16:49 Uhr",
-      "timestamp": 1793206198.0,
-      "source": "PlayCentral",
-      "summary": "Hello Games hat am 28. Oktober 2026 mit Forsaken das nächste große Update für No Man&#8217;s Sky veröffentlicht. Version 7.10 kombiniert neue Hallowee..."
-    },
-    {
-      "title": "WoW Forever – Blizzard nerft und bufft Volksfähigkeiten kurz vor Release",
-      "link": "https://www.playcentral.de/wow-forever-volksfaehigkeiten-balance-oktober-2026/",
-      "pubDate": "28.10.2026 um 16:46 Uhr",
-      "timestamp": 1793205967.0,
-      "source": "PlayCentral",
-      "summary": "Nur wenige Tage vor dem Start von World of Warcraft: Forever nimmt Blizzard noch einmal deutliche Anpassungen an den Volksfähigkeiten vor. Der jüngste..."
-    },
-    {
-      "title": "GTA 6-Woche bei Rockstar UK – Beschäftigte stimmen über Gewerkschaft ab",
-      "link": "https://www.playcentral.de/gta-6-rockstar-uk-gewerkschaft-abstimmung-2026/",
-      "pubDate": "28.10.2026 um 16:42 Uhr",
-      "timestamp": 1793205737.0,
-      "source": "PlayCentral",
-      "summary": "Bei Rockstar Games steht kurz vor der Veröffentlichung von Grand Theft Auto VI eine wichtige Personalentscheidung an. Die Beschäftigten der britischen..."
-    },
-    {
-      "title": "Dead by Daylight: Chucky, Pinhead und Michael Myers dürfen jederzeit zurückkehren",
-      "link": "https://www.eurogamer.de/dead-by-daylight-horror-ikonen-rueckkehr",
-      "pubDate": "28.10.2026 um 16:41 Uhr",
-      "timestamp": 1793205660.0,
-      "source": "Eurogamer.de News",
-      "summary": "Halloween steht vor der T&uuml;r und Behaviour Interactive f&auml;llt nichts Besseres ein, als Charaktere, wie Chucky, Pinhead und Michael Myers aus D..."
-    },
-    {
-      "title": "PS5 Prism Collection – drei transparente DualSense-Controller ab Februar 2027",
-      "link": "https://www.playcentral.de/ps5-prism-collection-transparente-dualsense-2027/",
-      "pubDate": "28.10.2026 um 16:39 Uhr",
-      "timestamp": 1793205582.0,
-      "source": "PlayCentral",
-      "summary": "Sony erweitert das Zubehörangebot für die PlayStation 5 im Jahr 2027 um drei auffällige DualSense-Controller. Die neue Prism Collection setzt auf tran..."
-    },
-    {
-      "title": "PlayStation Plus im November 2026 – Diese 3 Spiele sind dabei",
-      "link": "https://www.playcentral.de/playstation-plus-november-2026-dead-island-2/",
-      "pubDate": "28.10.2026 um 16:35 Uhr",
-      "timestamp": 1793205320.0,
-      "source": "PlayCentral",
-      "summary": "Sony hat die monatlichen PlayStation Plus-Spiele für November 2026 offiziell vorgestellt. Ab dem 3. November 2026 können Mitglieder drei weitere Titel..."
-    },
-    {
-      "title": "Dead by Daylight bekommt Terrifier Kapitel – Art, Sienna und Mall",
-      "link": "https://www.playcentral.de/dead-by-daylight-terrifier-kapitel-art-sienna-mall/",
-      "pubDate": "28.10.2026 um 16:34 Uhr",
-      "timestamp": 1793205285.0,
-      "source": "PlayCentral",
-      "summary": "Art the Clown und Sienna Shaw betreten offiziell den Nebel von Dead by Daylight. Behaviour Interactive hat das Terrifier Kapitel enthüllt und die beid..."
-    },
-    {
-      "title": "18 Jahre GOG: Anniversary Sale mit Spieleangeboten gestartet",
-      "link": "https://www.computerbase.de/news/gaming/18-jahre-gog-anniversary-sale-mit-spieleangeboten-gestartet.100054/",
-      "pubDate": "28.10.2026 um 17:21 Uhr",
-      "timestamp": 1793204460.0,
-      "source": "ComputerBase",
-      "summary": "Der Spielehändler GOG feiert seinen 18. Geburtstag mit einem Anniversary Sale. Bis zum 5. November um 9 Uhr (MEZ) sind zahlreiche Spiele im Preis gese..."
+      "summary": "Es &uuml;berrascht niemanden, dass Epic Games nun best&auml;tigt hat, seine Bem&uuml;hungen im Bereich der generativen KI zu verdreifachen und die ums..."
     }
   ],
   "int": [
+    {
+      "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
+      "link": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+      "pubDate": "29.10.2026 um 09:26 Uhr",
+      "timestamp": 1793266006.0,
+      "source": "Eurogamer.net News",
+      "summary": "Phantom Blade Zero has been officially released, and just as everyone expected, it's popular. The wuxia action game from S-Game debuted to a massive 4..."
+    },
+    {
+      "title": "7 Fire Emblem: Three Houses Replay Ideas to Make Garreg Mach Feel Brand New",
+      "link": "https://www.polygon.com/fire-emblem-three-houses-replay-ideas/",
+      "pubDate": "29.10.2026 um 09:00 Uhr",
+      "timestamp": 1793264417.0,
+      "source": "Polygon.com",
+      "summary": "Fire Emblem: Three Houses boasts several unique story paths — and countless more challenges to make the experience even more memorable"
+    },
+    {
+      "title": "5 Forgotten 'Peanuts' Characters That Charles Schulz Abandoned in the Comic Strip",
+      "link": "https://www.polygon.com/forgotten-peanuts-characters/",
+      "pubDate": "29.10.2026 um 08:00 Uhr",
+      "timestamp": 1793260817.0,
+      "source": "Polygon.com",
+      "summary": "Better a has-been than a never-was, right?"
+    },
+    {
+      "title": "This Underrated 5-Season Fantasy Series Is Basically Harry Potter for Adults",
+      "link": "https://www.polygon.com/the-magicians-fairy-tale-tv-shows/",
+      "pubDate": "29.10.2026 um 08:00 Uhr",
+      "timestamp": 1793260817.0,
+      "source": "Polygon.com",
+      "summary": "The Magicians turns its magic-school fantasy into an adult fairy tale about escapism, friendship, and the things magic can’t fix."
+    },
+    {
+      "title": "15 Years Later, the Most Near-Perfect Fast and Furious Movie Is Getting From Netflix",
+      "link": "https://www.polygon.com/fast-furious-five-leaving-netflix-november-2026/",
+      "pubDate": "29.10.2026 um 04:24 Uhr",
+      "timestamp": 1793247857.0,
+      "source": "Polygon.com",
+      "summary": "Even after 11 movies, Fast Five is still the best by a mile. Watch it now, while you still can."
+    },
+    {
+      "title": "Upgrade to OLED Gaming With the Entry-Level Gigabyte GO27Q24A Monitor",
+      "link": "https://www.ign.com/articles/gigabyte-go27q24a-gaming-monitor-australia-deal-street-fighter-giveaway-au-deals",
+      "pubDate": "29.10.2026 um 04:00 Uhr",
+      "timestamp": 1793246429.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "9 Years Ago, Netflix Released a Rare Sci-Fi Sequel Even Better Than the Original",
+      "link": "https://www.polygon.com/9-years-ago-season-2-of-this-sci-fi-series-proved-the-first-season-wasnt-a-fluke/",
+      "pubDate": "29.10.2026 um 04:00 Uhr",
+      "timestamp": 1793246418.0,
+      "source": "Polygon.com",
+      "summary": "Season 2 of Stranger Things premiered nine years ago, which proved to be nearly as good as season 1 thanks to some great new characters"
+    },
+    {
+      "title": "Game Awards 2026: All Game of the Year Front-Runners and Predictions",
+      "link": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
+      "pubDate": "29.10.2026 um 03:40 Uhr",
+      "timestamp": 1793245206.0,
+      "source": "Polygon.com",
+      "summary": "We rank the contenders for GOTY 2026 at TGAs, including Resident Evil Requiem and Grand Theft Auto 6"
+    },
+    {
+      "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
+      "link": "https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6",
+      "pubDate": "29.10.2026 um 03:24 Uhr",
+      "timestamp": 1793244298.0,
+      "source": "IGN All",
+      "summary": "GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme."
+    },
+    {
+      "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
+      "link": "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
+      "pubDate": "29.10.2026 um 03:22 Uhr",
+      "timestamp": 1793244152.0,
+      "source": "IGN All",
+      "summary": "GTA 6's world won't be blocked off by story progression, Rockstar confirms."
+    },
     {
       "title": "'Slow Horses' Season 7 Confirmed? Release Date, Plot, and Everything You Need to Know",
       "link": "https://www.polygon.com/slow-horses-season-7-release-date-plot/",
@@ -163,68 +243,12 @@
       "summary": "In this guide, you find all ribbon locations in Phantom Blade Zero, and how to get there, so you can complete the \"Young Mistress\" side quest."
     },
     {
-      "title": "Where to find the Flesh Lily in Phantom Blade Zero",
-      "link": "https://www.polygon.com/phantom-blade-zero-flesh-lily-location-where-to-find/",
-      "pubDate": "29.10.2026 um 02:01 Uhr",
-      "timestamp": 1793239281.0,
-      "source": "Polygon.com",
-      "summary": "In this guide, we explain where you can find the Flesh Lily in Phantom Blade Zero to complete Yu'er's side quest."
-    },
-    {
-      "title": "Where to find the Outpost cell key in Phantom Blade Zero",
-      "link": "https://www.polygon.com/phantom-blade-zero-cell-key-location-where-to-find-outpost-courtyard/",
-      "pubDate": "29.10.2026 um 02:01 Uhr",
-      "timestamp": 1793239281.0,
-      "source": "Polygon.com",
-      "summary": "Here's where to find the cell key in Phantom Blade Zero to open the locked door in the Outpost Courtyard, and the reward from opening it."
-    },
-    {
-      "title": "'A Healer's Mercy' quest walkthrough in Phantom Blade Zero",
-      "link": "https://www.polygon.com/phantom-blade-zero-a-healers-mercy-quest-walkthrough-wounded-thieves/",
-      "pubDate": "29.10.2026 um 02:01 Uhr",
-      "timestamp": 1793239281.0,
-      "source": "Polygon.com",
-      "summary": "Here's where to find the wounded thieves' locations needed to complete 'A Healer's Mercy' in Phantom Blade Zero"
-    },
-    {
-      "title": "All medicine locations for 'Apprentice Healer' in Phantom Blade Zero",
-      "link": "https://www.polygon.com/phantom-blade-zero-medicine-herb-locations-apprentice-healer/",
-      "pubDate": "29.10.2026 um 02:01 Uhr",
-      "timestamp": 1793239281.0,
-      "source": "Polygon.com",
-      "summary": "Here's where to find the medicinal herb locations needed to complete the \"Apprentice Healer\" quest in Phantom Blade Zero"
-    },
-    {
-      "title": "Where to find the primal stone for 'A Severed Mindseal' in Phantom Blade Zero",
-      "link": "https://www.polygon.com/phantom-blade-zero-primal-stone-location-severed-mindseal/",
-      "pubDate": "29.10.2026 um 02:01 Uhr",
-      "timestamp": 1793239281.0,
-      "source": "Polygon.com",
-      "summary": "Here's the primal stone location needed to complete 'A Severed Mindseal' in Phantom Blade Zero."
-    },
-    {
-      "title": "10 Games That Are Way Too Long for Their Own Good",
-      "link": "https://www.polygon.com/10-video-games-too-long/",
-      "pubDate": "29.10.2026 um 02:00 Uhr",
-      "timestamp": 1793239227.0,
-      "source": "Polygon.com",
-      "summary": "Even the most exciting adventures can get old after a while"
-    },
-    {
       "title": "12 Phantom Blade Zero tips for new players to help you navigate the Wulin",
       "link": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-tips/",
       "pubDate": "29.10.2026 um 02:00 Uhr",
       "timestamp": 1793239200.0,
       "source": "Latest from GamesRadar+",
       "summary": "Here are some Phantom Blade Zero tips for beginners"
-    },
-    {
-      "title": "How to find a Phantom Blade Zero Flesh Lily for Yu'er",
-      "link": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-flesh-lily/",
-      "pubDate": "29.10.2026 um 02:00 Uhr",
-      "timestamp": 1793239200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Yu'er wants you to find a Flesh Lily to help her father in Phantom Blade Zero"
     },
     {
       "title": "How to find the Phantom Blade Zero Cell Key and open the outpost cell",
@@ -235,6 +259,14 @@
       "summary": "The cell key in Phantom Blade Zero can be found at the far end of the outpost"
     },
     {
+      "title": "How to find a Phantom Blade Zero Flesh Lily for Yu'er",
+      "link": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-flesh-lily/",
+      "pubDate": "29.10.2026 um 02:00 Uhr",
+      "timestamp": 1793239200.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Yu'er wants you to find a Flesh Lily to help her father in Phantom Blade Zero"
+    },
+    {
       "title": "All Phantom Blade Zero Gentle Thief answers for the Honor Among Thieves quest",
       "link": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-gentle-thief-questions/",
       "pubDate": "29.10.2026 um 02:00 Uhr",
@@ -243,52 +275,20 @@
       "summary": "Here are the answers you need to the Gentle Thief's questions in Phantom Blade Zero"
     },
     {
-      "title": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
-      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
+      "title": "How to complete Whence the Weeping in Phantom Blade Zero",
+      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/",
       "pubDate": "29.10.2026 um 02:00 Uhr",
       "timestamp": 1793239200.0,
       "source": "PCGamer latest",
-      "summary": "Help Soul find a new heart and get vengeance."
+      "summary": "Find the source of the weeping and discover its mysteries."
     },
     {
-      "title": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero",
-      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
+      "title": "Where to find The Banyan's Heart in Phantom Blade Zero",
+      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-banyans-heart-location/",
       "pubDate": "29.10.2026 um 02:00 Uhr",
       "timestamp": 1793239200.0,
       "source": "PCGamer latest",
-      "summary": "Open the gate and explore this extra region."
-    },
-    {
-      "title": "How to upgrade medicine in Phantom Blade Zero",
-      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/",
-      "pubDate": "29.10.2026 um 02:00 Uhr",
-      "timestamp": 1793239200.0,
-      "source": "PCGamer latest",
-      "summary": "Buff your healing items with healer's memories."
-    },
-    {
-      "title": "How to enter the Order's underground tavern in Phantom Blade Zero",
-      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-enter-orders-underground-tavern/",
-      "pubDate": "29.10.2026 um 02:00 Uhr",
-      "timestamp": 1793239200.0,
-      "source": "PCGamer latest",
-      "summary": "Find the secret entrance during the Town of Death quest."
-    },
-    {
-      "title": "How to fix the Illusory Pipa in Phantom Blade Zero",
-      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-illusory-pipa-walkthrough/",
-      "pubDate": "29.10.2026 um 02:00 Uhr",
-      "timestamp": 1793239200.0,
-      "source": "PCGamer latest",
-      "summary": "Repair The Chord's instrument to dispel the barrier."
-    },
-    {
-      "title": "All Quickhand's Request treasure locations in Phantom Blade Zero",
-      "link": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
-      "pubDate": "29.10.2026 um 02:00 Uhr",
-      "timestamp": 1793239200.0,
-      "source": "PCGamer latest",
-      "summary": "Plus where to find Zhang's hideouts for The Wily Hare's Three Dens quest."
+      "summary": "Acquire this special material to unlock new skills."
     }
   ],
   "sim": [
