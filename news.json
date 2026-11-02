@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Asus PA329CDV: Profimonitor mit QD-OLED und HDR True Black 500 jetzt verfügbar",
+      "link": "https://www.computerbase.de/news/monitore/asus-pa329cdv-profimonitor-mit-qd-oled-und-hdr-true-black-500-jetzt-verfuegbar.100115/",
+      "pubDate": "02.11.2026 um 07:51 Uhr",
+      "timestamp": 1793602260.0,
+      "source": "ComputerBase",
+      "summary": "Der zur Computex vorgestellte Profimonitor Asus ProArt OLED PA329CDV hat jetzt den Handel erreicht. Der 31,5\"-Monitor besitzt ein QD-OLED-Panel von Sa..."
+    },
+    {
+      "title": "Skyblivion: Ehemaliger Helfer fordert angeblich über 30.000 Euro",
+      "link": "https://www.computerbase.de/news/gaming/skyblivion-ehemaliger-helfer-fordert-angeblich-ueber-30-000-euro.100113/",
+      "pubDate": "02.11.2026 um 06:26 Uhr",
+      "timestamp": 1793597160.0,
+      "source": "ComputerBase",
+      "summary": "Ein früherer freiwilliger Entwickler droht den Machern von Skyblivion nach deren Darstellung mit einer Klage über mehr als 30.000 Euro. Auslöser ist e..."
+    },
+    {
+      "title": "Einer der besten Sci-Fi-Filme der letzten Jahre bekommt diese Woche eine Fortsetzung, bringt den König der Monster zurück",
+      "link": "https://mein-mmo.de/sci-fi-neuer-film-godzilla-kehrt-zurueck/",
+      "pubDate": "02.11.2026 um 05:00 Uhr",
+      "timestamp": 1793595600.0,
+      "source": "Mein-MMO",
+      "summary": "In wenigen Tagen kehrt die bekannteste Riesenechse ins Kino zurück, verspricht einen zerstörerischen Kampf. Der Beitrag Einer der besten Sci-Fi-Filme ..."
+    },
+    {
+      "title": "WoW Forever disst ehemaligen Mitarbeitern, die Spieler haben es sofort erkannt",
+      "link": "https://mein-mmo.de/wow-forever-disst-pirate-software/",
+      "pubDate": "02.11.2026 um 04:30 Uhr",
+      "timestamp": 1793593800.0,
+      "source": "Mein-MMO",
+      "summary": "World of Warcraft Forever kann sich eine Spitze gegen einen ehemaligen Mitarbeiter einfach nicht kneifen. Es ist sofort aufgefallen. Der Beitrag WoW F..."
+    },
+    {
       "title": "5,5 Cent pro Gigabyte: Frankreichs Parlament stimmt für Datensteuer",
       "link": "https://www.computerbase.de/news/netzpolitik/5-5-cent-pro-gigabyte-frankreichs-parlament-stimmt-fuer-datensteuer.100114/",
       "pubDate": "01.11.2026 um 20:01 Uhr",
@@ -111,41 +143,121 @@
       "timestamp": 1793538000.0,
       "source": "Eurogamer.de News",
       "summary": "Anthropic schiebt KI-generierten Spieleklonen auf Plattformen wie Steam einen Riegel vor: Das Unternehmen hat dazu ein gezieltes Update f&uuml;r sein ..."
-    },
-    {
-      "title": "Rufus 4.16: Entwickler rechnet mit AMI wegen NTFS-Bug ab",
-      "link": "https://www.computerbase.de/news/apps/rufus-4-16-entwickler-rechnet-mit-ami-wegen-ntfs-bug-ab.100110/",
-      "pubDate": "01.11.2026 um 13:00 Uhr",
-      "timestamp": 1793534400.0,
-      "source": "ComputerBase",
-      "summary": "Ein Fehler im NTFS-Treiber von American Megatrends (AMI) kann die Prüfung bootfähiger USB-Sticks scheitern lassen. Rufus 4.16 Beta umgeht das Problem ..."
-    },
-    {
-      "title": "Android oder iOS: Würdet ihr beim nächsten Smartphone das OS wechseln?",
-      "link": "https://www.computerbase.de/news/smartphones/smartphones-was-ist-euch-wichtig-und-kann-das-noch-begeistern.100106/",
-      "pubDate": "01.11.2026 um 12:00 Uhr",
-      "timestamp": 1793530800.0,
-      "source": "ComputerBase",
-      "summary": "Diese Woche geht es in der Sonntagsfrage um eure Smartphones. Wie lange nutzt ihr euer aktuelles Modell schon, wie groß ist es und wie viel hat es gek..."
-    },
-    {
-      "title": "Der DLC von Crimson Desert bringt absurd teures Traum-Schiff, Spieler verraten, wie man schnell an das nötige Geld kommt",
-      "link": "https://mein-mmo.de/crimson-desert-dlc-schiff-preis-teuer/",
-      "pubDate": "01.11.2026 um 09:54 Uhr",
-      "timestamp": 1793526891.0,
-      "source": "Mein-MMO",
-      "summary": "In Crimson Desert gibt es mit dem neuen DLC Schiffe zu kaufen. Eines davon ist so absurd teuer, dass Spieler Tipps zum Farmen geben. Der Beitrag Der D..."
-    },
-    {
-      "title": "Warhammer-Fans diskutieren, wie man die Tyraniden weniger langweilig macht, aber ich sage: Lasst meine hungrigen Jungs doch einfach hungrig sein",
-      "link": "https://mein-mmo.de/warhammer-tyraniden-zu-langweilig-diskussion-meinung/",
-      "pubDate": "01.11.2026 um 09:00 Uhr",
-      "timestamp": 1793523600.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteurin Caro findet, Tyraniden aus Warhammer brauchen keine klassische Persönlichkeit, um besondere Kandidaten hervorzubringen. Der Beitra..."
     }
   ],
   "int": [
+    {
+      "title": "Blade Runner 2099 showrunner says the events of Blade Runner 2049 are \"not directly connected\" to the Prime Video show",
+      "link": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-confirms-the-events-of-blade-runner-2049-are-not-directly-connected-to-the-prime-video-show-as-its-designed-to-stand-alone/",
+      "pubDate": "02.11.2026 um 06:00 Uhr",
+      "timestamp": 1793599200.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Prime Video's Blade Runner show won't deal with the fallout of Blade Runner 2049"
+    },
+    {
+      "title": "Luke Skywalker's Single Greatest Star Wars Line Hits Harder Than Any Sci-Fi Quote Since",
+      "link": "https://www.polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader/",
+      "pubDate": "02.11.2026 um 05:00 Uhr",
+      "timestamp": 1793595617.0,
+      "source": "Polygon.com",
+      "summary": "Luke Skywalker is easily the greatest 'Star Wars' character of all time. But what was his best quote?"
+    },
+    {
+      "title": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer",
+      "link": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/",
+      "pubDate": "02.11.2026 um 04:12 Uhr",
+      "timestamp": 1793592750.0,
+      "source": "PCGamer latest",
+      "summary": "The best thing about HeroQuest..."
+    },
+    {
+      "title": "Quentin Tarantino’s First New Movie in 7 Years Officially Arrives in Theaters Next Month",
+      "link": "https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/",
+      "pubDate": "02.11.2026 um 04:00 Uhr",
+      "timestamp": 1793592017.0,
+      "source": "Polygon.com",
+      "summary": "The Once Upon a Time in Hollywood universe returns with a new crime thriller from David Fincher and Quentin Tarantino, arriving on Netflix next month."
+    },
+    {
+      "title": "10 Best BG3 NPCs Fans Still Want To Join The Party All These Years Later",
+      "link": "https://www.polygon.com/bg3-best-npcs/",
+      "pubDate": "02.11.2026 um 03:44 Uhr",
+      "timestamp": 1793591075.0,
+      "source": "Polygon.com",
+      "summary": "The best BG3 NPCs are still unable to join your Baldur's Gate 3 party, but fans have wanted them to be party members for years."
+    },
+    {
+      "title": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series",
+      "link": "https://www.ign.com/articles/dave-bautista-reveals-hes-gained-20-pounds-of-muscle-to-play-kratos-in-the-god-of-war-series",
+      "pubDate": "02.11.2026 um 03:37 Uhr",
+      "timestamp": 1793590624.0,
+      "source": "IGN All",
+      "summary": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series"
+    },
+    {
+      "title": "10 Best Classic Shooters That Are So Good They Never Need A Remake",
+      "link": "https://www.polygon.com/best-classic-shooters/",
+      "pubDate": "02.11.2026 um 03:23 Uhr",
+      "timestamp": 1793589807.0,
+      "source": "Polygon.com",
+      "summary": "The best classic shooters of the 2000s were perfect two decades ago, and don't need a remake in 2026."
+    },
+    {
+      "title": "Zach Cregger Was 'Frustrated' the Conversation Around Resident Evil 'Didn't Have Anything to Do With the Movie'",
+      "link": "https://www.ign.com/articles/zach-cregger-was-frustrated-the-conversation-around-resident-evil-didnt-have-anything-to-do-with-the-movie",
+      "pubDate": "02.11.2026 um 03:05 Uhr",
+      "timestamp": 1793588735.0,
+      "source": "IGN All",
+      "summary": "Horror filmmaker Zach Cregger has explained why he was \"frustrated\" that much of the conversation around his Resident Evil film \"didn't have anything ..."
+    },
+    {
+      "title": "Godzilla Minus Zero director would \"probably say yes\" if Toho offered him a third film",
+      "link": "https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-director-would-probably-say-yes-if-toho-offered-him-a-third-film/",
+      "pubDate": "02.11.2026 um 03:00 Uhr",
+      "timestamp": 1793588400.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Takashi Yamazaki would return for more Godzilla if given the chance"
+    },
+    {
+      "title": "Footage of what sure looks like a Persona 1 remake has leaked",
+      "link": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
+      "pubDate": "02.11.2026 um 02:06 Uhr",
+      "timestamp": 1793585210.0,
+      "source": "PCGamer latest",
+      "summary": "Is that you, Boy With Earring?"
+    },
+    {
+      "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
+      "link": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
+      "pubDate": "02.11.2026 um 01:39 Uhr",
+      "timestamp": 1793583598.0,
+      "source": "PCGamer latest",
+      "summary": "It's these freaking zoning laws, man."
+    },
+    {
+      "title": "Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition",
+      "link": "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
+      "pubDate": "02.11.2026 um 01:19 Uhr",
+      "timestamp": 1793582398.0,
+      "source": "PCGamer latest",
+      "summary": "\"Enemies still active, stay alert.\""
+    },
+    {
+      "title": "Penguin Colony was made to 'put the games industry on notice'",
+      "link": "https://www.polygon.com/penguin-colony-interview-development/",
+      "pubDate": "02.11.2026 um 01:00 Uhr",
+      "timestamp": 1793581217.0,
+      "source": "Polygon.com",
+      "summary": "Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors."
+    },
+    {
+      "title": "8 Years Later, a Buffy Star's Obscure Thriller Is Waiting to Be Discovered on Free Streaming",
+      "link": "https://www.polygon.com/you-might-be-the-killer-free/",
+      "pubDate": "02.11.2026 um 01:00 Uhr",
+      "timestamp": 1793581217.0,
+      "source": "Polygon.com",
+      "summary": "Remember, everyone, if you find a strange mask in the woods, don't put it on"
+    },
     {
       "title": "Rings of Power showrunners say it \"hits its stride\" in season 3 despite divisive fan response",
       "link": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/rings-of-power-showrunners-say-it-hits-its-stride-in-season-3-despite-divisive-fan-response-were-getting-more-confident-in-our-storytelling/",
@@ -155,140 +267,28 @@
       "summary": "Patrick McKay reflects on fan feedback ahead of season 3"
     },
     {
+      "title": "Clayface Comes in Second to You Can See Everything at the Domestic Box Office on Halloween Weekend",
+      "link": "https://www.ign.com/articles/clayface-comes-in-second-to-you-can-see-everything-at-the-domestic-box-office-on-halloween-weekend",
+      "pubDate": "01.11.2026 um 23:27 Uhr",
+      "timestamp": 1793575665.0,
+      "source": "IGN All",
+      "summary": "Clayface has come in second at the domestic box office on the Halloween weekend as audiences continue to show up for Elizabeth Holmes documentary You ..."
+    },
+    {
+      "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-november-1-2026",
+      "pubDate": "01.11.2026 um 23:24 Uhr",
+      "timestamp": 1793575463.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
       "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
       "link": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
       "pubDate": "01.11.2026 um 22:56 Uhr",
       "timestamp": 1793573801.0,
       "source": "Rock Paper Shotgun News",
       "summary": "What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it. The game's nasty..."
-    },
-    {
-      "title": "Patrick Stewart, Our Captain Of Multimedia CD-ROM Edutainment",
-      "link": "https://kotaku.com/patrick-stewart-our-captain-of-multimedia-cd-rom-edutainment-2000752105",
-      "pubDate": "01.11.2026 um 22:40 Uhr",
-      "timestamp": 1793572851.0,
-      "source": "Kotaku",
-      "summary": "While there is still much to parse from the multifaceted performer, we should take a minute to remember the scholar who lived inside our computer ency..."
-    },
-    {
-      "title": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
-      "link": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
-      "pubDate": "01.11.2026 um 21:34 Uhr",
-      "timestamp": 1793568846.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "December is certainly going to be the month of Dune. The biggest Dune of Dunecember will obviously go to Dune: Part 3, which is Duen out December 18th..."
-    },
-    {
-      "title": "Team Behind Fan-Made Oblivion Remake Face Lawsuit From Former Contributor",
-      "link": "https://kotaku.com/team-behind-fan-made-oblivion-remake-face-lawsuit-from-former-contributor-2000752100",
-      "pubDate": "01.11.2026 um 21:19 Uhr",
-      "timestamp": 1793567945.0,
-      "source": "Kotaku",
-      "summary": "Community projects are no stranger to legal threats, but in a rare instance the 'Skyblivion' developers are facing litigation from one of their own"
-    },
-    {
-      "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
-      "link": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
-      "pubDate": "01.11.2026 um 21:00 Uhr",
-      "timestamp": 1793566817.0,
-      "source": "Polygon.com",
-      "summary": "Remakes and remasters are all the rage, but five classics from Nintendo are good enough that no one ever needs to bother trying to improve them."
-    },
-    {
-      "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
-      "pubDate": "01.11.2026 um 20:18 Uhr",
-      "timestamp": 1793564284.0,
-      "source": "Polygon.com",
-      "summary": "The Pirate Shop Access Token lets you get anything for free in Fortnite Chapter 7 mini season. Here's how to get it and what you can buy."
-    },
-    {
-      "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
-      "pubDate": "01.11.2026 um 20:11 Uhr",
-      "timestamp": 1793563909.0,
-      "source": "Polygon.com",
-      "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season."
-    },
-    {
-      "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3",
-      "link": "https://kotaku.com/tony-hawk-kicked-out-of-park-while-trying-to-recreate-pro-skater-3-2000752094",
-      "pubDate": "01.11.2026 um 19:29 Uhr",
-      "timestamp": 1793561375.0,
-      "source": "Kotaku",
-      "summary": "The legendary Birdman wanted to celebrate 25 years of the iconic third entry in his video game series, only to be escorted out by security"
-    },
-    {
-      "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
-      "link": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
-      "pubDate": "01.11.2026 um 19:09 Uhr",
-      "timestamp": 1793560173.0,
-      "source": "Polygon.com",
-      "summary": "Here's all the bonuses and perks for Pokémon Go's \"Halloween 2026 Part 2\" event, which includes the debut of shiny Greavard."
-    },
-    {
-      "title": "What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks",
-      "link": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks",
-      "pubDate": "01.11.2026 um 19:08 Uhr",
-      "timestamp": 1793560124.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "If you're something of a Portal or Half-Life head, you'll probably already be familiar with F-Stop, an unreleased Portal prequel that remained quite m..."
-    },
-    {
-      "title": "Heat Director Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg",
-      "link": "https://www.ign.com/articles/heat-director-michael-mann-hospitalized-after-accidentally-shooting-himself-in-the-leg",
-      "pubDate": "01.11.2026 um 19:02 Uhr",
-      "timestamp": 1793559744.0,
-      "source": "IGN All",
-      "summary": "Heat director Michael Mann was hospitalized with minor injuries after accidentally shooting himself in the leg at a Los Angeles gun range on Halloween..."
-    },
-    {
-      "title": "All map and weapon loot pool changes in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi/",
-      "pubDate": "01.11.2026 um 18:55 Uhr",
-      "timestamp": 1793559345.0,
-      "source": "Polygon.com",
-      "summary": "The Fortnite Chapter 7 mini season, \"Treasure Hunters,\" completely changes the map. Here's everything different in the new season."
-    },
-    {
-      "title": "All sprites in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
-      "pubDate": "01.11.2026 um 18:51 Uhr",
-      "timestamp": 1793559108.0,
-      "source": "Polygon.com",
-      "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do."
-    },
-    {
-      "title": "All battle pass skins in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits/",
-      "pubDate": "01.11.2026 um 18:47 Uhr",
-      "timestamp": 1793558870.0,
-      "source": "Polygon.com",
-      "summary": "Here's a look at all of the Fortnite Chapter 7 mini season's battle pass skins, and the various styles they come in."
-    },
-    {
-      "title": "Jagex partnered with a RuneScape-inspired idle game to turn the sequel into an official spinoff",
-      "link": "https://www.pcgamer.com/games/rpg/jagex-partnered-with-a-runescape-inspired-idle-game-to-turn-the-sequel-into-an-official-spinoff/",
-      "pubDate": "01.11.2026 um 18:41 Uhr",
-      "timestamp": 1793558489.0,
-      "source": "PCGamer latest",
-      "summary": "Melvor Idle 2 has gained a subtitle: A RuneScape Adventure."
-    },
-    {
-      "title": "At Dead of Night sequel The Great Hugo is coming \"(very) soon\"",
-      "link": "https://www.eurogamer.net/at-dead-of-night-2-the-great-hugo-sequel-announced",
-      "pubDate": "01.11.2026 um 18:16 Uhr",
-      "timestamp": 1793556980.0,
-      "source": "Eurogamer.net News",
-      "summary": "Baggy Cat Games, the team behind viral FMV horror game At Dead Of Night, has confirmed that a sequel is \"coming (very) soon\". Read more"
-    },
-    {
-      "title": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
-      "link": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
-      "pubDate": "01.11.2026 um 18:07 Uhr",
-      "timestamp": 1793556468.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Let's start with the bad news: Final Fantasy 14: Evercold has been delayed. The good news, that doesn't matter all that much, as it's only a delay of ..."
     }
   ],
   "sim": [
