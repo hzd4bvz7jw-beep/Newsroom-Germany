@@ -1,297 +1,305 @@
 {
   "de": [
     {
-      "title": "Asus PA329CDV: Profimonitor mit QD-OLED und HDR True Black 500 jetzt verfügbar",
-      "link": "https://www.computerbase.de/news/monitore/asus-pa329cdv-profimonitor-mit-qd-oled-und-hdr-true-black-500-jetzt-verfuegbar.100115/",
-      "pubDate": "02.11.2026 um 07:51 Uhr",
-      "timestamp": 1793602260.0,
+      "title": "Für satte 115 Mrd. Dollar: Marvell übernimmt Photonik-Spezialisten Lumentum",
+      "link": "https://www.computerbase.de/news/wirtschaft/fuer-satte-115-mrd-dollar-marvell-uebernimmt-photonik-spezialisten-lumentum.100135/",
+      "pubDate": "02.11.2026 um 18:48 Uhr",
+      "timestamp": 1793641680.0,
       "source": "ComputerBase",
-      "summary": "Der zur Computex vorgestellte Profimonitor Asus ProArt OLED PA329CDV hat jetzt den Handel erreicht. Der 31,5\"-Monitor besitzt ein QD-OLED-Panel von Sa..."
+      "summary": "Zumindest auf dem Papier ist es einer der größten Deals der IT-Branche. Der Halbleiterriese Marvell investiert 115 Milliarden US-Dollar in Aktien zur ..."
     },
     {
-      "title": "Skyblivion: Ehemaliger Helfer fordert angeblich über 30.000 Euro",
-      "link": "https://www.computerbase.de/news/gaming/skyblivion-ehemaliger-helfer-fordert-angeblich-ueber-30-000-euro.100113/",
-      "pubDate": "02.11.2026 um 06:26 Uhr",
-      "timestamp": 1793597160.0,
-      "source": "ComputerBase",
-      "summary": "Ein früherer freiwilliger Entwickler droht den Machern von Skyblivion nach deren Darstellung mit einer Klage über mehr als 30.000 Euro. Auslöser ist e..."
+      "title": "Zelda: Ocarina of Time - Entwickler erklären die Puppentheater-Optik des Remakes",
+      "link": "https://www.eurogamer.de/zelda-ocarina-time-remake-puppentheater-optik",
+      "pubDate": "02.11.2026 um 17:39 Uhr",
+      "timestamp": 1793641142.0,
+      "source": "Eurogamer.de News",
+      "summary": "The Legend of Zelda: Ocarina of Time erh&auml;lt am 5. November 2027 endlich ein Remake f&uuml;r die Switch 2. Nintendo hat in einem neuen \"Ask the De..."
     },
     {
-      "title": "Einer der besten Sci-Fi-Filme der letzten Jahre bekommt diese Woche eine Fortsetzung, bringt den König der Monster zurück",
+      "title": "Kein Wunderchip: Tachyum mit Prodigy-CPU ist bankrott",
+      "link": "https://www.computerbase.de/news/prozessoren/kein-wunderchip-tachyum-mit-prodigy-cpu-ist-bankrott.100134/",
+      "pubDate": "02.11.2026 um 18:22 Uhr",
+      "timestamp": 1793640120.0,
+      "source": "ComputerBase",
+      "summary": "Seit Jahren bereits eher ein Meme, wird das Unternehmen nun von der Realität eingeholt: Tachyum wird keine Über-CPU auf den Markt bringen, ist stattde..."
+    },
+    {
+      "title": "The Legend of Zelda: Nintendo erklärt, warum ausgerechnet ein Ocarina of Time-Remake kommt",
+      "link": "https://www.eurogamer.de/nintendo-the-legend-of-zelda-warum-weiterers-ocarina-of-time-remake",
+      "pubDate": "02.11.2026 um 17:05 Uhr",
+      "timestamp": 1793639109.0,
+      "source": "Eurogamer.de News",
+      "summary": "Am 5. November ist es so weit und das Remake von The Legend of Zelda: Ocarina of Time erscheint f&uuml;r die Switch 2. Anl&auml;sslich des 40-j&auml;h..."
+    },
+    {
+      "title": "Mike Flanagan reflektiert über die erste Staffel Carrie und gibt Warhammer 40.000-Update",
+      "link": "https://www.eurogamer.de/mike-flanagan-carrie-serie-und-warhammer-40000-update",
+      "pubDate": "02.11.2026 um 16:00 Uhr",
+      "timestamp": 1793635210.0,
+      "source": "Eurogamer.de News",
+      "summary": "Amazon hat Mike Flanagans Carrie-Serie um eine zweite Staffel verl&auml;ngert. In einem Interview reflektiert er nun &uuml;ber die erste Staffel und Y..."
+    },
+    {
+      "title": "Nach 88 Jahren macht DC die stärkste Kraft von Superman zu seiner größten Schwäche",
+      "link": "https://mein-mmo.de/superman-kraft-verloren-schwaeche/",
+      "pubDate": "02.11.2026 um 15:45 Uhr",
+      "timestamp": 1793634300.0,
+      "source": "Mein-MMO",
+      "summary": "Eine neue Geschichte von DC wirft Superman in eine brenzlige Situation und nimmt ihm eine Fähigkeit, von der er seit jeher abhängig war.  Der Beitrag ..."
+    },
+    {
+      "title": "Speicherkrise: Raspberry Pi 5 mit 16 GB RAM steigt auf 385 US-Dollar",
+      "link": "https://www.computerbase.de/news/pc-systeme/speicherkrise-raspberry-pi-5-mit-16-gb-ram-steigt-auf-385-us-dollar.100132/",
+      "pubDate": "02.11.2026 um 16:34 Uhr",
+      "timestamp": 1793633640.0,
+      "source": "ComputerBase",
+      "summary": "Die Raspberry Pi Foundation hebt den Preis des 16-GB-Modells des Raspberry Pi 5 um 80 US-Dollar auf damit jetzt 385 US-Dollar an. Auch die 16-GB-Versi..."
+    },
+    {
+      "title": "Hideo Kojima lachte die Idee für einen Anime zu Metal Gear Solid einfach weg",
+      "link": "https://www.eurogamer.de/metal-gear-solid-anime-kojima",
+      "pubDate": "02.11.2026 um 15:23 Uhr",
+      "timestamp": 1793633036.0,
+      "source": "Eurogamer.de News",
+      "summary": "Hideo Kojima ist nicht nur f&uuml;r sein cineastisches Talent in eigenen Produktionen wie Death Stranding bekannt, sondern auch als Sch&ouml;pfer des ..."
+    },
+    {
+      "title": "Der beste Godzilla kehrt in wenigen Tagen zurück, ist ein neuer Meilenstein für Japan",
       "link": "https://mein-mmo.de/sci-fi-neuer-film-godzilla-kehrt-zurueck/",
-      "pubDate": "02.11.2026 um 05:00 Uhr",
-      "timestamp": 1793595600.0,
+      "pubDate": "02.11.2026 um 15:11 Uhr",
+      "timestamp": 1793632263.0,
       "source": "Mein-MMO",
-      "summary": "In wenigen Tagen kehrt die bekannteste Riesenechse ins Kino zurück, verspricht einen zerstörerischen Kampf. Der Beitrag Einer der besten Sci-Fi-Filme ..."
+      "summary": "In wenigen Tagen kehrt die bekannteste Riesenechse ins Kino zurück, verspricht einen zerstörerischen Kampf. Der Beitrag Der beste Godzilla kehrt in we..."
     },
     {
-      "title": "WoW Forever disst ehemaligen Mitarbeitern, die Spieler haben es sofort erkannt",
-      "link": "https://mein-mmo.de/wow-forever-disst-pirate-software/",
-      "pubDate": "02.11.2026 um 04:30 Uhr",
-      "timestamp": 1793593800.0,
+      "title": "World of Warcraft: Forever startet diese Woche und Blizzard verrät die genaue Uhrzeit für Deutschland",
+      "link": "https://www.playcentral.de/world-of-warcraft-forever-startet-diese-woche-und-blizzard-verraet-die-genaue-uhrzeit-fuer-deutschland/",
+      "pubDate": "02.11.2026 um 15:08 Uhr",
+      "timestamp": 1793632122.0,
+      "source": "PlayCentral",
+      "summary": "Mit World of Warcraft: Forever steht am 5. November 2026 der nächste große Neustart in Azeroth bevor. Blizzard hat inzwischen bestätigt, wann die Serv..."
+    },
+    {
+      "title": "God of War: Dave Bautista zeigt seine Transformation in Kratos für die Amazon-Serie",
+      "link": "https://www.eurogamer.de/god-of-war-serie-dave-bautista-kratos-transformation",
+      "pubDate": "02.11.2026 um 14:40 Uhr",
+      "timestamp": 1793630419.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die God of War-Serie von Amazon macht gute Fortschritte. Nach dem verletzungsbedingten Ausscheiden von Ryan Hurst als Kratos &uuml;bernahm Dave Bautis..."
+    },
+    {
+      "title": "Assassin's Creed Valhalla: Drei Jahre nach finalem Update liefert Ubisoft doch noch New Game+",
+      "link": "https://www.eurogamer.de/assassins-creed-valhalla-new-game-plus",
+      "pubDate": "02.11.2026 um 14:28 Uhr",
+      "timestamp": 1793629739.0,
+      "source": "Eurogamer.de News",
+      "summary": "Mehr als drei Jahre nach dem vermeintlich finalen Update f&uuml;r Assassin's Creed Valhalla regt sich doch noch etwas in der Welt der Wikinger. Mehr"
+    },
+    {
+      "title": "GTA 6 darf nicht einfach nur hyperrealistisch sein, es muss nach GTA aussehen – Darum ist das so wichtig",
+      "link": "https://mein-mmo.de/gta-6-artstyle-nicht-nur-hyperrealismus/",
+      "pubDate": "02.11.2026 um 14:25 Uhr",
+      "timestamp": 1793629511.0,
       "source": "Mein-MMO",
-      "summary": "World of Warcraft Forever kann sich eine Spitze gegen einen ehemaligen Mitarbeiter einfach nicht kneifen. Es ist sofort aufgefallen. Der Beitrag WoW F..."
+      "summary": "MeinMMO-Redakteurin Caro schaut sich genauer an, wie ein Artstyle in einem so hyperrealistischen Spiel wie GTA 6 relevant bleibt. Der Beitrag GTA 6 da..."
     },
     {
-      "title": "5,5 Cent pro Gigabyte: Frankreichs Parlament stimmt für Datensteuer",
-      "link": "https://www.computerbase.de/news/netzpolitik/5-5-cent-pro-gigabyte-frankreichs-parlament-stimmt-fuer-datensteuer.100114/",
-      "pubDate": "01.11.2026 um 20:01 Uhr",
-      "timestamp": 1793559660.0,
-      "source": "ComputerBase",
-      "summary": "Frankreich plant eine Datensteuer. Ein entsprechender Antrag der Sozialistischen Partei wurde am Freitag von der Nationalversammlung angenommen. Inter..."
-    },
-    {
-      "title": "Windows 11 Insider Program: Mit Microsofts neuer Agenten-Suche lässt sich der PC steuern",
-      "link": "https://www.computerbase.de/news/betriebssysteme/windows-11-insider-program-mit-microsofts-neuer-agenten-suche-laesst-sich-der-pc-steuern.100111/",
-      "pubDate": "01.11.2026 um 19:31 Uhr",
-      "timestamp": 1793557860.0,
-      "source": "ComputerBase",
-      "summary": "Microsoft erweitert die bei Nvidias Spark-Event angekündigte Agenten-Suche für Windows 11, die derzeit im Experimental-Kanal im Windows Insider Progra..."
-    },
-    {
-      "title": "Pokémon Game Boy Color: Bastlerin baut 1,50 Meter hohe, voll spielbare Konsole",
-      "link": "https://www.eurogamer.de/pokemon-game-boy-color-riesen-nachbau",
-      "pubDate": "01.11.2026 um 18:30 Uhr",
-      "timestamp": 1793557800.0,
+      "title": "Über zehn Jahre nach Release: Bloodborne verkaufte sich dieses Jahr über 250.000 Mal",
+      "link": "https://www.eurogamer.de/bloodborne-verkaufszahlen-fromsoftware-playstation",
+      "pubDate": "02.11.2026 um 14:24 Uhr",
+      "timestamp": 1793629479.0,
       "source": "Eurogamer.de News",
-      "summary": "Eines der wichtigsten Verkaufsargumente des Game Boy und seiner Folgemodelle war schon immer die Mobilit&auml;t. Ihr k&ouml;nnt den Handheld &uuml;ber..."
+      "summary": "Bloodborne, FromSoftwares einzigartiges Lovecraft-Action-RPG, verkaufte sich allein in diesem Jahr Berichten zufolge mehr als 251.000 Mal. Mehr"
     },
     {
-      "title": "Alle kennen „Ich bin dein Vater“, aber 7 Plot-Twist aus Star Wars sind genauso schockierend",
-      "link": "https://mein-mmo.de/7-plot-twist-aus-star-wars/",
-      "pubDate": "01.11.2026 um 18:15 Uhr",
-      "timestamp": 1793556900.0,
+      "title": "Gears of War: E-Day soll 500 Millionen Dollar kosten, doch ein Ex-Xbox-Manager erklärt die Hintergründe",
+      "link": "https://www.playcentral.de/gears-of-war-e-day-budget-448-mio-euro/",
+      "pubDate": "02.11.2026 um 14:07 Uhr",
+      "timestamp": 1793628424.0,
+      "source": "PlayCentral",
+      "summary": "Die Diskussion um die angeblichen Kosten von Gears of War: E-Day bekommt eine wichtige neue Einordnung. Einem Bericht zufolge soll Microsoft 500 Milli..."
+    },
+    {
+      "title": "Bungie-Führung beruhigt Fans: Ihr müsst Marathon nicht für die Zukunft von Destiny kaufen",
+      "link": "https://mein-mmo.de/bungie-josh-deane-entwarnung-marathon-fuer-destiny-kaufen/",
+      "pubDate": "02.11.2026 um 14:03 Uhr",
+      "timestamp": 1793628197.0,
       "source": "Mein-MMO",
-      "summary": "In dieser Liste küren wir die sieben besten Wendungen aus Star Wars, abseits des berühmten „Vater-Twists“. Der Beitrag Alle kennen „Ich bin dein Vater..."
+      "summary": "Der Head of Product von Bungie äußerte sich auf x.com zu den Annahmen einiger Fans, man müsse Marathon supporten, um Destiny 2 zu retten. Der Beitrag ..."
     },
     {
-      "title": "Final Fantasy 7 Revelation: Erstes Gameplay auf Nintendo Switch 2 enthüllt",
-      "link": "https://www.eurogamer.de/final-fantasy-7-revelation-switch-gameplay",
-      "pubDate": "01.11.2026 um 17:30 Uhr",
-      "timestamp": 1793554200.0,
+      "title": "Thief: The Dark Project Remastered erscheint am 3. Dezember – wahlweise im klassischen Trapezkarton",
+      "link": "https://www.eurogamer.de/thief-the-dark-project-remastered-erscheint-am-3-dezember-wahlweise-im-klassischen-trapezkarton",
+      "pubDate": "02.11.2026 um 14:00 Uhr",
+      "timestamp": 1793628000.0,
       "source": "Eurogamer.de News",
-      "summary": "Square Enix hat erstes Gameplay-Material zum kommenden Final Fantasy 7 Revelation auf der Nintendo Switch 2 pr&auml;sentiert. Mehr"
+      "summary": "Nachdem die Neuauflage Thief: The Dark Project Remastered schon im Vorfeld geleaked wurde, hatte Nightdive bereits einen Trailer ver&ouml;ffentlicht, ..."
     },
     {
-      "title": "MMO- und MOBA-Maus mit bis zu 23 programmierbaren Tasten: Razer Naga V3 Pro zum neuen Tiefpreis im Angebot",
-      "link": "https://mein-mmo.de/mmo-moba-maus-23-programmierbare-tasten-razer-naga-v3-pro-neuer-tiefpreis-angebot/",
-      "pubDate": "01.11.2026 um 17:18 Uhr",
-      "timestamp": 1793553530.0,
+      "title": "Millionär berechnet, wie GTA 6 seinen Spielern bis zu 5.000 Dollar ersparen soll",
+      "link": "https://mein-mmo.de/millionaer-sagt-gta-6-erspart-5-000-dollar/",
+      "pubDate": "02.11.2026 um 14:00 Uhr",
+      "timestamp": 1793628000.0,
       "source": "Mein-MMO",
-      "summary": "Mit dieser High-End-Gaming-Maus von Razer bekommt ihr zahlreiche Spielbefehle untergebracht und das jetzt günstiger als bisher. Der Beitrag MMO- und M..."
-    },
-    {
-      "title": "PlayStation-Schöpfer Ken Kutaragi: Erste Sony-Konsole war keine Rache an Nintendo",
-      "link": "https://www.eurogamer.de/playstation-ken-kutaragi-nintendo-rache",
-      "pubDate": "01.11.2026 um 16:30 Uhr",
-      "timestamp": 1793550600.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Ver&ouml;ffentlichung der ersten PlayStation war nach Angaben von deren Sch&ouml;pfer Ken Kutaragi keineswegs von Rachegedanken gegen&uuml;ber Nin..."
-    },
-    {
-      "title": "Steam Deck: Plugins bringen Oberflächen von Xbox, PS5 und Switch 2",
-      "link": "https://www.computerbase.de/news/gaming/steam-deck-mit-plugins-wird-aus-valve-eine-xbox-oder-ps5.100112/",
-      "pubDate": "01.11.2026 um 16:43 Uhr",
-      "timestamp": 1793547780.0,
-      "source": "ComputerBase",
-      "summary": "Das Steam Deck lässt sich neuerdings mit Oberflächen im Stil der Xbox Series X|S, PlayStation 5 und Nintendo Switch 2 bedienen. Drei inoffizielle Plug..."
-    },
-    {
-      "title": "Bend Studio: Neues PS5-Spiel soll 2027 enthüllt und direkt veröffentlicht werden",
-      "link": "https://www.eurogamer.de/bend-studio-ps5-release-2027",
-      "pubDate": "01.11.2026 um 15:30 Uhr",
-      "timestamp": 1793547000.0,
-      "source": "Eurogamer.de News",
-      "summary": "Das Days-Gone-Entwicklerteam Bend Studio plant offenbar, sein n&auml;chstes Spiel 2027 nicht nur zu enth&uuml;llen, sondern zeitnah auch auf den Markt..."
-    },
-    {
-      "title": "BrickStation: Neues Mod-Kit macht die Lego-PlayStation zur echten Konsole",
-      "link": "https://www.eurogamer.de/brickstation-lego-playstation-mod-kit",
-      "pubDate": "01.11.2026 um 15:00 Uhr",
-      "timestamp": 1793545200.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Macher des BrickBoy &ndash; eines Bausatzes, mit dem sich der Game Boy von Lego in eine voll funktionsf&auml;hige Handheld-Konsole verwandeln l&au..."
-    },
-    {
-      "title": "Nur 28 Leute spielten die Demo, 2 Jahre später knackt das fertige Spiel 150.000 Spieler auf Steam",
-      "link": "https://mein-mmo.de/probably-stolen-hintergrund-geschichte/",
-      "pubDate": "01.11.2026 um 14:32 Uhr",
-      "timestamp": 1793543574.0,
-      "source": "Mein-MMO",
-      "summary": "Probably Stolen ist gerade eines der meistgespielten Spiele auf Steam. Doch der Erfolg des Indie-Games war keineswegs sicher. Der Beitrag Nur 28 Leute..."
-    },
-    {
-      "title": "Alien: Isolation: Mod-Tools OpenCAGE erreichen nach fast zehn Jahren Version 1.0",
-      "link": "https://www.eurogamer.de/alien-isolation-opencage-mod-tools",
-      "pubDate": "01.11.2026 um 14:30 Uhr",
-      "timestamp": 1793543400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Seit neun Jahren sind die OpenCAGE-Modding-Tools f&uuml;r Creative Assemblys Alien: Isolation in Arbeit. Zuvor investierte Entwickler Matt Filer berei..."
-    },
-    {
-      "title": "Comeback auf Disc: GOG träumt von physischen Versionen für den gesamten PC-Katalog",
-      "link": "https://www.eurogamer.de/gog-physische-pc-spiele-comeback",
-      "pubDate": "01.11.2026 um 13:30 Uhr",
-      "timestamp": 1793539800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Physische Versionen geh&ouml;ren aufgrund des Siegeszuges von Steam auf dem PC schon l&auml;nger der Vergangenheit an. GOG bem&uuml;ht sich bereits se..."
-    },
-    {
-      "title": "Anthropic stoppt KI-Kopien: Claude darf fremde Videospiele nicht mehr nachbauen",
-      "link": "https://www.eurogamer.de/anthropic-claude-spiele-klone-verbot",
-      "pubDate": "01.11.2026 um 13:00 Uhr",
-      "timestamp": 1793538000.0,
-      "source": "Eurogamer.de News",
-      "summary": "Anthropic schiebt KI-generierten Spieleklonen auf Plattformen wie Steam einen Riegel vor: Das Unternehmen hat dazu ein gezieltes Update f&uuml;r sein ..."
+      "summary": "Ein millionenschwerer YouTuber erklärt, wieso GTA 6 eher als Sparmaßnahme und nicht als Ausgabe betrachtet werden soll. Der Beitrag Millionär berechne..."
     }
   ],
   "int": [
     {
-      "title": "Blade Runner 2099 showrunner says the events of Blade Runner 2049 are \"not directly connected\" to the Prime Video show",
-      "link": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-confirms-the-events-of-blade-runner-2049-are-not-directly-connected-to-the-prime-video-show-as-its-designed-to-stand-alone/",
-      "pubDate": "02.11.2026 um 06:00 Uhr",
-      "timestamp": 1793599200.0,
+      "title": "The 28 cozy game launches in November technically include 3 horse games, which is actually a lot for the eternally underserved horse gamers",
+      "link": "https://www.pcgamer.com/games/new-cozy-games-november-2026/",
+      "pubDate": "02.11.2026 um 17:52 Uhr",
+      "timestamp": 1793641936.0,
+      "source": "PCGamer latest",
+      "summary": "November's slate of cozy games is a pretty varied bunch, but the horse girls should be getting away with neigh a complaint."
+    },
+    {
+      "title": "Valve \"played capitalism so well they broke it\" and now Steam can never be beat, ex-Epic dev says",
+      "link": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/",
+      "pubDate": "02.11.2026 um 17:47 Uhr",
+      "timestamp": 1793641661.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Prime Video's Blade Runner show won't deal with the fallout of Blade Runner 2049"
+      "summary": "He argues if a better launcher emerged it \"would still be of no interest to Steam users\""
     },
     {
-      "title": "Luke Skywalker's Single Greatest Star Wars Line Hits Harder Than Any Sci-Fi Quote Since",
-      "link": "https://www.polygon.com/luke-skywalker-best-quote-has-nothing-to-do-with-darth-vader/",
-      "pubDate": "02.11.2026 um 05:00 Uhr",
-      "timestamp": 1793595617.0,
-      "source": "Polygon.com",
-      "summary": "Luke Skywalker is easily the greatest 'Star Wars' character of all time. But what was his best quote?"
-    },
-    {
-      "title": "The HeroQuest board game is coming to Steam with a quest editor and multiplayer",
-      "link": "https://www.pcgamer.com/games/board-games/the-heroquest-board-game-is-coming-to-steam-with-a-quest-editor-and-multiplayer/",
-      "pubDate": "02.11.2026 um 04:12 Uhr",
-      "timestamp": 1793592750.0,
-      "source": "PCGamer latest",
-      "summary": "The best thing about HeroQuest..."
-    },
-    {
-      "title": "Quentin Tarantino’s First New Movie in 7 Years Officially Arrives in Theaters Next Month",
-      "link": "https://www.polygon.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-release-date/",
-      "pubDate": "02.11.2026 um 04:00 Uhr",
-      "timestamp": 1793592017.0,
-      "source": "Polygon.com",
-      "summary": "The Once Upon a Time in Hollywood universe returns with a new crime thriller from David Fincher and Quentin Tarantino, arriving on Netflix next month."
-    },
-    {
-      "title": "10 Best BG3 NPCs Fans Still Want To Join The Party All These Years Later",
-      "link": "https://www.polygon.com/bg3-best-npcs/",
-      "pubDate": "02.11.2026 um 03:44 Uhr",
-      "timestamp": 1793591075.0,
-      "source": "Polygon.com",
-      "summary": "The best BG3 NPCs are still unable to join your Baldur's Gate 3 party, but fans have wanted them to be party members for years."
-    },
-    {
-      "title": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series",
-      "link": "https://www.ign.com/articles/dave-bautista-reveals-hes-gained-20-pounds-of-muscle-to-play-kratos-in-the-god-of-war-series",
-      "pubDate": "02.11.2026 um 03:37 Uhr",
-      "timestamp": 1793590624.0,
-      "source": "IGN All",
-      "summary": "Dave Bautista Reveals He's Gained 20 Pounds of Muscle to Play Kratos in the God of War Series"
-    },
-    {
-      "title": "10 Best Classic Shooters That Are So Good They Never Need A Remake",
-      "link": "https://www.polygon.com/best-classic-shooters/",
-      "pubDate": "02.11.2026 um 03:23 Uhr",
-      "timestamp": 1793589807.0,
-      "source": "Polygon.com",
-      "summary": "The best classic shooters of the 2000s were perfect two decades ago, and don't need a remake in 2026."
-    },
-    {
-      "title": "Zach Cregger Was 'Frustrated' the Conversation Around Resident Evil 'Didn't Have Anything to Do With the Movie'",
-      "link": "https://www.ign.com/articles/zach-cregger-was-frustrated-the-conversation-around-resident-evil-didnt-have-anything-to-do-with-the-movie",
-      "pubDate": "02.11.2026 um 03:05 Uhr",
-      "timestamp": 1793588735.0,
-      "source": "IGN All",
-      "summary": "Horror filmmaker Zach Cregger has explained why he was \"frustrated\" that much of the conversation around his Resident Evil film \"didn't have anything ..."
-    },
-    {
-      "title": "Godzilla Minus Zero director would \"probably say yes\" if Toho offered him a third film",
-      "link": "https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-director-would-probably-say-yes-if-toho-offered-him-a-third-film/",
-      "pubDate": "02.11.2026 um 03:00 Uhr",
-      "timestamp": 1793588400.0,
+      "title": "Avengers: Doomsday star Hayley Atwell shot several \"different storylines,\" but some \"dropped away\"",
+      "link": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-star-hayley-atwell-says-she-shot-several-different-storylines-for-her-return-as-peggy-carter-but-some-dropped-away/",
+      "pubDate": "02.11.2026 um 17:45 Uhr",
+      "timestamp": 1793641554.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Takashi Yamazaki would return for more Godzilla if given the chance"
+      "summary": "Atwell last appeared in the MCU as a variant of Peggy Carter in Doctor Strange in the Multiverse of Madness"
     },
     {
-      "title": "Footage of what sure looks like a Persona 1 remake has leaked",
-      "link": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
-      "pubDate": "02.11.2026 um 02:06 Uhr",
-      "timestamp": 1793585210.0,
-      "source": "PCGamer latest",
-      "summary": "Is that you, Boy With Earring?"
-    },
-    {
-      "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
-      "link": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
-      "pubDate": "02.11.2026 um 01:39 Uhr",
-      "timestamp": 1793583598.0,
-      "source": "PCGamer latest",
-      "summary": "It's these freaking zoning laws, man."
-    },
-    {
-      "title": "Here's one bit of good news for Mass Effect: modders are bringing the multiplayer mode to Mass Effect Legendary Edition",
-      "link": "https://www.pcgamer.com/games/mass-effect/heres-one-bit-of-good-news-for-mass-effect-modders-are-bringing-the-multiplayer-mode-to-mass-effect-legendary-edition/",
-      "pubDate": "02.11.2026 um 01:19 Uhr",
-      "timestamp": 1793582398.0,
-      "source": "PCGamer latest",
-      "summary": "\"Enemies still active, stay alert.\""
-    },
-    {
-      "title": "Penguin Colony was made to 'put the games industry on notice'",
-      "link": "https://www.polygon.com/penguin-colony-interview-development/",
-      "pubDate": "02.11.2026 um 01:00 Uhr",
-      "timestamp": 1793581217.0,
+      "title": "The Legend of Zelda: Ocarina of Time Remake Studio Officially Revealed",
+      "link": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-studio-revealed/",
+      "pubDate": "02.11.2026 um 17:42 Uhr",
+      "timestamp": 1793641342.0,
       "source": "Polygon.com",
-      "summary": "Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors."
+      "summary": "Nintendo has finally revealed which developer is working on the Legend of Zelda: Ocarina of Time remake."
     },
     {
-      "title": "8 Years Later, a Buffy Star's Obscure Thriller Is Waiting to Be Discovered on Free Streaming",
-      "link": "https://www.polygon.com/you-might-be-the-killer-free/",
-      "pubDate": "02.11.2026 um 01:00 Uhr",
-      "timestamp": 1793581217.0,
-      "source": "Polygon.com",
-      "summary": "Remember, everyone, if you find a strange mask in the woods, don't put it on"
-    },
-    {
-      "title": "Rings of Power showrunners say it \"hits its stride\" in season 3 despite divisive fan response",
-      "link": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/rings-of-power-showrunners-say-it-hits-its-stride-in-season-3-despite-divisive-fan-response-were-getting-more-confident-in-our-storytelling/",
-      "pubDate": "02.11.2026 um 00:01 Uhr",
-      "timestamp": 1793577660.0,
+      "title": "If Sam Altman thinks gaming PCs only use RAM 5% of the time, he knows less than I thought",
+      "link": "https://www.gamesradar.com/hardware/desktop-pc/if-sam-altman-thinks-gaming-pcs-only-use-ram-5-percent-of-the-time-he-knows-less-about-technology-than-i-thought/",
+      "pubDate": "02.11.2026 um 17:40 Uhr",
+      "timestamp": 1793641222.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Patrick McKay reflects on fan feedback ahead of season 3"
+      "summary": "Sam Altman thinks it's \"terrible\" that RAM is sitting in your gaming PC \"being used 5% of the time\", and while that's inaccurate, it's even more out o..."
     },
     {
-      "title": "Clayface Comes in Second to You Can See Everything at the Domestic Box Office on Halloween Weekend",
-      "link": "https://www.ign.com/articles/clayface-comes-in-second-to-you-can-see-everything-at-the-domestic-box-office-on-halloween-weekend",
-      "pubDate": "01.11.2026 um 23:27 Uhr",
-      "timestamp": 1793575665.0,
-      "source": "IGN All",
-      "summary": "Clayface has come in second at the domestic box office on the Halloween weekend as audiences continue to show up for Elizabeth Holmes documentary You ..."
+      "title": "FF14’s New Expansion Officially Addresses Dawntrail’s Biggest Problem",
+      "link": "https://www.polygon.com/final-fantasy-14-evercold-fixing-dawntrails-pacing-issues/",
+      "pubDate": "02.11.2026 um 17:30 Uhr",
+      "timestamp": 1793640657.0,
+      "source": "Polygon.com",
+      "summary": "Final Fantasy 14 Evercold will fix the MMORPG's pacing problem seen in the Dawntrail expansion"
     },
     {
-      "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
-      "link": "https://www.ign.com/articles/best-deals-for-november-1-2026",
-      "pubDate": "01.11.2026 um 23:24 Uhr",
-      "timestamp": 1793575463.0,
-      "source": "IGN All",
-      "summary": ""
+      "title": "Zelda: Ocarina Of Time Remake Link’s Tunic Looks Like That Because He Made It Himself",
+      "link": "https://kotaku.com/zelda-ocarina-of-time-remake-links-tunic-looks-like-that-because-he-made-it-himself-2000752381",
+      "pubDate": "02.11.2026 um 17:30 Uhr",
+      "timestamp": 1793640652.0,
+      "source": "Kotaku",
+      "summary": "He's very proud of it and you should be nice to him"
     },
     {
-      "title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
-      "link": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
-      "pubDate": "01.11.2026 um 22:56 Uhr",
-      "timestamp": 1793573801.0,
+      "title": "Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech",
+      "link": "https://www.rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
+      "pubDate": "02.11.2026 um 17:30 Uhr",
+      "timestamp": 1793640600.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "What makes Carrion interesting obviously lies in playing as the monster in a horror game rather than being the one chased down by it. The game's nasty..."
+      "summary": "The most important thing to know about Bay 12: Mech Repair is that these are mechs of the MechWarrior or possibly Patlabor school &ndash; that is, bas..."
+    },
+    {
+      "title": "Palworld lead says what makes an indie game has become \"so blurred\" but \"creative control is king\"",
+      "link": "https://www.gamesradar.com/games/is-clair-obscur-expedition-33-not-indie-just-because-someone-helped-with-marketing-palworld-lead-says-the-definition-of-an-indie-studio-has-become-so-blurred/",
+      "pubDate": "02.11.2026 um 17:29 Uhr",
+      "timestamp": 1793640576.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Stardew Valley is in the same bracket"
+    },
+    {
+      "title": "Final Fantasy Resonance lead had to fight Square Enix execs for more than a basic port for the JRPG",
+      "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-lead-had-to-fight-square-enix-execs-for-more-than-a-basic-port-for-the-jrpg/",
+      "pubDate": "02.11.2026 um 17:27 Uhr",
+      "timestamp": 1793640438.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"I didn't want to go down that route,\" says Keisuke Nakashima"
+    },
+    {
+      "title": "Publisher shakes fist at Valve for delaying their game as it reaches just 15 players on Steam",
+      "link": "https://www.gamesradar.com/games/publisher-shakes-fist-at-valve-for-delaying-their-game-as-it-reaches-just-15-players-on-steam-despite-11-000-wishlists-tim-sweeney-liking-this-is-very-unexpected-and-genuinely-hilarious/",
+      "pubDate": "02.11.2026 um 17:23 Uhr",
+      "timestamp": 1793640188.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Epic Games CEO seems intrigued by this news"
+    },
+    {
+      "title": "This KPop Demon Hunters Derpy Tiger plush already feels like a shoe-in Christmas gift",
+      "link": "https://www.gamesradar.com/toys-collectibles/hasbro-shows-off-new-animatronic-kpop-demon-hunters-toy-and-it-feels-like-the-easiest-christmas-gift-ever/",
+      "pubDate": "02.11.2026 um 17:20 Uhr",
+      "timestamp": 1793640051.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "This KPop Demon Hunters Derpy Tiger plush already feels like a shoe-in Christmas gift"
+    },
+    {
+      "title": "The best Oris 8.6 builds in MW4",
+      "link": "https://www.gamesradar.com/games/call-of-duty/mw4-oris-86-build-modern-warfare-4/",
+      "pubDate": "02.11.2026 um 17:20 Uhr",
+      "timestamp": 1793640013.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The Oris 8.6 is a marksman rifle in MW4 known for its versatility, as well as its Volt Edge variant"
+    },
+    {
+      "title": "Dune Officially Returns With New Release This Week Ahead of Denis Villeneuve's Next Movie",
+      "link": "https://www.polygon.com/dune-messiah-graphic-novel-excerpt/",
+      "pubDate": "02.11.2026 um 17:01 Uhr",
+      "timestamp": 1793638877.0,
+      "source": "Polygon.com",
+      "summary": "The book is a faithful scene-by-scene recreation of Frank Herbert’s work, Dune Messiah"
+    },
+    {
+      "title": "FBI Issues Surprise Official 'Pokémon' Trading Card Warning",
+      "link": "https://www.polygon.com/pokemon-tcg-fbi-warning-scam-theft-credit-card-fraud-fakes/",
+      "pubDate": "02.11.2026 um 17:00 Uhr",
+      "timestamp": 1793638842.0,
+      "source": "Polygon.com",
+      "summary": "The Federal Bureau of Investigation has identified new TCG scams that Pokémon fans and vendors alike need to know following a rise in theft"
+    },
+    {
+      "title": "Suda51 Wants A Now-Independent Grasshopper To Bring Back No More Heroes (And One Of His Earliest Games)",
+      "link": "https://kotaku.com/suda51-wants-a-now-independent-grasshopper-to-bring-back-no-more-heroes-and-one-of-his-earliest-games-2000752308",
+      "pubDate": "02.11.2026 um 17:00 Uhr",
+      "timestamp": 1793638829.0,
+      "source": "Kotaku",
+      "summary": "In his first interviews since the studio went independent, Suda51 says he wants to revisit a darker side of Grasshopper Manufacture"
+    },
+    {
+      "title": "Yakuza creator's studio, and the game it was working on, are now officially gone",
+      "link": "https://www.pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone/",
+      "pubDate": "02.11.2026 um 16:59 Uhr",
+      "timestamp": 1793638776.0,
+      "source": "PCGamer latest",
+      "summary": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later."
+    },
+    {
+      "title": "Turtle Beach Command Series MC7 review",
+      "link": "https://www.pcgamer.com/hardware/gaming-mice/turtle-beach-command-series-mc7-review/",
+      "pubDate": "02.11.2026 um 16:56 Uhr",
+      "timestamp": 1793638608.0,
+      "source": "PCGamer latest",
+      "summary": "How much is a touchscreen really worth to you?"
     }
   ],
   "sim": [
+    {
+      "title": "THIS WEEK: iRacing Homestead Championship Special Event",
+      "link": "https://www.iracing.com/this-week-iracing-homestead-championship-special-event/",
+      "pubDate": "02.11.2026 um 13:00 Uhr",
+      "timestamp": 1793624417.0,
+      "source": "iRacing.com",
+      "summary": "iRacing’s Special Event calendar features a selection of the world’s most compelling races across numerous disciplines. Whether you’re interested in s..."
+    },
     {
       "title": "Forza Creator Dan Greenawalt to Retire From Microsoft After 27 Years",
       "link": "https://www.gtplanet.net/forza-creator-dan-greenawalt-to-retire-from-microsoft-after-27-years-20261031/",
@@ -379,14 +387,6 @@
       "timestamp": 1793041168.0,
       "source": "GTPlanet",
       "summary": "The Fanatec Gran Turismo Eifel Cup 2026 runs November 2-16 in GT7, with the fastest player in each of three regions winning a Gran Turismo DD Pro or a..."
-    },
-    {
-      "title": "World of Outlaws Pro Series powered by iRacing returns next month, Qualifying ongoing for Late Model Championship",
-      "link": "https://www.iracing.com/world-of-outlaws-pro-series-powered-by-iracing-returns-next-month-qualifying-ongoing-for-late-model-championship/",
-      "pubDate": "26.10.2026 um 18:00 Uhr",
-      "timestamp": 1793037637.0,
-      "source": "iRacing.com",
-      "summary": "The World of Outlaws Pro Series returns! On November 16th, the 10th season of the World of Outlaws Pro Series powered by iRacing kicks off with the fi..."
     },
     {
       "title": "Gran Turismo 7 Daily Races: Pour Some SUGO on Me",
