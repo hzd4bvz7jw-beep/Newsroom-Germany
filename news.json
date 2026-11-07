@@ -1,15 +1,127 @@
 {
   "de": [
     {
-      "title": "Ein 7 Jahre altes Spiel hat meine Leidenschaft für Star Wars wiedererweckt",
-      "link": "https://mein-mmo.de/star-wars-jedi-fallen-order-altes-spiel-leidenschaft/",
-      "pubDate": "07.11.2026 um 08:00 Uhr",
-      "timestamp": 1794038400.0,
+      "title": "Horde oder Allianz in WoW Forever? Eure Wahl ist die einzig richtige!",
+      "link": "https://mein-mmo.de/wow-forever-horde-oder-allianz-umfrage-auswertung/",
+      "pubDate": "07.11.2026 um 13:38 Uhr",
+      "timestamp": 1794058686.0,
       "source": "Mein-MMO",
-      "summary": "MeinMMO-Dämon hat sich nach langer Abstinenz wieder Star Wars zugewandt. Ein älteres Spiel hat ein neues Feuer entfacht. Der Beitrag Ein 7 Jahre altes..."
+      "summary": "WoW. Forever ist gestartet und wir wollten von euch wissen: Horde oder Allianz? Wir verraten euch den Favoriten der Community! Der Beitrag Horde oder ..."
     },
     {
-      "title": "Im Test vor 15 Jahren: Stronghold 3 kam sechs Monate zu früh",
+      "title": "Ein MMORPG ist so erfolgreich, nimmt 38 Millionen inaktiven Charakteren ihre Namen",
+      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-6-november-2026/",
+      "pubDate": "07.11.2026 um 13:37 Uhr",
+      "timestamp": 1794058642.0,
+      "source": "Mein-MMO",
+      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit dem Forever-Start, krassen Zahlen, Evercold und ArcheAge Chronicles. Der Beitrag Ein MMO..."
+    },
+    {
+      "title": "James Bond: Robert Pattinson und Nicholas Hoult wohl in enger Auswahl als neuer 007-Agent",
+      "link": "https://www.eurogamer.de/denis-villeneuve-james-bond-casting-robert-pattinson-nicholas-hoult",
+      "pubDate": "07.11.2026 um 13:32 Uhr",
+      "timestamp": 1794058360.0,
+      "source": "Eurogamer.de News",
+      "summary": "Seit einiger Zeit ist eine neue James Bond-Verfilmung von Denis Villeneuve in Planung. Dabei steht nat&uuml;rlich zun&auml;chst die Frage im Mittelpun..."
+    },
+    {
+      "title": "Marvel-Legende Stan Lee erschuf für DC eine neue Justice League, in der Batman ein Wrestler ist",
+      "link": "https://mein-mmo.de/stan-lee-dc-neue-justice-league/",
+      "pubDate": "07.11.2026 um 13:30 Uhr",
+      "timestamp": 1794058200.0,
+      "source": "Mein-MMO",
+      "summary": "Einmal ging Marvel-Legende Stan Lee zur Konkurrenz und dachte sich alternative Versionen bekannter Helden wie Batman oder Superman aus. Der Beitrag Ma..."
+    },
+    {
+      "title": "8 Mitglieder der Justice League, die es bisher nichts ins Kino geschafft haben",
+      "link": "https://mein-mmo.de/8-mitglieder-der-justice-league-filmen-nicht-aufgetaucht/",
+      "pubDate": "07.11.2026 um 12:59 Uhr",
+      "timestamp": 1794056398.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO stellt euch 8 Helden aus dem Universum von DC vor, die in den Filmen bisher nicht vorgekommen sind. Der Beitrag 8 Mitglieder der Justice Leagu..."
+    },
+    {
+      "title": "Ein geheimes Pet in WoW Forever bekommt ihr ganz einfach, kostet nur 26 Kupfer und eure Würde",
+      "link": "https://mein-mmo.de/wow-forever-praeriehuhn-bekommen/",
+      "pubDate": "07.11.2026 um 12:40 Uhr",
+      "timestamp": 1794055249.0,
+      "source": "Mein-MMO",
+      "summary": "Das Präriehuhn in WoW Forever ist hinter einer geheimen Quest versteckt. So bekommt ihr das Haustier. Der Beitrag Ein geheimes Pet in WoW Forever beko..."
+    },
+    {
+      "title": "ARC Raiders: Ein dauerhafter PvE-Modus könnte laut Embark-CEO leicht implementiert werden",
+      "link": "https://www.eurogamer.de/arc-raiders-dauerhafter-pve-modus-moeglich",
+      "pubDate": "07.11.2026 um 12:30 Uhr",
+      "timestamp": 1794054640.0,
+      "source": "Eurogamer.de News",
+      "summary": "Obwohl ARC Raiders als PvPvE-Shooter startete, haben die Embark Studios zuletzt auch mit reinen PvE-Modi experimentiert. Grund daf&uuml;r sollen die s..."
+    },
+    {
+      "title": "The Legend of Zelda: Producer Hidemaro Fujibayashi möchte auf frische Ideen setzen",
+      "link": "https://www.eurogamer.de/the-legend-of-zelda-zukunft-producer-frische-ideen",
+      "pubDate": "07.11.2026 um 11:18 Uhr",
+      "timestamp": 1794050300.0,
+      "source": "Eurogamer.de News",
+      "summary": "Mit The Legend of Zelda: Ocarina of Time f&uuml;r die Switch 2 kehrt ein absoluter Klassiker zur&uuml;ck und damit auch eine Menge Nostalgie. Dabei is..."
+    },
+    {
+      "title": "Ein sadistischer Gegner von Godzilla kämpft für fiese Alien-Kakerlaken, ist ein gigantischer Echsen-Cyborg",
+      "link": "https://mein-mmo.de/godzilla-gigan-lore/",
+      "pubDate": "07.11.2026 um 10:53 Uhr",
+      "timestamp": 1794048780.0,
+      "source": "Mein-MMO",
+      "summary": "Godzilla hat in seiner Karriere viele Gegner bekämpft, doch einer kämpft mit Sichelarmen und ist ein fieser Alien-Cyborg. Der Beitrag Ein sadistischer..."
+    },
+    {
+      "title": "Die erste Gruppe in WoW Forever ist auf Stufe 60, ihr „Trick“ ist so effizient wie eintönig",
+      "link": "https://mein-mmo.de/wow-forever-jokerd-world-first-60/",
+      "pubDate": "07.11.2026 um 10:42 Uhr",
+      "timestamp": 1794048178.0,
+      "source": "Mein-MMO",
+      "summary": "JokerD hat mit seiner Gruppe als erstes Stufe 60 in WoW Forever erreicht, dabei haben sie kaum Quests erledigt. Der Beitrag Die erste Gruppe in WoW Fo..."
+    },
+    {
+      "title": "Path of Exile 2 stellt eine zweite neue Klasse für den Free2Play-Release vor, aber die ist nicht mal das Beste an der Ankündigung",
+      "link": "https://mein-mmo.de/path-of-exile-2-exilecon-schatten-und-wraeclast-liga/",
+      "pubDate": "07.11.2026 um 10:33 Uhr",
+      "timestamp": 1794047634.0,
+      "source": "Mein-MMO",
+      "summary": "Kurz vor Release haut Path of Exile 2 nochmal richtig viele Infos zu Version 1.0 raus, kommt mit neuer Klasse und neuem Modus. Der Beitrag Path of Exi..."
+    },
+    {
+      "title": "Xbox überarbeitet PC-App für schnellere Ladezeiten – laut CEO Asha Sharma ist “noch viel zu tun”",
+      "link": "https://www.eurogamer.de/xbox-pc-app-60-prozen-schnellere-ladezeiten",
+      "pubDate": "07.11.2026 um 10:04 Uhr",
+      "timestamp": 1794045880.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Xbox-PC-App hat in den letzten Jahren nicht gerade mit Bestleistungen gegl&auml;nzt, doch Microsoft verspricht, dass sie nun deutlich schneller un..."
+    },
+    {
+      "title": "Community-Benchmark: Testet euer System in MisterHs OpenCL Benchmark",
+      "link": "https://www.computerbase.de/artikel/apps/mrh-opencl-benchmark-community-test.99902/",
+      "pubDate": "07.11.2026 um 11:00 Uhr",
+      "timestamp": 1794045600.0,
+      "source": "ComputerBase",
+      "summary": "Seit 2019 hegt und pflegt ComputerBase-Community-Mitglied MisterH einen eigenen CPU- und GPU-Benchmark: den MrH OpenCL Benchmark. Neben der kontinuier..."
+    },
+    {
+      "title": "EA-Klassiker: Zufälliger Archiv­fund machte Neuauf­lagen erst möglich",
+      "link": "https://www.computerbase.de/news/gaming/ea-klassiker-zufaelliger-archivfund-machte-neuauflagen-erst-moeglich.100205/",
+      "pubDate": "07.11.2026 um 10:45 Uhr",
+      "timestamp": 1794044700.0,
+      "source": "ComputerBase",
+      "summary": "Ein Zufallsfund in einem Lagerraum von Electronic Arts gab den Anstoß für sieben Neuauflagen klassischer Spiele, die nun auf Steam und GOG erhältlich ..."
+    },
+    {
+      "title": "Radeon RX 7900: Sicherheitsupdate legt Grafikkarten lahm",
+      "link": "https://www.computerbase.de/news/grafikkarten/radeon-rx-7900-sicherheitsupdate-legt-grafikkarten-lahm.100221/",
+      "pubDate": "07.11.2026 um 09:55 Uhr",
+      "timestamp": 1794041700.0,
+      "source": "ComputerBase",
+      "summary": "Ein Sicherheitsupdate für Radeon-Grafikkarten von ASRock kann offenbar dazu führen, dass der PC anschließend nicht mehr startet. Besitzer einer Radeon..."
+    },
+    {
+      "title": "Im Test vor 15 Jahren: Stronghold 3 scheiterte schon am Burgenbau",
       "link": "https://www.computerbase.de/news/gaming/im-test-vor-15-jahren-stronghold-3-kam-sechs-monate-zu-frueh.100133/",
       "pubDate": "07.11.2026 um 08:03 Uhr",
       "timestamp": 1794034980.0,
@@ -25,270 +137,158 @@
       "summary": "Im November 2006 legte Entwickler Epic Games den Grundstein f&uuml;r ein erfolgreiches neues Franchise. Microsoft brauchte damals dringend ein weitere..."
     },
     {
-      "title": "Horde oder Allianz in WoW Forever? Eure Wahl ist ungewöhnlich, aber die einzig richtige!",
-      "link": "https://mein-mmo.de/wow-forever-horde-oder-allianz-umfrage-auswertung/",
-      "pubDate": "07.11.2026 um 07:00 Uhr",
-      "timestamp": 1794034800.0,
-      "source": "Mein-MMO",
-      "summary": "WoW. Forever ist gestartet und wir wollten von euch wissen: Horde oder Allianz? Wir verraten euch den Favoriten der Community! Der Beitrag Horde oder ..."
-    },
-    {
-      "title": "Ein MMORPG ist so erfolgreich, befreit mal eben 38 Millionen inaktive Charaktere von ihren Namen",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-6-november-2026/",
-      "pubDate": "07.11.2026 um 06:30 Uhr",
-      "timestamp": 1794033000.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit dem Forever-Start, krassen Zahlen, Evercold und ArcheAge Chronicles. Der Beitrag Ein MMO..."
-    },
-    {
-      "title": "WoW Forever Server Down am 7. November im Live-Ticker – Startzeit, Status, Dauer",
-      "link": "https://mein-mmo.de/wow-forever-server-down-7-november-live-ticker-status/",
-      "pubDate": "07.11.2026 um 05:02 Uhr",
-      "timestamp": 1794027730.0,
-      "source": "Mein-MMO",
-      "summary": "Im Live-Ticker halten wir euch über Start, Dauer und Ende des Server Downs in WoW: Forever am 7. November 2026 auf dem Laufenden. Der Beitrag WoW Fore..."
-    },
-    {
       "title": "AMD Medusa Point: Sample-Flut mit 6, 8 und 10 Kernen bei Geekbench",
       "link": "https://www.computerbase.de/news/prozessoren/amd-medusa-point-sample-flut-mit-6-8-und-10-kernen-bei-geekbench.100212/",
       "pubDate": "07.11.2026 um 06:00 Uhr",
       "timestamp": 1794027600.0,
       "source": "ComputerBase",
       "summary": "Dass sich die neue APU-Familie Medusa Point von AMD mit großen Schritten dem Markt nähert, zeigt sich daran, dass diverse Lenovo-Systeme mit dieser Ch..."
-    },
-    {
-      "title": "Eine Rückkehr von Bloodborne ist aufgrund der Rechte wohl kompliziert",
-      "link": "https://www.eurogamer.de/bloodborne-rueckkehr-rechte-shawn-layden",
-      "pubDate": "06.11.2026 um 19:13 Uhr",
-      "timestamp": 1793992380.0,
-      "source": "Eurogamer.de News",
-      "summary": "Jedes Jahr hoffen Bloodborne-Fans auf ein neues Spiel in FromSoftwares Lovecraft-Universum. Und jedes Jahr r&uuml;ckt ein Bloodborne 2 oder zumindest ..."
-    },
-    {
-      "title": "Monopoly GO: Alle gratis Würfel im November 2026 – Die neuen Codes von heute",
-      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
-      "pubDate": "06.11.2026 um 17:50 Uhr",
-      "timestamp": 1793987403.0,
-      "source": "Mein-MMO",
-      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
-    },
-    {
-      "title": "Sony bringt neue Vorteile für PS Plus, doch die Spieler wollen lieber Discs",
-      "link": "https://www.eurogamer.de/ps-plus-vorteile-disc-kritik-sony",
-      "pubDate": "06.11.2026 um 17:20 Uhr",
-      "timestamp": 1793985650.0,
-      "source": "Eurogamer.de News",
-      "summary": "Sony bietet Nutzern von PS Plus mehr Vorteile. Darunter sind Dinge, wie Testzug&auml;nge f&uuml;r YouTube Premium oder eine Schlaf-App. Doch einige Sp..."
-    },
-    {
-      "title": "Dispatch: Malevola bekommt laut Director auch in Zukunft keine Romanze",
-      "link": "https://www.eurogamer.de/dispatch-director-keine-malevola-romanze",
-      "pubDate": "06.11.2026 um 17:09 Uhr",
-      "timestamp": 1793984970.0,
-      "source": "Eurogamer.de News",
-      "summary": "Dispatch ist einer der gro&szlig;en &Uuml;berraschungshits des letzten Jahres gewesen und hat Spieler nicht nur auf narrativer Ebene f&uuml;r sich gew..."
-    },
-    {
-      "title": "Google: Update für Googlebooks soll bis zu 6 GB RAM freigeben",
-      "link": "https://www.computerbase.de/news/notebooks/google-update-fuer-googlebooks-soll-bis-zu-6-gb-ram-freigeben.100218/",
-      "pubDate": "06.11.2026 um 18:05 Uhr",
-      "timestamp": 1793984700.0,
-      "source": "ComputerBase",
-      "summary": "Nach einem holprigen Start verteilt Google das November-Update für die neuen Googlebooks. Es soll unter anderem die Speicherverwaltung verbessern und ..."
-    },
-    {
-      "title": "The Legend of Zelda: Nintendo verändert offiziell die Zeitlinien",
-      "link": "https://www.eurogamer.de/the-legend-of-zelda-nintendo-update-zeitlinie",
-      "pubDate": "06.11.2026 um 16:10 Uhr",
-      "timestamp": 1793981400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Chronologie und Zeitlinien der The Legend of Zelda-Reihe waren schon lange Mittelpunkt verschiedener Debatten, Analysen und YouTube-Videos. Mit de..."
-    },
-    {
-      "title": "Neuer Hotfix für World of Warcraft: Forever setzt extrem schnellen Flaggenträgern ein Ende",
-      "link": "https://www.eurogamer.de/wow-forever-hotfix-tauren-pvp-bug",
-      "pubDate": "06.11.2026 um 15:58 Uhr",
-      "timestamp": 1793980720.0,
-      "source": "Eurogamer.de News",
-      "summary": "World of Warcraft: Forever hat seinen ersten gro&szlig;en Hotfix-Patch spendiert bekommen. Das Update r&auml;umt unter anderem mit einem extrem m&auml..."
-    },
-    {
-      "title": "Die ersten Spieler aus WoW Forever nähern sich Stufe 60, Community reagiert mit South Park",
-      "link": "https://mein-mmo.de/wow-forever-level-rennen-auf-stufe-60/",
-      "pubDate": "06.11.2026 um 15:47 Uhr",
-      "timestamp": 1793980029.0,
-      "source": "Mein-MMO",
-      "summary": "WoW: Forever ist keine zwei Tage alt und schon nähern sich die ersten Charaktere der Maximalstufe 60. Das kommt nicht überall gut an. Der Beitrag Die ..."
-    },
-    {
-      "title": "Gaming-Engine: Investoren planen nach EA- auch Unity-Übernahme",
-      "link": "https://www.computerbase.de/news/gaming/nach-ea-uebernahme-auch-spiele-engine-unity-vor-verkauf-an-silver-lake-und-pif.100214/",
-      "pubDate": "06.11.2026 um 16:41 Uhr",
-      "timestamp": 1793979660.0,
-      "source": "ComputerBase",
-      "summary": "Silver Lake und der saudische Staatsfonds Public Investment Fund (PIF) sollen eine Übernahme des Spiele-Engine-Anbieters Unity erwägen. Die beiden Inv..."
-    },
-    {
-      "title": "Nier: Automata mit gigantischem 366-GB-Patch: Bizarrer Bug auf Steam lässt den Speicherplatz ansteigen",
-      "link": "https://www.eurogamer.de/nier-automata-steam-patch-speicher-bug",
-      "pubDate": "06.11.2026 um 15:22 Uhr",
-      "timestamp": 1793978570.0,
-      "source": "Eurogamer.de News",
-      "summary": "Gestern hat Nier: Automata einen neuen Patch auf Steam spendiert bekommen, der zus&auml;tzliche Sprachoptionen liefert: Ihr k&ouml;nnt den Titel ab so..."
-    },
-    {
-      "title": "Hackerangriff: Mindfactory informiert über möglichen Datendiebstahl",
-      "link": "https://www.computerbase.de/news/wirtschaft/hackerangriff-mindfactory-informiert-kunden-ueber-moeglichen-datendiebstahl.100215/",
-      "pubDate": "06.11.2026 um 15:55 Uhr",
-      "timestamp": 1793976900.0,
-      "source": "ComputerBase",
-      "summary": "Nach Notebooksbilliger informiert zur Stunde Mindfactory Kunden über einen Hackerangriff auf die eigenen Systeme. Der zur heise group gehörende Online..."
     }
   ],
   "int": [
     {
-      "title": "The 8 Best Castlevania Games Of All Time, Ranked",
-      "link": "https://www.polygon.com/best-castlevania-games/",
-      "pubDate": "07.11.2026 um 03:52 Uhr",
-      "timestamp": 1794023537.0,
+      "title": "World of Warcraft Forever Officially Breaks Records For The 22-Year-Old MMO",
+      "link": "https://www.polygon.com/world-of-warcraft-forever-record-breaking-launch/",
+      "pubDate": "07.11.2026 um 15:25 Uhr",
+      "timestamp": 1794065108.0,
       "source": "Polygon.com",
-      "summary": "The finest Castlevania games of all time come from multiple decades. Together, they built a franchise that is better than ever."
+      "summary": "World of Warcraft got a whole lot of people to come back and play the MMO together"
     },
     {
-      "title": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
-      "link": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
-      "pubDate": "07.11.2026 um 03:29 Uhr",
-      "timestamp": 1794022173.0,
-      "source": "Polygon.com",
-      "summary": "Loads of GBA classics are already available on Switch Online, but 10 more terrific games need to join the service."
-    },
-    {
-      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-      "link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-      "pubDate": "07.11.2026 um 03:12 Uhr",
-      "timestamp": 1794021136.0,
-      "source": "IGN All",
-      "summary": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch"
-    },
-    {
-      "title": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26",
-      "link": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
-      "pubDate": "07.11.2026 um 03:07 Uhr",
-      "timestamp": 1794020878.0,
-      "source": "IGN All",
-      "summary": "Robert Pattinson reportedly screen-tested for the role of 007 in James Bond 26. Lex Luthor actor Nicholas Hoult has also emerged as a contender for th..."
-    },
-    {
-      "title": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
-      "link": "https://www.polygon.com/game-cancellations/",
-      "pubDate": "07.11.2026 um 03:03 Uhr",
-      "timestamp": 1794020607.0,
-      "source": "Polygon.com",
-      "summary": "Canceled games are nothing new, but 10 exciting games were taken out of action before they could deliver on their promise."
-    },
-    {
-      "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
-      "link": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
-      "pubDate": "07.11.2026 um 02:43 Uhr",
-      "timestamp": 1794019397.0,
-      "source": "Polygon.com",
-      "summary": "Ananta, the \"anime GTA\" game from NetEase, has an early 2027 release date, steering clear of Rockstar Games' Grand Theft Auto 6."
-    },
-    {
-      "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
-      "link": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
-      "pubDate": "07.11.2026 um 01:30 Uhr",
-      "timestamp": 1794015017.0,
-      "source": "Polygon.com",
-      "summary": "Ryan Gosling and Warner Bros are developing live-action Flintstones reboot about Bamm-Bamm"
-    },
-    {
-      "title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
-      "link": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
-      "pubDate": "07.11.2026 um 01:14 Uhr",
-      "timestamp": 1794014061.0,
-      "source": "IGN All",
-      "summary": "An Avengers: Doomsday car commercial just revealed a first look at Alan Cumming's Nightcrawler in motion – and it may have teased a surprising cameo, ..."
-    },
-    {
-      "title": "Sony has \"a good chance of winning\" with a PS6 handheld, former PlayStation boss says",
-      "link": "https://www.gamesradar.com/games/sony-has-a-good-chance-of-winning-with-a-ps6-handheld-former-playstation-boss-says-but-only-if-theres-no-home-console-launch-too/",
-      "pubDate": "07.11.2026 um 01:11 Uhr",
-      "timestamp": 1794013860.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"I don't think any company has the ability to be successful with both\""
-    },
-    {
-      "title": "Every GTA Game, Ranked by Metacritic Score",
-      "link": "https://www.polygon.com/gta-games-ranked-metacritic-scores/",
-      "pubDate": "07.11.2026 um 00:30 Uhr",
-      "timestamp": 1794011417.0,
-      "source": "Polygon.com",
-      "summary": "With plenty of Grand Theft Auto games earning Metacritic scores in the high 90s, GTA 6 has an exceptionally high bar to meet."
-    },
-    {
-      "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
-      "link": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/",
-      "pubDate": "06.11.2026 um 23:36 Uhr",
-      "timestamp": 1794008181.0,
+      "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+      "link": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice/",
+      "pubDate": "07.11.2026 um 15:00 Uhr",
+      "timestamp": 1794063600.0,
       "source": "PCGamer latest",
-      "summary": "The full release will feature new classes, finished campaign, a new league, and more."
+      "summary": "I recommend openSUSE Tumbleweed, personally."
     },
     {
-      "title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
-      "link": "https://www.ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
-      "pubDate": "06.11.2026 um 23:30 Uhr",
-      "timestamp": 1794007800.0,
-      "source": "IGN All",
-      "summary": "Caveat: deal-worthiness is relative."
-    },
-    {
-      "title": "The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday",
-      "link": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-november-2026",
-      "pubDate": "06.11.2026 um 23:30 Uhr",
-      "timestamp": 1794007800.0,
-      "source": "IGN All",
-      "summary": "The best entry-level 3D printer deal so far heading into the holiday season."
-    },
-    {
-      "title": "Dragon Age writer is \"collaborating\" on Mass Effect-like RPG The Expanse: Osiris Reborn",
-      "link": "https://www.gamesradar.com/games/rpg/dragon-age-kotor-and-baldurs-gate-writer-is-collaborating-on-mass-effect-like-rpg-the-expanse-osiris-reborn/",
-      "pubDate": "06.11.2026 um 23:25 Uhr",
-      "timestamp": 1794007504.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"The Expanse has long been one of my favourite series\""
-    },
-    {
-      "title": "Get a Nintendo Switch 2 Console (USA Model) for $448 During the AliExpress Early Black Friday Sale",
-      "link": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale",
-      "pubDate": "06.11.2026 um 23:25 Uhr",
-      "timestamp": 1794007500.0,
-      "source": "IGN All",
-      "summary": "Just in time to play The Legend of Zelda: Ocarina of Time which comes out this week."
-    },
-    {
-      "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-      "pubDate": "06.11.2026 um 23:11 Uhr",
-      "timestamp": 1794006710.0,
+      "title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
+      "link": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now/",
+      "pubDate": "07.11.2026 um 15:00 Uhr",
+      "timestamp": 1794063600.0,
       "source": "PCGamer latest",
-      "summary": "Are we being trolled here?"
+      "summary": "Hulick also revealed that he was asked by BioWare to score an internal demo for Mass Effect: Universe—but work was cut short by the studio's closure."
     },
     {
-      "title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
-      "link": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
-      "pubDate": "06.11.2026 um 23:00 Uhr",
-      "timestamp": 1794006037.0,
+      "title": "One Of Hollywood's Biggest Stars Just Auditioned For James Bond",
+      "link": "https://www.polygon.com/james-bond-robert-pattinson/",
+      "pubDate": "07.11.2026 um 14:51 Uhr",
+      "timestamp": 1794063103.0,
+      "source": "Polygon.com",
+      "summary": "Robert Pattinson might be our next James Bond, according to new reports about the next James Bond film"
+    },
+    {
+      "title": "World of Warcraft: Forever brought back a record number of lapsed players",
+      "link": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-brought-back-a-record-number-of-lapsed-players-and-has-the-biggest-concurrent-player-launch-in-the-mmos-history/",
+      "pubDate": "07.11.2026 um 14:30 Uhr",
+      "timestamp": 1794061823.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Forever also had \"the most new players for a WoW launch in 15 years\""
+    },
+    {
+      "title": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
+      "link": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer/",
+      "pubDate": "07.11.2026 um 14:16 Uhr",
+      "timestamp": 1794060988.0,
+      "source": "PCGamer latest",
+      "summary": "Howard is \"very good at putting himself in the seat of your typical player\" says Bruce Nesmith."
+    },
+    {
+      "title": "PS6 doesn't need more power, ex-PlayStation boss says",
+      "link": "https://www.gamesradar.com/platforms/playstation/ps6-doesnt-need-more-power-ex-playstation-boss-says-because-true-innovation-would-be-making-a-usd300-console-again/",
+      "pubDate": "07.11.2026 um 13:33 Uhr",
+      "timestamp": 1794058402.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"What the company needs to do is do what it's never done,\" Shawn Layden says"
+    },
+    {
+      "title": "Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix",
+      "link": "https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/",
+      "pubDate": "07.11.2026 um 13:16 Uhr",
+      "timestamp": 1794057378.0,
+      "source": "Polygon.com",
+      "summary": "Alien and Aliens are leaving Netflix on Dec. 1, giving subscribers limited time to stream Ridley Scott’s sci-fi classics."
+    },
+    {
+      "title": "Godzilla Minus Zero: Where Is the Rest of Godzilla’s Rogues' Gallery?",
+      "link": "https://www.ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+      "pubDate": "07.11.2026 um 13:00 Uhr",
+      "timestamp": 1794056400.0,
       "source": "IGN All",
-      "summary": "Mass Effect fans have taken their mission to save BioWare and its beloved sci-fi franchise to EA headquarters with a truck displaying the #SaveMassEff..."
+      "summary": "Where is the rest of Godzilla’s rogues' gallery? We take a look at Monster Island's most wanted."
     },
     {
-      "title": "Three Games You Can Play For Free This Weekend On PC",
-      "link": "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769",
-      "pubDate": "06.11.2026 um 23:00 Uhr",
-      "timestamp": 1794006034.0,
-      "source": "Kotaku",
-      "summary": "Here's how to save on games in November"
+      "title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
+      "link": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+      "pubDate": "07.11.2026 um 13:00 Uhr",
+      "timestamp": 1794056400.0,
+      "source": "IGN All",
+      "summary": "Get a closer look at the Gundam Assemble Starter Set."
+    },
+    {
+      "title": "Three Zelda: Ocarina of Times later, Eiji Aonuma is finally happy with the infamous Water Temple",
+      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/three-the-legend-of-zelda-ocarina-of-times-later-eiji-aonuma-is-finally-happy-with-the-infamous-water-temple-i-think-this-for-me-is-the-best-version/",
+      "pubDate": "07.11.2026 um 12:51 Uhr",
+      "timestamp": 1794055901.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"It's a better experience\""
+    },
+    {
+      "title": "Xbox is testing a way to use your phone as a controller on smart TVs",
+      "link": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+      "pubDate": "07.11.2026 um 12:30 Uhr",
+      "timestamp": 1794054610.0,
+      "source": "Eurogamer.net News",
+      "summary": "Xbox is testing two new ways to play its cloud games, and one of them doesn't require a controller at all. Read more"
+    },
+    {
+      "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+      "link": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+      "pubDate": "07.11.2026 um 12:18 Uhr",
+      "timestamp": 1794053935.0,
+      "source": "PCGamer latest",
+      "summary": "\"While it stings, I'm really proud of what we built together.\""
+    },
+    {
+      "title": "10 Funniest 'Far Side' Comics About Cows",
+      "link": "https://www.polygon.com/funniest-far-side-comics-cows/",
+      "pubDate": "07.11.2026 um 12:14 Uhr",
+      "timestamp": 1794053657.0,
+      "source": "Polygon.com",
+      "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples"
+    },
+    {
+      "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+      "link": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice/",
+      "pubDate": "07.11.2026 um 12:00 Uhr",
+      "timestamp": 1794052817.0,
+      "source": "Polygon.com",
+      "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better"
+    },
+    {
+      "title": "The Rings of Power season 3 star Robert Aramayo opens up about playing another iconic Lord of the Rings character",
+      "link": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3-star-robert-aramayo-opens-up-about-playing-another-iconic-lord-of-the-rings-character-in-the-shows-upcoming-flashback/",
+      "pubDate": "07.11.2026 um 12:00 Uhr",
+      "timestamp": 1794052800.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Exclusive: Robert Aramayo explains the difficulties of playing both Elrond and Elros in season 3"
+    },
+    {
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+      "link": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+      "pubDate": "07.11.2026 um 11:30 Uhr",
+      "timestamp": 1794051017.0,
+      "source": "Polygon.com",
+      "summary": "Robots (not) in disguise."
+    },
+    {
+      "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+      "link": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+      "pubDate": "07.11.2026 um 11:15 Uhr",
+      "timestamp": 1794050154.0,
+      "source": "PCGamer latest",
+      "summary": "Square Enix is 'working to resolve the issue'."
     }
   ],
   "sim": [
