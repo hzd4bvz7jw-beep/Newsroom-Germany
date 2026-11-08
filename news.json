@@ -1,151 +1,215 @@
 {
   "de": [
     {
-      "title": "Marvel-Legende Stan Lee erschuf für DC eine neue Justice League, in der Batman ein Wrestler ist",
+      "title": "Zelda: Ocarina of Time läuft nach 2 Tagen schon auf dem PC",
+      "link": "https://www.computerbase.de/news/gaming/zelda-ocarina-of-time-laeuft-nach-2-tagen-schon-auf-dem-pc.100226/",
+      "pubDate": "08.11.2026 um 12:41 Uhr",
+      "timestamp": 1794138060.0,
+      "source": "ComputerBase",
+      "summary": "Nach den jüngsten PC-Projekten zu Link’s Awakening und Tears of the Kingdom wurde schon im Vorfeld geunkt, wie schnell auch Ocarina of Time auf dem PC..."
+    },
+    {
+      "title": "KI-Ausbau: Hängt euch generative KI inzwischen zum Hals raus?",
+      "link": "https://www.computerbase.de/news/netzpolitik/ki-ausbau-haengt-euch-generative-ki-inzwischen-zum-hals-raus.100219/",
+      "pubDate": "08.11.2026 um 12:00 Uhr",
+      "timestamp": 1794135600.0,
+      "source": "ComputerBase",
+      "summary": "Die heutige Sonntagsfrage möchte wissen: Welche Gefühle verspürt ihr inzwischen beim omnipräsenten Thema generative KI; überwiegen Faszination und Fre..."
+    },
+    {
+      "title": "The Expanse: Osiris Reborn holt Dragon-Age-Autor David Gaider an Bord",
+      "link": "https://www.eurogamer.de/expanse-osiris-reborn-david-gaider",
+      "pubDate": "08.11.2026 um 11:00 Uhr",
+      "timestamp": 1794135600.0,
+      "source": "Eurogamer.de News",
+      "summary": "The Expanse: Osiris Reborn scheint das Beste aus Mass Effect aufzugreifen und weiterzudenken. Eine besonders erfreuliche Nachricht: Die Entwickler arb..."
+    },
+    {
+      "title": "WoW Forever: Ein Fremder schickt euch Gold per Post – Solltet ihr es annehmen oder droht ein Bann?",
+      "link": "https://mein-mmo.de/wow-forever-gold-per-post-angst-vor-bann/",
+      "pubDate": "08.11.2026 um 11:00 Uhr",
+      "timestamp": 1794135600.0,
+      "source": "Mein-MMO",
+      "summary": "Nach den Bannstrafen in der Beta von WoW: Forever ist ein Teil der Community unsicher: Wie soll man mit Ingame-Zusendungen von Gold umgehen? Der Beitr..."
+    },
+    {
+      "title": "Dataminer entdeckt Master-Quest-Hinweise im Switch-2-Remake von Zelda: Ocarina of Time",
+      "link": "https://www.eurogamer.de/zelda-ocarina-of-time-master-quest",
+      "pubDate": "08.11.2026 um 10:30 Uhr",
+      "timestamp": 1794133800.0,
+      "source": "Eurogamer.de News",
+      "summary": "Das Remake von The Legend of Zelda: Ocarina of Time ist zwar gro&szlig;artig geworden, doch f&uuml;r alte Hasen der N64- oder 3DS-Fassung gibt es im G..."
+    },
+    {
+      "title": "Nvidia-Heist: Sechs Paletten für 11,4 Mio. Dollar sind weg",
+      "link": "https://www.computerbase.de/news/grafikkarten/nvidia-coup-diebe-erbeuten-hardware-fuer-11-4-millionen-dollar.100225/",
+      "pubDate": "08.11.2026 um 11:04 Uhr",
+      "timestamp": 1794132240.0,
+      "source": "ComputerBase",
+      "summary": "Eine Nvidia-Lieferung im Wert von 11,4 Millionen US-Dollar ist auf dem Weg nach Texas verschwunden. Die sechs Paletten wurden Ende August von einem La..."
+    },
+    {
+      "title": "Leak zu Assassin's Creed: Ubisoft plant offenbar neue Spiele im antiken Rom und Jerusalem",
+      "link": "https://www.eurogamer.de/assassins-creed-leak-rom-jerusalem",
+      "pubDate": "08.11.2026 um 10:00 Uhr",
+      "timestamp": 1794132000.0,
+      "source": "Eurogamer.de News",
+      "summary": "Berichten zufolge bastelt Ubisoft derzeit an zwei neuen Ablegern der Assassin's-Creed-Reihe. Einer davon soll uns ins antike Rom entf&uuml;hren. Mehr"
+    },
+    {
+      "title": "Neuer Hit auf Steam lässt fast 100.000 Spieler zeitgleich als Polizisten oder Verbrecher auf eine MMO-Sandbox los",
+      "link": "https://mein-mmo.de/rob-run-steam-early-access-start/",
+      "pubDate": "08.11.2026 um 10:00 Uhr",
+      "timestamp": 1794132000.0,
+      "source": "Mein-MMO",
+      "summary": "Am 4. November 2026 ist ROB RUN auf Steam in den Early Access gestartet. Der Start gelingt, trotz durchwachsener Wertungen. Der Beitrag Neuer Hit auf ..."
+    },
+    {
+      "title": "Nach Aus für BioWare: Normandy-Crew vereint sich am N7 Day zur Rettung von Mass Effect",
+      "link": "https://www.eurogamer.de/mass-effect-n7-day-rettung",
+      "pubDate": "08.11.2026 um 09:30 Uhr",
+      "timestamp": 1794130200.0,
+      "source": "Eurogamer.de News",
+      "summary": "Der diesj&auml;hrige N7 Day &ndash; an dem BioWare in den vergangenen Jahren das Mass-Effect-Franchise feierte &ndash; fiel nach der Schlie&szlig;ung ..."
+    },
+    {
+      "title": "Pokémon GO: Auf ins Abenteuer – Alle Inhalte des großen Events",
+      "link": "https://mein-mmo.de/pokemon-go-auf-ins-abenteuer-alle-inhalte/",
+      "pubDate": "08.11.2026 um 09:30 Uhr",
+      "timestamp": 1794130200.0,
+      "source": "Mein-MMO",
+      "summary": "In Pokémon GO startet das „Auf ins Abenteuer“-Event mit einigen Inhalten. MeinMMO zeigt euch, welche das sind. Der Beitrag Pokémon GO: Auf ins Abenteu..."
+    },
+    {
+      "title": "Kurz vor dem Verkaufsstart: Sony verschiebt Pulse-Elevate-Lautsprecher auf unbestimmte Zeit",
+      "link": "https://www.eurogamer.de/sony-pulse-elevate-release-verschoben",
+      "pubDate": "08.11.2026 um 09:00 Uhr",
+      "timestamp": 1794128400.0,
+      "source": "Eurogamer.de News",
+      "summary": "Sony hat die kabellosen Lautsprecher Pulse Elevate auf unbestimmte Zeit verschoben &ndash; und das weniger als eine Woche vor dem geplanten Verkaufsst..."
+    },
+    {
+      "title": "Kein Superheldenfilm bedeutet mir so viel wie Logan – und genau deshalb bricht Deadpool 3 immer noch mein Fan-Herz",
+      "link": "https://mein-mmo.de/bester-marvel-film-nicht-im-mcu/",
+      "pubDate": "08.11.2026 um 09:00 Uhr",
+      "timestamp": 1794128400.0,
+      "source": "Mein-MMO",
+      "summary": "Der wohl beste Marvel-Film aller Zeiten zeigte 2017 schon, wie man eine legendäre Figur ehrt und das MCU sollte sich ein Beispiel dran nehmen. Der Bei..."
+    },
+    {
+      "title": "Marvel-Legende Stan Lee machte Batman zum Wrestler, erschuf für DC eine völlig neue Justice League",
       "link": "https://mein-mmo.de/stan-lee-dc-neue-justice-league/",
-      "pubDate": "07.11.2026 um 17:30 Uhr",
-      "timestamp": 1794072600.0,
+      "pubDate": "08.11.2026 um 08:45 Uhr",
+      "timestamp": 1794127500.0,
       "source": "Mein-MMO",
       "summary": "Einmal ging Marvel-Legende Stan Lee zur Konkurrenz und dachte sich alternative Versionen bekannter Helden wie Batman oder Superman aus. Der Beitrag Ma..."
     },
     {
-      "title": "Apple Mac mini mit M5 Pro, 24 GB RAM und 512 GB SSD zum Tiefpreis im Angebot",
-      "link": "https://mein-mmo.de/apple-mac-mini-m5-pro-24-gb-ram-512-gb-ssd-tiefpreis-angebot/",
-      "pubDate": "07.11.2026 um 17:08 Uhr",
-      "timestamp": 1794071301.0,
+      "title": "WoW Forever Level-Guide: Alles Wichtige zum Weg auf Stufe 60",
+      "link": "https://mein-mmo.de/wow-forever-level-guide/",
+      "pubDate": "08.11.2026 um 08:17 Uhr",
+      "timestamp": 1794125863.0,
       "source": "Mein-MMO",
-      "summary": "Einen hervorragenden Mini-PC von Apple mit starker Ausstattung bekommt ihr gerade besonders günstig im Angebot. Der Beitrag Apple Mac mini mit M5 Pro,..."
+      "summary": "Die Level-Phase macht in WoW: Forever einen signifikanten Teil der Spielerfahrung aus. Im Guide erfahrt ihr alles Wichtige für den Weg auf Stufe 60. D..."
     },
     {
-      "title": "Keine 3 Tage nach Release erreichen 5 Spieler in WoW Forever die Maximalstufe, leveln mit einem alten „Trick“",
-      "link": "https://mein-mmo.de/wow-forever-jokerd-world-first-60/",
-      "pubDate": "07.11.2026 um 16:28 Uhr",
-      "timestamp": 1794068885.0,
-      "source": "Mein-MMO",
-      "summary": "JokerD hat mit seiner Gruppe als erstes Stufe 60 in WoW Forever erreicht, dabei haben sie kaum Quests erledigt. Der Beitrag Keine 3 Tage nach Release ..."
-    },
-    {
-      "title": "Diablo 2 feiert seinen Geburtstag mit dickem Event, macht den fiesesten Händler erträglicher",
-      "link": "https://mein-mmo.de/diablo-2-event-erbe-des-schreckens-gluecksspieler/",
-      "pubDate": "07.11.2026 um 15:58 Uhr",
-      "timestamp": 1794067113.0,
-      "source": "Mein-MMO",
-      "summary": "Zum 30. Jubiläum von Diablo startet ein dickes Event in Diablo 2: Resurrected. Welche Boni und Gefahren euch dort erwarten, erfahrt ihr hier. Der Beit..."
-    },
-    {
-      "title": "Nvidia-CEO Jensen Huang: US-Regierung vermutet Affäre mit chinesischer Spionin",
-      "link": "https://www.computerbase.de/news/wirtschaft/nvidia-ceo-jensen-huang-us-regierung-vermutet-affaere-mit-chinesischer-spionin.100223/",
-      "pubDate": "07.11.2026 um 16:36 Uhr",
-      "timestamp": 1794065760.0,
-      "source": "ComputerBase",
-      "summary": "Ein US-Geheimdienstmemo soll Jensen Huang laut FT eine romantische Beziehung zu Alice Huang, einer früheren Führungskraft des Nvidia-Kunden Megaspeed,..."
-    },
-    {
-      "title": "Horde oder Allianz in WoW Forever? Eure Wahl ist die einzig richtige!",
-      "link": "https://mein-mmo.de/wow-forever-horde-oder-allianz-umfrage-auswertung/",
-      "pubDate": "07.11.2026 um 13:38 Uhr",
-      "timestamp": 1794058686.0,
-      "source": "Mein-MMO",
-      "summary": "WoW. Forever ist gestartet und wir wollten von euch wissen: Horde oder Allianz? Wir verraten euch den Favoriten der Community! Der Beitrag Horde oder ..."
-    },
-    {
-      "title": "Ein MMORPG ist so erfolgreich, nimmt 38 Millionen inaktiven Charakteren ihre Namen",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-6-november-2026/",
-      "pubDate": "07.11.2026 um 13:37 Uhr",
-      "timestamp": 1794058642.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit dem Forever-Start, krassen Zahlen, Evercold und ArcheAge Chronicles. Der Beitrag Ein MMO..."
-    },
-    {
-      "title": "James Bond: Robert Pattinson und Nicholas Hoult wohl in enger Auswahl als neuer 007-Agent",
-      "link": "https://www.eurogamer.de/denis-villeneuve-james-bond-casting-robert-pattinson-nicholas-hoult",
-      "pubDate": "07.11.2026 um 13:32 Uhr",
-      "timestamp": 1794058360.0,
+      "title": "Wardogs holt zum Rundumschlag aus: Season 3 bringt neue Map, Wipe und 185.000 Banns",
+      "link": "https://www.eurogamer.de/wardogs-season-3-wipe-bannwelle",
+      "pubDate": "08.11.2026 um 08:09 Uhr",
+      "timestamp": 1794125340.0,
       "source": "Eurogamer.de News",
-      "summary": "Seit einiger Zeit ist eine neue James Bond-Verfilmung von Denis Villeneuve in Planung. Dabei steht nat&uuml;rlich zun&auml;chst die Frage im Mittelpun..."
+      "summary": "Die dritte Season von Wardogs startet am 12. November. Im Gep&auml;ck hat sie eine neue urbane Map, einen neuen Limited Mode sowie eine gewaltige Bann..."
     },
     {
-      "title": "8 Mitglieder der Justice League, die es bisher nichts ins Kino geschafft haben",
-      "link": "https://mein-mmo.de/8-mitglieder-der-justice-league-filmen-nicht-aufgetaucht/",
-      "pubDate": "07.11.2026 um 12:59 Uhr",
-      "timestamp": 1794056398.0,
+      "title": "Dying Light: 20 Euro extra für besseren 3D-Sound",
+      "link": "https://www.computerbase.de/news/gaming/dying-light-20-euro-extra-fuer-besseren-3d-sound.100224/",
+      "pubDate": "08.11.2026 um 09:01 Uhr",
+      "timestamp": 1794124860.0,
+      "source": "ComputerBase",
+      "summary": "In Dying Light 2: Stay Human (2022) und Dying Light: The Beast (2025) können Spieler mit einem neuen Kopfhörermodus die Richtung von Schritten, Schrei..."
+    },
+    {
+      "title": "Der Name klang lächerlich, doch sein Skill war göttlich: Warum ich eine SWTOR-Legende nie vergessen werde",
+      "link": "https://mein-mmo.de/swtor-die-legende-von-darth-hagen-reaper/",
+      "pubDate": "08.11.2026 um 08:00 Uhr",
+      "timestamp": 1794124800.0,
       "source": "Mein-MMO",
-      "summary": "MeinMMO stellt euch 8 Helden aus dem Universum von DC vor, die in den Filmen bisher nicht vorgekommen sind. Der Beitrag 8 Mitglieder der Justice Leagu..."
+      "summary": "MeinMMO-Dämon und Hobby-Sith Cortyn kann auch nach vielen Jahren nicht aufhören, an einen ganz besonderen SWTOR-Spieler zu denken. Der Beitrag Der Nam..."
     },
     {
-      "title": "Ein geheimes Pet in WoW Forever bekommt ihr ganz einfach, kostet nur 26 Kupfer und eure Würde",
-      "link": "https://mein-mmo.de/wow-forever-praeriehuhn-bekommen/",
-      "pubDate": "07.11.2026 um 12:40 Uhr",
-      "timestamp": 1794055249.0,
+      "title": "Spieler von WoW Forever bemerkt auf Stufe 60 krasse Neuerung, die uns viel Gold kosten könnte: „Das ist furchtbar“",
+      "link": "https://mein-mmo.de/wow-forever-quests-ab-60-gold/",
+      "pubDate": "08.11.2026 um 07:30 Uhr",
+      "timestamp": 1794123000.0,
       "source": "Mein-MMO",
-      "summary": "Das Präriehuhn in WoW Forever ist hinter einer geheimen Quest versteckt. So bekommt ihr das Haustier. Der Beitrag Ein geheimes Pet in WoW Forever beko..."
-    },
-    {
-      "title": "ARC Raiders: Ein dauerhafter PvE-Modus könnte laut Embark-CEO leicht implementiert werden",
-      "link": "https://www.eurogamer.de/arc-raiders-dauerhafter-pve-modus-moeglich",
-      "pubDate": "07.11.2026 um 12:30 Uhr",
-      "timestamp": 1794054640.0,
-      "source": "Eurogamer.de News",
-      "summary": "Obwohl ARC Raiders als PvPvE-Shooter startete, haben die Embark Studios zuletzt auch mit reinen PvE-Modi experimentiert. Grund daf&uuml;r sollen die s..."
-    },
-    {
-      "title": "The Legend of Zelda: Producer Hidemaro Fujibayashi möchte auf frische Ideen setzen",
-      "link": "https://www.eurogamer.de/the-legend-of-zelda-zukunft-producer-frische-ideen",
-      "pubDate": "07.11.2026 um 11:18 Uhr",
-      "timestamp": 1794050300.0,
-      "source": "Eurogamer.de News",
-      "summary": "Mit The Legend of Zelda: Ocarina of Time f&uuml;r die Switch 2 kehrt ein absoluter Klassiker zur&uuml;ck und damit auch eine Menge Nostalgie. Dabei is..."
-    },
-    {
-      "title": "Xbox überarbeitet PC-App für schnellere Ladezeiten – laut CEO Asha Sharma ist “noch viel zu tun”",
-      "link": "https://www.eurogamer.de/xbox-pc-app-60-prozen-schnellere-ladezeiten",
-      "pubDate": "07.11.2026 um 10:04 Uhr",
-      "timestamp": 1794045880.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Xbox-PC-App hat in den letzten Jahren nicht gerade mit Bestleistungen gegl&auml;nzt, doch Microsoft verspricht, dass sie nun deutlich schneller un..."
-    },
-    {
-      "title": "Community-Benchmark: Testet euer System in MisterHs OpenCL Benchmark",
-      "link": "https://www.computerbase.de/artikel/apps/mrh-opencl-benchmark-community-test.99902/",
-      "pubDate": "07.11.2026 um 11:00 Uhr",
-      "timestamp": 1794045600.0,
-      "source": "ComputerBase",
-      "summary": "Seit 2019 hegt und pflegt ComputerBase-Community-Mitglied MisterH einen eigenen CPU- und GPU-Benchmark: den MrH OpenCL Benchmark. Neben der kontinuier..."
-    },
-    {
-      "title": "EA-Klassiker: Zufälliger Archiv­fund machte Neuauf­lagen erst möglich",
-      "link": "https://www.computerbase.de/news/gaming/ea-klassiker-zufaelliger-archivfund-machte-neuauflagen-erst-moeglich.100205/",
-      "pubDate": "07.11.2026 um 10:45 Uhr",
-      "timestamp": 1794044700.0,
-      "source": "ComputerBase",
-      "summary": "Ein Zufallsfund in einem Lagerraum von Electronic Arts gab den Anstoß für sieben Neuauflagen klassischer Spiele, die nun auf Steam und GOG erhältlich ..."
-    },
-    {
-      "title": "Radeon RX 7900: Sicherheitsupdate legt Grafikkarten lahm",
-      "link": "https://www.computerbase.de/news/grafikkarten/radeon-rx-7900-sicherheitsupdate-legt-grafikkarten-lahm.100221/",
-      "pubDate": "07.11.2026 um 09:55 Uhr",
-      "timestamp": 1794041700.0,
-      "source": "ComputerBase",
-      "summary": "Ein Sicherheitsupdate für Radeon-Grafikkarten von ASRock kann offenbar dazu führen, dass der PC anschließend nicht mehr startet. Besitzer einer Radeon..."
-    },
-    {
-      "title": "Im Test vor 15 Jahren: Stronghold 3 scheiterte schon am Burgenbau (Update)",
-      "link": "https://www.computerbase.de/news/gaming/im-test-vor-15-jahren-stronghold-3-kam-sechs-monate-zu-frueh.100133/",
-      "pubDate": "07.11.2026 um 08:03 Uhr",
-      "timestamp": 1794034980.0,
-      "source": "ComputerBase",
-      "summary": "Vor 15 Jahren veröffentlichte ComputerBase den Test zu Stronghold 3. Das Strategiespiel behielt die Grundidee der beliebten Burgenbau-Reihe bei, schei..."
-    },
-    {
-      "title": "20 Jahre Gears of War: Wie Epics Deckungs-Shooter eine ganze Konsolengeneration prägte",
-      "link": "https://www.eurogamer.de/gears-of-war-20-jahre-jubilaeum",
-      "pubDate": "07.11.2026 um 07:00 Uhr",
-      "timestamp": 1794034800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Im November 2006 legte Entwickler Epic Games den Grundstein f&uuml;r ein erfolgreiches neues Franchise. Microsoft brauchte damals dringend ein weitere..."
+      "summary": "Den ersten 60ern in WoW: Forever ist eine Neuerung aufgefallen, die einem großen Teil der Community gar nicht gefällt. Der Beitrag Spieler von WoW For..."
     }
   ],
   "int": [
+    {
+      "title": "Matt Mercer's Best Critical Role Quote Is Still the Most Inspiring Line in D&D History",
+      "link": "https://www.polygon.com/matthew-mercer-dungeon-master-advice-dungeons-and-dragons/",
+      "pubDate": "08.11.2026 um 11:00 Uhr",
+      "timestamp": 1794135617.0,
+      "source": "Polygon.com",
+      "summary": "If you're looking to become a Dungeon Master, Matthew Mercer's advice is all you need."
+    },
+    {
+      "title": "68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch",
+      "link": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
+      "pubDate": "08.11.2026 um 10:30 Uhr",
+      "timestamp": 1794133817.0,
+      "source": "Polygon.com",
+      "summary": "\"Yeah, but Morag--\" Hang on, we're covering that"
+    },
+    {
+      "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
+      "link": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
+      "pubDate": "08.11.2026 um 10:00 Uhr",
+      "timestamp": 1794132017.0,
+      "source": "Polygon.com",
+      "summary": "If you bounced from one of Bethesda's biggest releases because the plot didn't spark interest, you missed out."
+    },
+    {
+      "title": "The Rings of Power showrunners break down forging the One Ring in season 3",
+      "link": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/forging-the-one-ring-in-the-rings-of-power-season-3-took-years-of-planning-to-create-the-most-complex-sequence-the-show-has-ever-filmed/",
+      "pubDate": "08.11.2026 um 10:00 Uhr",
+      "timestamp": 1794132000.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Exclusive: The Rings of Power co-showrunner Patrick McKay says Charlie Vickers is \"captivating\" in the One Ring sequence"
+    },
+    {
+      "title": "Anya Taylor-Joy's Billion-Dollar Sci-Fi Epic Officially Sets New Streaming Home on Netflix",
+      "link": "https://www.polygon.com/anya-taylor-joy-sci-fi-netflix-super-mario-galaxy-movie/",
+      "pubDate": "08.11.2026 um 09:30 Uhr",
+      "timestamp": 1794130217.0,
+      "source": "Polygon.com",
+      "summary": "Anya Taylor-Joy's epic space blockbuster arrives on Netflix in just a few weeks."
+    },
+    {
+      "title": "Sydney Sweeney’s Extremely R-Rated 131-Minute Thriller Is Officially Streaming on HBO",
+      "link": "https://www.polygon.com/sydney-sweeney-erotic-thriller-the-housemaid-hbo-max/",
+      "pubDate": "08.11.2026 um 09:09 Uhr",
+      "timestamp": 1794128957.0,
+      "source": "Polygon.com",
+      "summary": "Sydney Sweeney’s R-rated thriller The Housemaid is streaming on HBO, bringing 131 minutes of twisted secrets and suspense to your watchlist."
+    },
+    {
+      "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+      "link": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
+      "pubDate": "08.11.2026 um 06:37 Uhr",
+      "timestamp": 1794119824.0,
+      "source": "IGN All",
+      "summary": "Epic Games has revealed the drop rate for Fortnite's Pirate Token after backlash surrounding the infamous in-game pickup saw fans try to report the st..."
+    },
+    {
+      "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+      "link": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
+      "pubDate": "08.11.2026 um 05:00 Uhr",
+      "timestamp": 1794114017.0,
+      "source": "Polygon.com",
+      "summary": "Discover 10 perfectly designed Final Fantasy Magic: The Gathering cards that nail the crossover's flavor and mechanics."
+    },
     {
       "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
       "link": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
@@ -163,36 +227,12 @@
       "summary": "If you're looking for the best games like Dragon Age, these Dragon Age replacement fantasy RPGs have you covered."
     },
     {
-      "title": "How to Play Every GTA Game in 2026",
-      "link": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
-      "pubDate": "08.11.2026 um 02:54 Uhr",
-      "timestamp": 1794106453.0,
-      "source": "Polygon.com",
-      "summary": "GTA might be the most popular video game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every GTA game."
-    },
-    {
-      "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
-      "link": "https://www.polygon.com/top-bioware-games/",
-      "pubDate": "08.11.2026 um 02:43 Uhr",
-      "timestamp": 1794105813.0,
-      "source": "Polygon.com",
-      "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later"
-    },
-    {
       "title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
       "link": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things/",
       "pubDate": "08.11.2026 um 02:13 Uhr",
       "timestamp": 1794104007.0,
       "source": "PCGamer latest",
       "summary": "Sometimes it's you, sometimes it's the crab"
-    },
-    {
-      "title": "4 Years Later, Captain Pike's Most Inspiring Star Trek Quote Is Still the Best Sci-Fi Line of the Decade",
-      "link": "https://www.polygon.com/star-trek-captain-pike-most-inspiring-quote/",
-      "pubDate": "08.11.2026 um 02:00 Uhr",
-      "timestamp": 1794103217.0,
-      "source": "Polygon.com",
-      "summary": "Anson Mount's Captain Pike delivers a powerful Star Trek quote about hope, destiny, and why the future is still ours to shape."
     },
     {
       "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
@@ -217,22 +257,6 @@
       "timestamp": 1794096628.0,
       "source": "IGN All",
       "summary": "You can expect to see plenty of deals on LEGO sets during Black Friday 2026. I've covered LEGO deals for years, and here's what I expect to see this y..."
-    },
-    {
-      "title": "Cyberpunk 2077 Meets Papers, Please in Steam’s Latest Surprise Viral Hit",
-      "link": "https://www.polygon.com/probably-stolen-cyberpunk-shopkeeping-simulator-steam-hit/",
-      "pubDate": "08.11.2026 um 00:00 Uhr",
-      "timestamp": 1794096017.0,
-      "source": "Polygon.com",
-      "summary": "Probably Stolen is the latest indie game to explode in popularity on Steam, pulling in over 150,000 concurrent players, and it's showing no signs of s"
-    },
-    {
-      "title": "Fortune treasure hours schedule in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/",
-      "pubDate": "07.11.2026 um 23:40 Uhr",
-      "timestamp": 1794094859.0,
-      "source": "Polygon.com",
-      "summary": "Here's what time you can expect the next batch of Fortnite treasure hours, as well as what bonuses are coming with them."
     },
     {
       "title": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
@@ -265,30 +289,6 @@
       "timestamp": 1794088369.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "All Gold Skulltula locations in Ocarina of Time",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-gold-skulltula-token-locations-where-to-find/",
-      "pubDate": "07.11.2026 um 21:41 Uhr",
-      "timestamp": 1794087693.0,
-      "source": "Polygon.com",
-      "summary": "Gold Skulltulas are a collectible in Ocarina of Time, but they're also needed for a cursed family. Here's where to find every Gold Skulltula."
-    },
-    {
-      "title": "County of Fortune, now out in early access, is a medieval city builder that asks, why limit yourself to just one city?",
-      "link": "https://www.rockpapershotgun.com/county-of-fortune-now-out-in-early-access-is-a-medieval-city-builder-that-asks-why-limit-yourself-to-just-one-city",
-      "pubDate": "07.11.2026 um 21:30 Uhr",
-      "timestamp": 1794087050.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "I know what you want. The humble city builder isn't enough for you any more, is it? You need a cities builder, you can't just stop at one, but you don..."
-    },
-    {
-      "title": "AI Stuffy Says ‘I Can’t Help With Killing You’ Completely Unprompted",
-      "link": "https://kotaku.com/ai-stuffy-says-i-cant-help-with-killing-you-completely-unprompted-2000754819",
-      "pubDate": "07.11.2026 um 21:30 Uhr",
-      "timestamp": 1794087017.0,
-      "source": "Kotaku",
-      "summary": "Cross that one off the Christmas list"
     }
   ],
   "sim": [
