@@ -1,6 +1,38 @@
 {
   "de": [
     {
+      "title": "Nvidia-CEO: Jensen Huang räumt Untreue ein, Verwaltungsrat prüft Spionagevorwürfe",
+      "link": "https://www.computerbase.de/news/wirtschaft/nvidia-ceo-jensen-huang-raeumt-untreue-ein-verwaltungsrat-startet-untersuchung.100232/",
+      "pubDate": "08.11.2026 um 21:48 Uhr",
+      "timestamp": 1794170880.0,
+      "source": "ComputerBase",
+      "summary": "Nvidia reagiert auf die Vorwürfe gegen CEO Jensen Huang mit einer unabhängigen Untersuchung durch ein Sonderkomitee des Verwaltungsrats und externe An..."
+    },
+    {
+      "title": "20 Jahre GeForce 8800 GTX: Nvidia setzt seiner Legende ein Denkmal",
+      "link": "https://www.computerbase.de/news/grafikkarten/20-jahre-geforce-8800-gtx-zum-auspacken-braucht-es-heute-eine-rtx-4070.100227/",
+      "pubDate": "08.11.2026 um 20:18 Uhr",
+      "timestamp": 1794165480.0,
+      "source": "ComputerBase",
+      "summary": "Am 8. November 2006 erschien die GeForce 8800 GTX und setzte neue Maßstäbe für Gaming-Grafikkarten. Genau 20 Jahre später lässt Nvidia die damalige Hi..."
+    },
+    {
+      "title": "Besser als erwartet: Digital Foundry lobt die Switch-2-Umsetzung von Stellar Blade",
+      "link": "https://www.eurogamer.de/stellar-blade-switch-2-technik-check",
+      "pubDate": "08.11.2026 um 18:00 Uhr",
+      "timestamp": 1794160800.0,
+      "source": "Eurogamer.de News",
+      "summary": "Seit dieser Woche ist Shift Ups Stellar Blade auf der Nintendo Switch 2 erh&auml;ltlich. Gegen&uuml;ber den anderen Versionen m&uuml;sst ihr zwar mit ..."
+    },
+    {
+      "title": "Marvel-Legende Stan Lee machte Batman zum Wrestler, erschuf für DC eine neue Justice League",
+      "link": "https://mein-mmo.de/stan-lee-dc-neue-justice-league/",
+      "pubDate": "08.11.2026 um 17:30 Uhr",
+      "timestamp": 1794159000.0,
+      "source": "Mein-MMO",
+      "summary": "Einmal ging Marvel-Legende Stan Lee zur Konkurrenz und dachte sich alternative Versionen bekannter Helden wie Batman oder Superman aus. Der Beitrag Ma..."
+    },
+    {
       "title": "Erweiterte MP4-Metadaten: Mp3tag 3.37 erhält neue Mög­lichkeiten zur Panel-Ge­stal­tung",
       "link": "https://www.computerbase.de/news/apps/erweiterte-mp4-metadaten-mp3tag-3-37-erhaelt-neue-moeglichkeiten-zur-panel-gestaltung.100229/",
       "pubDate": "08.11.2026 um 18:03 Uhr",
@@ -97,14 +129,6 @@
       "summary": "Nach den Bannstrafen in der Beta von WoW: Forever ist ein Teil der Community unsicher: Wie soll man mit Ingame-Zusendungen von Gold umgehen? Der Beitr..."
     },
     {
-      "title": "Dataminer entdeckt Master-Quest-Hinweise im Switch-2-Remake von Zelda: Ocarina of Time",
-      "link": "https://www.eurogamer.de/zelda-ocarina-of-time-master-quest",
-      "pubDate": "08.11.2026 um 10:30 Uhr",
-      "timestamp": 1794133800.0,
-      "source": "Eurogamer.de News",
-      "summary": "Das Remake von The Legend of Zelda: Ocarina of Time ist zwar gro&szlig;artig geworden, doch f&uuml;r alte Hasen der N64- oder 3DS-Fassung gibt es im G..."
-    },
-    {
       "title": "Nvidia-Heist: Sechs Paletten für 11,4 Mio. Dollar sind weg",
       "link": "https://www.computerbase.de/news/grafikkarten/nvidia-coup-diebe-erbeuten-hardware-fuer-11-4-millionen-dollar.100225/",
       "pubDate": "08.11.2026 um 11:04 Uhr",
@@ -119,33 +143,89 @@
       "timestamp": 1794132000.0,
       "source": "Mein-MMO",
       "summary": "Am 4. November 2026 ist ROB RUN auf Steam in den Early Access gestartet. Der Start gelingt, trotz durchwachsener Wertungen. Der Beitrag Neuer Hit auf ..."
-    },
-    {
-      "title": "Pokémon GO: Auf ins Abenteuer – Alle Inhalte des großen Events",
-      "link": "https://mein-mmo.de/pokemon-go-auf-ins-abenteuer-alle-inhalte/",
-      "pubDate": "08.11.2026 um 09:30 Uhr",
-      "timestamp": 1794130200.0,
-      "source": "Mein-MMO",
-      "summary": "In Pokémon GO startet das „Auf ins Abenteuer“-Event mit einigen Inhalten. MeinMMO zeigt euch, welche das sind. Der Beitrag Pokémon GO: Auf ins Abenteu..."
-    },
-    {
-      "title": "8 Mitglieder der Justice League, die ihr aus den Filmen von DC nicht kennt",
-      "link": "https://mein-mmo.de/8-mitglieder-der-justice-league-filmen-nicht-aufgetaucht/",
-      "pubDate": "08.11.2026 um 09:20 Uhr",
-      "timestamp": 1794129600.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO stellt euch 8 Helden aus dem Universum von DC vor, die in den Filmen bisher nicht vorgekommen sind. Der Beitrag 8 Mitglieder der Justice Leagu..."
-    },
-    {
-      "title": "Kein Superheldenfilm bedeutet mir so viel wie Logan – und genau deshalb bricht Deadpool 3 immer noch mein Fan-Herz",
-      "link": "https://mein-mmo.de/bester-marvel-film-nicht-im-mcu/",
-      "pubDate": "08.11.2026 um 09:00 Uhr",
-      "timestamp": 1794128400.0,
-      "source": "Mein-MMO",
-      "summary": "Der wohl beste Marvel-Film aller Zeiten zeigte 2017 schon, wie man eine legendäre Figur ehrt und das MCU sollte sich ein Beispiel dran nehmen. Der Bei..."
     }
   ],
   "int": [
+    {
+      "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
+      "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+      "pubDate": "08.11.2026 um 21:38 Uhr",
+      "timestamp": 1794173911.0,
+      "source": "PCGamer latest",
+      "summary": "Good lord what is happening in there."
+    },
+    {
+      "title": "25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History",
+      "link": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
+      "pubDate": "08.11.2026 um 21:00 Uhr",
+      "timestamp": 1794171617.0,
+      "source": "Polygon.com",
+      "summary": "Buffy’s sacrifice for Dawn in the season 5 finale gave us one of the show’s best quotes and an ending that could have closed the series for good."
+    },
+    {
+      "title": "World Of Warcraft: Forever Player Already Hits Level Cap As Users Return To Azeroth In Record Numbers",
+      "link": "https://kotaku.com/world-of-warcraft-forever-player-already-hits-level-cap-as-users-return-to-azeroth-in-record-numbers-2000754888",
+      "pubDate": "08.11.2026 um 20:38 Uhr",
+      "timestamp": 1794170331.0,
+      "source": "Kotaku",
+      "summary": "A World of Warcraft Classic record holder returned to pull off the same trick twice, all the more impressive during one of the highest player surges t..."
+    },
+    {
+      "title": "Former PlayStation Boss Says Sony Doesn't Need a 'PS6 for $1,200,' It Needs a 'PS5 for $300'",
+      "link": "https://www.ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300",
+      "pubDate": "08.11.2026 um 20:11 Uhr",
+      "timestamp": 1794168715.0,
+      "source": "IGN All",
+      "summary": "Former PlayStation boss Shawn Layden said he thinks innovation at Sony shouldn't come \"from making a PS6 for $1,200\" but from making \"another PS5 for ..."
+    },
+    {
+      "title": "Melty New Puzzle Game From Shotgun King Creators Burns Tetris At Both Ends",
+      "link": "https://kotaku.com/melty-new-puzzle-game-from-shotgun-king-creators-burns-tetris-at-both-ends-2000754885",
+      "pubDate": "08.11.2026 um 19:41 Uhr",
+      "timestamp": 1794166881.0,
+      "source": "Kotaku",
+      "summary": "In the indie game Hot Wax, you'll descend into a deep, unlit dungeon, carefully igniting tetrominoes to survive"
+    },
+    {
+      "title": "Godzilla Minus Zero Stomps on Expectations With $63 Million Box Office Opening Weekend",
+      "link": "https://www.ign.com/articles/godzilla-minus-zero-stomps-on-expectations-with-63-million-box-office-opening-weekend",
+      "pubDate": "08.11.2026 um 18:47 Uhr",
+      "timestamp": 1794163623.0,
+      "source": "IGN All",
+      "summary": "Godzilla Minus Zero crushed expectations with a strong $63 million in its opening weekend at the global box office."
+    },
+    {
+      "title": "All vault locations in the Fortnite Chapter 7 mini season",
+      "link": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms/",
+      "pubDate": "08.11.2026 um 18:39 Uhr",
+      "timestamp": 1794163187.0,
+      "source": "Polygon.com",
+      "summary": "Vaults are full of valuable loot in Fortnite Chapter 7's mini season. Here's where to find them all and how to open them."
+    },
+    {
+      "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+      "link": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways/",
+      "pubDate": "08.11.2026 um 18:33 Uhr",
+      "timestamp": 1794162825.0,
+      "source": "PCGamer latest",
+      "summary": "I love being Cyrodiil's one-man deep state in charge of all major economic, social, criminal, and paramilitary organizations."
+    },
+    {
+      "title": "My apologies Deadlock, I wasn't familiar with your (musical) game",
+      "link": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
+      "pubDate": "08.11.2026 um 18:00 Uhr",
+      "timestamp": 1794160800.0,
+      "source": "PCGamer latest",
+      "summary": "Yeah, yeah, I'm the Hidden King."
+    },
+    {
+      "title": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
+      "link": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
+      "pubDate": "08.11.2026 um 18:00 Uhr",
+      "timestamp": 1794160800.0,
+      "source": "PCGamer latest",
+      "summary": "I impale myself with a sword to heal? I'm sold!"
+    },
     {
       "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
       "link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
@@ -209,86 +289,6 @@
       "timestamp": 1794156070.0,
       "source": "Eurogamer.net News",
       "summary": "The Phasmophobia community has raised more than $230,000 (around &pound;173,000) for the American Heart Association, more than doubling last year's to..."
-    },
-    {
-      "title": "Mass Effect 3 modders further expand the trilogy's final mission",
-      "link": "https://www.gamesradar.com/games/mass-effect/mass-effect-3-modders-further-expand-the-trilogys-final-mission-with-restored-cut-content-revamped-war-assets-and-extended-cutscenes/",
-      "pubDate": "08.11.2026 um 16:34 Uhr",
-      "timestamp": 1794155650.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Take Earth Back 2"
-    },
-    {
-      "title": "Speedrunners Already Breaking The Legend of Zelda: Ocarina of Time's Remake",
-      "link": "https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping/",
-      "pubDate": "08.11.2026 um 16:32 Uhr",
-      "timestamp": 1794155521.0,
-      "source": "Polygon.com",
-      "summary": "The addition of jumping to The Legend of Zelda: Ocarina of Time has enabled a new speedrunning trick"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Is Guaranteed a GOTY Nomination. It Will Never Win",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards/",
-      "pubDate": "08.11.2026 um 16:00 Uhr",
-      "timestamp": 1794153617.0,
-      "source": "Polygon.com",
-      "summary": "Nintendo's Switch 2 remake of The Legend of Zelda: OoT will do well at The Game Awards 2026, but it can't win"
-    },
-    {
-      "title": "Dominic Armato, voice of Guybrush Threepwood, has always loved LucasArts' adventure games, but there's one he still can't get into: 'I get 10 minutes in and I'm like, oh, this is tedious, man'",
-      "link": "https://www.pcgamer.com/gaming-industry/dominic-armato-voice-of-guybrush-threepwood-has-always-loved-lucasarts-adventure-games-but-theres-one-he-still-cant-get-into-i-get-10-minutes-in-and-im-like-oh-this-is-tedious-man/",
-      "pubDate": "08.11.2026 um 16:00 Uhr",
-      "timestamp": 1794153600.0,
-      "source": "PCGamer latest",
-      "summary": "The actor and food critic guides us through the games on his PC."
-    },
-    {
-      "title": "The Legend Of Zelda: Ocarina of Time For Switch 2 Could Bring Back A Classic Mode",
-      "link": "https://www.polygon.com/ocarina-of-time-master-quest-switch-2/",
-      "pubDate": "08.11.2026 um 15:38 Uhr",
-      "timestamp": 1794152312.0,
-      "source": "Polygon.com",
-      "summary": "Master Quest might come to The Legend of Zelda: Ocarina of Time's Nintendo Switch 2 remake as DLC"
-    },
-    {
-      "title": "Zelda: Ocarina of Time remake devs wanted to nod to the series' notoriously convoluted timeline",
-      "link": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-devs-wanted-to-add-nods-to-the-series-notoriously-convoluted-timeline-but-series-boss-eiji-aonuma-shut-them-down/",
-      "pubDate": "08.11.2026 um 15:17 Uhr",
-      "timestamp": 1794151051.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"'No, let's focus on this game.'\""
-    },
-    {
-      "title": "Inspired by Dark Messiah and Thief, this stealth game sees you sneak through a medieval megastructure prowled by undead guards",
-      "link": "https://www.pcgamer.com/games/sim/inspired-by-dark-messiah-and-thief-this-stealth-game-sees-you-sneak-through-a-medieval-megastructure-prowled-by-undead-guards/",
-      "pubDate": "08.11.2026 um 15:08 Uhr",
-      "timestamp": 1794150526.0,
-      "source": "PCGamer latest",
-      "summary": "The Citadel Project will be released next week."
-    },
-    {
-      "title": "Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak",
-      "link": "https://www.polygon.com/assassins-creed-hexe-delay-leak/",
-      "pubDate": "08.11.2026 um 15:07 Uhr",
-      "timestamp": 1794150460.0,
-      "source": "Polygon.com",
-      "summary": "Some new insider reporting has shed new light on the future of Assassin's Creed"
-    },
-    {
-      "title": "WoW: Forever is more than just a millennial retirement home",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-more-than-just-a-millennial-retirement-home/",
-      "pubDate": "08.11.2026 um 15:00 Uhr",
-      "timestamp": 1794150000.0,
-      "source": "PCGamer latest",
-      "summary": "Though bingo night IS poppin'."
-    },
-    {
-      "title": "Saving Mass Effect would take $200m+, says BioWare co-founder",
-      "link": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
-      "pubDate": "08.11.2026 um 14:31 Uhr",
-      "timestamp": 1794148260.0,
-      "source": "Eurogamer.net News",
-      "summary": "Anyone hoping to buy Mass Effect from EA and finish what BioWare started needs to get saving now, as it could cost over $200 million (&pound;150m). Re..."
     }
   ],
   "sim": [
