@@ -17,6 +17,14 @@
       "summary": "Am 8. November 2006 erschien die GeForce 8800 GTX und setzte neue Maßstäbe für Gaming-Grafikkarten. Genau 20 Jahre später lässt Nvidia die damalige Hi..."
     },
     {
+      "title": "Diablo 2 bringt Event zum Jubiläum, gibt euch starken Buff und Rabatt bei allen Händlern",
+      "link": "https://mein-mmo.de/diablo-2-event-erbe-des-schreckens-gluecksspieler/",
+      "pubDate": "08.11.2026 um 19:00 Uhr",
+      "timestamp": 1794164400.0,
+      "source": "Mein-MMO",
+      "summary": "Zum 30. Jubiläum von Diablo startet ein dickes Event in Diablo 2: Resurrected. Welche Boni und Gefahren euch dort erwarten, erfahrt ihr hier. Der Beit..."
+    },
+    {
       "title": "Besser als erwartet: Digital Foundry lobt die Switch-2-Umsetzung von Stellar Blade",
       "link": "https://www.eurogamer.de/stellar-blade-switch-2-technik-check",
       "pubDate": "08.11.2026 um 18:00 Uhr",
@@ -135,17 +143,73 @@
       "timestamp": 1794132240.0,
       "source": "ComputerBase",
       "summary": "Eine Nvidia-Lieferung im Wert von 11,4 Millionen US-Dollar ist auf dem Weg nach Texas verschwunden. Die sechs Paletten wurden Ende August von einem La..."
-    },
-    {
-      "title": "Neuer Hit auf Steam lässt fast 100.000 Spieler zeitgleich als Polizisten oder Verbrecher auf eine MMO-Sandbox los",
-      "link": "https://mein-mmo.de/rob-run-steam-early-access-start/",
-      "pubDate": "08.11.2026 um 10:00 Uhr",
-      "timestamp": 1794132000.0,
-      "source": "Mein-MMO",
-      "summary": "Am 4. November 2026 ist ROB RUN auf Steam in den Early Access gestartet. Der Start gelingt, trotz durchwachsener Wertungen. Der Beitrag Neuer Hit auf ..."
     }
   ],
   "int": [
+    {
+      "title": "Zelda: Ocarina of Time and WoW: Forever Are the Good Kind of Remakes",
+      "link": "https://www.polygon.com/patch-notes-remakes-zelda-ocarina-of-time-wow-forever/",
+      "pubDate": "09.11.2026 um 01:00 Uhr",
+      "timestamp": 1794186017.0,
+      "source": "Polygon.com",
+      "summary": "Nintendo and Blizzard's new versions of The Legend of Zelda: OoT and World of Warcraft are different from other remakes"
+    },
+    {
+      "title": "Warhammer Blood Bowl has been delayed into early 2027",
+      "link": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
+      "pubDate": "09.11.2026 um 00:45 Uhr",
+      "timestamp": 1794185139.0,
+      "source": "PCGamer latest",
+      "summary": "One more turn."
+    },
+    {
+      "title": "Sega’s Most Influential Platformer Deserves Its Big Remake Moment Next",
+      "link": "https://www.polygon.com/super-monkey-ball-retrospective-25-years-sega/",
+      "pubDate": "09.11.2026 um 00:00 Uhr",
+      "timestamp": 1794182417.0,
+      "source": "Polygon.com",
+      "summary": "Not every remake has to be for a huge game. Some quicker plays from yesteryear could also benefit, like one all-time great from Sega."
+    },
+    {
+      "title": "Return Of The Living Dead Cast Horrified By AI-Made Sequel They Were Originally Set To Star In",
+      "link": "https://kotaku.com/return-of-the-living-dead-cast-horrified-by-ai-made-sequel-they-were-originally-set-to-star-in-2000754899",
+      "pubDate": "08.11.2026 um 23:56 Uhr",
+      "timestamp": 1794182161.0,
+      "source": "Kotaku",
+      "summary": "You mean the movie lied???"
+    },
+    {
+      "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
+      "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
+      "pubDate": "08.11.2026 um 22:34 Uhr",
+      "timestamp": 1794177241.0,
+      "source": "IGN All",
+      "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy."
+    },
+    {
+      "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Honeypot Scandal",
+      "link": "https://kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894",
+      "pubDate": "08.11.2026 um 22:09 Uhr",
+      "timestamp": 1794175746.0,
+      "source": "Kotaku",
+      "summary": "The GPU titans say that Huang will not be stepping down and maintain that no secrets were compromised despite the growing spy plot"
+    },
+    {
+      "title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+      "link": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that/",
+      "pubDate": "08.11.2026 um 22:06 Uhr",
+      "timestamp": 1794175616.0,
+      "source": "PCGamer latest",
+      "summary": "CEO Mike Bilder doesn't see AI as having much to offer Jackbox."
+    },
+    {
+      "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
+      "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+      "pubDate": "08.11.2026 um 21:41 Uhr",
+      "timestamp": 1794174068.0,
+      "source": "IGN All",
+      "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrari Testaros..."
+    },
     {
       "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
       "link": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
@@ -155,12 +219,28 @@
       "summary": "Good lord what is happening in there."
     },
     {
+      "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+      "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
+      "pubDate": "08.11.2026 um 21:32 Uhr",
+      "timestamp": 1794173570.0,
+      "source": "IGN All",
+      "summary": "Jesse Eisenberg said he will \"sometimes experiment with AI\" – but it's just because he's \"testing it to make sure it's bad.\""
+    },
+    {
       "title": "25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History",
       "link": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote/",
       "pubDate": "08.11.2026 um 21:00 Uhr",
       "timestamp": 1794171617.0,
       "source": "Polygon.com",
       "summary": "Buffy’s sacrifice for Dawn in the season 5 finale gave us one of the show’s best quotes and an ending that could have closed the series for good."
+    },
+    {
+      "title": "The Best Deals Today: Sony Inzone H9 Gaming Headset, Criterion Collection Sale, Pikmin 4, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-november-8-2026",
+      "pubDate": "08.11.2026 um 20:55 Uhr",
+      "timestamp": 1794171331.0,
+      "source": "IGN All",
+      "summary": ""
     },
     {
       "title": "World Of Warcraft: Forever Player Already Hits Level Cap As Users Return To Azeroth In Record Numbers",
@@ -209,86 +289,6 @@
       "timestamp": 1794162825.0,
       "source": "PCGamer latest",
       "summary": "I love being Cyrodiil's one-man deep state in charge of all major economic, social, criminal, and paramilitary organizations."
-    },
-    {
-      "title": "My apologies Deadlock, I wasn't familiar with your (musical) game",
-      "link": "https://www.pcgamer.com/games/moba/my-apologies-deadlock-i-wasnt-familiar-with-your-musical-game/",
-      "pubDate": "08.11.2026 um 18:00 Uhr",
-      "timestamp": 1794160800.0,
-      "source": "PCGamer latest",
-      "summary": "Yeah, yeah, I'm the Hidden King."
-    },
-    {
-      "title": "Ichorous is the bloody platformer I've been waiting for ever since I finished Blasphemous 2",
-      "link": "https://www.pcgamer.com/games/roguelike/ichorous-is-the-bloody-platformer-ive-been-waiting-for-ever-since-i-finished-blasphemous-2/",
-      "pubDate": "08.11.2026 um 18:00 Uhr",
-      "timestamp": 1794160800.0,
-      "source": "PCGamer latest",
-      "summary": "I impale myself with a sword to heal? I'm sold!"
-    },
-    {
-      "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
-      "link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
-      "pubDate": "08.11.2026 um 17:39 Uhr",
-      "timestamp": 1794159550.0,
-      "source": "Eurogamer.net News",
-      "summary": "Ocarina of Time's notoriously tricky Master Quest mode could be making a comeback in the new remake. Read more"
-    },
-    {
-      "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
-      "pubDate": "08.11.2026 um 17:33 Uhr",
-      "timestamp": 1794159191.0,
-      "source": "Polygon.com",
-      "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season."
-    },
-    {
-      "title": "All sprites in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
-      "pubDate": "08.11.2026 um 17:26 Uhr",
-      "timestamp": 1794158786.0,
-      "source": "Polygon.com",
-      "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do."
-    },
-    {
-      "title": "Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records",
-      "link": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/",
-      "pubDate": "08.11.2026 um 17:15 Uhr",
-      "timestamp": 1794158102.0,
-      "source": "Polygon.com",
-      "summary": "Godzilla Minus Zero had a great first weekend in theaters"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
-      "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
-      "pubDate": "08.11.2026 um 17:04 Uhr",
-      "timestamp": 1794157496.0,
-      "source": "IGN All",
-      "summary": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake."
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence",
-      "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/",
-      "pubDate": "08.11.2026 um 17:00 Uhr",
-      "timestamp": 1794157219.0,
-      "source": "Polygon.com",
-      "summary": "The Legend of Zelda: Ocarina of Time makes a lot of modernizations to the original game, but there's one thing it doesn't add: parrying."
-    },
-    {
-      "title": "Speedrunners Are Already Breaking The Legend Of Zelda: Ocarina Of Time Remake In Absurd Ways",
-      "link": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
-      "pubDate": "08.11.2026 um 16:52 Uhr",
-      "timestamp": 1794156735.0,
-      "source": "Kotaku",
-      "summary": "In record time, the hunt for new speedrunning tech and sequence breaking is pushing Link to jump higher and look freakier"
-    },
-    {
-      "title": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
-      "link": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
-      "pubDate": "08.11.2026 um 16:41 Uhr",
-      "timestamp": 1794156070.0,
-      "source": "Eurogamer.net News",
-      "summary": "The Phasmophobia community has raised more than $230,000 (around &pound;173,000) for the American Heart Association, more than doubling last year's to..."
     }
   ],
   "sim": [
