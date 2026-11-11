@@ -1,151 +1,231 @@
 {
   "de": [
     {
-      "title": "Legendäre MMO-Entwickler starten dauerhaften Playtest ihres neuen SciFi-Shooters und verraten, wie sie „das härteste Extraction-Game aller Zeiten“ machten",
+      "title": "PS Plus Extra im November 2026: Sony bringt Death Stranding 2 und neun weitere Spiele in den Katalog",
+      "link": "https://www.playcentral.de/ps-plus-extra-premium-november-2026-spiele/",
+      "pubDate": "11.11.2026 um 08:55 Uhr",
+      "timestamp": 1794387346.0,
+      "source": "PlayCentral",
+      "summary": "Sony hat die Neuzugänge für PlayStation Plus Extra und Premium im November 2026 bekannt gegeben. Besonders spannend dürfte die Aufnahme von Death Stra..."
+    },
+    {
+      "title": "Grand Theft Auto 6: So klappt der Preload auf Xbox Series X/S auch ohne Vorbestellung",
+      "link": "https://www.eurogamer.de/gta-6-preload-xbox-download",
+      "pubDate": "11.11.2026 um 08:54 Uhr",
+      "timestamp": 1794387290.0,
+      "source": "Eurogamer.de News",
+      "summary": "Gestern hat auf PlayStation 5 und Xbox Series X/S offiziell der Preload von Grand Theft Auto 6 begonnen. Mehr"
+    },
+    {
+      "title": "Entwickler von EVE Online starten dauerhaften Playtest ihres neuen MMO-Shooters und verraten, wie sie „das härteste Extraction-Game aller Zeiten“ machten",
       "link": "https://mein-mmo.de/eve-vanguard-dauerhafter-playtest/",
-      "pubDate": "10.11.2026 um 19:00 Uhr",
-      "timestamp": 1794337200.0,
+      "pubDate": "11.11.2026 um 08:54 Uhr",
+      "timestamp": 1794387279.0,
       "source": "Mein-MMO",
       "summary": "Das Entwickler-Studio hinter EVE Online arbeitet an einem MMO-Shooter, der zwischenzeitlich eine harte Herausforderung für neue Spieler darstellte. De..."
     },
     {
-      "title": "GTA 6 auf der Xbox One? Das geht via Cloud-Streaming direkt zum Launch",
-      "link": "https://www.eurogamer.de/gta-6-xbox-one-cloud-streaming",
-      "pubDate": "10.11.2026 um 18:57 Uhr",
-      "timestamp": 1794337050.0,
+      "title": "Marathon Symbiosis am 8. Dezember 2026 – permanenter PvE-Modus kommt",
+      "link": "https://www.playcentral.de/marathon-symbiosis-update-pve-modus/",
+      "pubDate": "11.11.2026 um 08:48 Uhr",
+      "timestamp": 1794386902.0,
+      "source": "PlayCentral",
+      "summary": "Bungie stellt die Weichen für den nächsten großen Umbau von Marathon. Das Symbiosis-Update erscheint offiziell am 8. Dezember 2026 und erweitert den E..."
+    },
+    {
+      "title": "Aion 2: Server down – Alles zur Serverwartung und den Patch Notes am 11. November 2026 im Live-Ticker",
+      "link": "https://mein-mmo.de/aion-2-server-down-11-11-2026/",
+      "pubDate": "11.11.2026 um 08:48 Uhr",
+      "timestamp": 1794386897.0,
+      "source": "Mein-MMO",
+      "summary": "Die Server von Aion 2 sind für ein Update am 11. November 2026 offline. MeinMMO ist live dabei und berichtet, wann ihr wieder spielen könnt. Der Beitr..."
+    },
+    {
+      "title": "Silksong-Handbuch kündigt mehrere kostenlose Content-Pakete nach Release an",
+      "link": "https://www.playcentral.de/hollow-knight-silksong-handbuch-mehrere-content-pakete/",
+      "pubDate": "11.11.2026 um 08:47 Uhr",
+      "timestamp": 1794386854.0,
+      "source": "PlayCentral",
+      "summary": "Hollow Knight: Silksong soll nach dem Release noch deutlich weiterwachsen. Das Handbuch der neuen physischen Standard Edition enthält einen eigenen Ab..."
+    },
+    {
+      "title": "Die Post-Credit-Szenen von VisionQuest erklärt: Es lohnt sich dranzubleiben",
+      "link": "https://mein-mmo.de/visionquest-post-credit-szene-marvel/",
+      "pubDate": "11.11.2026 um 08:38 Uhr",
+      "timestamp": 1794386304.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO erklärt euch im Spoiler-Artikel, was ihr zu Post-Credit-Szenen in der letzten Folge von VisionQuest wissen müsst. Der Beitrag Die Post-Credit-..."
+    },
+    {
+      "title": "Take-Two-Chef zu GTA 6 – Nach dem Abspann kann man immer weitermachen",
+      "link": "https://www.playcentral.de/gta-6-nach-story-kein-ende-zelnick/",
+      "pubDate": "11.11.2026 um 08:35 Uhr",
+      "timestamp": 1794386129.0,
+      "source": "PlayCentral",
+      "summary": "Was passiert in GTA 6, wenn die Kampagne abgeschlossen ist? Diese Frage musste Take-Two-Chef Strauss Zelnick überraschend kurz vor dem Release beantwo..."
+    },
+    {
+      "title": "Einer der besten Anime aus 2026 gibt mir genau das, was mir bei Harry Potter seit dem 2. Teil fehlt",
+      "link": "https://mein-mmo.de/einer-der-besten-anime-aus-2026-gibt-mir-genau-das-was-mir-bei-harry-potter-fehlt/",
+      "pubDate": "11.11.2026 um 08:34 Uhr",
+      "timestamp": 1794386059.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteur Nikolas Hernes hat einen Fantasy-Anime aus 2026 nachgeholt und war schon nach der 1. Folge begeistert. Der Beitrag Einer der besten ..."
+    },
+    {
+      "title": "64 Neuerungen und Änderungen: Neue Rendering-Engine sorgt in Paint.NET 5.2 für mehr Leis­tung",
+      "link": "https://www.computerbase.de/news/apps/64-neuerungen-und-aenderungen-neue-rendering-engine-sorgt-in-paint-net-5-2-fuer-mehr-leistung.100281/",
+      "pubDate": "11.11.2026 um 09:30 Uhr",
+      "timestamp": 1794385800.0,
+      "source": "ComputerBase",
+      "summary": "Paint.NET 5.2 stellt die Bildverarbeitung auf eine neue Rendering-Engine um und beschleunigt vor allem die Arbeit mit großen Bildern. Hinzu kommen ein..."
+    },
+    {
+      "title": "Sid Meier's Civilization 7: Update 1.5.1 bringt Diplomatie-Optionen und neue Einheitenliste",
+      "link": "https://www.eurogamer.de/civilization-7-update-einheiten-karten",
+      "pubDate": "11.11.2026 um 08:29 Uhr",
+      "timestamp": 1794385750.0,
       "source": "Eurogamer.de News",
-      "summary": "Zum Start von Grand Theft Auto 6 wird der Titel nicht nur auf PlayStation 5 sowie Xbox Series verf&uuml;gbar sein. Nein, den Titel k&ouml;nnt ihr auch..."
+      "summary": "Das n&auml;chste Update f&uuml;r Sid Meier's Civilization 7 steht ab sofort auf allen Plattformen zum Download bereit. Mehr"
     },
     {
-      "title": "Fritz!Box 5690 Pro: Router mit halbiertem Speicher bei gleicher Artikelnummer",
-      "link": "https://www.computerbase.de/news/internet/fritz-box-5690-pro-router-mit-halbiertem-speicher-bei-gleicher-artikelnummer.100274/",
-      "pubDate": "10.11.2026 um 19:45 Uhr",
-      "timestamp": 1794336300.0,
-      "source": "ComputerBase",
-      "summary": "Wer eine Fritz!Box 5690 Pro kauft, erhält offenbar nicht immer dieselbe Hardware. Während ältere Geräte mit 2 GB RAM und 4 GB Flash ausgestattet sind,..."
+      "title": "GTA 6: Physische Boxen gehen raus – Alles zu Lieferungen und Community-Reaktionen im Live-Ticker",
+      "link": "https://mein-mmo.de/gta-6-live-ticker-physische-edition-lieferungen/",
+      "pubDate": "11.11.2026 um 08:14 Uhr",
+      "timestamp": 1794384860.0,
+      "source": "Mein-MMO",
+      "summary": "Heute erhalten erste Fans bereits ihre physische Version von GTA 6. Alle Infos dazu, Reaktionen und gemeinsames Warten gibt es auf MeinMMO. Der Beitra..."
     },
     {
-      "title": "GTA 6 wird zum meist vorbestellten Spiel in der Geschichte des PlayStation Store",
-      "link": "https://www.eurogamer.de/gta-6-playstation-store-vorbestellungen-rekord",
-      "pubDate": "10.11.2026 um 18:20 Uhr",
-      "timestamp": 1794334820.0,
+      "title": "Wer gehört ins S-Tier? Bestimmt das ultimative Ranking für WoW Forever in unserer Community-Umfrage!",
+      "link": "https://mein-mmo.de/wow-forever-community-tier-list/",
+      "pubDate": "11.11.2026 um 08:00 Uhr",
+      "timestamp": 1794384000.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO möchte von euch wissen, wie ihr die Klassen in einer Tier-List anordnen würdet. Helft mit dieser Umfrage mit.  Der Beitrag Wer gehört ins S-Ti..."
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time bricht Switch-2-Rekord mit 5,2 Millionen Verkäufen",
+      "link": "https://www.eurogamer.de/zelda-ocarina-of-time-verkaufsrekord",
+      "pubDate": "11.11.2026 um 07:52 Uhr",
+      "timestamp": 1794383540.0,
       "source": "Eurogamer.de News",
-      "summary": "Sony hat soeben verk&uuml;ndet: Grand Theft Auto 6 ist \"das meistvorbestellte Spiel in der Geschichte des PlayStation Store\". Wohlgemerkt: Es ist nich..."
+      "summary": "Das Remake von The Legend of Zelda: Ocarina of Time bricht zum Verkaufsstart s&auml;mtliche Rekorde: Binnen k&uuml;rzester Zeit gingen weltweit mehr a..."
     },
     {
-      "title": "PS Plus: Das ist die neue Spielewelle für November",
-      "link": "https://www.eurogamer.de/ps-plus-spiele-november-2026-pc-app",
-      "pubDate": "10.11.2026 um 18:08 Uhr",
-      "timestamp": 1794334080.0,
-      "source": "Eurogamer.de News",
-      "summary": "Sony hat die zweite Welle an Spielen enth&uuml;llt, die diesen Monat f&uuml;r PlayStation Plus Premium und Extra erscheinen. Darunter finden sich ein ..."
+      "title": "Falls ihr euch extra eine PS5 Pro für GTA 6 gekauft habt, haben wir jetzt eine schlechte Nachricht für euch",
+      "link": "https://mein-mmo.de/ps5-pro-gta-6-gekauft-nachricht-performance/",
+      "pubDate": "11.11.2026 um 07:46 Uhr",
+      "timestamp": 1794383181.0,
+      "source": "Mein-MMO",
+      "summary": "Rockstar Games hat weitere Details rund um die PS5 und PS5 Pro verraten. Die Pro-Version bietet wohl keine bessere Performance. Der Beitrag Falls ihr ..."
     },
     {
-      "title": "NZXT: Gehäusenachschub mit H5 und H7, Platinum-Netzteile und AiOs",
-      "link": "https://www.computerbase.de/news/gehaeuse/nzxt-h-serie-erweitert-um-h7-h5-platinum-netzteile-und-neue-aios.100254/",
-      "pubDate": "10.11.2026 um 19:00 Uhr",
-      "timestamp": 1794333600.0,
-      "source": "ComputerBase",
-      "summary": "NZXT baut seine H-Gehäuseserie weiter aus und präsentiert mit dem neuen H7 und H5 sowie deren RGB-Ableger zwei Show-Gehäuse mit gebogenem Glas. Weiter..."
-    },
-    {
-      "title": "Nintendo: Warum einzigartige Spielerlebnisse weiterhin absolute Priorität haben",
-      "link": "https://www.eurogamer.de/nintendo-strategie-einzigartige-spiele-prioritaet",
-      "pubDate": "10.11.2026 um 17:59 Uhr",
-      "timestamp": 1794333580.0,
-      "source": "Eurogamer.de News",
-      "summary": "K&uuml;nstliche Intelligenz ver&auml;ndert zunehmend die digitale Unterhaltungsbranche. Nintendo m&ouml;chte sich aber weiterhin auf einzigartige und ..."
-    },
-    {
-      "title": "Europa soll bald noch härter gegen Lootboxen vorgehen",
-      "link": "https://www.eurogamer.de/digital-fairness-act-lootboxen-eu",
-      "pubDate": "10.11.2026 um 17:40 Uhr",
-      "timestamp": 1794332420.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ein mutma&szlig;licher Entwurf des potenziell wegweisenden Digital Fairness Acts ist vor seiner geplanten Ver&ouml;ffentlichung am morgigen 11. Novemb..."
-    },
-    {
-      "title": "AMD Verano: 192 N2P-Kerne mit 500 Watt und zwei Dummy-Chips im Sockel SB1",
-      "link": "https://www.computerbase.de/news/prozessoren/amd-verano-192-n2p-kerne-mit-500-watt-und-zwei-dummy-chips-im-sockel-sb1.100266/",
-      "pubDate": "10.11.2026 um 18:00 Uhr",
-      "timestamp": 1794330000.0,
-      "source": "ComputerBase",
-      "summary": "AMD hat weitere Details zum sehr interessanten Zen-6-Prozessor Verano bekanntgegeben, der wohl als erste Epyc-CPU TSMC N2P und neue IO-Dies nutzt. Ein..."
-    },
-    {
-      "title": "Venice-X mit Zen 6 + 3D V-Cache: AMD schiebt „X3D“ auch bei Epyc für mehr Takt drunter",
-      "link": "https://www.computerbase.de/news/prozessoren/venice-x-mit-zen-6-plus-3d-v-cache-amd-schiebt-x3d-auch-bei-epyc-fuer-mehr-takt-drunter.100222/",
-      "pubDate": "10.11.2026 um 18:00 Uhr",
-      "timestamp": 1794330000.0,
-      "source": "ComputerBase",
-      "summary": "AMD hat eine Vorschau auf Venice-X gegeben, die Zen-6-Plattform mit 3D V-Cache („X3D“) für Epyc 9006 „Venice“. Bei Epyc 9005 „Turin“ gab es sie nicht...."
-    },
-    {
-      "title": "Epyc mit Zen 6: AMDs Zen-6c-Server-CCD hat sogar 33 statt 32 Kerne",
-      "link": "https://www.computerbase.de/news/prozessoren/epyc-mit-zen-6-amds-zen-6c-server-ccd-hat-sogar-33-statt-32-kerne.100216/",
-      "pubDate": "10.11.2026 um 18:00 Uhr",
-      "timestamp": 1794330000.0,
-      "source": "ComputerBase",
-      "summary": "AMD Epyc 9006 erscheint mit Zen 6 und Zen 6c. Beide Serien setzen dabei maximal acht Core Complex Dies (CCD) auf einem Package ein. Statt vormals 8 bi..."
-    },
-    {
-      "title": "AMD Zen 6 im Detail: Mit +27 Prozent IPC zum schnellsten AMD-Prozessor",
-      "link": "https://www.computerbase.de/artikel/prozessoren/amd-zen-6-details.100131/",
-      "pubDate": "10.11.2026 um 18:00 Uhr",
-      "timestamp": 1794330000.0,
-      "source": "ComputerBase",
-      "summary": "AMD hat endlich viele technische Details zu den ersten Zen-6-CPUs verraten und auch eine Angabe zum IPC-Zuwachs gemacht: +27 Prozent. Zusammen mit in ..."
-    },
-    {
-      "title": "Ein Horrorfilm auf HBO Max hat mich nächtelang wachgehalten, weil er einen realen historischen Hintergrund hat",
+      "title": "Ein Horrorfilm mit 91 % positiven Reviews wird euch zuverlässig verstören, weil er auf wahren Ereignissen basiert",
       "link": "https://mein-mmo.de/hbo-max-horror-des-teufels-bad/",
-      "pubDate": "10.11.2026 um 17:00 Uhr",
-      "timestamp": 1794330000.0,
+      "pubDate": "11.11.2026 um 07:45 Uhr",
+      "timestamp": 1794383100.0,
       "source": "Mein-MMO",
       "summary": "Ein Horror-Geheimtipp, der seit wenigen Tagen auf HBO Max zu sehen ist, rollt eine Tragödie neu auf und wird euch zuverlässig verstören. Der Beitrag E..."
     },
     {
-      "title": "Ehemaliger Nintendo-Präsident Bowser erklärt, wie Nintendo Spielspaß an der Mimik der Tester misst",
-      "link": "https://www.eurogamer.de/nintendo-spieltests-gesicht-doug-bowser",
-      "pubDate": "10.11.2026 um 16:12 Uhr",
-      "timestamp": 1794327170.0,
+      "title": "Sony stellt Fairgames ein: Aus für den Live-Service-Shooter der Haven Studios",
+      "link": "https://www.eurogamer.de/sony-fairgames-shooter-eingestellt",
+      "pubDate": "11.11.2026 um 07:34 Uhr",
+      "timestamp": 1794382460.0,
       "source": "Eurogamer.de News",
-      "summary": "Nintendo legt bei der Entwicklung seiner Spiele gro&szlig;en Wert auf den Spielspa&szlig;. Doch wie &uuml;berpr&uuml;ft das Unternehmen, ob ein Spiel ..."
+      "summary": "Sony begr&auml;bt ein weiteres Live-Service-Game und stellt den Shooter Fairgames ein. Mehr"
     },
     {
-      "title": "Rockstar Games: GTA 6 läuft mit 30 FPS, PSSR und RT-Schatten nur auf PS5 Pro",
-      "link": "https://www.computerbase.de/news/gaming/rockstar-games-gta-6-laeuft-mit-30-fps-pssr-und-rt-schatten-nur-auf-ps5-pro.100276/",
-      "pubDate": "10.11.2026 um 17:06 Uhr",
-      "timestamp": 1794326760.0,
+      "title": "iPad Air: Neue OLED-Modelle sollen Panel des iPad mini bekommen",
+      "link": "https://www.computerbase.de/news/tablets/ipad-air-mit-oled-samsung-soll-panels-fuer-den-start-im-fruehjahr-liefern.100279/",
+      "pubDate": "11.11.2026 um 08:30 Uhr",
+      "timestamp": 1794382200.0,
       "source": "ComputerBase",
-      "summary": "Der Preload von GTA 6 für PlayStation 5 und PlayStation 5 Pro sowie Xbox Series X und Xbox Series S hat um Mitternacht begonnen. Jetzt hat sich Rockst..."
-    },
-    {
-      "title": "800.000 weg, 800.000 neue: KI verdrängt Jobs, schafft aber genau so viele neue",
-      "link": "https://www.computerbase.de/news/apps/800-000-weg-800-000-neue-ki-verdraengt-jobs-schafft-aber-genau-so-viele-neue.100273/",
-      "pubDate": "10.11.2026 um 16:40 Uhr",
-      "timestamp": 1794325200.0,
-      "source": "ComputerBase",
-      "summary": "Künstliche Intelligenz könnte in Deutschland innerhalb der nächsten 15 Jahre bis zu 800.000 Arbeitsplätze ersetzen. BA-Chefin Andrea Nahles erwartet a..."
-    },
-    {
-      "title": "The Last of Us: Staffel 3 könnte sich verzögern – Dreharbeiten scheinbar verlängert",
-      "link": "https://www.playcentral.de/the-last-of-us-staffel-3-dreharbeiten-verlangert/",
-      "pubDate": "10.11.2026 um 15:07 Uhr",
-      "timestamp": 1794323220.0,
-      "source": "PlayCentral",
-      "summary": "Die HBO-Erfolgsserie The Last of Us steuert auf ihr nächstes großes Kapitel zu. Nach dem dramatischen Finale der zweiten Season soll die Fortsetzung 2..."
-    },
-    {
-      "title": "LoL: Faker kassiert Niederlage bei der Weltmeisterschaft, gibt einer anderen Region Hoffnung auf den Titel",
-      "link": "https://mein-mmo.de/lol-t1-verliert-worlds-2026-vor-dem-finale/",
-      "pubDate": "10.11.2026 um 15:06 Uhr",
-      "timestamp": 1794323192.0,
-      "source": "Mein-MMO",
-      "summary": "Nach der jahrelangen Siegesserie bei den Worlds verliert T1 nun vor dem Finale. Sorgt bei chinesischen Castern für tränenreiche Freude. Der Beitrag Lo..."
+      "summary": "Apple soll das iPad Air mit OLED ausstatten. Die Panels dafür kommen offenbar hauptsächlich von Samsung und sollen technisch dem des neuen iPad mini ä..."
     }
   ],
   "int": [
+    {
+      "title": "The Lord of the Rings: The Rings of Power Season 3, Episodes 1-4 Review and Recap",
+      "link": "https://www.ign.com/articles/rings-of-power-season-3-episodes-1-4-review-recap",
+      "pubDate": "11.11.2026 um 08:01 Uhr",
+      "timestamp": 1794384060.0,
+      "source": "IGN All",
+      "summary": "The Rings of Power Season 3 Episodes 1-4 prove a welcome return to Middle-earth, allowing the series to get back on track after two seasons of wanderi..."
+    },
+    {
+      "title": "Netflix's New \"Carrie Meets Mean Girls\" Thriller Is a Near-Perfect 8-Episode Binge",
+      "link": "https://www.polygon.com/the-body-review-netflix/",
+      "pubDate": "11.11.2026 um 08:00 Uhr",
+      "timestamp": 1794384017.0,
+      "source": "Polygon.com",
+      "summary": "Netflix’s The Body mixes mean girls, mass hysteria, and a dash of the devil into a campy, gay early-aughts teen show that’s above all a good time."
+    },
+    {
+      "title": "Disney's Legendary 218-Episode Sci-Fi Series Is the Perfect Anti-'Lanterns' Binge",
+      "link": "https://www.polygon.com/lanterns-x-files-binge/",
+      "pubDate": "11.11.2026 um 06:49 Uhr",
+      "timestamp": 1794379757.0,
+      "source": "Polygon.com",
+      "summary": "The DC Universe might be doomed, but X-Files is forever"
+    },
+    {
+      "title": "5 Funniest Quotes from 'Calvin and Hobbes’ Babysitter Rosalyn",
+      "link": "https://www.polygon.com/calvin-and-hobbes-5-best-rosalyn-babysitter-quotes/",
+      "pubDate": "11.11.2026 um 05:00 Uhr",
+      "timestamp": 1794373217.0,
+      "source": "Polygon.com",
+      "summary": "Rosalyn the babysitter used to hurl all kinds of insults at Calvin. These are the best of them."
+    },
+    {
+      "title": "5 Years Later, 'VisionQuest' Officially Fixes 'WandaVision's Disappointing Ending",
+      "link": "https://www.polygon.com/visionquest-fixes-wandavision-ending/",
+      "pubDate": "11.11.2026 um 03:30 Uhr",
+      "timestamp": 1794367817.0,
+      "source": "Polygon.com",
+      "summary": "The finale of VisionQuest featured a sitcom-inspired sequence that would have saved WandaVision"
+    },
+    {
+      "title": "VisionQuest Post-Credits Scene Just Confirmed A Major Marvel Character Is Coming Back in Upcoming Avengers Films",
+      "link": "https://www.ign.com/articles/visionquest-post-credits-scene-just-confirmed-a-major-marvel-character-is-coming-back-in-upcoming-avengers-films",
+      "pubDate": "11.11.2026 um 03:12 Uhr",
+      "timestamp": 1794366744.0,
+      "source": "IGN All",
+      "summary": "The finale of VisionQuest confirmed that one of the most beloved characters from the MCU will be returning in the upcoming Avengers films, seemingly u..."
+    },
+    {
+      "title": "VisionQuest showrunner and star Paul Bettany \"have a lot of ideas\" for a potential season 2",
+      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-showrunner-and-star-paul-bettany-have-a-lot-of-ideas-for-a-potential-season-2/",
+      "pubDate": "11.11.2026 um 03:00 Uhr",
+      "timestamp": 1794366000.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Exclusive: The VisionQuest team are keen to return for more"
+    },
+    {
+      "title": "Marvel's VisionQuest Series Finale Review: 'Forever'",
+      "link": "https://www.ign.com/articles/marvels-visionquest-series-finale-review-forever",
+      "pubDate": "11.11.2026 um 02:00 Uhr",
+      "timestamp": 1794362400.0,
+      "source": "IGN All",
+      "summary": "The last-minute addition of a new villain derails the finale of VisionQuest somewhat, but the series still succeeds where Vision and Ultron are concer..."
+    },
+    {
+      "title": "Steam's age verification in Australia now takes your account's age into consideration",
+      "link": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration/",
+      "pubDate": "11.11.2026 um 01:34 Uhr",
+      "timestamp": 1794360871.0,
+      "source": "PCGamer latest",
+      "summary": "If your Steam account is at least nine years old, you should be good. Maybe."
+    },
+    {
+      "title": "Fortis Games Closes With Over 400 Jobs Impacted",
+      "link": "https://www.ign.com/articles/fortis-games-closes-with-over-400-jobs-impacted",
+      "pubDate": "11.11.2026 um 01:09 Uhr",
+      "timestamp": 1794359379.0,
+      "source": "IGN All",
+      "summary": "Fortis Games, a studio behind mobile titles like Twilight Towers and Bloom & Breakfast, has closed its doors, impacting around 440 jobs."
+    },
     {
       "title": "How To Get The Biggoron Sword In The Legend Of Zelda: Ocarina Of Time Remake",
       "link": "https://kotaku.com/how-to-get-the-biggoron-sword-in-the-legend-of-zelda-ocarina-of-time-remake-2000755602",
@@ -153,6 +233,14 @@
       "timestamp": 1794358823.0,
       "source": "Kotaku",
       "summary": "One small favor"
+    },
+    {
+      "title": "The DCU Regime Change Threatens to Turn Man of Tomorrow Into 2027’s Answer to The Flash",
+      "link": "https://www.ign.com/articles/dcu-man-of-tomorrow-leadership-flash-comparison",
+      "pubDate": "11.11.2026 um 00:55 Uhr",
+      "timestamp": 1794358502.0,
+      "source": "IGN All",
+      "summary": "It’s been four years since James Gunn and Peter Safran were announced as the co-bosses of DC Studios, and just a day since their ouster was revealed, ..."
     },
     {
       "title": "Zelda: Ocarina of Time remake removed Mario and Skyward Sword references to not \"interrupt\" players",
@@ -169,6 +257,14 @@
       "timestamp": 1794357007.0,
       "source": "Kotaku",
       "summary": "I don't have it in me to keep caring"
+    },
+    {
+      "title": "Lanterns Season 2 in Doubt, Says DC Studios Insider",
+      "link": "https://www.ign.com/articles/lanterns-season-2-in-doubt-says-dc-studios-insider",
+      "pubDate": "11.11.2026 um 00:18 Uhr",
+      "timestamp": 1794356288.0,
+      "source": "IGN All",
+      "summary": "An insider at DC Studios suggests that HBO’s Lanterns is unlikely renewed for a second season in spite of rave reviews and audience interest, as told ..."
     },
     {
       "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
@@ -193,102 +289,6 @@
       "timestamp": 1794353430.0,
       "source": "Kotaku",
       "summary": "John Gibson stepped down from Tripwire Interactive over his support for an abortion ban"
-    },
-    {
-      "title": "Shaquille O'Neal is Starring in a Game Show Where Players Have to Hide Him in Plain Sight",
-      "link": "https://www.ign.com/articles/shaquille-oneal-is-starring-in-a-game-show-where-players-have-to-hide-him-in-plain-sight",
-      "pubDate": "10.11.2026 um 23:26 Uhr",
-      "timestamp": 1794353201.0,
-      "source": "IGN All",
-      "summary": "In one of the more amusing sidequests that Shaquille O’Neal has undertaken in his life, the former NBA All-Star is set to appear in a game show where ..."
-    },
-    {
-      "title": "PlayStation adds live-service shooter Fairgames to its constantly expanding graveyard",
-      "link": "https://www.gamesradar.com/games/third-person-shooter/playstation-adds-live-service-shooter-fairgames-to-its-constantly-expanding-graveyard/",
-      "pubDate": "10.11.2026 um 23:26 Uhr",
-      "timestamp": 1794353197.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Sony's trail of bodies is only getting longer"
-    },
-    {
-      "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
-      "link": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/",
-      "pubDate": "10.11.2026 um 23:15 Uhr",
-      "timestamp": 1794352538.0,
-      "source": "PCGamer latest",
-      "summary": "Fairgames was revealed in 2023, but nothing more was ever seen of it."
-    },
-    {
-      "title": "I Tried the Pokémon Happy Meal — Here’s What I Learned (and What I Pulled)",
-      "link": "https://www.ign.com/articles/i-tried-the-pokemon-happy-meal-heres-what-i-learned-and-what-i-pulled",
-      "pubDate": "10.11.2026 um 23:05 Uhr",
-      "timestamp": 1794351940.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop",
-      "link": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "pubDate": "10.11.2026 um 23:00 Uhr",
-      "timestamp": 1794351635.0,
-      "source": "Kotaku",
-      "summary": "The kids are usually alright, but they messed this one up"
-    },
-    {
-      "title": "Get a 20,000mAh 45W Power Bank With Integrated USB Cable for Under $20 Ahead of Black Friday",
-      "link": "https://www.ign.com/articles/cuktech-power-bank-deal-november-2026",
-      "pubDate": "10.11.2026 um 23:00 Uhr",
-      "timestamp": 1794351600.0,
-      "source": "IGN All",
-      "summary": "Fast charges your Nintendo Switch 2 or Steam Deck multiple times over."
-    },
-    {
-      "title": "Christopher Nolan's The Odyssey Officially Sets Home Release Date",
-      "link": "https://www.polygon.com/the-odyssey-christopher-nolan-home-release-date/",
-      "pubDate": "10.11.2026 um 22:52 Uhr",
-      "timestamp": 1794351137.0,
-      "source": "Polygon.com",
-      "summary": "The Odyssey, Christopher Nolan's historical epic, is coming home to VOD and Blu-ray/DVD on Nov. 19."
-    },
-    {
-      "title": "Sick BMX flips, colourful characters, a whole lot of mail and a charming raccoon dog await you in Tanuki: Pon's Summer, which you can pick up now",
-      "link": "https://www.rockpapershotgun.com/sick-bmx-flips-colourful-characters-a-whole-lot-of-mail-and-a-charming-raccoon-dog-await-you-in-tanuki-pons-summer-which-you-can-pick-up-now",
-      "pubDate": "10.11.2026 um 22:49 Uhr",
-      "timestamp": 1794350960.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Right, today's been miserable thanks to the now hourly discourse we have to all take part in lest we be seen as approving of the current bad thing, ho..."
-    },
-    {
-      "title": "Zelda: Ocarina Of Time Remake Water Temple Walkthrough",
-      "link": "https://kotaku.com/zelda-ocarina-of-time-remake-water-temple-walkthrough-2000755571",
-      "pubDate": "10.11.2026 um 22:30 Uhr",
-      "timestamp": 1794349854.0,
-      "source": "Kotaku",
-      "summary": "Bit damp in here"
-    },
-    {
-      "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
-      "link": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest/",
-      "pubDate": "10.11.2026 um 22:22 Uhr",
-      "timestamp": 1794349350.0,
-      "source": "PCGamer latest",
-      "summary": "We might get an early taste of Ascendance before long."
-    },
-    {
-      "title": "10 Best Fire Emblem: Fortune's Weave Replacements",
-      "link": "https://www.polygon.com/fire-emblem-fortunes-weave-best-games-replacements/",
-      "pubDate": "10.11.2026 um 22:18 Uhr",
-      "timestamp": 1794349129.0,
-      "source": "Polygon.com",
-      "summary": "If Fire Emblem: Fortune's Weave has got you craving more tactical battles and plenty of allies to recruit, here are a few of our favorites"
-    },
-    {
-      "title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
-      "link": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
-      "pubDate": "10.11.2026 um 22:15 Uhr",
-      "timestamp": 1794348900.0,
-      "source": "IGN All",
-      "summary": "Both Amazon Prime and non-Prime members, new and previous subscribers are eligible."
     }
   ],
   "sim": [
