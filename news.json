@@ -1,6 +1,30 @@
 {
   "de": [
     {
+      "title": "Diablo 4: Season 15 ist bald zu Ende und Spieler rätseln immer noch an ungelösten Geheimnissen",
+      "link": "https://mein-mmo.de/diablo-4-season-15-bald-zu-ende-viele-raetsel/",
+      "pubDate": "12.11.2026 um 05:30 Uhr",
+      "timestamp": 1794461400.0,
+      "source": "Mein-MMO",
+      "summary": "Season 15 läuft noch grob einen Monat in Diablo 4, aber die Community ist weiterhin fleißig damit beschäftigt, alle Geheimnisse aufzudecken. Der Beitr..."
+    },
+    {
+      "title": "Premiere: Kioxia und Dell erreichen 157 Petabyte in nur einem Serverschrank",
+      "link": "https://www.computerbase.de/news/storage/premiere-kioxia-und-dell-erreichen-157-petabyte-in-nur-einem-serverschrank.100295/",
+      "pubDate": "12.11.2026 um 06:00 Uhr",
+      "timestamp": 1794459600.0,
+      "source": "ComputerBase",
+      "summary": "In einem handelsüblichen Serverschrank mit 42 Höheneinheiten (42U) können jetzt bis zu 157 Petabyte Massenspeicher realisiert werden. Das sind umgerec..."
+    },
+    {
+      "title": "WoW Forever: Achtung, dieser Loot macht euch schlechter, aber auch lustiger",
+      "link": "https://mein-mmo.de/wow-forever-loot-macht-euch-schlechter/",
+      "pubDate": "12.11.2026 um 04:30 Uhr",
+      "timestamp": 1794457800.0,
+      "source": "Mein-MMO",
+      "summary": "Der neue Loot in World of Warcraft Forever kann ziemlich witzig sein – aber auch nervig. Ein Paar Stiefel zwingt euch zu etwas, das ihr sonst nie woll..."
+    },
+    {
       "title": "Nvidia-Krise: Verwaltungsrat berät über Rauswurf von Jensen Huang",
       "link": "https://www.computerbase.de/news/wirtschaft/nvidia-krise-verwaltungsrat-beraet-ueber-rauswurf-von-jensen-huang.100297/",
       "pubDate": "12.11.2026 um 00:14 Uhr",
@@ -119,33 +143,121 @@
       "timestamp": 1794409200.0,
       "source": "Mein-MMO",
       "summary": "Das ewige Duell zwischen den Helden von DC und Marvel wurde in einer Geschichte zumindest teilweise geklärt. Verantwortlich ist Superman. Der Beitrag ..."
-    },
-    {
-      "title": "Einer der schönsten Anime aller Zeiten begeistert mich gerade mit seinem genialen Kampfsystem",
-      "link": "https://mein-mmo.de/einer-der-besten-anime-aus-2026-gibt-mir-genau-das-was-mir-bei-harry-potter-fehlt/",
-      "pubDate": "11.11.2026 um 14:56 Uhr",
-      "timestamp": 1794409012.0,
-      "source": "Mein-MMO",
-      "summary": "MeinMMO-Redakteur Nikolas Hernes hat einen Fantasy-Anime aus 2026 nachgeholt und war schon nach der 1. Folge begeistert. Der Beitrag Einer der schönst..."
-    },
-    {
-      "title": "Nur ein fieser Debuff hält Gandalf davon ab, mit Sauron in Herr der Ringe den Boden zu wischen",
-      "link": "https://mein-mmo.de/gandalf-maechtiger-als-sauron/",
-      "pubDate": "11.11.2026 um 14:56 Uhr",
-      "timestamp": 1794408965.0,
-      "source": "Mein-MMO",
-      "summary": "Wenn Gandalf nicht einen heftigen Debuff verpasst bekommen hätte, könnte er Sauron vermutlich alleine zerlegen.  Der Beitrag Nur ein fieser Debuff häl..."
-    },
-    {
-      "title": "Katsuhiro Harada poltert gegen Xbox Series S: Hardware wäre besser gar nicht erst erschienen",
-      "link": "https://www.eurogamer.de/xbox-series-s-harada-kritik",
-      "pubDate": "11.11.2026 um 14:30 Uhr",
-      "timestamp": 1794407430.0,
-      "source": "Eurogamer.de News",
-      "summary": "Katsuhiro Harada, ehemals Director der Tekken-Reihe, ist daf&uuml;r bekannt, kein Blatt vor den Mund zu nehmen. Das bewies er k&uuml;rzlich einmal meh..."
     }
   ],
   "int": [
+    {
+      "title": "Physint’s ‘Next Cold War,’ OD: Knock’s Scanning Tech, And 8 More Things We Learned At Kojima Productions’ Tokyo Exhibition",
+      "link": "https://kotaku.com/physints-next-cold-war-od-knocks-scanning-tech-and-8-more-things-we-learned-at-kojima-productions-tokyo-exhibition-2000754352",
+      "pubDate": "12.11.2026 um 06:00 Uhr",
+      "timestamp": 1794463237.0,
+      "source": "Kotaku",
+      "summary": "The special 10th-anniversary Kojima Productions exhibition showcased the past and future of Hideo Kojima's game studio"
+    },
+    {
+      "title": "What We Know About Every Assassin’s Creed Project in Active Development",
+      "link": "https://www.polygon.com/assassins-creed-games-all-updates/",
+      "pubDate": "12.11.2026 um 03:37 Uhr",
+      "timestamp": 1794454671.0,
+      "source": "Polygon.com",
+      "summary": "The latest news and release dates for every known Assassin’s Creed project, like Jade and Codename Hexe."
+    },
+    {
+      "title": "Queen’s Domain Review: The Perfect Skyrim Replacement for Right Now",
+      "link": "https://www.polygon.com/queens-domain-review/",
+      "pubDate": "12.11.2026 um 01:00 Uhr",
+      "timestamp": 1794445217.0,
+      "source": "Polygon.com",
+      "summary": "Queen's Domain is a brutal first-person Soulslike that borrows all the right things from Dark Souls and Elder Scrolls."
+    },
+    {
+      "title": "BioWare could make Mass Effect 2 in 18 months because \"the core team stayed\" from the first game",
+      "link": "https://www.gamesradar.com/games/mass-effect/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead/",
+      "pubDate": "12.11.2026 um 00:37 Uhr",
+      "timestamp": 1794443874.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"Mass effect 2 was not perfect, but it benefited so much from setting realistic achievable goals\""
+    },
+    {
+      "title": "Constantine Director 'Hopeful' for Sequel After DC Studios Shakeup",
+      "link": "https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
+      "pubDate": "12.11.2026 um 00:11 Uhr",
+      "timestamp": 1794442279.0,
+      "source": "IGN All",
+      "summary": "The director of Constantine, Francis Lawrence, opened up about the movie's long-awaited sequel now that DC Studios has had a changing of the guard."
+    },
+    {
+      "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
+      "link": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
+      "pubDate": "12.11.2026 um 00:02 Uhr",
+      "timestamp": 1794441767.0,
+      "source": "PCGamer latest",
+      "summary": "Jacek Rozenek was  the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is..."
+    },
+    {
+      "title": "Monster Hunter Outlanders Review",
+      "link": "https://www.ign.com/articles/monster-hunter-outlanders-review",
+      "pubDate": "12.11.2026 um 00:00 Uhr",
+      "timestamp": 1794441600.0,
+      "source": "IGN All",
+      "summary": "This mobile spin-off maintains the gameplay loop and visuals of its console counterparts, with the caveat of how progress gates push microtransactions..."
+    },
+    {
+      "title": "The 2026 LEGO Star Wars Advent Calendar Is Discounted at Target After Amazon Sells Out",
+      "link": "https://www.ign.com/articles/2026-lego-star-wars-advent-stock-update-black-friday",
+      "pubDate": "11.11.2026 um 23:44 Uhr",
+      "timestamp": 1794440651.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
+      "link": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038",
+      "pubDate": "11.11.2026 um 23:30 Uhr",
+      "timestamp": 1794439819.0,
+      "source": "Kotaku",
+      "summary": "The video fooled many online who thought it was real life"
+    },
+    {
+      "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
+      "link": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics/",
+      "pubDate": "11.11.2026 um 23:29 Uhr",
+      "timestamp": 1794439799.0,
+      "source": "PCGamer latest",
+      "summary": "The move to a better anti-cheat has not been wholly embraced by players."
+    },
+    {
+      "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length",
+      "link": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+      "pubDate": "11.11.2026 um 23:27 Uhr",
+      "timestamp": 1794439643.0,
+      "source": "IGN All",
+      "summary": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extre..."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
+      "link": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
+      "pubDate": "11.11.2026 um 23:25 Uhr",
+      "timestamp": 1794439539.0,
+      "source": "PCGamer latest",
+      "summary": "A new report says that video evidence of the affair exists, but was swept under the rug."
+    },
+    {
+      "title": "AMC App Experiences Slowdown as Marvel Fans Rush to Buy Doomsday Tickets After VisionQuest Finale",
+      "link": "https://www.ign.com/articles/amc-app-crashes-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
+      "pubDate": "11.11.2026 um 23:22 Uhr",
+      "timestamp": 1794439341.0,
+      "source": "IGN All",
+      "summary": "So many Marvel fans tried to snag their tickets for Avengers: Doomsday after watching the VisionQuest season finale that they literally crashed the AM..."
+    },
+    {
+      "title": "Nvidia Board Is Preparing to Potentially Oust CEO Jensen Huang",
+      "link": "https://www.ign.com/articles/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang",
+      "pubDate": "11.11.2026 um 23:20 Uhr",
+      "timestamp": 1794439222.0,
+      "source": "IGN All",
+      "summary": "Three days after launching an independent investigation into CEO Jensen Huang, the Nvidia board is reportedly preparing to oust the executive."
+    },
     {
       "title": "Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’s Most Insufferable Couple?",
       "link": "https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954",
@@ -177,118 +289,6 @@
       "timestamp": 1794437213.0,
       "source": "IGN All",
       "summary": "Henry Cavill has stated that he's still open to the idea of playing Superman following all the shake-ups at DC Studios."
-    },
-    {
-      "title": "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
-      "link": "https://www.ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck",
-      "pubDate": "11.11.2026 um 22:46 Uhr",
-      "timestamp": 1794437188.0,
-      "source": "IGN All",
-      "summary": "World of Warcraft Forever is off to a monumental start, with more players wandering Azeroth than ever before. And at least one death metal guitarist c..."
-    },
-    {
-      "title": "New Mega Man Legends Game, Movie, or TV Series Possibly In the Works After Fans Spot 'New Media' Listing",
-      "link": "https://www.ign.com/articles/new-mega-man-legends-game-movie-or-tv-series-possibly-in-the-works-after-fans-spot-new-media-listing",
-      "pubDate": "11.11.2026 um 22:45 Uhr",
-      "timestamp": 1794437142.0,
-      "source": "IGN All",
-      "summary": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or ..."
-    },
-    {
-      "title": "Netflix's Hit Spy Thriller Returns and Takes Over Streaming Charts",
-      "link": "https://www.polygon.com/keira-knightley-black-doves-netflix-streaming-hit-season-2/",
-      "pubDate": "11.11.2026 um 22:42 Uhr",
-      "timestamp": 1794436976.0,
-      "source": "Polygon.com",
-      "summary": "Netflix’s Black Doves is back with new episodes, and Keira Knightley’s spy thriller is climbing the streaming charts."
-    },
-    {
-      "title": "New 'GTA 6' Gameplay Leaves Fans Stunned",
-      "link": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/",
-      "pubDate": "11.11.2026 um 22:39 Uhr",
-      "timestamp": 1794436792.0,
-      "source": "Polygon.com",
-      "summary": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true"
-    },
-    {
-      "title": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
-      "link": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler/",
-      "pubDate": "11.11.2026 um 22:38 Uhr",
-      "timestamp": 1794436717.0,
-      "source": "PCGamer latest",
-      "summary": "New type of wizard just dropped."
-    },
-    {
-      "title": "Jamie Campbell Bower Calls Rings of Power Season 3 the 'Perfect Kind of Antidote' After Stranger Things",
-      "link": "https://www.ign.com/articles/jamie-campbell-bower-calls-rings-of-power-season-3-the-perfect-kind-of-antidote-after-stranger-things",
-      "pubDate": "11.11.2026 um 22:37 Uhr",
-      "timestamp": 1794436643.0,
-      "source": "IGN All",
-      "summary": "The character of Celeborn -- Jamie Campbell Bower's first role after playing Vecna, et al, in Seasons 4 and 5 of Stranger Things -- helped the actor m..."
-    },
-    {
-      "title": "Avengers: Endgame Encore hits Disney Plus on Friday with those Doomsday-teasing post-credits scenes",
-      "link": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-encore-hits-disney-plus-on-friday-and-with-all-of-those-doomsday-teasing-post-credits-scenes-in-tow/",
-      "pubDate": "11.11.2026 um 22:15 Uhr",
-      "timestamp": 1794435300.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The re-release has several post-credits scenes that bridge the gap between Endgame and Doomsday"
-    },
-    {
-      "title": "The Witcher 4 lead feels a \"great responsibility\" after winning Golden Joystick for Most Wanted game",
-      "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-production-director-feels-a-great-responsibility-after-winning-the-golden-joystick-for-most-wanted-game/",
-      "pubDate": "11.11.2026 um 22:14 Uhr",
-      "timestamp": 1794435296.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"This is a huge, huge honor for us\""
-    },
-    {
-      "title": "Marvel 1943 ‘Has Not Been Canceled,’ Says Skydance Leadership, Despite Development Struggles",
-      "link": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025",
-      "pubDate": "11.11.2026 um 22:06 Uhr",
-      "timestamp": 1794434786.0,
-      "source": "Kotaku",
-      "summary": "Skydance producers are reassuring the team that all is well, despite rumors to the contrary"
-    },
-    {
-      "title": "The Witcher 3 Devs Explain Using AI To Help With Geralt’s Polish Voice In Songs Of The Past: ‘This Is One Of Those Ways Where You Can Use AI Ethically’",
-      "link": "https://kotaku.com/the-witcher-3-devs-explain-using-ai-to-help-with-geralts-polish-voice-in-songs-of-the-past-this-is-one-of-those-ways-where-you-can-use-ai-ethically-2000756004",
-      "pubDate": "11.11.2026 um 22:00 Uhr",
-      "timestamp": 1794434404.0,
-      "source": "Kotaku",
-      "summary": "The Polish voice actor suffered a stroke between the original game's release and the new expansion"
-    },
-    {
-      "title": "Final Fantasy XIV Players Mourn The Primals Bassist With In-Game Funerals and Gatherings",
-      "link": "https://www.ign.com/articles/final-fantasy-xiv-players-mourn-the-primals-bassist-with-in-game-funerals-and-gatherings",
-      "pubDate": "11.11.2026 um 21:59 Uhr",
-      "timestamp": 1794434379.0,
-      "source": "IGN All",
-      "summary": "Final Fantasy XIV players are paying tribute to the bassist of the game’s official band, mourning him and celebrating his legacy with virtual, in-game..."
-    },
-    {
-      "title": "Ahead of Persona 6 and his own new JRPG, series veteran takes us back to \"how Persona came about\"",
-      "link": "https://www.gamesradar.com/games/persona/ahead-of-persona-6-and-his-own-new-jrpg-series-veteran-takes-us-back-to-how-persona-came-about/",
-      "pubDate": "11.11.2026 um 21:57 Uhr",
-      "timestamp": 1794434246.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The origins of a JRPG giant"
-    },
-    {
-      "title": "Dragon Age star says BioWare \"broke the mold\" for RPGs and pays tribute at Golden Joysticks",
-      "link": "https://www.gamesradar.com/games/mass-effect/losing-bioware-broke-my-heart-former-dragon-age-star-says-the-legendary-studio-broke-the-mold-when-it-came-to-rpgs-and-pays-tribute-at-golden-joysticks/",
-      "pubDate": "11.11.2026 um 21:55 Uhr",
-      "timestamp": 1794434156.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"My heart goes out to all of the devs that were working on Mass Effect 5\""
-    },
-    {
-      "title": "All Bomb Bag upgrade locations in Ocarina of Time",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bomb-bag-upgrade-location/",
-      "pubDate": "11.11.2026 um 21:55 Uhr",
-      "timestamp": 1794434148.0,
-      "source": "Polygon.com",
-      "summary": "Here's where you can find the two Bomb Bag upgrades in The Legend of Zelda: Ocarina of Time remake."
     }
   ],
   "sim": [
