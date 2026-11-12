@@ -1,6 +1,126 @@
 {
   "de": [
     {
+      "title": "Adrenalin 26.11.1: AMD bringt Treiberupdate gegen übermäßige Schreibvorgänge",
+      "link": "https://www.computerbase.de/news/grafikkarten/adrenalin-26-11-1-amd-bringt-treiberupdate-gegen-uebermaessige-schreibvorgaenge.100311/",
+      "pubDate": "12.11.2026 um 22:14 Uhr",
+      "timestamp": 1794518040.0,
+      "source": "ComputerBase",
+      "summary": "Jetzt liefert AMD per Treiberupdate eine offizielle Lösung für das Problem mit ungewöhnlich hoher SSD-Schreibaktivität, das manche Nutzer von Radeon-G..."
+    },
+    {
+      "title": "Ein Schurke von DC ist der böse Klon von Superman und mindestens genauso mächtig",
+      "link": "https://mein-mmo.de/dc-doppelgaenger-von-superman/",
+      "pubDate": "12.11.2026 um 21:00 Uhr",
+      "timestamp": 1794517200.0,
+      "source": "Mein-MMO",
+      "summary": "Unter den zahlreichen Gegnern von Superman ist einer, der ihm besonders ähnlich ist, da es sich um einen Doppelgänger handelt.  Der Beitrag Ein Schurk..."
+    },
+    {
+      "title": "Nvidia-Mining-GPU: 80 GB statt 8 GB VRAM und 80 % mehr Kerne per Hack",
+      "link": "https://www.computerbase.de/news/grafikkarten/nvidia-mining-gpu-80-gb-statt-8-gb-vram-und-80-prozent-mehr-kerne-per-hack.100309/",
+      "pubDate": "12.11.2026 um 20:52 Uhr",
+      "timestamp": 1794513120.0,
+      "source": "ComputerBase",
+      "summary": "Eine Mining-Grafikkarte von Nvidia hat weit mehr HBM2e-Speicher an Bord, als ihr Datenblatt vermuten lässt. Bei neun von zehn untersuchten CMP 170HX s..."
+    },
+    {
+      "title": "Er wurde 103 Jahre alt, wirkte in über 90 Filmen mit und wurde 3 Mal für den Oscar nominiert: Auch sein Sohn zählt zu den größten Legenden Hollywoods",
+      "link": "https://mein-mmo.de/kirk-douglas-special/",
+      "pubDate": "12.11.2026 um 19:00 Uhr",
+      "timestamp": 1794510000.0,
+      "source": "Mein-MMO",
+      "summary": "Nicht viele Schauspieler schaffen, was Kirk Douglas gelang. In seiner Karriere war er in über 90 Filmen zu sehen und feierte viele Erfolge.  Der Beitr..."
+    },
+    {
+      "title": "WoW Forever: Mount mit Level 40 – Ein Trick macht das Gold farmen leicht",
+      "link": "https://mein-mmo.de/wow-forever-angeln-fuer-mount-gold/",
+      "pubDate": "12.11.2026 um 18:00 Uhr",
+      "timestamp": 1794506400.0,
+      "source": "Mein-MMO",
+      "summary": "Mit Level 40 direkt genug Gold für ein Reittier in WoW Forever – das geht spielend leicht. Wir verraten eine simple Methode. Der Beitrag WoW Forever: ..."
+    },
+    {
+      "title": "Millenials und Boomer halt ihn für langweilig, aber die Gen Z verdient gerade sechsstellige Gehälter mit diesem Job",
+      "link": "https://mein-mmo.de/generation-z-job-boomer-millenials-langweiligste-aufgabe/",
+      "pubDate": "12.11.2026 um 17:45 Uhr",
+      "timestamp": 1794505500.0,
+      "source": "Mein-MMO",
+      "summary": "Neben wirtschaftlichem Druck haben junge Leute mittlerweile erkannt, welche Vorzüge der Job als „Accountant“ hat. Der Beitrag Millenials und Boomer ha..."
+    },
+    {
+      "title": "Pocketpair-Mitarbeiter erhalten fünf Tage Urlaub, um GTA 6 zu zocken",
+      "link": "https://www.eurogamer.de/pocketpair-mitarbeiter-erhalten-funf-tage-urlaub-um-gta-6-zu-zocken",
+      "pubDate": "12.11.2026 um 17:42 Uhr",
+      "timestamp": 1794505320.0,
+      "source": "Eurogamer.de News",
+      "summary": "In exakt einer Woche erscheint Grand Theft Auto 6 und es w&uuml;rde mich kaum wundern, wenn ein paar Fans zuf&auml;llig am kommenden Donnerstag krank ..."
+    },
+    {
+      "title": "„But Can It Run Doom?“: Neues Buch über die kurio­ses­ten Por­tierun­gen des Shooters",
+      "link": "https://www.computerbase.de/news/gaming/but-can-it-run-doom-neues-buch-ueber-die-kuriosesten-portierungen-des-shooters.100310/",
+      "pubDate": "12.11.2026 um 18:25 Uhr",
+      "timestamp": 1794504300.0,
+      "source": "ComputerBase",
+      "summary": "Ob Schwangerschaftstest, Ikea-Lampe oder elektronische Ohrringe: Doom läuft mittlerweile auf allerhand Hardware, die nie für Gaming entworfen wurde. E..."
+    },
+    {
+      "title": "Neue Steueroase: Apple spart nun mehr Steuern über Singapur als über Irland",
+      "link": "https://www.computerbase.de/news/wirtschaft/neue-steueroase-apple-spart-nun-mehr-steuern-ueber-singapur-als-ueber-irland.100307/",
+      "pubDate": "12.11.2026 um 17:56 Uhr",
+      "timestamp": 1794502560.0,
+      "source": "ComputerBase",
+      "summary": "Laut einem Bericht der Financial Times ist Singapur neben Irland das neue Steuerparadies von Apple. Dieses Jahr soll der Konzern mit den über Singapur..."
+    },
+    {
+      "title": "Wird GTA jemals außerhalb von Amerika spielen? Es gibt Hoffnung",
+      "link": "https://www.eurogamer.de/gta-zukunft-schauplatz-ausserhalb-usa",
+      "pubDate": "12.11.2026 um 16:42 Uhr",
+      "timestamp": 1794501750.0,
+      "source": "Eurogamer.de News",
+      "summary": "Grand Theft Auto war schon immer untrennbar mit den USA verbunden. Das amerikanische Lebensgef&uuml;hl steckt tief in der DNA der Gangster-Reihe. In d..."
+    },
+    {
+      "title": "Switch 2: Nintendo blockiert Spiele auf älterer Firmware wegen Jailbreak",
+      "link": "https://www.computerbase.de/news/gaming/switch-2-nintendo-blockiert-spiele-auf-aelterer-firmware-wegen-jailbreak.100308/",
+      "pubDate": "12.11.2026 um 17:36 Uhr",
+      "timestamp": 1794501360.0,
+      "source": "ComputerBase",
+      "summary": "Nutzer einer Nintendo Switch 2 mit Firmware 23.0.1 können SmileBasic 4 und Civilization VII nicht mehr starten. Beim Öffnen der Spiele erscheint eine ..."
+    },
+    {
+      "title": "Golden Joystick Awards: Resident Evil räumt bei prestigeträchtigem Preis ab",
+      "link": "https://www.computerbase.de/news/gaming/golden-joystick-awards-resident-evil-raeumt-bei-prestigetraechtigem-preis-ab.100306/",
+      "pubDate": "12.11.2026 um 17:02 Uhr",
+      "timestamp": 1794499320.0,
+      "source": "ComputerBase",
+      "summary": "Bei den Golden Joystick Awards 2026 sichert sich Resident Evil Requiem vier Preise, darunter die Auszeichnung „Ultimate Game of the Year“. Mit 17 Proz..."
+    },
+    {
+      "title": "Nvidia-Beben: Jensen Huang tritt nach 33 Jahren zurück, Spionageverdacht und Affären erschüttern den Grafikkarten-Riesen",
+      "link": "https://www.playcentral.de/nvidia-jensen-huang-ruecktritt-ceo-spionageaffaere/",
+      "pubDate": "12.11.2026 um 16:01 Uhr",
+      "timestamp": 1794499286.0,
+      "source": "PlayCentral",
+      "summary": "Jensen Huang ist nicht länger CEO von Nvidia. Der Mitgründer des Grafikkarten- und KI-Konzerns hat seine Ämter mit sofortiger Wirkung niedergelegt. Da..."
+    },
+    {
+      "title": "WoW Forever – Quests ab Stufe 48 geben nach Hotfix zusätzlich Gold",
+      "link": "https://www.playcentral.de/wow-forever-quests-ab-stufe-48/",
+      "pubDate": "12.11.2026 um 15:52 Uhr",
+      "timestamp": 1794498739.0,
+      "source": "PlayCentral",
+      "summary": "Blizzard hat die Belohnungen hochstufiger Quests in World of Warcraft: Forever grundlegend angepasst. Seit dem Hotfix vom 10. November 2026 werfen die..."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tritt nach tagelangen Kontroversen zurück",
+      "link": "https://www.eurogamer.de/nvidia-ceo-jensen-huang-ruecktritt-colette-kress",
+      "pubDate": "12.11.2026 um 15:50 Uhr",
+      "timestamp": 1794498650.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nvidias Gr&uuml;nder und CEO Jensen Huang ist als Chef eines der wertvollsten Unternehmen der Welt zur&uuml;ckgetreten. Mehr"
+    },
+    {
       "title": "Paradox-Chef Frederik Wester tritt nach einigen turbulenten Jahren zurück",
       "link": "https://www.eurogamer.de/paradox-interactive-ceo-frederik-wester-ruecktritt",
       "pubDate": "12.11.2026 um 15:36 Uhr",
@@ -23,275 +143,179 @@
       "timestamp": 1794496819.0,
       "source": "Mein-MMO",
       "summary": "Heute erhalten erste Fans bereits ihre physische Version von GTA 6. Alle Infos dazu, Reaktionen und gemeinsames Warten gibt es auf MeinMMO. Der Beitra..."
-    },
-    {
-      "title": "GTA 6 wurde in einem Land fast gebannt, aber es lag weder an Gewalt noch Drogen",
-      "link": "https://mein-mmo.de/gta-6-beinah-verboten-in-suedkorea/",
-      "pubDate": "12.11.2026 um 15:15 Uhr",
-      "timestamp": 1794496511.0,
-      "source": "Mein-MMO",
-      "summary": "GTA 6 wurde in einem Land beinah nicht zum Verkauf freigegeben, doch das Problem lag weder beim Ballern noch bei Drogen. Der Beitrag GTA 6 wurde in ei..."
-    },
-    {
-      "title": "Caro, 27 Jahre: Dank GTA 6 hatte ich heute meinen ersten Boomer-Moment",
-      "link": "https://mein-mmo.de/gta-6-clip-so-real-laesst-mich-wie-boomer-fuehlen/",
-      "pubDate": "12.11.2026 um 15:10 Uhr",
-      "timestamp": 1794496200.0,
-      "source": "Mein-MMO",
-      "summary": "Ein neuer Clip aus GTA 6 sieht so real aus, dass sich MeinMMO-Redakteurin Caro erstmals dank eines Videospiels wirklich alt fühlen musste. Der Beitrag..."
-    },
-    {
-      "title": "Neues MMORPG kündigt überraschend Release auf Steam an, stößt damit sogar die größten Fans vor den Kopf",
-      "link": "https://mein-mmo.de/bitcraft-online-release-termin-steam/",
-      "pubDate": "12.11.2026 um 15:07 Uhr",
-      "timestamp": 1794496059.0,
-      "source": "Mein-MMO",
-      "summary": "BitCraft Online kündigt überraschend an, am 13. November 2026 final auf Steam erscheinen zu wollen. Viele Fans zeigen sich bestürzt. Der Beitrag Neues..."
-    },
-    {
-      "title": "Ein Schurke von DC ist der böse Klon von Superman, den Lex Luthor und der Joker zu ihrem Vorteil nutzen",
-      "link": "https://mein-mmo.de/dc-doppelgaenger-von-superman/",
-      "pubDate": "12.11.2026 um 15:00 Uhr",
-      "timestamp": 1794495600.0,
-      "source": "Mein-MMO",
-      "summary": "Unter den zahlreichen Gegnern von Superman ist einer, der ihm besonders ähnlich ist, da es sich um einen Doppelgänger handelt.  Der Beitrag Ein Schurk..."
-    },
-    {
-      "title": "Dark Souls 2 und 3: Mysteriöses Server-Problem ist behoben",
-      "link": "https://www.eurogamer.de/dark-souls-2-3-server-wieder-online",
-      "pubDate": "12.11.2026 um 14:58 Uhr",
-      "timestamp": 1794495500.0,
-      "source": "Eurogamer.de News",
-      "summary": "Entwickler FromSoftware hat bekannt gegeben, dass die Multiplayer-Server f&uuml;r Dark Souls 2 und 3 nach einem fast zweiw&ouml;chigen Ausfall wieder ..."
-    },
-    {
-      "title": "Nvidia: Aktienkurs stürzt nach Skandal des CEOs ab",
-      "link": "https://www.eurogamer.de/nvidia-aktie-skandal-ceo-jensen-huang",
-      "pubDate": "12.11.2026 um 14:35 Uhr",
-      "timestamp": 1794494120.0,
-      "source": "Eurogamer.de News",
-      "summary": "Ihr kennt sicher alle die Memes, weil man auf diese Art ja einfach oft mitbekommt, was in der Welt so passiert. Nvidia-CEO Jensen Huang hat vor wenige..."
-    },
-    {
-      "title": "„Mr. Nvidia“ muss gehen: Jensen Huang tritt nach 33 Jahren als CEO zurück",
-      "link": "https://www.computerbase.de/news/wirtschaft/mr-nvidia-muss-gehen-jensen-huang-tritt-nach-33-jahren-als-ceo-zurueck.100305/",
-      "pubDate": "12.11.2026 um 15:04 Uhr",
-      "timestamp": 1794492240.0,
-      "source": "ComputerBase",
-      "summary": "Mitgründer, Präsident, CEO und Board Member Jensen Huang tritt nach 33 Jahren an der Spitze von Nvidia von seinen Ämtern ab. Auch die über Jahrzehnte ..."
-    },
-    {
-      "title": "GTA 6 ohne Disc, aber mit Ketchup? Heinz macht aus der leeren Spielehülle einen Saucenhalter",
-      "link": "https://www.eurogamer.de/gta-6-heinz-sauce-box-pro-ketchup-spielehuelle-gewinnspiel",
-      "pubDate": "12.11.2026 um 14:02 Uhr",
-      "timestamp": 1794492170.0,
-      "source": "Eurogamer.de News",
-      "summary": "Eine Spieleh&uuml;lle ohne Spiel? Leider l&auml;ngst keine Seltenheit mehr &ndash; und auch bei GTA 6 traurige Realit&auml;t. Rockstar Games verzichte..."
-    },
-    {
-      "title": "GTA 6: EliasN97 und Rohat sind sich sicher, dass nicht jeder auf Twitch zuschauen wird",
-      "link": "https://mein-mmo.de/twitch-gta-6-release-zuschauer/",
-      "pubDate": "12.11.2026 um 13:30 Uhr",
-      "timestamp": 1794490200.0,
-      "source": "Mein-MMO",
-      "summary": "Der Release zu GTA 6 wird auch auf Twitch riesig. Doch werden da viele oder weniger Zuschauer da sein, wenn jeder selbst spielen möchte? Der Beitrag G..."
-    },
-    {
-      "title": "Die Ringe der Macht: So verlief der Start von Staffel 3 – erste Wertungen",
-      "link": "https://www.playcentral.de/die-ringe-der-macht-start-staffel-3-wertungen/",
-      "pubDate": "12.11.2026 um 13:02 Uhr",
-      "timestamp": 1794488531.0,
-      "source": "PlayCentral",
-      "summary": "Mit großen Erwartungen ist Der Herr der Ringe: Die Ringe der Macht in die dritte Staffel gestartet. Nach zwei Staffeln, die bei Kritikern und Zuschaue..."
-    },
-    {
-      "title": "Windows 11: Microsoft bestätigt Installationsfehler beim November-Update",
-      "link": "https://www.computerbase.de/news/betriebssysteme/installationsfehler-patchday-update-fuer-windows-11-scheitert-auf-manchen-geraeten.100304/",
-      "pubDate": "12.11.2026 um 14:00 Uhr",
-      "timestamp": 1794488400.0,
-      "source": "ComputerBase",
-      "summary": "Was sich bereits kurz nach dem November-Patchday abzeichnete, hat Microsoft jetzt offiziell bestätigt: Die Installation des Updates für Windows 11 26H..."
-    },
-    {
-      "title": "WLAN-Frust im Obergeschoss? Dieser günstige Repeater hat meine Gaming-Abende gerettet",
-      "link": "https://mein-mmo.de/fritzrepeater-1200-ax-wlan-frust-vorbei/",
-      "pubDate": "12.11.2026 um 12:55 Uhr",
-      "timestamp": 1794488144.0,
-      "source": "Mein-MMO",
-      "summary": "WLAN-Probleme beim Zocken? Der FRITZ!Repeater 1200 AX bringt flottes Wi-Fi 6 und ein stabiles Mesh-Netz in euer Haus. Der Beitrag WLAN-Frust im Oberge..."
-    },
-    {
-      "title": "Golden Joystick Awards 2026: Resident Evil Requiem wird zum Ultimate Game of the Year",
-      "link": "https://www.eurogamer.de/golden-joystick-awards-2026-resident-evil-requiem-wird-zum-ultimate-game-of-the-year",
-      "pubDate": "12.11.2026 um 12:28 Uhr",
-      "timestamp": 1794486490.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wer Bock auf Gaming Awards hat, muss nicht bis Anfang Dezember warten. Die Golden Joystick Awards 2026 haben jetzt schon ein Jahresfazit gezogen und G..."
-    },
-    {
-      "title": "Nvidia-Verwaltungsrat prüft Absetzung von CEO Jensen Huang",
-      "link": "https://www.playcentral.de/nvidia-jensen-huang-absetzung-vorbereitung-wsj/",
-      "pubDate": "12.11.2026 um 12:05 Uhr",
-      "timestamp": 1794485107.0,
-      "source": "PlayCentral",
-      "summary": "Bei Nvidia spitzt sich die Führungskrise um Jensen Huang offenbar weiter zu. Laut einem Bericht des Wall Street Journal bereitet der Verwaltungsrat di..."
-    },
-    {
-      "title": "Steam ab 18: Neun Jahre altes Konto reicht als Altersnachweis",
-      "link": "https://www.computerbase.de/news/apps/alt-genug-fuer-18-plus-auf-steam-valve-vereinfacht-altersverifikation-down-under.100300/",
-      "pubDate": "12.11.2026 um 13:04 Uhr",
-      "timestamp": 1794485040.0,
-      "source": "ComputerBase",
-      "summary": "Steam vereinfacht in Australien die Altersverifizierung für Spiele mit R18+-Einstufung. Konten, die seit mindestens neun Jahren bestehen und eine unve..."
     }
   ],
   "int": [
     {
-      "title": "Pokémon Legends: Z-A Is Giving Away 2 Free Shiny Legendaries",
-      "link": "https://www.polygon.com/pokemon-legends-z-a-free-shiny-xerneas-yveltal-mystery-gift/",
-      "pubDate": "12.11.2026 um 15:46 Uhr",
-      "timestamp": 1794498387.0,
+      "title": "Xbox Adds 21 More Original Xbox Games To Backwards Compatibility Program And Over Half Of Them Are Star Wars And Over Half Of Them Are Star Wars",
+      "link": "https://kotaku.com/xbox-releases-21-more-original-xbox-games-on-pc-and-over-half-of-them-are-star-wars-2000756360",
+      "pubDate": "12.11.2026 um 22:00 Uhr",
+      "timestamp": 1794520834.0,
+      "source": "Kotaku",
+      "summary": "And some of them are getting achievements"
+    },
+    {
+      "title": "How to farm rupees in Zelda Ocarina of Time",
+      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-rupee-farming-methods/",
+      "pubDate": "12.11.2026 um 21:43 Uhr",
+      "timestamp": 1794519824.0,
       "source": "Polygon.com",
-      "summary": "Shiny Xerneas and Yveltal are being given away for free Pokémon Legends: Z-A for Nintendo Switch and Nintendo Switch 2 players."
+      "summary": "You have a few rupee farming methods in Zelda Ocarina of Time depending on which timeline you're in. These are the best ways to get rupees in OoT."
     },
     {
-      "title": "Conor McGregor picked up and flipped a Call of Duty dev during the making of Infinite Warfare: 'I wanted him to do something really physical, to demonstrate how capable he is'",
-      "link": "https://www.pcgamer.com/games/call-of-duty/conor-mcgregor-picked-up-and-flipped-a-call-of-duty-dev-during-the-making-of-infinite-warfare-i-wanted-him-to-do-something-really-physical-to-demonstrate-how-capable-he-is/",
-      "pubDate": "12.11.2026 um 15:43 Uhr",
-      "timestamp": 1794498183.0,
-      "source": "PCGamer latest",
-      "summary": "The MMA fighter and failed Irish presidential candidate had a small role in the 2016 shooter."
+      "title": "Id Software Says It’s Working On Its Next Game, Directed By Doom’s Hugo Martin",
+      "link": "https://kotaku.com/id-software-says-its-working-on-its-next-game-directed-by-dooms-hugo-martin-2000756358",
+      "pubDate": "12.11.2026 um 21:33 Uhr",
+      "timestamp": 1794519186.0,
+      "source": "Kotaku",
+      "summary": "Don't expect to see it soon, though"
     },
     {
-      "title": "James Gunn’s DC Exit Has ‘Renewed Hope’ for a Cult-Favorite Superhero Sequel",
-      "link": "https://www.polygon.com/dc-james-gunn-exit-constantine-2-more-likely-keanu-reeves/",
-      "pubDate": "12.11.2026 um 15:38 Uhr",
-      "timestamp": 1794497936.0,
-      "source": "Polygon.com",
-      "summary": "The Hunger Games director Francis Lawrence thinks a sequel to Keanu Reeve’s Constantine is more likely with James Gunn out at DC"
-    },
-    {
-      "title": "WoW: Forever's new Riverglades zone feels more like The Burning Crusade+ than Classic+, and you know what, I'm absolutely okay with that",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-new-riverglades-zone-feels-more-like-the-burning-crusade-than-classic-and-you-know-what-im-absolutely-okay-with-that/",
-      "pubDate": "12.11.2026 um 15:36 Uhr",
-      "timestamp": 1794497798.0,
-      "source": "PCGamer latest",
-      "summary": "Close enough. Welcome back, Nagrand."
-    },
-    {
-      "title": "The new 50th anniversary Lego Star Wars sets are great, but I’m most interested in their weird collectible minifigures",
-      "link": "https://www.gamesradar.com/toys-collectibles/the-new-50th-anniversary-lego-star-wars-sets-are-great-but-im-most-interested-in-their-weird-collectible-minifigures/",
-      "pubDate": "12.11.2026 um 15:32 Uhr",
-      "timestamp": 1794497569.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "New 50th anniversary Lego Star Wars are weird and wonderful, with a truly wild set of minifigures based on original concept art."
-    },
-    {
-      "title": "What if the games children love were designed to help them thrive?",
-      "link": "https://www.polygon.com/unicef-ritec-game-design-help-children-thrive/",
-      "pubDate": "12.11.2026 um 15:32 Uhr",
-      "timestamp": 1794497542.0,
-      "source": "Polygon.com",
-      "summary": "UNICEF’s Responsible Innovation in Technology for Children (RITEC) initiative helps harness creativity and expertise to support their well-being."
-    },
-    {
-      "title": "How Nvidia got into this mess: timeline of Jensen Huang scandal and geopolitics leading up to it",
-      "link": "https://www.pcgamer.com/hardware/graphics-cards/how-nvidia-got-into-this-mess-timeline-of-jensen-huang-scandal-and-geopolitics-leading-up-to-it/",
-      "pubDate": "12.11.2026 um 15:31 Uhr",
-      "timestamp": 1794497472.0,
-      "source": "PCGamer latest",
-      "summary": "We're hearing a lot more about this now, but this story didn't totally begin with Jensen's admission of an affair."
-    },
-    {
-      "title": "The hills are alive with The Sound of Fury, a fantasy musical hack 'n' slash about weaponising pianos to fight the Devil",
-      "link": "https://www.rockpapershotgun.com/the-hills-are-alive-with-the-sound-of-fury-a-fantasy-musical-hack-n-slash-about-weaponising-pianos-to-fight-the-devil",
-      "pubDate": "12.11.2026 um 15:31 Uhr",
-      "timestamp": 1794497470.0,
+      "title": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0",
+      "link": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
+      "pubDate": "12.11.2026 um 21:31 Uhr",
+      "timestamp": 1794519060.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "My firstest-ever Golden Joystick Awards, which took place last night in London, was marred somewhat by 1) a gin & tonic costing eleven quid and 2) my ..."
+      "summary": "I often find it quite dull that the main takeaway far too many people have taken from Dark Souls, aside from thinking that the most interesting thing ..."
     },
     {
-      "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
-      "link": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
-      "pubDate": "12.11.2026 um 15:30 Uhr",
-      "timestamp": 1794497438.0,
-      "source": "Kotaku",
-      "summary": "Unfortunately, South Korea's GCRB may have just indirectly confirmed that GTA 6's protagonists cannot get naked in the retail version of the game"
-    },
-    {
-      "title": "Nintendo Officially Announces Black Friday 2026 Deals on Switch 2 Hardware and Games",
-      "link": "https://www.polygon.com/nintendo-black-friday-deals-2026-switch-2-mario-kart-world/",
-      "pubDate": "12.11.2026 um 15:20 Uhr",
-      "timestamp": 1794496859.0,
+      "title": "DMZ key and locations in Modern Warfare 4",
+      "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/",
+      "pubDate": "12.11.2026 um 21:30 Uhr",
+      "timestamp": 1794519035.0,
       "source": "Polygon.com",
-      "summary": "Switch 2 Black Friday deals officially confirmed by Nintendo on consoles, Mario Party, Mario Kart, and Kirby Air Riders."
+      "summary": "This guide lists all keys that can be found in Modern Warfare 4's DMZ mode and where to use them."
     },
     {
-      "title": "Marvel’s WWII Game Not Canceled, but Sounds Like a Mess, Insiders Say",
-      "link": "https://www.polygon.com/marvel-1943-rise-of-hydra-still-alive/",
-      "pubDate": "12.11.2026 um 15:18 Uhr",
-      "timestamp": 1794496726.0,
-      "source": "Polygon.com",
-      "summary": "After cancellation rumors, Skydance Games confirmed that Marvel 1943: Rise of Hydra is still alive."
+      "title": "Doom studio id Software confirms it's working on a new game",
+      "link": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+      "pubDate": "12.11.2026 um 21:10 Uhr",
+      "timestamp": 1794517804.0,
+      "source": "PCGamer latest",
+      "summary": "But, just as with the next Elder Scrolls game, \"it'll be some time\" before it's ready to share more."
     },
     {
-      "title": "Nintendo Reveals Its Black Friday Sale Plans, With Its Own Games Getting Rare $20 Discounts",
-      "link": "https://kotaku.com/nintendo-black-friday-sale-first-party-games-donkey-kong-metroid-prime-2000756243",
-      "pubDate": "12.11.2026 um 15:15 Uhr",
-      "timestamp": 1794496503.0,
-      "source": "Kotaku",
-      "summary": "Donkey Kong Bananza and Metroid Prime 4 will be be lots cheaper via retailers"
-    },
-    {
-      "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
-      "link": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
-      "pubDate": "12.11.2026 um 15:07 Uhr",
-      "timestamp": 1794496040.0,
-      "source": "Eurogamer.net News",
-      "summary": "Nvidia's founder and CEO Jensen Huang has resigned from his position as leader of one of the most valuable companies in the world. Read more"
-    },
-    {
-      "title": "How to complete Cui in Phantom Blade Zero and find Cui's grandfather",
-      "link": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-cui/",
-      "pubDate": "12.11.2026 um 15:06 Uhr",
-      "timestamp": 1794495972.0,
+      "title": "Slay the Spire 2's \"biggest update yet\" adds the first new character and two new game modes",
+      "link": "https://www.gamesradar.com/games/roguelike/slay-the-spire-2s-biggest-update-yet-adds-the-roguelike-deckbuilders-first-new-character-and-two-new-game-modes/",
+      "pubDate": "12.11.2026 um 21:08 Uhr",
+      "timestamp": 1794517713.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Cui sends you on a late-game hunt for this puppet child's grandfather and parents"
+      "summary": "Mega Crit expects \"to make a great number of content and balance changes before the Fool is ready\" for the main game"
     },
     {
-      "title": "Jeff Kaplan Blames Overwatch 2’s Messy Reveal On Blizzard Hubris: ‘You Guys Are F*cking Idiots’",
-      "link": "https://kotaku.com/overwatch-2-reveal-announcement-blizzcon-2019-jeff-kaplan-2000756275",
-      "pubDate": "12.11.2026 um 15:00 Uhr",
-      "timestamp": 1794495653.0,
+      "title": "A-One, A Two-Hoo, A-Three…",
+      "link": "https://kotaku.com/a-one-a-two-hoo-a-three-2000756353",
+      "pubDate": "12.11.2026 um 20:45 Uhr",
+      "timestamp": 1794516338.0,
       "source": "Kotaku",
-      "summary": "The sequel that never truly came to be was announced in 2019"
+      "summary": "A third Jensen Huang affair is being reported"
     },
     {
-      "title": "8 huge story threads I still need Final Fantasy 7 Revelation to resolve",
-      "link": "https://www.gamesradar.com/games/final-fantasy/ff7-revelation-remake-biggest-story-narrative-threads-that-need-resolving/",
-      "pubDate": "12.11.2026 um 15:00 Uhr",
-      "timestamp": 1794495600.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "From Deepground to Glenn, will the FF7 Remake finale manage to tie up all the series' loose end?"
+      "title": "Xbox CEO Hints That The Solution To An Imploding Video Game Industry Is AI",
+      "link": "https://kotaku.com/xbox-ceo-hints-that-the-solution-to-an-imploding-video-game-industry-is-ai-2000756321",
+      "pubDate": "12.11.2026 um 20:15 Uhr",
+      "timestamp": 1794514501.0,
+      "source": "Kotaku",
+      "summary": "Happy birthday Xbox!"
     },
     {
-      "title": "Nvidia boss Jensen Huang resigns amid scandal surrounding two alleged affairs, interim CEO appointed as search for sexy leather jacket man's successor begins",
-      "link": "https://www.rockpapershotgun.com/nvidia-boss-jensen-huang-resigns-amid-scandal-surrounding-two-alleged-affairs-interim-ceo-appointed-as-search-for-sexy-leather-jacket-mans-successor-begins",
-      "pubDate": "12.11.2026 um 14:49 Uhr",
-      "timestamp": 1794494940.0,
+      "title": "‘Maybe We’ve Gone a Step Too Far’ — Ocarina of Time Remake Producer Reveals the Game's ReDeads Were Originally Supposed to Be Even Scarier",
+      "link": "https://www.ign.com/articles/maybe-weve-gone-a-step-too-far-ocarina-of-time-remake-producer-reveals-the-games-redeads-were-originally-supposed-to-be-even-scarier",
+      "pubDate": "12.11.2026 um 20:02 Uhr",
+      "timestamp": 1794513771.0,
+      "source": "IGN All",
+      "summary": "Producer Hidemaro Fujibayashi explained why the development team behind the Ocarina of Time Remake toned down the ReDeads to make them less scary."
+    },
+    {
+      "title": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+      "link": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
+      "pubDate": "12.11.2026 um 20:00 Uhr",
+      "timestamp": 1794513625.0,
+      "source": "IGN All",
+      "summary": "At Xbox's 25th anniversary celebration at its Fan Fest event in Seattle, id Software confirmed that it is working on a new game, wrapping up last year..."
+    },
+    {
+      "title": "Barbie Rewind, out now, invites you to take a trip down memory lane with a whole bunch of life in plastic classics, and one game that was previously unreleased",
+      "link": "https://www.rockpapershotgun.com/barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory-lane-with-a-whole-bunch-of-life-in-plastic-classics-and-one-game-that-was-previously-unreleased",
+      "pubDate": "12.11.2026 um 19:57 Uhr",
+      "timestamp": 1794513420.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Nvidia have ripped off the wax strip and are looking for a new CEO. Jensen Huang, he of the reported extramarital affairs with both a suspected Chines..."
+      "summary": "Is there a character not originally from a video game that has more games than Barbie? Maybe! I don't want to do any maths right now, but there aren't..."
     },
     {
-      "title": "All MW4 DMZ keys and where to use them",
-      "link": "https://www.gamesradar.com/games/call-of-duty/mw4-dmz-keys-locations/",
-      "pubDate": "12.11.2026 um 14:44 Uhr",
-      "timestamp": 1794494640.0,
+      "title": "As Nvidia CEO Jensen Huang Resigns, the Future of GeForce Hangs in the Balance",
+      "link": "https://www.ign.com/articles/as-nvidia-ceo-jensen-huang-resigns-the-future-of-geforce-hangs-in-the-balance",
+      "pubDate": "12.11.2026 um 19:56 Uhr",
+      "timestamp": 1794513407.0,
+      "source": "IGN All",
+      "summary": "After 33 years, Jensen Huang has resigned from Nvidia, following a scandal involving a suspected Chinese spy. And while this has all kinds of implicat..."
+    },
+    {
+      "title": "Paradox Interactive is getting a new boss as Fredrik Wester steps down for the second time",
+      "link": "https://www.pcgamer.com/gaming-industry/paradox-interactive-is-getting-a-new-boss-as-fredrik-wester-steps-down-for-the-second-time/",
+      "pubDate": "12.11.2026 um 19:52 Uhr",
+      "timestamp": 1794513139.0,
+      "source": "PCGamer latest",
+      "summary": "Deputy CEO Mattias Lilja is taking the reins in January."
+    },
+    {
+      "title": "Marvel’s Kevin Feige Breaks Silence on MCU Doctor Doom Being a Tony Stark Variant",
+      "link": "https://www.polygon.com/avengers-doomsday-doctor-doom-tony-start-variant-theory/",
+      "pubDate": "12.11.2026 um 19:50 Uhr",
+      "timestamp": 1794513053.0,
+      "source": "Polygon.com",
+      "summary": "Marvel Studios Kevin Feige has shot down the idea that Avengers Doomsday's Doctor Doom is a variant of Tony Stark."
+    },
+    {
+      "title": "Long-Lost Sonic Stage Play Shows Dr. Robotnik Try To Hook Up With Princess Sally",
+      "link": "https://kotaku.com/long-lost-sonic-stage-play-shows-dr-robotnik-try-to-hook-up-with-princess-sally-2000756308",
+      "pubDate": "12.11.2026 um 19:48 Uhr",
+      "timestamp": 1794512936.0,
+      "source": "Kotaku",
+      "summary": "Originally thought to be lost media, a recording of \"Sonic Live in Sydney\" performed at short-lived theme park Sega World Sydney has been recovered by..."
+    },
+    {
+      "title": "The Blood of Dawnwalker lifted the \"curse\" on the vampire genre, says Rebel Wolves boss",
+      "link": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-lifted-the-curse-on-the-vampire-genre-says-rebel-wolves-boss-we-already-have-ideas-how-to-expand-it/",
+      "pubDate": "12.11.2026 um 19:47 Uhr",
+      "timestamp": 1794512845.0,
       "source": "Latest from GamesRadar+",
-      "summary": "When you find and earn one of the many MW4 DMZ keys, here's where you need to go to use it"
+      "summary": "Rebel Wolves has \"even more crazy ideas\" up its sleeves"
+    },
+    {
+      "title": "AI Usage Up, PS6 and Xbox Helix Development Still Low in Newest GDC Dev Survey",
+      "link": "https://www.ign.com/articles/ai-usage-up-ps6-and-xbox-helix-development-still-low-in-newest-gdc-dev-survey",
+      "pubDate": "12.11.2026 um 19:37 Uhr",
+      "timestamp": 1794512268.0,
+      "source": "IGN All",
+      "summary": "GDC Festival of Gaming organizers released the data from their 15th annual game developer survey, the State of the Game Industry report. Over 2600 gam..."
     }
   ],
   "sim": [
+    {
+      "title": "Gran Turismo 7 Online Time Trial: To ɛ̃fini and Beyond",
+      "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-to-efini-and-beyond/",
+      "pubDate": "12.11.2026 um 20:07 Uhr",
+      "timestamp": 1794514053.0,
+      "source": "GTPlanet",
+      "summary": "The Mazda ɛ̃fini RX-7 Type R (FD) '91 heads to Watkins Glen's Long Course on Comfort Soft tires in this week's new Gran Turismo 7 Online Time Trial..."
+    },
+    {
+      "title": "Gran Turismo 7 Weekly Challenges: So FR, So Good",
+      "link": "https://www.gtplanet.net/gran-turismo-7-weekly-challenges-so-fr-so-good-20261112/",
+      "pubDate": "12.11.2026 um 17:41 Uhr",
+      "timestamp": 1794505278.0,
+      "source": "GTPlanet",
+      "summary": "This week's Gran Turismo 7 Weekly Challenges swap the usual one-make Special Event for a nine-lap Japanese FR race at Tsukuba, while a Gr..."
+    },
+    {
+      "title": "2026-27 eNASCAR College iRacing Series | Great Lakes Gauntlet at Michigan | Week 1 Recap",
+      "link": "https://www.iracing.com/2026-27-enascar-college-iracing-series-great-lakes-gauntlet-at-michigan-week-1-recap/",
+      "pubDate": "12.11.2026 um 16:30 Uhr",
+      "timestamp": 1794501027.0,
+      "source": "iRacing.com",
+      "summary": "100 students entered the first week of the Great Lakes Gauntlet—the fourth Tournament of the 2026-27 eNASCAR College iRacing Series presented by Logit..."
+    },
     {
       "title": "iRacing Weekly Tune-in | eSports & Community Events | November 11th to November 18th, 2026",
       "link": "https://www.iracing.com/iracing-weekly-tune-in-esports-community-events-november-11th-to-november-18th-2026/",
@@ -349,14 +373,6 @@
       "summary": "From November 3rd to November 8th, Over 180 eligible collegiate iRacers took to Michigan International Speedway in hopes of qualifying for the fourth ..."
     },
     {
-      "title": "Multi-Class Starts Coming to Four iRacing Series for 2026 Season 4",
-      "link": "https://www.iracing.com/multi-class-starts-coming-to-four-iracing-series-for-2026-season-4/",
-      "pubDate": "09.11.2026 um 16:00 Uhr",
-      "timestamp": 1794240008.0,
-      "source": "iRacing.com",
-      "summary": "After extensive testing and feedback from the community, multi-class starts are officially coming to some of iRacing’s premier Sports Car series for t..."
-    },
-    {
       "title": "Gran Turismo 7 Daily Races: Huracán Season",
       "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-huracan-season-20261109/",
       "pubDate": "09.11.2026 um 15:45 Uhr",
@@ -403,22 +419,6 @@
       "timestamp": 1793816532.0,
       "source": "GTPlanet",
       "summary": "Sony has pulled the PlayStation VR2 from its own store in the US and Japan with no explanation, raising questions about whether Gran Turismo's VR supp..."
-    },
-    {
-      "title": "Gran Turismo 7 Daily Races: Some ASM-bly Required",
-      "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-some-asm-bly-required-20261102/",
-      "pubDate": "02.11.2026 um 18:01 Uhr",
-      "timestamp": 1793642519.0,
-      "source": "GTPlanet",
-      "summary": "Three new GT7 Daily Races are live through November 9, headlined by an 11-lap, two-compound Gr..."
-    },
-    {
-      "title": "Forza Creator Dan Greenawalt to Retire From Microsoft After 27 Years",
-      "link": "https://www.gtplanet.net/forza-creator-dan-greenawalt-to-retire-from-microsoft-after-27-years-20261031/",
-      "pubDate": "31.10.2026 um 20:04 Uhr",
-      "timestamp": 1793477088.0,
-      "source": "GTPlanet",
-      "summary": "Dan Greenawalt, who pitched Forza Motorsport to Microsoft and founded Turn 10 Studios, is retiring after almost 27 years, weeks after Turn 10 was fold..."
     }
   ]
 }
