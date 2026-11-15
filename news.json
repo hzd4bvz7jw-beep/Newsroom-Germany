@@ -1,151 +1,239 @@
 {
   "de": [
     {
+      "title": "The Legend of Zelda: Ocarina of Time: ReDead sind im Remake die häufigste Game-Over-Ursache",
+      "link": "https://www.eurogamer.de/zelda-ocarina-of-time-statistiken",
+      "pubDate": "15.11.2026 um 13:30 Uhr",
+      "timestamp": 1794749400.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Zelda-Notes-App kennt ihr unter anderem schon aus Breath of the Wild und Tears of the Kingdom &ndash; beim Remake von The Legend of Zelda: Ocarina..."
+    },
+    {
+      "title": "Limited Run Games legt physische Switch-2-Version von Tomb Raider: Definitive Edition neu auf",
+      "link": "https://www.eurogamer.de/tomb-raider-definitive-edition-neuauflage",
+      "pubDate": "15.11.2026 um 12:30 Uhr",
+      "timestamp": 1794745800.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wenn ihr euch die Switch-2-Version von Tomb Raider: Definitive Edition als Handelsversion sichern m&ouml;chtet, habt ihr jetzt eine weitere Chance daz..."
+    },
+    {
+      "title": "League of Legends: New Dawn enthüllt – Riot krempelt 2027 Client, Map und Gameplay um",
+      "link": "https://www.eurogamer.de/league-of-legends-new-dawn-update",
+      "pubDate": "15.11.2026 um 11:30 Uhr",
+      "timestamp": 1794742200.0,
+      "source": "Eurogamer.de News",
+      "summary": "Beim Finale der LoL World Championship 2026 hat Riot Games offiziell League of Legends: New Dawn enth&uuml;llt. Mehr"
+    },
+    {
+      "title": "Mobilfunktarife: Wie viele GB Datenvolumen habt ihr bei welchem Anbieter?",
+      "link": "https://www.computerbase.de/news/internet/mobilfunktarife-wie-viele-gb-datenvolumen-habt-ihr-bei-welchem-anbieter.100334/",
+      "pubDate": "15.11.2026 um 12:00 Uhr",
+      "timestamp": 1794740400.0,
+      "source": "ComputerBase",
+      "summary": "Bei welchem Netzanbieter seid ihr in Deutschland, Österreich oder der Schweiz? Welche Art Tarif habt ihr abgeschlossen, kann der 5G, kommt er mit eine..."
+    },
+    {
+      "title": "World of WarCraft Forever: Neuer Hotfix streicht Dungeon-EP für Gruppen mit zu hohen Leveln",
+      "link": "https://www.eurogamer.de/world-of-warcraft-forever-dungeon-ep",
+      "pubDate": "15.11.2026 um 11:00 Uhr",
+      "timestamp": 1794740400.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nach dem Launch schraubt Blizzard an den Details in World of WarCraft Forever, unter anderem bei den Dungeons. Mehr"
+    },
+    {
+      "title": "Für einen Horror-Shooter musste ich meinen Gamer-Stolz herunterschlucken",
+      "link": "https://mein-mmo.de/gamer-stolz-runterschlucken-zu-harter-shooter/",
+      "pubDate": "15.11.2026 um 11:00 Uhr",
+      "timestamp": 1794740400.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteur Nikolas Hernes muss euch etwas beichten und parallel einen starken Horror-Shooter empfehlen. Der Beitrag Für einen Horror-Shooter mu..."
+    },
+    {
+      "title": "Rainbow Six Siege: Season 4 bringt Doc-Rework, Ranked-Umbau und Doom-Crossover",
+      "link": "https://www.eurogamer.de/rainbow-six-siege-season-4-update",
+      "pubDate": "15.11.2026 um 10:30 Uhr",
+      "timestamp": 1794738600.0,
+      "source": "Eurogamer.de News",
+      "summary": "In der Nacht hat Ubisoft Details zur kommenden Season 4 in Jahr 11 von Rainbow Six Siege enth&uuml;llt. Der Startschuss f&auml;llt am 1. Dezember 2026..."
+    },
+    {
+      "title": "Minecraft: Mojang arbeitet an Maus-Steuerung für die Nintendo Switch 2",
+      "link": "https://www.eurogamer.de/minecraft-switch-2-maus-steuerung",
+      "pubDate": "15.11.2026 um 10:00 Uhr",
+      "timestamp": 1794736800.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Nintendo-Switch-2-Version von Mojangs Minecraft soll in Zukunft ein Feature erhalten, das ihr bislang fehlt. Mehr"
+    },
+    {
+      "title": "GTA 6 könnte mich nicht weniger interessieren – Hier sind 5 Alternativen, die ihr im November zocken könnt",
+      "link": "https://mein-mmo.de/gta-6-alternativen-releases-november-2026/",
+      "pubDate": "15.11.2026 um 10:00 Uhr",
+      "timestamp": 1794736800.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Autorin Johanna interessiert sich nicht wirklich für GTA 6 und den kommenden Release. Stattdessen stellt sie euch Alternativen vor. Der Beitra..."
+    },
+    {
+      "title": "Grand Theft Auto 6: Komplette Tracklist des offiziellen Musikalbums vorab geleakt",
+      "link": "https://www.eurogamer.de/gta-6-album-tracklist-leak",
+      "pubDate": "15.11.2026 um 09:00 Uhr",
+      "timestamp": 1794733200.0,
+      "source": "Eurogamer.de News",
+      "summary": "Wenige Tage vor dem Launch von Grand Theft Auto 6 ist offenbar die komplette Tracklist des offiziellen Begleitalbums geleakt. Mehr"
+    },
+    {
+      "title": "Nach 2 Jahren habe ich alle 7 Dragon Balls gesammelt, musste dafür nur 3 Stunden den größten Betrüger verkloppen",
+      "link": "https://mein-mmo.de/dragon-ball-erfolg-kugel-satan-verkloppen/",
+      "pubDate": "15.11.2026 um 09:00 Uhr",
+      "timestamp": 1794733200.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteur Nikolas Hernes hat sich endlich an einen Erfolg gewagt, den er 2 Jahre vor sich hin geschoben hat. Der Beitrag Nach 2 Jahren habe ic..."
+    },
+    {
+      "title": "Magic: The Gathering: Netflix enthüllt Serien-Titel Planeswalker und zeigt ersten Teaser",
+      "link": "https://www.eurogamer.de/magic-the-gathering-planeswalker-netflix-teaser",
+      "pubDate": "15.11.2026 um 08:02 Uhr",
+      "timestamp": 1794729720.0,
+      "source": "Eurogamer.de News",
+      "summary": "Netflix' lang erwartete Animationsserie zu Magic: The Gathering tr&auml;gt den Namen Planeswalker und erscheint im Jahr 2027. Mehr"
+    },
+    {
+      "title": "Pioner: Early-Access-Shooter vor dem Aus, Verkauf läuft weiter",
+      "link": "https://www.computerbase.de/news/gaming/pioner-early-access-shooter-vor-dem-aus-verkauf-laeuft-weiter.100332/",
+      "pubDate": "15.11.2026 um 09:00 Uhr",
+      "timestamp": 1794729600.0,
+      "source": "ComputerBase",
+      "summary": "Elf Monate nach dem Early-Access-Start steht Pioner vor dem Ende. Entwickler GFAGames hat die Arbeit an dem postapokalyptischen Shooter eingestellt un..."
+    },
+    {
+      "title": "Ich habe nach vielen Jahren gelernt, warun man seinen PC neustarten sollte anstatt ihn auszuschalten",
+      "link": "https://mein-mmo.de/nach-jahren-gelernt-pc-neustarten-anstatt-auszuschalten/",
+      "pubDate": "15.11.2026 um 08:00 Uhr",
+      "timestamp": 1794729600.0,
+      "source": "Mein-MMO",
+      "summary": "Viele schalten ihren PC einfach aus. Benedikt hat jetzt gelernt, dass es einen Grund gibt, warum der Neustart oft besser ist. Der Beitrag Ich habe nac..."
+    },
+    {
+      "title": "Wochenrück- und Ausblick: Erst redet AMD über Zen 6, dann muss Jensen gehen",
+      "link": "https://www.computerbase.de/news/in-eigener-sache/wochenrueckblick-und-ausblick-2026-w46.100323/",
+      "pubDate": "15.11.2026 um 08:00 Uhr",
+      "timestamp": 1794726000.0,
+      "source": "ComputerBase",
+      "summary": "Im Fokus der Woche stand AMDs Vorstellung der professionellen Zen-6-CPUs der Epyc-Serie. Wir haben die technischen Details zusammengefasst. Die IPC wi..."
+    },
+    {
+      "title": "Einen besonders hässlichen Dämon in Warhammer 40.000 sollte man niemals töten, denn dann wird alles nur noch schlimmer",
+      "link": "https://mein-mmo.de/warhammer-beast-of-nurgle-zu-freundlich/",
+      "pubDate": "15.11.2026 um 07:00 Uhr",
+      "timestamp": 1794726000.0,
+      "source": "Mein-MMO",
+      "summary": "Die Schleimbestien aus Warhammer sind hässlich – und viel zu freundlich. Zumindest bis zu ihrem Tod. Ab da werden sie richtig schlimm. Der Beitrag Ein..."
+    },
+    {
+      "title": "5 Gründe, warum WoW Forever das aktuell beste MMORPG ist und alle anderen davon lernen müssen",
+      "link": "https://mein-mmo.de/wow-forever-gruende-beste-mmorpg/",
+      "pubDate": "15.11.2026 um 06:03 Uhr",
+      "timestamp": 1794722639.0,
+      "source": "Mein-MMO",
+      "summary": "Hinter dem Erfolg von WoW: Forever steckt mehr als nur Nostalgie. MeinMMO-Redakteur Karsten Scholz analysiert die Stärken des MMORPGs. Der Beitrag 5 G..."
+    },
+    {
       "title": "KI in der Spieleentwicklung: 40 Prozent nutzen sie, 55 Prozent sehen sie kritisch",
       "link": "https://www.computerbase.de/news/wirtschaft/ki-in-der-spieleentwicklung-40-prozent-nutzen-sie-55-prozent-sehen-sie-kritisch.100333/",
       "pubDate": "15.11.2026 um 06:00 Uhr",
       "timestamp": 1794718800.0,
       "source": "ComputerBase",
       "summary": "Ob Recherche, Programmcode oder erste Entwürfe: Generative KI gehört in der Spielebranche zunehmend zum Arbeitsalltag. Begeisterung löst sie dennoch s..."
-    },
-    {
-      "title": "Quake 4: Verschollenes Add-on jetzt als Kampagne spielbar",
-      "link": "https://www.computerbase.de/news/gaming/quake-4-verschollenes-add-on-jetzt-als-kampagne-spielbar.100326/",
-      "pubDate": "14.11.2026 um 21:33 Uhr",
-      "timestamp": 1794688380.0,
-      "source": "ComputerBase",
-      "summary": "Im August tauchte auf der Festplatte eines gebraucht gekauften Computers die fast fertiggestellte Erweiterung The Awakening für Quake 4 auf. Jetzt läs..."
-    },
-    {
-      "title": "So geht es an Tag 2 in der Pokémon GO Naturzone 2026 weiter",
-      "link": "https://mein-mmo.de/pokemon-go-naturzone-2026-tag-2/",
-      "pubDate": "14.11.2026 um 17:00 Uhr",
-      "timestamp": 1794675600.0,
-      "source": "Mein-MMO",
-      "summary": "Der erste Tag der Naturzone 2026 in Pokémon GO ist vorbei. Doch auch am Sonntag geht es mit vielen Inhalten weiter. Der Beitrag So geht es an Tag 2 in..."
-    },
-    {
-      "title": "Astro Bot: Erstes PS5-exklusives Spiel mit inoffiziellem PC-Port",
-      "link": "https://www.computerbase.de/news/gaming/astro-bot-erstes-ps5-exklusives-spiel-mit-inoffiziellem-pc-port.100330/",
-      "pubDate": "14.11.2026 um 17:00 Uhr",
-      "timestamp": 1794672000.0,
-      "source": "ComputerBase",
-      "summary": "Astro Bot, das Spiel des Jahres 2024, läuft über einen inoffiziellen nativen Port unter Windows. Das PlayStation-5-Spiel wird dabei unter anderem um N..."
-    },
-    {
-      "title": "Robotaxi: Tesla bietet Cybercab für 30.000 US-Dollar zum Kauf an",
-      "link": "https://www.computerbase.de/news/mobilitaet/robotaxi-tesla-bietet-cybercab-fuer-30-000-us-dollar-zum-kauf-an.100331/",
-      "pubDate": "14.11.2026 um 16:29 Uhr",
-      "timestamp": 1794670140.0,
-      "source": "ComputerBase",
-      "summary": "Tesla bietet das vollständig autonome Cybercab ausgewählten Kunden erstmals zum Kauf an, nachdem es bislang nur für den Robotaxi-Dienst gemietet werde..."
-    },
-    {
-      "title": "5 Charaktere aus Star Wars, die Obi-Wan Kenobi im Kampf besiegt haben",
-      "link": "https://mein-mmo.de/5-charaktere-aus-star-wars-die-obi-wan-kenobi-im-kampf-besiegt-haben/",
-      "pubDate": "14.11.2026 um 13:00 Uhr",
-      "timestamp": 1794661200.0,
-      "source": "Mein-MMO",
-      "summary": "Obi-Wan Kenobi gehört zu den mächtigsten Charakteren aus Star Wars. Dennoch hat er im Verlauf seiner Karriere einige Niederlagen erlitten. Der Beitrag..."
-    },
-    {
-      "title": "Switch-Modchips: Nintendo lässt 144 Firmware-Repositories sperren",
-      "link": "https://www.computerbase.de/news/gaming/nintendo-vs-modchips-github-sperrt-144-firmware-repositories.100324/",
-      "pubDate": "14.11.2026 um 13:00 Uhr",
-      "timestamp": 1794657600.0,
-      "source": "ComputerBase",
-      "summary": "Nintendo geht mit einer neuen DMCA-Beschwerde gegen Firmware für Modchips der ersten Switch-Generation vor. GitHub hat daraufhin 144 Repositories rund..."
-    },
-    {
-      "title": "PS5: Sony verpasst sechs Spielen ein Grafik-Upgrade – ganz ohne Pro-Modell",
-      "link": "https://www.eurogamer.de/ps5-qssr-grafik-upgrade-spider-man-2-arc-raiders-control-resonant",
-      "pubDate": "14.11.2026 um 11:59 Uhr",
-      "timestamp": 1794657580.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wer eine PS5 besitzt, muss nicht unbedingt auf das teurere Pro-Modell umsteigen, um von moderner KI-Grafiktechnologie zu profitieren. Sechs weitere Sp..."
-    },
-    {
-      "title": "GTA 6: Rockstar veröffentlicht neuen Trailer – für eine Fernsehserie, die nur im Spiel existiert",
-      "link": "https://www.eurogamer.de/gta-6-macca-and-friends-zeichentrickserie-trailer-weazel",
-      "pubDate": "14.11.2026 um 11:48 Uhr",
-      "timestamp": 1794656900.0,
-      "source": "Eurogamer.de News",
-      "summary": "Rockstar Games macht inzwischen sogar Werbung f&uuml;r Fernsehserien, die es gar nicht gibt. Jedenfalls nicht au&szlig;erhalb von GTA 6. Wenige Tage v..."
-    },
-    {
-      "title": "Epic-Chef Tim Sweeney attackiert Steam: KI-Kennzeichnung sei ein „Brandmal“ für Entwickler",
-      "link": "https://www.eurogamer.de/epic-games-tim-sweeney-steam-ki-kennzeichnung-kritik",
-      "pubDate": "14.11.2026 um 11:37 Uhr",
-      "timestamp": 1794656220.0,
-      "source": "Eurogamer.de News",
-      "summary": "Wenn ein Spiel mit k&uuml;nstlicher Intelligenz entwickelt wurde, m&ouml;chte Steam seine Kunden dar&uuml;ber informieren. Eigentlich eine ziemlich ei..."
-    },
-    {
-      "title": "Nach 6-Finger-Menschen: Crimson-Desert-Entwickler setzen stärker auf KI",
-      "link": "https://www.computerbase.de/news/gaming/nach-6-finger-menschen-crimson-desert-entwickler-setzen-staerker-auf-ki.100329/",
-      "pubDate": "14.11.2026 um 12:00 Uhr",
-      "timestamp": 1794654000.0,
-      "source": "ComputerBase",
-      "summary": "6 Finger an einer Hand, Menschpferd als echte Einheit, – das und mehr fanden Spieler im Action-Rollenspiel Crimson Desert. Die Entwickler setzen trotz..."
-    },
-    {
-      "title": "Pokémon GO: Gigadynamax Duraludon besiegen – Welche Konter?",
-      "link": "https://mein-mmo.de/pokemon-go-gigadynamax-duraludon-besiegen-welche-konter/",
-      "pubDate": "14.11.2026 um 10:43 Uhr",
-      "timestamp": 1794653028.0,
-      "source": "Mein-MMO",
-      "summary": "In Pokémon GO läuft gerade die GO Naturzone, und mit ihr ist Gigadynamax Duraludon erschienen. Wie besiegt man das Monster? Der Beitrag Pokémon GO: Gi..."
-    },
-    {
-      "title": "KI-Upscaling: Sechs weitere PS5-Spiele erhalten schärfere Grafik dank QSSR",
-      "link": "https://www.computerbase.de/news/gaming/ki-upscaling-sechs-weitere-ps5-spiele-erhalten-schaerfere-grafik-dank-qssr.100325/",
-      "pubDate": "14.11.2026 um 11:35 Uhr",
-      "timestamp": 1794652500.0,
-      "source": "ComputerBase",
-      "summary": "Die Upscaling-Technik Quick Spectral Super Resolution, kurz QSSR, hält in weiteren Spielen für die PlayStation 5 Einzug. Sony verkündet, dass (bald) a..."
-    },
-    {
-      "title": "Neue DHL-Tarife: Das Päckchen wird auf- und abgewertet, fast alles wird teurer",
-      "link": "https://www.computerbase.de/news/wirtschaft/neue-dhl-tarife-das-paeckchen-wird-auf-und-abgewertet-fast-alles-wird-teurer.100322/",
-      "pubDate": "14.11.2026 um 11:09 Uhr",
-      "timestamp": 1794650940.0,
-      "source": "ComputerBase",
-      "summary": "Ab dem kommenden Jahr sollen neue Preise für den Versand von Päckchen und Paketen mit DHL gelten. Bei der Frankierung in der Filiale wird alles teurer..."
-    },
-    {
-      "title": "Ein Shooter auf Steam könnte ARC Raiders als Überraschungshit beerben – und ist im November kostenlos spielbar",
-      "link": "https://mein-mmo.de/hunger-open-beta-und-ea-release-ankuendigung/",
-      "pubDate": "14.11.2026 um 09:45 Uhr",
-      "timestamp": 1794649500.0,
-      "source": "Mein-MMO",
-      "summary": "Der verheißungsvolle Shooter Hunger hat eine Open Beta angekündigt. Außerdem erscheint er noch dieses Jahr auf Steam. Mehr dazu auf MeinMMO. Der Beitr..."
-    },
-    {
-      "title": "MMORPG für Herr der Ringe verschenkt den Hexenkönig, wir haben den Coupon-Code für euch",
-      "link": "https://mein-mmo.de/mmorpg-news-rueckblick-der-woche-14-november-2026/",
-      "pubDate": "14.11.2026 um 09:39 Uhr",
-      "timestamp": 1794649159.0,
-      "source": "Mein-MMO",
-      "summary": "Das MeinMMO-Format „MMORPG-News in 5 Minuten“: Dieses Mal mit Geschenken in Mittelerde, Comebacks von MMO-Oldies und viel Forever. Der Beitrag MMORPG ..."
-    },
-    {
-      "title": "Blade Runner 2099: Produzenten der neuen Amazon-Serie stellen AAA-Videospiel in Aussicht",
-      "link": "https://www.eurogamer.de/blade-runner-aaa-spiel-alcon-entertainment-gespraeche",
-      "pubDate": "14.11.2026 um 09:30 Uhr",
-      "timestamp": 1794648630.0,
-      "source": "Eurogamer.de News",
-      "summary": "Neonlicht, Dauerregen, fliegende Autos und die Frage, ob unser Gegen&uuml;ber &uuml;berhaupt ein Mensch ist. Die Welt von Blade Runner bietet eigentli..."
-    },
-    {
-      "title": "GTA 6: Rockstar will erstmals Mitgefühl wecken – doch ihr dürft weiterhin Chaos anrichten",
-      "link": "https://www.eurogamer.de/gta-6-rockstar-mitgefuehl-empathie-entscheidungen",
-      "pubDate": "14.11.2026 um 09:06 Uhr",
-      "timestamp": 1794647200.0,
-      "source": "Eurogamer.de News",
-      "summary": "Mitgef&uuml;hl geh&ouml;rt in GTA traditionell nicht gerade zur Grundausstattung. Autos klauen, Passanten &uuml;berfahren und ganze Stra&szlig;enz&uum..."
     }
   ],
   "int": [
+    {
+      "title": "League of Legends: New Dawn is the Riot MOBA's next era: \"We want League to stand the test of time\"",
+      "link": "https://www.gamesradar.com/games/league-of-legends/after-17-years-league-of-legends-new-dawn-is-the-riot-mobas-next-era-we-want-league-to-stand-the-test-of-time/",
+      "pubDate": "15.11.2026 um 13:14 Uhr",
+      "timestamp": 1794748485.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We're updating a lot\""
+    },
+    {
+      "title": "7 Best Things About the Original Xbox That Aren't Halo, Ranked",
+      "link": "https://www.polygon.com/xbox-retrospective-best-things-besides-halo/",
+      "pubDate": "15.11.2026 um 13:00 Uhr",
+      "timestamp": 1794747618.0,
+      "source": "Polygon.com",
+      "summary": "We celebrate the original Xbox for introducing Halo, but the hardware and its software library offered plenty of other attractions worth remembering."
+    },
+    {
+      "title": "Star Wars: Fate of the Old Republic director Casey Hudson teases \"new announcements\" next year",
+      "link": "https://www.gamesradar.com/games/rpg/star-wars-fate-of-the-old-republic-director-casey-hudson-says-therell-be-new-announcements-about-the-kotor-successor-next-year/",
+      "pubDate": "15.11.2026 um 12:39 Uhr",
+      "timestamp": 1794746379.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"We work at a very brisk pace\""
+    },
+    {
+      "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+      "link": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/",
+      "pubDate": "15.11.2026 um 12:33 Uhr",
+      "timestamp": 1794746026.0,
+      "source": "PCGamer latest",
+      "summary": "Everything including 'creating and deleting single-player characters' can be done without touching the web."
+    },
+    {
+      "title": "Stardew Valley Meets Night in the Woods in One of 2026's Scariest New Games",
+      "link": "https://www.polygon.com/village-in-the-shade-new-farm-sim-horror-game/",
+      "pubDate": "15.11.2026 um 12:00 Uhr",
+      "timestamp": 1794744017.0,
+      "source": "Polygon.com",
+      "summary": "Village in the Shade is a horror farm sim that digs deep into the horrors of community life"
+    },
+    {
+      "title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+      "link": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/",
+      "pubDate": "15.11.2026 um 11:27 Uhr",
+      "timestamp": 1794742061.0,
+      "source": "PCGamer latest",
+      "summary": "A new studio overseen by \"key members\" of the Chronicles team will finish the historical strategy."
+    },
+    {
+      "title": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
+      "link": "https://www.polygon.com/jamie-lannisters-best-game-of-thrones-quote-is-an-all-time-fantasy-hit/",
+      "pubDate": "15.11.2026 um 11:00 Uhr",
+      "timestamp": 1794740417.0,
+      "source": "Polygon.com",
+      "summary": "'Game of Thrones' has plenty of iconic quotes. But Jamie Lannister's best sums up his downfall."
+    },
+    {
+      "title": "7 Decades Later, the Most Satisfying Movie of All Time Is Free on YouTube",
+      "link": "https://www.polygon.com/12-angry-men-free-youtube/",
+      "pubDate": "15.11.2026 um 10:00 Uhr",
+      "timestamp": 1794736817.0,
+      "source": "Polygon.com",
+      "summary": "Sidney Lumet’s 12 Angry Men is one of the best, simplest films ever made and its free to stream on YouTube"
+    },
+    {
+      "title": "25 Funniest 'Peanuts' Comics from the 1960s That Prove Charles M. Schulz Is Unbeatable",
+      "link": "https://www.polygon.com/funniest-peanuts-comics-1960s/",
+      "pubDate": "15.11.2026 um 09:00 Uhr",
+      "timestamp": 1794733217.0,
+      "source": "Polygon.com",
+      "summary": "In 1964, Charles Schulz told a 25-part story that was some of his best work"
+    },
+    {
+      "title": "I Can't Wait to Ignore the Main Story of GTA 6",
+      "link": "https://www.polygon.com/gta-6-main-story-side-activities/",
+      "pubDate": "15.11.2026 um 08:00 Uhr",
+      "timestamp": 1794729617.0,
+      "source": "Polygon.com",
+      "summary": "GTA 6's side activities like mini-golf, parachuting, and working out sound more fun than stealing cars and getting chased by the cops"
+    },
+    {
+      "title": "The most annoying questgivers in PC games",
+      "link": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
+      "pubDate": "15.11.2026 um 07:21 Uhr",
+      "timestamp": 1794727300.0,
+      "source": "PCGamer latest",
+      "summary": "The XP isn't worth it."
+    },
     {
       "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
       "link": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
@@ -169,54 +257,6 @@
       "timestamp": 1794712457.0,
       "source": "Polygon.com",
       "summary": "The latest Tomb Raider remake gameplay deep dive gives a look at controversial RPG elements in Legacy of Atlantis"
-    },
-    {
-      "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
-      "pubDate": "15.11.2026 um 03:00 Uhr",
-      "timestamp": 1794711627.0,
-      "source": "Polygon.com",
-      "summary": "The Legend of Zelda: Ocarina of Time is a good reminder that the Zelda universe has more great villains than Ganon."
-    },
-    {
-      "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
-      "link": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
-      "pubDate": "15.11.2026 um 02:00 Uhr",
-      "timestamp": 1794708017.0,
-      "source": "Polygon.com",
-      "summary": "Wright left Ant-Man in 2015, citing differences with Marvel. Here’s how his film would have been different"
-    },
-    {
-      "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
-      "link": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
-      "pubDate": "15.11.2026 um 01:36 Uhr",
-      "timestamp": 1794706577.0,
-      "source": "Polygon.com",
-      "summary": "Stephen King fans rejoice: a Lovecraftian crime-thriller epic is on the way with Crouch End, a new miniseries from Prime Video."
-    },
-    {
-      "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
-      "link": "https://www.polygon.com/co-op-games-real-life-schedules/",
-      "pubDate": "15.11.2026 um 01:00 Uhr",
-      "timestamp": 1794704417.0,
-      "source": "Polygon.com",
-      "summary": "Short on time but ready to game? These 10 co-op games range from one-level sessions to month-long campaigns, from Overcooked! to Gears of War: E-Day."
-    },
-    {
-      "title": "Nintendo Officially Reveals New Kirby Game for Switch 2",
-      "link": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
-      "pubDate": "15.11.2026 um 00:19 Uhr",
-      "timestamp": 1794701957.0,
-      "source": "Polygon.com",
-      "summary": "Kirby and the World Beyond is coming to Nintendo Switch 2 in 2027"
-    },
-    {
-      "title": "Calvin and Hobbes’ 5 Greatest Spaceman Spiff Comic Strips",
-      "link": "https://www.polygon.com/calvin-hobbes-best-spaceman-spiff-comics/",
-      "pubDate": "15.11.2026 um 00:00 Uhr",
-      "timestamp": 1794700817.0,
-      "source": "Polygon.com",
-      "summary": "The best Spaceman Spiff comics in Calvin and Hobbes turn boring school days into dazzling sci-fi adventures, showcasing Bill Watterson’s imagination."
     },
     {
       "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
@@ -249,46 +289,6 @@
       "timestamp": 1794697209.0,
       "source": "IGN All",
       "summary": "The full track list for Grand Theft Auto VI: The Album seems to have leaked online just days before GTA 6's launch."
-    },
-    {
-      "title": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
-      "link": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
-      "pubDate": "14.11.2026 um 22:53 Uhr",
-      "timestamp": 1794696780.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "If a game is about cooking, at minimum I'll have to give it a quick testspin. Outside of this whole writing about video games thing, my other lot in l..."
-    },
-    {
-      "title": "WoW: Forever dungeon mobs no longer give EXP if they're trivial for anyone in the party",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/",
-      "pubDate": "14.11.2026 um 22:17 Uhr",
-      "timestamp": 1794694639.0,
-      "source": "PCGamer latest",
-      "summary": "No more calling on your high-level buddy for a boost."
-    },
-    {
-      "title": "League of Legends: New Dawn Unveiled With Debut Trailer, Riot Announces Major Overhaul Coming in 2027",
-      "link": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027",
-      "pubDate": "14.11.2026 um 22:05 Uhr",
-      "timestamp": 1794693938.0,
-      "source": "IGN All",
-      "summary": "At the 2026 League of Legends World Championship Finals, Riot Games officially unveiled League of Legends: New Dawn. The large-scale update is schedul..."
-    },
-    {
-      "title": "Long-Lost, Self-Deleting Pokémon Fishing Game For Nintendo DS Resurfaces 20 Years Later",
-      "link": "https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876",
-      "pubDate": "14.11.2026 um 21:47 Uhr",
-      "timestamp": 1794692852.0,
-      "source": "Kotaku",
-      "summary": "PokéPark: Fishing Rally was only available at a Japanese theme park in 2005, with one collector now boasting what's believed to be the lone playable h..."
-    },
-    {
-      "title": "Resident Evil Requiem Star Hopes Grace Ashcroft Has 'a Long Way to Go' Even if She Won't 'Ever Be a Leon Character'",
-      "link": "https://www.ign.com/articles/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-way-to-go-even-if-she-wont-ever-be-a-leon-character",
-      "pubDate": "14.11.2026 um 21:31 Uhr",
-      "timestamp": 1794691881.0,
-      "source": "IGN All",
-      "summary": "Grace Ashcroft actress Angela Sant'Albano doesn't think her Resident Evil Requiem hero will \"ever be a Leon character,\" but she's still hoping \"there'..."
     }
   ],
   "sim": [
