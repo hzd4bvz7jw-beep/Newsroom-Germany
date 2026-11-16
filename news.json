@@ -1,6 +1,22 @@
 {
   "de": [
     {
+      "title": "Eine mysteriöse Figur aus Herr der Ringe fehlte in den Filmen – Ein Tolkien-Experte erklärt, was es wirklich mit ihm auf sich hat",
+      "link": "https://mein-mmo.de/herr-der-ringe-tom-bombadil-tolkien-experte-erklaert/",
+      "pubDate": "16.11.2026 um 05:00 Uhr",
+      "timestamp": 1794805200.0,
+      "source": "Mein-MMO",
+      "summary": "Tom Bombadil ist eine der mysteriösesten Figuren aus Herr der Ringe. Doch was steckt hinter dem fröhlichen Mann aus dem Wald? Der Beitrag Eine mysteri..."
+    },
+    {
+      "title": "WoW Forever ändert Dungeon-XP erneut, wählt eure Mitspieler weise",
+      "link": "https://mein-mmo.de/wow-forever-dungeon-xp-wieder-geaendert/",
+      "pubDate": "16.11.2026 um 04:30 Uhr",
+      "timestamp": 1794803400.0,
+      "source": "Mein-MMO",
+      "summary": "Dungeon-XP in WoW Forever sind verwirrend. Mal gibt es mehr XP, mal weniger – eine neue Regel soll nun Klarheit schaffen. Der Beitrag WoW Forever ände..."
+    },
+    {
       "title": "30 Jahre ICQ: Als ein „Uh-oh“ das Internet eroberte",
       "link": "https://www.computerbase.de/news/apps/30-jahre-icq-als-ein-uh-oh-das-internet-eroberte.100342/",
       "pubDate": "15.11.2026 um 20:00 Uhr",
@@ -127,32 +143,80 @@
       "timestamp": 1794753840.0,
       "source": "ComputerBase",
       "summary": "Microsoft hat mit der Modernisierung älterer Dialogfenster in Windows 11 begonnen. Den Auftakt bildet AutoPlay mit überarbeiteter Oberfläche und dauer..."
-    },
-    {
-      "title": "Resident Evil Requiem: Darstellerin hofft auf Zukunft für Grace, sieht in ihr aber keinen Leon",
-      "link": "https://www.eurogamer.de/resident-evil-requiem-grace-ashcroft-zukunft",
-      "pubDate": "15.11.2026 um 14:30 Uhr",
-      "timestamp": 1794753000.0,
-      "source": "Eurogamer.de News",
-      "summary": "Angela Sant'Albano, die Darstellerin von Grace Ashcroft in Resident Evil Requiem, hofft darauf, dass vor dem Charakter \"noch ein langer Weg liegt\". Me..."
-    },
-    {
-      "title": "Unbefugter Zugriff auf Android-Galerie: Meta in Italien zu einer Strafe von 805 Mio. Euro verurteilt",
-      "link": "https://www.computerbase.de/news/apps/unbefugter-zugriff-auf-android-galerie-meta-in-italien-zu-einer-strafe-von-805-mio-euro-verurteilt.100336/",
-      "pubDate": "15.11.2026 um 14:53 Uhr",
-      "timestamp": 1794750780.0,
-      "source": "ComputerBase",
-      "summary": "Weil Facebook ohne ausreichende Einwilligung auf Fotos und Videos von Android-Smartphones zugegriffen haben soll, verhängt Italien gegen Meta eine Str..."
     }
   ],
   "int": [
     {
-      "title": "Tom Cruise's Favorite Director's Breakout Action Thriller Is Officially Free to Stream",
-      "link": "https://www.polygon.com/way-of-gun-movie-streaming-free-november-2026/",
-      "pubDate": "15.11.2026 um 23:00 Uhr",
-      "timestamp": 1794783617.0,
+      "title": "5 Funniest 'Peanuts' Comics About Dogs",
+      "link": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs/",
+      "pubDate": "16.11.2026 um 05:00 Uhr",
+      "timestamp": 1794805217.0,
       "source": "Polygon.com",
-      "summary": "Watch it while doing your favorite man dance"
+      "summary": "These five comic strips starry Peanuts star Snoopy are all about the life of a dog"
+    },
+    {
+      "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
+      "link": "https://www.polygon.com/black-mirror-season-8-update-netflix/",
+      "pubDate": "16.11.2026 um 04:20 Uhr",
+      "timestamp": 1794802817.0,
+      "source": "Polygon.com",
+      "summary": "Black Mirror's eighth season is currently in production for Netflix, with series creator Charlie Brooker returning to write and produce."
+    },
+    {
+      "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
+      "link": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype/",
+      "pubDate": "16.11.2026 um 04:00 Uhr",
+      "timestamp": 1794801617.0,
+      "source": "Polygon.com",
+      "summary": "Dune, Doom, and all the other theatrical sci-fi blockbusters headed to the big screen."
+    },
+    {
+      "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
+      "link": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars/",
+      "pubDate": "16.11.2026 um 03:09 Uhr",
+      "timestamp": 1794798557.0,
+      "source": "Polygon.com",
+      "summary": "Marvel revisits the Secret Wars event in new Incursion series with the X-Men and Fantastic Four ahead of Avengers: Doomsday"
+    },
+    {
+      "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
+      "link": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked/",
+      "pubDate": "16.11.2026 um 02:49 Uhr",
+      "timestamp": 1794797378.0,
+      "source": "Polygon.com",
+      "summary": "Not all The Legend of Zelda: Ocarina of Time bosses are equal. We've ranked all boss fights by challenge, design, and excitement."
+    },
+    {
+      "title": "David Tennant Officially Returns to Doctor Who in 2027",
+      "link": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027/",
+      "pubDate": "16.11.2026 um 02:01 Uhr",
+      "timestamp": 1794794478.0,
+      "source": "Polygon.com",
+      "summary": "David Tennant is reprising his role as the Tenth Doctor in a new 12-part audio drama series, Doctor Who — The Tenth Doctor and Rani ."
+    },
+    {
+      "title": "Halo Defined a Generation of LAN Parties — Then It Killed Them",
+      "link": "https://www.polygon.com/halo-combat-evolve-lan-party-memories/",
+      "pubDate": "16.11.2026 um 02:00 Uhr",
+      "timestamp": 1794794417.0,
+      "source": "Polygon.com",
+      "summary": "As Xbox and Halo turn 25, a look back at the chaotic LAN parties that made multiplayer unforgettable — and how Halo 2 helped make gathering optional."
+    },
+    {
+      "title": "Extremely Rare Pokémon Game Found 20 Years Later",
+      "link": "https://www.polygon.com/pokemon-pokepark-fishing-rally-ds-found/",
+      "pubDate": "16.11.2026 um 00:59 Uhr",
+      "timestamp": 1794790793.0,
+      "source": "Polygon.com",
+      "summary": "PSA Video Games confirms that a collector has unearthed a playable copy of PokéPark Fishing Rally DS, a previously lost piece of Pokémon history."
+    },
+    {
+      "title": "Jensen Huang Reportedly Weighing Return as Nvidia CEO With Allies",
+      "link": "https://www.ign.com/articles/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-allies",
+      "pubDate": "15.11.2026 um 23:53 Uhr",
+      "timestamp": 1794786815.0,
+      "source": "IGN All",
+      "summary": "Jensen Huang has reportedly had discussions with his allies about a potential return as Nvidia's CEO just days after reports of affairs with an allege..."
     },
     {
       "title": "Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'",
@@ -179,14 +243,6 @@
       "summary": ""
     },
     {
-      "title": "Prime Video's Near-Perfect Game of Thrones Replacement Officially Arrives in 2 Months",
-      "link": "https://www.polygon.com/blood-axe-prime-video-episode-1-review/",
-      "pubDate": "15.11.2026 um 21:25 Uhr",
-      "timestamp": 1794777925.0,
-      "source": "Polygon.com",
-      "summary": "Time to start sharpening your bloodaxe..."
-    },
-    {
       "title": "Halifax Parents Hoping To Reverse Nine-Year-Old’s $20,000 Roblox Bill",
       "link": "https://kotaku.com/halifax-parents-hoping-to-reverse-nine-year-olds-20000-roblox-bill-2000757111",
       "pubDate": "15.11.2026 um 21:15 Uhr",
@@ -203,22 +259,6 @@
       "summary": "Microsoft has revealed three new nostalgic Xbox console boot-up options for Xbox Series X/S and Xbox One as part of a new update for the brand's 25th ..."
     },
     {
-      "title": "Zelda: Ocarina of Time’s No. 1 cause of death officially revealed",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-mobile-app-deaths/",
-      "pubDate": "15.11.2026 um 20:20 Uhr",
-      "timestamp": 1794774050.0,
-      "source": "Polygon.com",
-      "summary": "The most modern thing about the Zelda remake might just be its mobile app."
-    },
-    {
-      "title": "17 Years Ago, the Longest Running Sci-Fi Show Flipped Its Core Concept On Its Head",
-      "link": "https://www.polygon.com/doctor-who-the-waters-of-mars-17th-anniversary-retrospective/",
-      "pubDate": "15.11.2026 um 20:00 Uhr",
-      "timestamp": 1794772818.0,
-      "source": "Polygon.com",
-      "summary": "David Tennant is king when it comes to giving complex performances. His best is in the Doctor Who episode 'The Water of Mars.'"
-    },
-    {
       "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
       "link": "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
       "pubDate": "15.11.2026 um 19:41 Uhr",
@@ -227,44 +267,12 @@
       "summary": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first."
     },
     {
-      "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
-      "link": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date/",
-      "pubDate": "15.11.2026 um 19:00 Uhr",
-      "timestamp": 1794769217.0,
-      "source": "Polygon.com",
-      "summary": "Monster Hunter Wilds is coming to Switch 2, just in time for the holiday season. And it's also a cool 25% off ahead of launch."
-    },
-    {
-      "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
-      "link": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get/",
-      "pubDate": "15.11.2026 um 18:41 Uhr",
-      "timestamp": 1794768090.0,
-      "source": "Polygon.com",
-      "summary": "Thanks to animal studies and RNG-based achievements, completionists will have to spend hundreds of hours in Grand Theft Auto 6 to 100% the game."
-    },
-    {
-      "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
-      "pubDate": "15.11.2026 um 18:38 Uhr",
-      "timestamp": 1794767881.0,
-      "source": "Polygon.com",
-      "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season."
-    },
-    {
       "title": "Mass Effect Fans Send Protest Cupcakes To EA In Tribute To Movement That Successfully Altered Mass Effect 3 Ending",
       "link": "https://kotaku.com/mass-effect-fans-send-protest-cupcakes-to-ea-in-tribute-to-movement-that-successfully-altered-mass-effect-3-ending-2000757106",
       "pubDate": "15.11.2026 um 18:33 Uhr",
       "timestamp": 1794767620.0,
       "source": "Kotaku",
       "summary": "After trying to reverse course with petitions, billboards and lawmakers, the 'Save Mass Effect' movement is resorting to a new tactic: baked goods"
-    },
-    {
-      "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules",
-      "link": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
-      "pubDate": "15.11.2026 um 18:00 Uhr",
-      "timestamp": 1794765618.0,
-      "source": "Polygon.com",
-      "summary": "Busy schedule with no time to game?  These eight open-world RPGs fit into short sessions, one quest or shrine at a time."
     },
     {
       "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
@@ -281,14 +289,6 @@
       "timestamp": 1794764860.0,
       "source": "Eurogamer.net News",
       "summary": "Police have arrested a suspect after a drive-by shooting at an office campus in Tustin, California, which is home to Xbox-owned studio inXile Entertai..."
-    },
-    {
-      "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
-      "link": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client/",
-      "pubDate": "15.11.2026 um 17:45 Uhr",
-      "timestamp": 1794764748.0,
-      "source": "PCGamer latest",
-      "summary": "\"We want League to stand the test of time.\""
     }
   ],
   "sim": [
