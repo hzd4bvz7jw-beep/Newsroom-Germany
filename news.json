@@ -1,6 +1,46 @@
 {
   "de": [
     {
+      "title": "Endlich ein Lichtblick: NAND-Flash soll 2027 wieder günstiger werden",
+      "link": "https://www.computerbase.de/news/wirtschaft/endlich-ein-lichtblick-nand-flash-soll-2027-wieder-guenstiger-werden.100419/",
+      "pubDate": "20.11.2026 um 07:00 Uhr",
+      "timestamp": 1795154400.0,
+      "source": "ComputerBase",
+      "summary": "Die Marktforscher von TrendForce gehen davon aus, dass die Preise für NAND-Flash ab dem kommenden Jahr wieder sinken werden. Das liege an einem starke..."
+    },
+    {
+      "title": "5 Dinge, die jedes MMORPG dringend von GTA 6 lernen muss",
+      "link": "https://mein-mmo.de/gta-6-was-mmorpgs-von-der-open-world-lernen-muessen/",
+      "pubDate": "20.11.2026 um 05:56 Uhr",
+      "timestamp": 1795154211.0,
+      "source": "Mein-MMO",
+      "summary": "GTA 6 hebt die Messlatte für Open Worlds in Spielen deutlich an. Unser MMORPG-Experte Karsten ist neidisch, aus Gründen. Der Beitrag 5 Dinge, die jede..."
+    },
+    {
+      "title": "Assetto Corsa Rally: Elchtest mit Lancia in XeSS 3, DLSS 5 und FSR 4",
+      "link": "https://www.computerbase.de/news/gaming/assetto-corsa-rally-elchtest-mit-lancia-in-xess-3-dlss-5-und-fsr-4.100420/",
+      "pubDate": "20.11.2026 um 06:30 Uhr",
+      "timestamp": 1795152600.0,
+      "source": "ComputerBase",
+      "summary": "Das Update 0.7 von Assetto Corsa Rally bringt zwei neue Lancia-Fahrzeuge aus der ehemaligen Gruppe B und der geplanten Gruppe S. Die Rallye Schweden e..."
+    },
+    {
+      "title": "Lenovo Legion Go Beam: Leak zeigt Handheld ohne Touchpad",
+      "link": "https://www.computerbase.de/news/gaming/lenovo-legion-go-beam-leak-zeigt-handheld-ohne-touchpad.100410/",
+      "pubDate": "20.11.2026 um 06:00 Uhr",
+      "timestamp": 1795150800.0,
+      "source": "ComputerBase",
+      "summary": "Lenovo könnte seine Legion-Go-Reihe um ein günstigeres Modell ergänzen. Auf ersten Bildern des bislang unangekündigten Legion Go Beam sind fest integr..."
+    },
+    {
+      "title": "Das beste Gefühl in WoW ist nicht der Drop von Beute, sondern etwas ganz Banales",
+      "link": "https://mein-mmo.de/wow-forever-das-beste-gefuehl/",
+      "pubDate": "20.11.2026 um 04:30 Uhr",
+      "timestamp": 1795149000.0,
+      "source": "Mein-MMO",
+      "summary": "Okay, sind wir ehrlich: Alle WoW-Spieler wissen schon, um welches Gefühl es geht. Denn wir arbeiten häufig exakt darauf hin. Der Beitrag Das beste Gef..."
+    },
+    {
       "title": "Xbox Series S|X: Neuer Compiler soll bis zu 16 Prozent mehr Leistung bringen",
       "link": "https://www.computerbase.de/news/gaming/xbox-series-s-x-neuer-compiler-soll-bis-zu-16-prozent-mehr-leistung-bringen.100406/",
       "pubDate": "19.11.2026 um 21:16 Uhr",
@@ -17,20 +57,20 @@
       "summary": "GTA 6 ist beste, teuerste, größte Spiel aller Zeiten und hat zum Launch auch Twitch  erobert. Doch ein Streamer hält wacker die Stellung. Der Beitrag ..."
     },
     {
-      "title": "Eine der schlechtesten Serien von Marvel zeigte eine übermächtige Heldin, die wir vielleicht niemals wiedersehen werden",
-      "link": "https://mein-mmo.de/marvel-secret-invasion-maechtige-heldin/",
-      "pubDate": "19.11.2026 um 19:00 Uhr",
-      "timestamp": 1795114800.0,
-      "source": "Mein-MMO",
-      "summary": "Eine kontroverse Serie von Marvel hat nicht nur Nick Fury in den Vordergrund gepackt, sie führte eine mächtige Figur ein. Der Beitrag Eine der schlech..."
-    },
-    {
       "title": "In WoW Forever gibt es eine verbotene Zone, die ihr nicht besuchen sollt – Ich war trotzdem drin",
       "link": "https://mein-mmo.de/wow-forever-gilneas/",
       "pubDate": "19.11.2026 um 19:00 Uhr",
       "timestamp": 1795114800.0,
       "source": "Mein-MMO",
       "summary": "Haie halten euch davon ab, Gilneas in WoW Forever zu besuchen. Nur gegen Geister können die nichts ausrichten! Der Beitrag In WoW Forever gibt es eine..."
+    },
+    {
+      "title": "Eine der schlechtesten Serien von Marvel zeigte eine übermächtige Heldin, die wir vielleicht niemals wiedersehen werden",
+      "link": "https://mein-mmo.de/marvel-secret-invasion-maechtige-heldin/",
+      "pubDate": "19.11.2026 um 19:00 Uhr",
+      "timestamp": 1795114800.0,
+      "source": "Mein-MMO",
+      "summary": "Eine kontroverse Serie von Marvel hat nicht nur Nick Fury in den Vordergrund gepackt, sie führte eine mächtige Figur ein. Der Beitrag Eine der schlech..."
     },
     {
       "title": "Windows 7 lebt: Modder bringen RTX 50 und RX 9000 zum Laufen",
@@ -103,49 +143,129 @@
       "timestamp": 1795107616.0,
       "source": "Mein-MMO",
       "summary": "Die PSN-Server sind down und Spieler können GTA 6 nicht starten. MeinMMO ist für euch live dabei und hält euch auf dem Laufenden. Der Beitrag PSN Down..."
-    },
-    {
-      "title": "Pioneers of Pagonia: Neue Roadmap zeigt DLC \"Donkey Business\" – und Headup wird Publisher",
-      "link": "https://www.eurogamer.de/pioneers-of-pagonia-roadmap-headup-dlc",
-      "pubDate": "19.11.2026 um 16:16 Uhr",
-      "timestamp": 1795105010.0,
-      "source": "Eurogamer.de News",
-      "summary": "Envision Entertainment verk&uuml;ndet heute gleich mehrere Neuigkeiten rund um das Aufbauspiel Pioneers of Pagonia. Mehr"
-    },
-    {
-      "title": "Mobilfunk: Bundesnetzagentur gewährt 1&1 keinen Zugang zum Low-Band",
-      "link": "https://www.computerbase.de/news/internet/mobilfunk-bundesnetzagentur-gewaehrt-1-und-1-keinen-zugang-zum-low-band.100414/",
-      "pubDate": "19.11.2026 um 17:10 Uhr",
-      "timestamp": 1795104600.0,
-      "source": "ComputerBase",
-      "summary": "Die Bundesnetzagentur gewährt 1&1 vorerst keinen Zugang zu Frequenzen unterhalb von 1 GHz. Der Mobilfunkanbieter wendet sich deshalb an die EU-Kommiss..."
-    },
-    {
-      "title": "GTA 6: Zwei Millionen Xbox-Spieler aus den USA und Großbritannien nutzten den Neuseeland-Trick",
-      "link": "https://www.eurogamer.de/gta-6-neuseeland-trick-xbox",
-      "pubDate": "19.11.2026 um 16:10 Uhr",
-      "timestamp": 1795104600.0,
-      "source": "Eurogamer.de News",
-      "summary": "Dass der Ansturm auf GTA 6 diese Woche gewaltig ausfallen w&uuml;rde, war abzusehen. Ebenso klar war, dass etliche Spieler auf den Neuseeland-Trick de..."
-    },
-    {
-      "title": "Pokémon-Sammelkartenspiel: Neue Erweiterung Mega-Entwicklung – Flinke Fäuste enthüllt",
-      "link": "https://www.eurogamer.de/pokemon-sammelkartenspiel-mega-entwicklung-flinke-faeuste",
-      "pubDate": "19.11.2026 um 15:56 Uhr",
-      "timestamp": 1795103760.0,
-      "source": "Eurogamer.de News",
-      "summary": "The Pok&eacute;mon Company hat am Nachmittag mit \"Mega-Entwicklung &ndash; Flinke F&auml;uste\" die neueste Erweiterung f&uuml;r das Sammelkartenspiel ..."
-    },
-    {
-      "title": "GTA 6: Warum Rockstar bewusst auf einen Freizeitpark wie Disney World verzichtet",
-      "link": "https://www.eurogamer.de/gta-6-freizeitpark-disney-world",
-      "pubDate": "19.11.2026 um 15:50 Uhr",
-      "timestamp": 1795103400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Rockstar hat bewusst darauf verzichtet, in GTA 6 einen Freizeitpark nach dem Vorbild von Disney World zu integrieren. Warum? Einerseits w&auml;re es e..."
     }
   ],
   "int": [
+    {
+      "title": "10 Funniest 'Far Side' Comics About Cavemen and Their Early Innovations",
+      "link": "https://www.polygon.com/10-funniest-far-side-comics-starring-cavemen-and-early-inventions/",
+      "pubDate": "20.11.2026 um 05:00 Uhr",
+      "timestamp": 1795150818.0,
+      "source": "Polygon.com",
+      "summary": "Gary Larson’s Far Side comics often starred Cavemen and their early inventions. Here are the 10 best"
+    },
+    {
+      "title": "GTA 6 Has A Surprising Late Game Cameo That Knocked Me On My Ass",
+      "link": "https://kotaku.com/gta-6-has-a-surprising-late-game-cameo-that-knocked-me-on-my-ass-2000758623",
+      "pubDate": "20.11.2026 um 02:52 Uhr",
+      "timestamp": 1795143177.0,
+      "source": "Kotaku",
+      "summary": "I'm shocked people are already seeing this moment as it is hidden near the very end of the story"
+    },
+    {
+      "title": "AU Deals: Huge Savings on Gigabyte Gaming Laptops for Black Friday",
+      "link": "https://www.ign.com/articles/au-deals-huge-savings-on-gigabyte-gaming-laptops-for-black-friday",
+      "pubDate": "20.11.2026 um 02:47 Uhr",
+      "timestamp": 1795142826.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
+      "pubDate": "20.11.2026 um 01:01 Uhr",
+      "timestamp": 1795136503.0,
+      "source": "PCGamer latest",
+      "summary": "Would you pay $7.99 a month for one car and some in-game discounts?"
+    },
+    {
+      "title": "Controversial GTA 6 Easter Egg Will Annoy Millions of Gamers",
+      "link": "https://www.polygon.com/gta-6-physical-disc-spoof-game/",
+      "pubDate": "20.11.2026 um 01:00 Uhr",
+      "timestamp": 1795136417.0,
+      "source": "Polygon.com",
+      "summary": "GTA 6 has an early moment when Jason and his friend play a physical video game. Ironically enough, that's impossible to do with GTA 6 itself."
+    },
+    {
+      "title": "GTA 6 is playable in first-person, here's how to activate it",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+      "pubDate": "20.11.2026 um 01:00 Uhr",
+      "timestamp": 1795136412.0,
+      "source": "PCGamer latest",
+      "summary": "I guess that's why the cars have speedometers."
+    },
+    {
+      "title": "GTA 6 has \"several variations\" for story moments based on how you treat the heroes' relationship",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/",
+      "pubDate": "20.11.2026 um 00:45 Uhr",
+      "timestamp": 1795135525.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The changes \"range from subtle to more significant\""
+    },
+    {
+      "title": "Lanterns Star Aaron Pierre Addresses His DCU Future: 'What Will Be Will Be'",
+      "link": "https://www.ign.com/articles/lanterns-star-aaron-pierre-addresses-his-dcu-future-what-will-be-will-be",
+      "pubDate": "20.11.2026 um 00:38 Uhr",
+      "timestamp": 1795135133.0,
+      "source": "IGN All",
+      "summary": "Lanterns star Aaron Pierre had already reprised his role as Green Lantern John Stewart for the 2027 film Man of Tomorrow when the news broke that DC S..."
+    },
+    {
+      "title": "GTA 6's blatant Matty Matheson-like character isn't really Matty Matheson, confirms The Bear star",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-blatant-matty-matheson-like-character-isnt-really-matty-matheson-confirms-the-bear-star-thats-not-me-its-not-my-voice/",
+      "pubDate": "20.11.2026 um 00:25 Uhr",
+      "timestamp": 1795134325.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "SNL fans will know the real actor"
+    },
+    {
+      "title": "Here’s What People Are Playing That’s Not GTA 6",
+      "link": "https://kotaku.com/heres-what-people-are-playing-thats-not-gta-6-2000758577",
+      "pubDate": "20.11.2026 um 00:00 Uhr",
+      "timestamp": 1795132835.0,
+      "source": "Kotaku",
+      "summary": "Yes, non-GTA interested players are real, we exist!"
+    },
+    {
+      "title": "Alienware's OLED Gaming Monitors Drop to New Price Lows for Black Friday, Starting From Just $280",
+      "link": "https://www.ign.com/articles/alienware-black-friday-sale-gaming-monitor-deals-2026",
+      "pubDate": "20.11.2026 um 00:00 Uhr",
+      "timestamp": 1795132800.0,
+      "source": "IGN All",
+      "summary": "What good is a powerful gaming PC without a monitor capable of showcasing its glory?"
+    },
+    {
+      "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
+      "link": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
+      "pubDate": "19.11.2026 um 23:55 Uhr",
+      "timestamp": 1795132501.0,
+      "source": "IGN All",
+      "summary": "GTA 6's popularity has led to police departments around the United States pleading with citizens to not commit real crimes."
+    },
+    {
+      "title": "Today’s Best Deals: Forza 6 Xbox Controller, Resident Evil Requiem, and a SteamOS Legion Go S",
+      "link": "https://www.ign.com/articles/best-deals-for-november-19-2026",
+      "pubDate": "19.11.2026 um 23:50 Uhr",
+      "timestamp": 1795132200.0,
+      "source": "IGN All",
+      "summary": "Save on a Samsung Switch 2 microSD Express card, Sony WH-1000XM5 headphones, LOTR Trilogy in 4K, and more."
+    },
+    {
+      "title": "GTA 6 Is Even Better When You Play It Side-By-Side With Your Wife",
+      "link": "https://kotaku.com/gta-6-is-even-better-when-you-play-it-side-by-side-with-your-wife-2000758581",
+      "pubDate": "19.11.2026 um 23:30 Uhr",
+      "timestamp": 1795131038.0,
+      "source": "Kotaku",
+      "summary": "It might be the best way to play the game"
+    },
+    {
+      "title": "The Apple TV Black Friday Deal Gets You 6 Months of Ad-free Streaming for Half the Price",
+      "link": "https://www.ign.com/articles/apple-tv-black-friday-streaming-deal-2026",
+      "pubDate": "19.11.2026 um 23:30 Uhr",
+      "timestamp": 1795131000.0,
+      "source": "IGN All",
+      "summary": ""
+    },
     {
       "title": "Spider-Man: Brand New Day theatrical re-release shares first look at deleted Rosario Dawson cameo",
       "link": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-theatrical-re-release-shares-first-look-at-rosario-dawsons-previous-deleted-netflix-daredevil-character-cameo/",
@@ -169,126 +289,6 @@
       "timestamp": 1795129666.0,
       "source": "Polygon.com",
       "summary": "As computer components get more expensive, Valve warns its Steam Machine might get more expensive as it struggles to meet demand for the 2TB model."
-    },
-    {
-      "title": "CNN Calls GTA 6 The ‘Most Intense Version Of Pac-Man‘",
-      "link": "https://kotaku.com/cnn-calls-gta-6-the-most-intense-version-of-pac-man-2000758598",
-      "pubDate": "19.11.2026 um 23:07 Uhr",
-      "timestamp": 1795129652.0,
-      "source": "Kotaku",
-      "summary": "Truly embarrassing stuff for everyone involved"
-    },
-    {
-      "title": "Major Esports Tournament Replaced Caster Commentary With AI Voices And It Went Over Very Poorly",
-      "link": "https://kotaku.com/major-esports-tournament-replaced-caster-commentary-with-ai-voices-and-it-went-over-very-poorly-2000758538",
-      "pubDate": "19.11.2026 um 23:00 Uhr",
-      "timestamp": 1795129210.0,
-      "source": "Kotaku",
-      "summary": "Casters for The Finals' Grand Major were replaced with AI voices in a now-deleted highlight reel"
-    },
-    {
-      "title": "Ubisoft dumps its money into gen AI with subsidiary Motherbrain \"focused on AI for gameplay\"",
-      "link": "https://www.gamesradar.com/games/down-1-100-staff-in-6-months-ubisoft-dumps-its-money-into-gen-ai-with-a-whole-subsidiary-called-motherbrain-focused-on-ai-for-gameplay/",
-      "pubDate": "19.11.2026 um 22:56 Uhr",
-      "timestamp": 1795129010.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Its current focus is on new player experiences, smart NPCs with memory and AI game masters that manage large-scale systemic worlds\""
-    },
-    {
-      "title": "Help: I can't stop obeying traffic laws in GTA 6",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
-      "pubDate": "19.11.2026 um 22:46 Uhr",
-      "timestamp": 1795128397.0,
-      "source": "PCGamer latest",
-      "summary": "What's happening to me!?"
-    },
-    {
-      "title": "Christopher Nolan won't release The Odyssey deleted scenes because he doesn’t \"believe in director's cuts\"",
-      "link": "https://www.gamesradar.com/entertainment/fantasy-movies/christopher-nolan-says-hell-never-release-any-of-the-deleted-scenes-from-the-odyssey-because-he-doesnt-believe-in-directors-cuts/",
-      "pubDate": "19.11.2026 um 22:43 Uhr",
-      "timestamp": 1795128231.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Christopher Nolan's The Odyssey is headed back to theaters"
-    },
-    {
-      "title": "The Most Helpful GTA 6 Cheat Codes and How to Access Them",
-      "link": "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546",
-      "pubDate": "19.11.2026 um 22:30 Uhr",
-      "timestamp": 1795127421.0,
-      "source": "Kotaku",
-      "summary": "Get a lot of money, get drunk, leap off tall buildings, you can do it all! You just have to earn it first"
-    },
-    {
-      "title": "GTA 6 has the best use of the PS5 controller I've ever seen",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
-      "pubDate": "19.11.2026 um 22:28 Uhr",
-      "timestamp": 1795127313.0,
-      "source": "PCGamer latest",
-      "summary": "The PS5 triggers are changing how I drive in GTA."
-    },
-    {
-      "title": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures",
-      "link": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
-      "pubDate": "19.11.2026 um 22:20 Uhr",
-      "timestamp": 1795126856.0,
-      "source": "PCGamer latest",
-      "summary": "Collect 'em all, eventually."
-    },
-    {
-      "title": "Video Game Spending Dropped 14 Percent This October, Possibly Because Everyone Was Preparing for GTA 6",
-      "link": "https://www.ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6",
-      "pubDate": "19.11.2026 um 22:20 Uhr",
-      "timestamp": 1795126809.0,
-      "source": "IGN All",
-      "summary": "The amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in..."
-    },
-    {
-      "title": "Crunchyroll Launches Official Black Friday Deal With Up to 60% Off All Subscription Tiers",
-      "link": "https://www.ign.com/articles/crunchyroll-black-friday-streaming-deal-2026",
-      "pubDate": "19.11.2026 um 22:05 Uhr",
-      "timestamp": 1795125907.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "GTA 6′s Pop And Classic Rock Radio Stations Contain 150 Songs, More Than All Of Vice City’s Radio Stations Combined",
-      "link": "https://kotaku.com/gta-6s-pop-and-classic-rock-radio-stations-contain-150-songs-more-than-all-of-vice-citys-radio-stations-combined-2000758551",
-      "pubDate": "19.11.2026 um 22:02 Uhr",
-      "timestamp": 1795125745.0,
-      "source": "Kotaku",
-      "summary": "If you were wondering just how much music is in GTA 6 the answer is: A heck of a lot!"
-    },
-    {
-      "title": "As it lays off another 166 developers, Ubisoft brags about Black Flag Resynced's financial success",
-      "link": "https://www.gamesradar.com/games/assassin-s-creed/as-it-lays-off-another-166-developers-ubisoft-says-assassins-creed-black-flag-resynced-is-among-the-industrys-most-successful-action-adventure-remakes/",
-      "pubDate": "19.11.2026 um 22:01 Uhr",
-      "timestamp": 1795125674.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The game \"outperformed expectations in its launch quarter\""
-    },
-    {
-      "title": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting/",
-      "pubDate": "19.11.2026 um 22:00 Uhr",
-      "timestamp": 1795125643.0,
-      "source": "PCGamer latest",
-      "summary": "We have GTA 6 at home."
-    },
-    {
-      "title": "The Best Lord of the Rings Bookends Are on Sale for Black Friday",
-      "link": "https://www.ign.com/articles/the-best-lord-of-the-rings-bookends-are-on-sale-for-black-friday-2026",
-      "pubDate": "19.11.2026 um 22:00 Uhr",
-      "timestamp": 1795125600.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Ubisoft says Christopher Nolan's The Odyssey \"materially benefited\" Assassin's Creed Odyssey sales",
-      "link": "https://www.gamesradar.com/games/assassin-s-creed/ubisoft-says-christopher-nolans-the-odyssey-materially-benefited-assassins-creed-odyssey-sales/",
-      "pubDate": "19.11.2026 um 21:59 Uhr",
-      "timestamp": 1795125584.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "The open-world RPG saw a significant bump over the summer"
     }
   ],
   "sim": [
