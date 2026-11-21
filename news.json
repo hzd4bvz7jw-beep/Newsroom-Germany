@@ -1,151 +1,239 @@
 {
   "de": [
     {
-      "title": "US-Börsenaufsicht: Nvidias Buchhaltung im Fokus von SEC-Ermittlung",
-      "link": "https://www.computerbase.de/news/wirtschaft/us-boersenaufsicht-nvidias-buchhaltung-im-fokus-von-sec-ermittlung.100442/",
-      "pubDate": "20.11.2026 um 23:00 Uhr",
-      "timestamp": 1795212000.0,
-      "source": "ComputerBase",
-      "summary": "Die US-Börsenaufsicht SEC untersucht mögliche Bilanzierungsfragen bei Nvidia. Das erfuhr Reuters von zwei mit der Angelegenheit vertrauten Personen. W..."
-    },
-    {
-      "title": "1666: Amsterdam: Erstes großes Update verdoppelt die Spielwelt und bringt neue Zauber",
-      "link": "https://www.eurogamer.de/1666-amsterdam-dezember-update-spielwelt",
-      "pubDate": "20.11.2026 um 21:00 Uhr",
-      "timestamp": 1795208400.0,
-      "source": "Eurogamer.de News",
-      "summary": "Im Rahmen der Horror Game Awards hat Panache Digital Games das erste gro&szlig;e Update f&uuml;r 1666: Amsterdam enth&uuml;llt. Mehr"
-    },
-    {
-      "title": "3,8 Mrd. Dollar an Tag 1: GTA 6 schlägt alle Verkaufsrekorde",
-      "link": "https://www.computerbase.de/news/gaming/3-8-mrd-dollar-an-tag-1-gta-6-schlaegt-alle-verkaufsrekorde.100441/",
-      "pubDate": "20.11.2026 um 21:53 Uhr",
-      "timestamp": 1795207980.0,
-      "source": "ComputerBase",
-      "summary": "GTA VI ist mit hoher Wahrscheinlichkeit die bislang teuerste Videospiel-Produktion. Allerdings dürften die Kosten für Entwicklung und Marketing schon ..."
-    },
-    {
-      "title": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland",
-      "link": "https://www.computerbase.de/news/wirtschaft/ki-wettruesten-trump-verbietet-us-firmen-bau-von-rechenzentren-im-ausland.100439/",
-      "pubDate": "20.11.2026 um 21:30 Uhr",
-      "timestamp": 1795206600.0,
-      "source": "ComputerBase",
-      "summary": "US-Präsident Donald Trump will US-Firmen das Bauen von Rechenzentren außerhalb der USA verbieten. Sollten sie es doch machen, drohten ihnen „gewaltige..."
-    },
-    {
-      "title": "Game Awards 2026: Sony erstmals seit elf Jahren ohne GOTY-Nominierung",
-      "link": "https://www.computerbase.de/news/gaming/game-awards-2026-sony-erstmals-seit-elf-jahren-ohne-goty-nominierung.100435/",
-      "pubDate": "20.11.2026 um 20:55 Uhr",
-      "timestamp": 1795204500.0,
-      "source": "ComputerBase",
-      "summary": "Bei den Game Awards 2026 ist zum ersten Mal seit 2014 kein von Sony veröffentlichtes Spiel für den Hauptpreis nominiert. Elf Jahre lang hatte der Konz..."
-    },
-    {
-      "title": "OLED-Monitore: Absatz hat sich verdoppelt und MSI überholt Samsung",
-      "link": "https://www.computerbase.de/news/monitore/oled-monitore-absatz-hat-sich-verdoppelt-und-msi-ueberholt-samsung.100434/",
-      "pubDate": "20.11.2026 um 20:16 Uhr",
-      "timestamp": 1795202160.0,
-      "source": "ComputerBase",
-      "summary": "Laut einer neuen Studie hat sich der globale Absatz von OLED-Monitoren im dritten Quartal 2026 gegenüber dem Vorjahr verdoppelt. Die führende Marke bl..."
-    },
-    {
-      "title": "Nächste Woche geht eine der beliebtesten Comedy-Serien mit 11 Staffeln auch in Deutschland endlich weiter",
-      "link": "https://mein-mmo.de/eine-der-besten-comedy-serien-geht-weiter/",
-      "pubDate": "20.11.2026 um 19:00 Uhr",
-      "timestamp": 1795201200.0,
+      "title": "Trymacs verdient in 1 Jahr über 1,4 Millionen Euro auf YouTube, hatte eigentlich ein viel kleineres Ziel",
+      "link": "https://mein-mmo.de/twitch-youtube-trymacs-2-milliarden-aufrufe/",
+      "pubDate": "21.11.2026 um 12:00 Uhr",
+      "timestamp": 1795262400.0,
       "source": "Mein-MMO",
-      "summary": "Auf Disney+ könnt ihr euch ab nächster Woche die neueste Staffel einer beliebten Comedy-Serie anschauen, die euch verrückte Ärzte zeigt. Der Beitrag N..."
+      "summary": "Der Streamer Maximilian „Trymacs“ Stemmler ist einer der größten im deutschen Twitch. Ursprünglich hatte er ein kleineres Ziel auf YouTube. Der Beitra..."
     },
     {
-      "title": "WoW Forever: Wer Spaß haben will, sollte sein Gold immer direkt ausgeben",
-      "link": "https://mein-mmo.de/wow-forever-spass-gold-ausgeben-direkt/",
-      "pubDate": "20.11.2026 um 19:00 Uhr",
-      "timestamp": 1795201200.0,
-      "source": "Mein-MMO",
-      "summary": "Ein schlechter Ratschlag könnte der beste in WoW Forever sein: Haut euer Gold auf den Kopf. Das lohnt sich auf lange Sicht nämlich richtig. Der Beitra..."
-    },
-    {
-      "title": "Nvidia: Jensen Huang wird des Mobbings und Schikane am Arbeitsplatz beschuldigt",
-      "link": "https://www.eurogamer.de/jensen-huang-nvidia-investigation-harassment",
-      "pubDate": "20.11.2026 um 17:52 Uhr",
-      "timestamp": 1795197160.0,
+      "title": "Star Wars Galactic Racer: Entwickler ist von der Beliebtheit von Biddy Blas überrascht",
+      "link": "https://www.eurogamer.de/star-wars-galactic-racer-entwickler-ist-von-der-beliebtheit-von-biddy-blas-uberrascht",
+      "pubDate": "21.11.2026 um 11:17 Uhr",
+      "timestamp": 1795259870.0,
       "source": "Eurogamer.de News",
-      "summary": "Nachdem eine Reihe au&szlig;erehelicher Aff&auml;ren ans Licht kam, trat Nvidia-Mitgr&uuml;nder Jensen Huang k&uuml;rzlich zur&uuml;ck. Nun beleuchtet..."
+      "summary": "Fuse Games, der Entwickler von Star Wars: Galactic Racer, hat erkl&auml;rt, man habe &bdquo;nicht im Traum daran gedacht&ldquo;, dass Biddy Blas, eine..."
     },
     {
-      "title": "GTA 6: Spieler tricksen sich in die fehlende Ego-Perspektive",
-      "link": "https://www.computerbase.de/news/gaming/gta-6-spieler-tricksen-sich-in-die-fehlende-ego-perspektive.100425/",
-      "pubDate": "20.11.2026 um 18:48 Uhr",
-      "timestamp": 1795196880.0,
-      "source": "ComputerBase",
-      "summary": "Die aus GTA 5 bekannte Ego-Perspektive fehlt GTA 6 zum Start. Kaum war das Spiel erschienen, fanden Spieler eine Möglichkeit, die Kamera trotzdem in d..."
-    },
-    {
-      "title": "Nach Persona 6 geht es weiter: Atlus macht Fans Hoffnung auf schnellen Nachschub",
-      "link": "https://www.eurogamer.de/persona-6-atlus-schnellere-releases",
-      "pubDate": "20.11.2026 um 17:39 Uhr",
-      "timestamp": 1795196380.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Videospielwelt steht gerade still. F&uuml;r ein paar Tage, vielleicht ein paar Wochen, sind alle zufrieden. Doch was kommt danach? Fans von Person..."
-    },
-    {
-      "title": "GTA 6: Diese Filme haben die Dynamik zwischen Jason und Lucia inspiriert",
-      "link": "https://www.eurogamer.de/gta-6-filminspiration-fuer-jason-und-lucia",
-      "pubDate": "20.11.2026 um 17:08 Uhr",
-      "timestamp": 1795194530.0,
-      "source": "Eurogamer.de News",
-      "summary": "Seit dem ersten Trailer f&uuml;r Grand Theft Auto 6 ist klar, dass wir mit Jason und Lucia ein dynamisches Duo als Protagonisten bekommen werden. Dabe..."
-    },
-    {
-      "title": "Chef von Cyberpunk 2077 lobt GTA 6 als absolutes Meisterwerk",
-      "link": "https://www.eurogamer.de/gta-6-cd-projekt-red-meisterwerk",
-      "pubDate": "20.11.2026 um 17:08 Uhr",
-      "timestamp": 1795194500.0,
-      "source": "Eurogamer.de News",
-      "summary": "Seinerzeit war Cyberpunk 2077 wirklich das gro&szlig;e Hype-Spiel. Klar, es gab hier und da einige gravierende Problemchen, aber inzwischen hat CD Pro..."
-    },
-    {
-      "title": "High-End-Enthusiasten aufgepasst: Die stärkste Gaming-CPU gibt es jetzt im Black-Friday-Angebot günstiger als bisher",
-      "link": "https://mein-mmo.de/high-end-enthusiasten-staerkste-gaming-cpu-guenstiger-als-bisher-black-friday-angebot/",
-      "pubDate": "20.11.2026 um 16:48 Uhr",
-      "timestamp": 1795193318.0,
-      "source": "Mein-MMO",
-      "summary": "Dieses Cache-Monster ist das Kronjuwel unter den Gaming-CPUs und durchaus preisintensiv, aber jetzt immerhin deutlich günstiger als bisher. Der Beitra..."
-    },
-    {
-      "title": "GTA 6 ist laut ehemaligem Take-Two-CEO der letzte Blockbuster vor dem KI-Umbruch",
-      "link": "https://www.eurogamer.de/gta-6-ben-feder-letzter-blockbuster-vor-ki-umbruch",
-      "pubDate": "20.11.2026 um 15:48 Uhr",
-      "timestamp": 1795189700.0,
-      "source": "Eurogamer.de News",
-      "summary": "GTA 6 ist endlich erschienen und wird ohne Zweifel seine Spuren in der Videospielgeschichte hinterlassen. Mit einem &uuml;berragenden Ranking und der ..."
-    },
-    {
-      "title": "GTA 6 Lab Fees: Komplettlösung mit allen Fundorten und Türcodes",
-      "link": "https://www.playcentral.de/gta-6-lab-fees-komplettloesung/",
-      "pubDate": "20.11.2026 um 15:45 Uhr",
-      "timestamp": 1795189541.0,
+      "title": "GTA 6 in Japan geschnitten – weniger Blut, weniger Nacktheit, weniger Gore",
+      "link": "https://www.playcentral.de/gta-6-japan-zensur-blut-gore-nacktheit/",
+      "pubDate": "21.11.2026 um 11:12 Uhr",
+      "timestamp": 1795259520.0,
       "source": "PlayCentral",
-      "summary": "Brian will seine Miete eintreiben, doch im Laden von Key Lento ist kein Geld zu holen. In „Lab Fees“ beschafft Jason stattdessen Ware aus dem Hinterzi..."
+      "summary": "Grand Theft Auto 6 ist seit dem 19. November 2026 weltweit erhältlich, doch in Japan bekommen Fans nicht exakt dieselbe Version wie in anderen Regione..."
     },
     {
-      "title": "Chip-Entwicklung: OpenAI verbessert AMDs GPU-Design um 14 Prozent",
-      "link": "https://www.computerbase.de/news/grafikkarten/chip-entwicklung-openai-verbessert-amds-gpu-design-um-14-prozent.100432/",
-      "pubDate": "20.11.2026 um 16:42 Uhr",
-      "timestamp": 1795189320.0,
+      "title": "GTA 6: Rockstar verkauft Vorteile im Singleplayer per Abo",
+      "link": "https://www.computerbase.de/news/gaming/gta-6-rockstar-verkauft-vorteile-im-singleplayer-per-abo.100440/",
+      "pubDate": "21.11.2026 um 12:10 Uhr",
+      "timestamp": 1795259400.0,
       "source": "ComputerBase",
-      "summary": "OpenAI hat KI-Modelle für die Optimierung von AMDs GPU- und CPU-Design eingesetzt. Bei Entwürfen sollen die Modelle PPA-Verbesserungen von bis zu 14 P..."
+      "summary": "Rockstar bittet GTA-Online-Spieler seit 2022 mit GTA+ zusätzlich zur Kasse. Mit GTA 6 wird das Abonnement erstmals auf die Einzelspielerkampagne ausge..."
     },
     {
-      "title": "Manche LoL-Fans sind erbost, dass eine bekannte Moderatorin keine Kinder hat, schicken ihr leere Eierkartons",
-      "link": "https://mein-mmo.de/lol-fans-sind-erbost-dass-eine-bekannte-moderatorin-keine-kinder-hat/",
-      "pubDate": "20.11.2026 um 15:36 Uhr",
-      "timestamp": 1795189018.0,
+      "title": "WoW Forever: Angel-Wettbewerb am Sonntag gewinnen – So geht’s",
+      "link": "https://mein-mmo.de/wow-forever-angel-wettbewerb-guide/",
+      "pubDate": "21.11.2026 um 11:00 Uhr",
+      "timestamp": 1795258800.0,
       "source": "Mein-MMO",
-      "summary": "Die E-Sport-Moderatorin Sjokz ist nach einer Auseinandersetzung mit dem LoL-Coach Perkz Anfeindungen ausgesetzt. Der Beitrag Manche LoL-Fans sind erbo..."
+      "summary": "Der Angelwettbewerb in WoW Forever bringt dicke Belohnungen. Wir verraten, wie ihr daran teilnehmt und auch noch gewinnt. Der Beitrag WoW Forever: Ang..."
+    },
+    {
+      "title": "GeForce 621.35: Neuer Hotfix-Treiber stellt exzessive SSD-Zugriffe ab",
+      "link": "https://www.computerbase.de/news/grafikkarten/geforce-621-35-neuer-hotfix-treiber-stellt-exzessive-ssd-zugriffe-ab.100445/",
+      "pubDate": "21.11.2026 um 11:30 Uhr",
+      "timestamp": 1795257000.0,
+      "source": "ComputerBase",
+      "summary": "Nvidia hat einen Hotfix-Treiber bereitgestellt, der dem GeForce-Treiber das exzessive Schreiben auf das Systemlaufwerk, in der Regel eine SSD, abgewöh..."
+    },
+    {
+      "title": "GTA 6 ist offiziell der erfolgreichste Launch im Entertainment-Bereich aller Zeiten",
+      "link": "https://www.eurogamer.de/gta-6-erfolgreichster-entertainment-launch-aller-zeiten",
+      "pubDate": "21.11.2026 um 10:19 Uhr",
+      "timestamp": 1795256360.0,
+      "source": "Eurogamer.de News",
+      "summary": "&Uuml;berraschung, &Uuml;berraschung &ndash; GTA 6 ist offiziell der gr&ouml;&szlig;te Entertainment-Launch aller Zeiten und &uuml;bertrifft damit den..."
+    },
+    {
+      "title": "Studie zur Games-Branche: Bei Epic Games und Ubisoft entfallen die meisten Jobs",
+      "link": "https://www.computerbase.de/news/wirtschaft/studie-zur-games-branche-bei-epic-games-und-ubisoft-entfallen-die-meisten-jobs.100437/",
+      "pubDate": "21.11.2026 um 11:00 Uhr",
+      "timestamp": 1795255200.0,
+      "source": "ComputerBase",
+      "summary": "Das Vergleichsportal TradingPlatforms hat die Videospielbranche unter die Lupe genommen und in einer Studie den dortigen Stellenabbau im laufenden Jah..."
+    },
+    {
+      "title": "Die 12 besten Champions in League of Legends im Rizz-Ranking",
+      "link": "https://mein-mmo.de/die-12-besten-champions-in-league-of-legends-im-rizz-ranking/",
+      "pubDate": "21.11.2026 um 10:00 Uhr",
+      "timestamp": 1795255200.0,
+      "source": "Mein-MMO",
+      "summary": "MeinMMO-Redakteur Nikolas Hernes hat so viel LoL gespielt, dass er die 12 schicksten Champions in einem Ranking vorstellt. Der Beitrag Die 12 besten C..."
+    },
+    {
+      "title": "Ubisoft gründet KI-Tochterunternehmen Motherbrain",
+      "link": "https://www.eurogamer.de/ubisoft-ki-tochterunternehmen-motherbrain",
+      "pubDate": "21.11.2026 um 09:55 Uhr",
+      "timestamp": 1795254900.0,
+      "source": "Eurogamer.de News",
+      "summary": "Ubisoft hat mit Motherbrain ein neues, vollst&auml;ndig auf KI ausgerichtetes Studio gegr&uuml;ndet. Die Ank&uuml;ndigung findet sich im aktuellen Ges..."
+    },
+    {
+      "title": "Black Week: GeForce Now bietet sechs Monate zum Sparpreis",
+      "link": "https://www.computerbase.de/news/gaming/black-week-geforce-now-bietet-sechs-monate-zum-sparpreis.100438/",
+      "pubDate": "21.11.2026 um 10:29 Uhr",
+      "timestamp": 1795253340.0,
+      "source": "ComputerBase",
+      "summary": "Bei GeForce Now sind die Sechsmonatsabos für kurze Zeit wieder erhältlich. Sie kosten je nach Tarif 38,49 respektive 76,99 Euro. Das Angebot richtet s..."
+    },
+    {
+      "title": "GTA 6: Spieler-Wertungen fallen überraschend negativ aus",
+      "link": "https://www.eurogamer.de/gta-6-negative-spieler-wertungen-review-bombing",
+      "pubDate": "21.11.2026 um 09:17 Uhr",
+      "timestamp": 1795252620.0,
+      "source": "Eurogamer.de News",
+      "summary": "Nur einen Tag nach dem offiziellen Release am 19. November 2026 sorgt Rockstars neuester Blockbuster auf Bewertungsplattformen bereits f&uuml;r Diskus..."
+    },
+    {
+      "title": "GTA 6 auf Metacritic im Review-Bombing-Verdacht – so stehen die Zahlen",
+      "link": "https://www.playcentral.de/gta-6-metacritic-user-score-review-bombing/",
+      "pubDate": "21.11.2026 um 09:10 Uhr",
+      "timestamp": 1795252200.0,
+      "source": "PlayCentral",
+      "summary": "Grand Theft Auto 6 sorgt nicht nur mit Rekordwertungen und enormen Verkaufszahlen für Schlagzeilen. Kurz nach der Freischaltung der Nutzerbewertungen ..."
+    },
+    {
+      "title": "Ein neues Survival-Spiel mit Wikinger-Look auf Steam fesselt mich seit 25 Stunden, ist perfekt, wenn ihr Enshrouded mögt",
+      "link": "https://mein-mmo.de/stormforge-empfehlung-early-access/",
+      "pubDate": "21.11.2026 um 09:00 Uhr",
+      "timestamp": 1795251600.0,
+      "source": "Mein-MMO",
+      "summary": "Stormforge ist ein neues Survival-Spiel und hat MeinMMO-Redakteur Alex direkt gefangen. Denn er findet darin einige Aspekte seiner Lieblinge wieder. D..."
+    },
+    {
+      "title": "GTA 6: Asmongold rastet aus, weil Jason seiner Freundin Blumen kaufen soll",
+      "link": "https://www.playcentral.de/gta-6-asmongold-ausraster-blumen-lucia/",
+      "pubDate": "21.11.2026 um 08:16 Uhr",
+      "timestamp": 1795249017.0,
+      "source": "PlayCentral",
+      "summary": "In GTA 6 können Spieler mit Jason und Lucia nicht nur Banken überfallen, Autos stehlen und sich wilde Verfolgungsjagden mit der Polizei liefern. Geleg..."
+    },
+    {
+      "title": "WoW Forever – Geheime Jägerkatze Ta shkal lässt sich jetzt zähmen",
+      "link": "https://www.playcentral.de/wow-forever-ta-shkal-jaeger-begleiter/",
+      "pubDate": "21.11.2026 um 08:13 Uhr",
+      "timestamp": 1795248786.0,
+      "source": "PlayCentral",
+      "summary": "In World of Warcraft: Forever wartet eine bislang versteckte Option auf Jäger: Die Katze Ta&#8217;shkal lässt sich als Begleiter zähmen. Das Besondere..."
+    },
+    {
+      "title": "5 absurde Lichtschwerter aus Star Wars, die selbst Darth Vader gerne in seiner Sammlung hätte",
+      "link": "https://mein-mmo.de/5-absurde-lichtschwerter-aus-star-wars/",
+      "pubDate": "21.11.2026 um 08:00 Uhr",
+      "timestamp": 1795248000.0,
+      "source": "Mein-MMO",
+      "summary": "Lichtschwerter sind ein essenzieller Teil von Star Wars. In dieser Liste findet ihr fünf ausgewählte Beispiele, die besonders absurd sind. Der Beitrag..."
+    },
+    {
+      "title": "GTA 6 startet mit 3,79 Milliarden Dollar Umsatz in 24 Stunden",
+      "link": "https://www.playcentral.de/gta-6-umsatz-erster-tag-379-milliarden/",
+      "pubDate": "21.11.2026 um 07:55 Uhr",
+      "timestamp": 1795247704.0,
+      "source": "PlayCentral",
+      "summary": "Grand Theft Auto 6 hat nur einen Tag nach seiner Veröffentlichung einen Rekord aufgestellt, der weit über die Gaming-Branche hinausgeht. Nach Angaben ..."
     }
   ],
   "int": [
+    {
+      "title": "Quentin Tarantino's Western Thriller Masterpiece Is Officially Free on Streaming",
+      "link": "https://www.polygon.com/hateful-eight-free-to-stream-tubi/",
+      "pubDate": "21.11.2026 um 12:01 Uhr",
+      "timestamp": 1795262478.0,
+      "source": "Polygon.com",
+      "summary": "Hateful Eight, Quentin Tarantino’s satisfying western thriller mystery is currently free to stream"
+    },
+    {
+      "title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
+      "pubDate": "21.11.2026 um 11:51 Uhr",
+      "timestamp": 1795261861.0,
+      "source": "PCGamer latest",
+      "summary": "\"I sincerely hope the Rockstar team is successful in unionizing\"."
+    },
+    {
+      "title": "How to get a Slim Jim in GTA 6 to steal cars without setting off an alarm",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
+      "pubDate": "21.11.2026 um 11:45 Uhr",
+      "timestamp": 1795261555.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Finding the Slim Jim in Chapter 2 is essential if you want to get better at stealing vehicles"
+    },
+    {
+      "title": "How to turn off GTA 6 auto uploads on Xbox",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-xbox-auto-uploads/",
+      "pubDate": "21.11.2026 um 11:37 Uhr",
+      "timestamp": 1795261057.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "You could risk a ban by auto-uploading GTA 6 clips to the Xbox Network."
+    },
+    {
+      "title": "5 Years Later, 'Yellowjackets' Officially Solves One of Its Last Huge Mysteries",
+      "link": "https://www.polygon.com/yellowjackets-season-4-plane-crash-location/",
+      "pubDate": "21.11.2026 um 11:00 Uhr",
+      "timestamp": 1795258818.0,
+      "source": "Polygon.com",
+      "summary": "The location where the Yellowjackets crash-landed has been a hot topic of discussion for years. 'Yellowjackets' season 4 has the answers."
+    },
+    {
+      "title": "George R.R. Martin’s 7 Best Non-Game of Thrones Books, Ranked",
+      "link": "https://www.polygon.com/george-rr-martins-best-non-game-of-thrones-books-ranked/",
+      "pubDate": "21.11.2026 um 10:00 Uhr",
+      "timestamp": 1795255217.0,
+      "source": "Polygon.com",
+      "summary": "From antebellum Mississippi vampires to cat-loving space traders, George R.R. Martin’s best work goes far beyond Westeros and Game of Thrones."
+    },
+    {
+      "title": "Gary Larson's 10 Greatest 'Far Side' Comics, Ranked",
+      "link": "https://www.polygon.com/best-far-side-comics-ever-ranked-gary-larson/",
+      "pubDate": "21.11.2026 um 09:06 Uhr",
+      "timestamp": 1795251978.0,
+      "source": "Polygon.com",
+      "summary": "Gary Larson's comic strip The Far Side was at its greatest when it was really, really funny. That's why is these are his 10 best comics"
+    },
+    {
+      "title": "Goodbye 'Rings of Power,' Prime Video’s Legendary 48-Episode Fantasy Series Is Even Better",
+      "link": "https://www.polygon.com/the-legend-of-vox-machina-prime-video-rec/",
+      "pubDate": "21.11.2026 um 09:00 Uhr",
+      "timestamp": 1795251617.0,
+      "source": "Polygon.com",
+      "summary": "Prime Video's 'Rings of Power' is good, but for a wilder and more adult fantasy show, try 'The Legend of Vox Machina.’"
+    },
+    {
+      "title": "The Nitro Deck 2 for the Nintendo Switch 2 Is Getting a Black Friday Discount at Amazon",
+      "link": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
+      "pubDate": "21.11.2026 um 06:07 Uhr",
+      "timestamp": 1795241273.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+      "link": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+      "pubDate": "21.11.2026 um 06:00 Uhr",
+      "timestamp": 1795240800.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "9 Calvin and Hobbes Comics from the 1990s that Prove Bill Watterson is a Genius",
+      "link": "https://www.polygon.com/9-perfect-calvin-and-hobbes-1990s-comics/",
+      "pubDate": "21.11.2026 um 05:00 Uhr",
+      "timestamp": 1795237218.0,
+      "source": "Polygon.com",
+      "summary": "Calvin and Hobbes creator Bill Watterson is a genius. Here are nine comics which prove it."
+    },
     {
       "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
       "link": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
@@ -161,14 +249,6 @@
       "timestamp": 1795226477.0,
       "source": "Polygon.com",
       "summary": "Here's all you need to know for Pokémon Go's Pawniard Community Day event, including how to find a shiny Pawniard and evolve Bisharp into Kingambit."
-    },
-    {
-      "title": "The Witcher 4 Gets Official Update on Physical Release",
-      "link": "https://www.polygon.com/the-witcher-4-physical-release-cd-projekt-red-ps5/",
-      "pubDate": "21.11.2026 um 01:28 Uhr",
-      "timestamp": 1795224497.0,
-      "source": "Polygon.com",
-      "summary": "CD Projekt Red is planning a The Witcher 4 physical release, even though it admits it has \"no influence\" over PS5 and Xbox disc production"
     },
     {
       "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
@@ -203,92 +283,12 @@
       "summary": "It really comes down to how many extra shirts, tattoo designs, and car options you want"
     },
     {
-      "title": "Everything We Know About GTA 7",
-      "link": "https://www.polygon.com/gta-7-release-setting/",
-      "pubDate": "21.11.2026 um 00:00 Uhr",
-      "timestamp": 1795219217.0,
-      "source": "Polygon.com",
-      "summary": "GTA 7 is not much more than a hypothetical at this point, with GTA 6 having just been released, but there are some hints about GTA's future."
-    },
-    {
-      "title": "8 Near-Perfect Fantasy Miniseries That Hook You in the First Episode",
-      "link": "https://www.polygon.com/8-near-perfect-fantasy-miniseries-that-hook-you-in-the-first-episode/",
-      "pubDate": "21.11.2026 um 00:00 Uhr",
-      "timestamp": 1795219217.0,
-      "source": "Polygon.com",
-      "summary": "From gothic castles to hidden London underworlds, these essential fantasy miniseries cast an instant spell on viewers from episode one."
-    },
-    {
-      "title": "'Steps' Ending Explained: Director Reveals the True Meaning Behind Cinderella Adaptation",
-      "link": "https://www.polygon.com/netflix-steps-ending-explained/",
-      "pubDate": "21.11.2026 um 00:00 Uhr",
-      "timestamp": 1795219217.0,
-      "source": "Polygon.com",
-      "summary": "The inclusive ending of Netflix's hottest animated hit 'Steps' is perfectly explained by its directors."
-    },
-    {
       "title": "The Official Lord of the Rings Pizza Cutter Drops to a New Low Price at Amazon",
       "link": "https://www.ign.com/articles/the-official-lord-of-the-rings-pizza-cutter-drops-to-a-new-low-price-at-amazon-black-friday-2026",
       "pubDate": "21.11.2026 um 00:00 Uhr",
       "timestamp": 1795219200.0,
       "source": "IGN All",
       "summary": ""
-    },
-    {
-      "title": "Don't have time for Marvel's Road to Doomsday watchlist? Watch this 6-minute fan-made recap instead",
-      "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/even-billy-maximoff-star-joe-locke-didnt-know-wanda-would-return-in-the-visionquest-finale/",
-      "pubDate": "20.11.2026 um 23:41 Uhr",
-      "timestamp": 1795218073.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"Well, that's not true!\""
-    },
-    {
-      "title": "RayNeo's Black Friday Sale Includes Discounts on AR Glasses, Plus a New Release of GT Max Call of Duty: Modern Warfare 4 Limited Edition AR Glasses",
-      "link": "https://www.ign.com/articles/rayneos-black-friday-sale-includes-discounts-on-ar-glasses-and-more",
-      "pubDate": "20.11.2026 um 23:32 Uhr",
-      "timestamp": 1795217520.0,
-      "source": "IGN All",
-      "summary": "Save $94 on RayNeo GT Max AR Glasses and more."
-    },
-    {
-      "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
-      "link": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
-      "pubDate": "20.11.2026 um 23:31 Uhr",
-      "timestamp": 1795217495.0,
-      "source": "IGN All",
-      "summary": "Lexie Shoaibi, the actor who plays Mandy in GTA 6, is speaking out now that the game has been officially released worldwide."
-    },
-    {
-      "title": "How To Solve All Main Puzzles In GTA 6′s Tenebrae Lux",
-      "link": "https://kotaku.com/how-to-solve-all-main-puzzles-in-gta-6s-tenebrae-lux-2000758940",
-      "pubDate": "20.11.2026 um 23:30 Uhr",
-      "timestamp": 1795217419.0,
-      "source": "Kotaku",
-      "summary": "Hope you like sea shanties!"
-    },
-    {
-      "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
-      "link": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
-      "pubDate": "20.11.2026 um 23:30 Uhr",
-      "timestamp": 1795217415.0,
-      "source": "IGN All",
-      "summary": "Comcast has said GTA 6's launch triggered the busiest traffic day the company has seen since it was founded in 1963."
-    },
-    {
-      "title": "8 Amazing Indie Games We Think You Should Go Play",
-      "link": "https://kotaku.com/8-amazing-indie-games-we-think-you-should-go-play-2000758862",
-      "pubDate": "20.11.2026 um 23:02 Uhr",
-      "timestamp": 1795215742.0,
-      "source": "Kotaku",
-      "summary": "Spare a thought for the indie games that have recently come out"
-    },
-    {
-      "title": "Star Wars: Fate of the Old Republic director isn't worried about pressure since he made KOTOR",
-      "link": "https://www.gamesradar.com/games/rpg/star-wars-fate-of-the-old-republic-director-isnt-worried-about-pressure-from-rpg-fans-since-his-team-already-made-kotor-and-mass-effect-were-not-trying-to-fill-someone-elses-shoes/",
-      "pubDate": "20.11.2026 um 22:53 Uhr",
-      "timestamp": 1795215202.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"I think it would be really weird to do if I hadn't worked on the first one\""
     }
   ],
   "sim": [
