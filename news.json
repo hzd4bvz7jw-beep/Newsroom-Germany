@@ -1,6 +1,14 @@
 {
   "de": [
     {
+      "title": "WoW Forever: Die unbeliebteste Klasse ist die gleiche wie in Retail",
+      "link": "https://mein-mmo.de/wow-forever-unbeliebteste-klasse/",
+      "pubDate": "26.11.2026 um 04:30 Uhr",
+      "timestamp": 1795667400.0,
+      "source": "Mein-MMO",
+      "summary": "Wir haben erste Daten, welche Klassen in WoW Forever beliebt sind und welche nicht. Ratet mal, welche Klasse die wenigsten spielen. Der Beitrag WoW Fo..."
+    },
+    {
       "title": "Mitarbeiterkonto kompromittiert: Angreifer gelangen bei 1Pass­word an Kundendaten und Quellcode",
       "link": "https://www.computerbase.de/news/wirtschaft/mitarbeiterkonto-kompromittiert-angreifer-gelangen-bei-1password-an-kundendaten-und-quellcode.100526/",
       "pubDate": "25.11.2026 um 20:45 Uhr",
@@ -135,17 +143,97 @@
       "timestamp": 1795622297.0,
       "source": "Mein-MMO",
       "summary": "Capcom hat das Ende ihres coolsten Multiplayer-Shooters angekündigt, und MeinMMO-Redakteur Nikolas Hernes trauert. Der Beitrag Ich kann Anthem-Fans en..."
-    },
-    {
-      "title": "GTA 6: UFO finden und Alien-Entführung auslösen – So löst ihr das Alien-Geheimnis",
-      "link": "https://www.playcentral.de/gta-6-ufo-finden-alien-entfuehrung-geheimnisse/",
-      "pubDate": "25.11.2026 um 15:33 Uhr",
-      "timestamp": 1795620791.0,
-      "source": "PlayCentral",
-      "summary": "Auch in GTA 6 hat Rockstar Games ein Geheimnis rund um UFOs und Außerirdische versteckt. Nachts könnt ihr auf einer abgelegenen Straße in Kelly County..."
     }
   ],
   "int": [
+    {
+      "title": "Save 25% on the Trending Meta Ray-Ban AI 2nd Generation Glasses During Amazon's Black Friday Sale",
+      "link": "https://www.ign.com/articles/save-25-on-meta-ray-ban-ai-glasses-for-black-friday",
+      "pubDate": "26.11.2026 um 02:53 Uhr",
+      "timestamp": 1795661607.0,
+      "source": "IGN All",
+      "summary": "The #1 selling AI glasses are now on sale."
+    },
+    {
+      "title": "reMarkable’s Super Digital Reader Bundle Lets You Get More Than Double the Savings",
+      "link": "https://www.ign.com/articles/remarkables-super-digital-reader-bundle-lets-you-get-more-than-double-the-savings",
+      "pubDate": "26.11.2026 um 02:30 Uhr",
+      "timestamp": 1795660200.0,
+      "source": "IGN All",
+      "summary": "Grab two bundles and get even more savings."
+    },
+    {
+      "title": "Nex Playground Hits Lowest Price This Year for Black Friday",
+      "link": "https://www.ign.com/articles/nex-playground-deal-black-friday-2026",
+      "pubDate": "26.11.2026 um 02:19 Uhr",
+      "timestamp": 1795659576.0,
+      "source": "IGN All",
+      "summary": "Get kids moving with this family-friendly motion-controlled gaming system"
+    },
+    {
+      "title": "The Best Gift Ideas at Men's Wearhouse This Holiday Season",
+      "link": "https://www.ign.com/articles/mens-wearhouse-holiday-gift-ideas-2026",
+      "pubDate": "26.11.2026 um 01:30 Uhr",
+      "timestamp": 1795656600.0,
+      "source": "IGN All",
+      "summary": "A great way to refresh the closet."
+    },
+    {
+      "title": "We Build LEGO Godzilla, Who Will Tower Over Your Other LEGO Models",
+      "link": "https://www.ign.com/articles/lego-godzilla-review-21375",
+      "pubDate": "26.11.2026 um 00:57 Uhr",
+      "timestamp": 1795654658.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "BioWare turned down KOTOR 2 because LucasArts wanted the RPG done in 18 months",
+      "link": "https://www.gamesradar.com/games/rpg/bioware-turned-down-star-wars-knights-of-the-old-republic-2-because-lucasarts-wanted-the-rpg-done-in-18-months/",
+      "pubDate": "26.11.2026 um 00:55 Uhr",
+      "timestamp": 1795654509.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"And then Obsidian was like, 'we'll try'\""
+    },
+    {
+      "title": "Rockstar Explains Why it Added Consequences to GTA 6's Violence and Crimes",
+      "link": "https://www.ign.com/articles/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
+      "pubDate": "26.11.2026 um 00:36 Uhr",
+      "timestamp": 1795653408.0,
+      "source": "IGN All",
+      "summary": "Rockstar Games boss Rob Nelson has explained why the studio added the divisive criminal profile system to GTA 6."
+    },
+    {
+      "title": "T-Mobile Is Offering $1,200 Off Discount on the Apple iPhone Duo Foldable Smartphone for Black Friday",
+      "link": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-black-friday-deal",
+      "pubDate": "26.11.2026 um 00:30 Uhr",
+      "timestamp": 1795653000.0,
+      "source": "IGN All",
+      "summary": "Apple's biggest iPhone update in years."
+    },
+    {
+      "title": "Denny’s Posts Statement Celebrating Jensen Huang’s Return As Nvidia CEO: ‘Some Things You Just Don’t Take Off The Menu’",
+      "link": "https://kotaku.com/dennys-posts-statement-celebrating-jensen-huangs-return-as-nvidia-ceo-some-things-you-just-dont-take-off-the-menu-2001000521",
+      "pubDate": "26.11.2026 um 00:03 Uhr",
+      "timestamp": 1795651404.0,
+      "source": "Kotaku",
+      "summary": "The temporarily fired Nvidia boss previously worked at the diner chain"
+    },
+    {
+      "title": "Ridley Scott’s Sci-Fi Thriller Masterpiece Is Officially Being Removed From Netflix",
+      "link": "https://www.polygon.com/ridley-scott-alien-leaving-netflix/",
+      "pubDate": "26.11.2026 um 00:01 Uhr",
+      "timestamp": 1795651277.0,
+      "source": "Polygon.com",
+      "summary": "Ridley Scott's Alien leaves Netflix on Dec. 1. Here's why the 1979 sci-fi horror classic's restraint still makes it the best movie in the franchise."
+    },
+    {
+      "title": "Proton’s Black Friday Deal Brings Our Favorite VPN Down to Its Lowest Price Yet",
+      "link": "https://www.ign.com/articles/proton-black-friday-deal-brings-our-favorite-vpn-down-to-its-lowest-price-yet",
+      "pubDate": "25.11.2026 um 23:45 Uhr",
+      "timestamp": 1795650300.0,
+      "source": "IGN All",
+      "summary": "Get two years for 75% off."
+    },
     {
       "title": "How to get adrenaline in GTA 6",
       "link": "https://www.polygon.com/gta-6-adrenaline-how-to-get/",
@@ -153,6 +241,14 @@
       "timestamp": 1795647460.0,
       "source": "Polygon.com",
       "summary": "You can get more adrenaline in GTA 6 by looking in specific places at robbery locations or in ambulances. Here's how to get adrenaline in GTA 6"
+    },
+    {
+      "title": "PlayStation creator says it was his \"secret intention\" to trick Microsoft into making Xbox",
+      "link": "https://www.gamesradar.com/games/playstation-creator-says-it-was-his-secret-intention-to-trick-microsoft-into-making-xbox/",
+      "pubDate": "25.11.2026 um 22:56 Uhr",
+      "timestamp": 1795647390.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Ken Kutaragi says the Microsoft boss he met \"was so arrogant\""
     },
     {
       "title": "Mike Tomlin Lives His Best Life In Minecraft While The Steelers Implode",
@@ -193,102 +289,6 @@
       "timestamp": 1795645401.0,
       "source": "Polygon.com",
       "summary": "Exoprimal, the not-Dino Crisis multiplayer shooter, is officially shutting down in 2027, four years after is PlayStation, Xbox, and PC launch."
-    },
-    {
-      "title": "All Peewees Billboard locations in GTA 6",
-      "link": "https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/",
-      "pubDate": "25.11.2026 um 22:18 Uhr",
-      "timestamp": 1795645127.0,
-      "source": "Polygon.com",
-      "summary": "Peewees Billboards will lead you to a grand prize in GTA 6. Here's where you can find them all, how to solve the puzzle, and how to claim the reward."
-    },
-    {
-      "title": "US Forest Service Releases Bigfoot Reports That Read Like Something Out Of Control",
-      "link": "https://kotaku.com/us-forest-service-releases-bigfoot-reports-that-read-like-something-out-of-control-2001000476",
-      "pubDate": "25.11.2026 um 22:08 Uhr",
-      "timestamp": 1795644519.0,
-      "source": "Kotaku",
-      "summary": "'In later conversations we found out that we all had a very uneasy feeling and could feel chills running up and down our backs'"
-    },
-    {
-      "title": "Avengers: Doomsday is on track to earn 260% more at the box office than Dune 3",
-      "link": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-is-on-track-to-earn-260-percent-more-at-the-box-office-than-dune-3/",
-      "pubDate": "25.11.2026 um 22:07 Uhr",
-      "timestamp": 1795644454.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Dunesday is December 18"
-    },
-    {
-      "title": "Jason’s Got Two Apples",
-      "link": "https://kotaku.com/grand-theft-auto-6-gta-6-apples-hungry-eating-jason-mandy-2001000489",
-      "pubDate": "25.11.2026 um 21:45 Uhr",
-      "timestamp": 1795643129.0,
-      "source": "Kotaku",
-      "summary": "An apple a day keeps the cops away in Grand Theft Auto 6"
-    },
-    {
-      "title": "US Treasury official using AI for a Civ clone tries to shut down worries he's \"too busy vibecoding\"",
-      "link": "https://www.gamesradar.com/games/strategy/us-treasury-official-using-claude-to-create-a-civilization-clone-tries-to-shut-down-worries-hes-too-busy-vibecoding-during-cybersecurity-breach-the-computers-are-doing-it-on-their-own/",
-      "pubDate": "25.11.2026 um 21:41 Uhr",
-      "timestamp": 1795642874.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Sam Corcos is vibe-coding Legatum, a \"historical 4X on a hex map, built for people who love Civilization\""
-    },
-    {
-      "title": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027",
-      "link": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/",
-      "pubDate": "25.11.2026 um 21:37 Uhr",
-      "timestamp": 1795642671.0,
-      "source": "PCGamer latest",
-      "summary": "Exoprimal was intriguing, but it never caught fire with players."
-    },
-    {
-      "title": "Ex-BioWare lead says only Bethesda can \"get away with porting Skyrim to every single platform\"",
-      "link": "https://www.gamesradar.com/games/dragon-age/ex-bioware-lead-says-dragon-age-origins-couldve-been-remastered-probably-twice-by-now-but-only-bethesda-can-get-away-with-porting-skyrim-to-every-single-platform/",
-      "pubDate": "25.11.2026 um 21:33 Uhr",
-      "timestamp": 1795642426.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "EA has always been \"so resistant\" to remake or remaster its games, says Mark Darrah"
-    },
-    {
-      "title": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'",
-      "link": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
-      "pubDate": "25.11.2026 um 21:31 Uhr",
-      "timestamp": 1795642301.0,
-      "source": "PCGamer latest",
-      "summary": "Nvidia is also not under investigation, according to US Attorney General Todd Blanche."
-    },
-    {
-      "title": "GTA 6 vault: How to open them during big bank jobs",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-      "pubDate": "25.11.2026 um 21:31 Uhr",
-      "timestamp": 1795642286.0,
-      "source": "PCGamer latest",
-      "summary": "You can make well over $100,000 in a single crime if you open the bank vault and safe deposit boxes."
-    },
-    {
-      "title": "Rings of Power Showrunner Explains the ‘Different Side’ of Simon Pegg’s Balrog: It ‘Actually Is True to the Books’",
-      "link": "https://www.ign.com/articles/rings-of-power-showrunner-explains-the-different-side-of-simon-pegg-balrog-it-actually-is-true-to-the-books",
-      "pubDate": "25.11.2026 um 21:14 Uhr",
-      "timestamp": 1795641245.0,
-      "source": "IGN All",
-      "summary": "The Rings of Power Season 3 is full of creatures and bigger canon references, from Simon Pegg's Balrog to the Fell Beasts, Oliphaunts, Great Eagles an..."
-    },
-    {
-      "title": "GTA 6 Animation Director Reveals Rockstar Made 3 Animations for Each Item Interaction",
-      "link": "https://www.ign.com/articles/gta-6-animation-director-reveals-rockstar-made-3-animations-for-each-item-interaction",
-      "pubDate": "25.11.2026 um 21:08 Uhr",
-      "timestamp": 1795640934.0,
-      "source": "IGN All",
-      "summary": "Mike Jones, the director of gameplay animation for GTA 6, revealed that the team at Rockstar created three separate animations for each item interacti..."
-    },
-    {
-      "title": "Here Are Some Video Game Conversation Starters That Aren’t About GTA 6",
-      "link": "https://kotaku.com/heres-some-video-game-conversation-starters-thats-not-about-gta-6-2001000451",
-      "pubDate": "25.11.2026 um 21:07 Uhr",
-      "timestamp": 1795640846.0,
-      "source": "Kotaku",
-      "summary": "How to win friends and influence your Thanksgiving gaming discussion"
     }
   ],
   "sim": [
