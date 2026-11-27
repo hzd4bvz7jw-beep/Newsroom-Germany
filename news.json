@@ -1,6 +1,62 @@
 {
   "de": [
     {
+      "title": "Aion 2 verpasst Spielern Milliarden Kinah an Schulden und ich will das unbedingt in WoW Forever",
+      "link": "https://mein-mmo.de/aion-2-kinah-negativ-system-schulden/",
+      "pubDate": "27.11.2026 um 07:00 Uhr",
+      "timestamp": 1795762846.0,
+      "source": "Mein-MMO",
+      "summary": "Die NCSoft-Entwickler gehen gegen Echtgeldhandel in Aion 2 vor. Dabei verteilen sie aber nicht nur Bannstrafen. Der Beitrag Aion 2 verpasst Spielern M..."
+    },
+    {
+      "title": "Aktuelle Benchmarks: RX 9070 XT vs. RTX 5070 Ti mit neuen Treibern und Spielen",
+      "link": "https://www.computerbase.de/artikel/grafikkarten/radeon-rx-9070-xt-geforce-rtx-5070-ti-benchmark-2026.100412/",
+      "pubDate": "27.11.2026 um 08:00 Uhr",
+      "timestamp": 1795762800.0,
+      "source": "ComputerBase",
+      "summary": "Die Radeon RX 9070 XT ist die beliebteste Grafikkarte auf ComputerBase. Die GeForce RTX 5070 Ti ist Nvidias Konkurrenzmodell. Wir haben uns beide Graf..."
+    },
+    {
+      "title": "Tau-Scaling-CPUs: Huawei entwickelt eigene EDA-Werkzeuge",
+      "link": "https://www.computerbase.de/news/prozessoren/tau-scaling-cpus-huawei-entwickelt-eigene-eda-werkzeuge.100550/",
+      "pubDate": "27.11.2026 um 07:00 Uhr",
+      "timestamp": 1795759200.0,
+      "source": "ComputerBase",
+      "summary": "Während ASML sich dafür ausspricht, ältere Lithografie-Systeme nach China zu liefern, setzt Huawei mit eigenen EDA-Werkzeugen auf immer mehr Unabhängi..."
+    },
+    {
+      "title": "Final Fantasy XIV: Evercold Guide – Was sollte man zur optimalen Vorbereitung tun?",
+      "link": "https://mein-mmo.de/final-fantasy-xiv-evercold-vorbereitung/",
+      "pubDate": "27.11.2026 um 06:00 Uhr",
+      "timestamp": 1795759200.0,
+      "source": "Mein-MMO",
+      "summary": "Mit Evercold steht die nächste Erweiterung für FF14 an. Bevor ihr starten könnt, solltet ihr - ob Neuling, Wiederkehrer oder Veteran - einiges erledig..."
+    },
+    {
+      "title": "GPU Demo Gallery: Was einst High-End-GPUs brauchte, läuft heute im Browser",
+      "link": "https://www.computerbase.de/news/grafikkarten/gpu-demo-gallery-36-klassische-grafikkarten-demos-laufen-jetzt-im-browser.100554/",
+      "pubDate": "27.11.2026 um 06:00 Uhr",
+      "timestamp": 1795755600.0,
+      "source": "ComputerBase",
+      "summary": "Mit dem Werwolf Wolfman und der Elfe Dawn demonstrierte Nvidia einst die Fähigkeiten seiner neuesten Grafikkarten. Mehr als zwei Jahrzehnte später hat..."
+    },
+    {
+      "title": "Spieler findet ein Item in Diablo 4, das es gar nicht geben sollte, ist viel zu stark und gleichzeitig fast nutzlos",
+      "link": "https://mein-mmo.de/spieler-findet-kurioses-mythic-in-diablo-4/",
+      "pubDate": "27.11.2026 um 05:00 Uhr",
+      "timestamp": 1795755600.0,
+      "source": "Mein-MMO",
+      "summary": "Ein Spieler findet ein Mythic in Diablo 4, das irgendwie gar kein richtiges mythisches Item ist – dafür aber kuriose Eigenschaften besitzt. Der Beitra..."
+    },
+    {
+      "title": "WoW Forever: Die Langsamkeit funktioniert, erst 3% sind auf Level 60",
+      "link": "https://mein-mmo.de/wow-forver-die-langsamkeit-funktioniert-erst-3-sind-auf-level-60/",
+      "pubDate": "27.11.2026 um 04:30 Uhr",
+      "timestamp": 1795753800.0,
+      "source": "Mein-MMO",
+      "summary": "WoW Forever wollte Entschleunigung bieten. Das scheint zu funktionieren. Nur ein Bruchteil der Spieler ist bereits auf Stufe 60 angekommen. Der Beitra..."
+    },
+    {
       "title": "Google Play: Weltweite Offenlegung von Ent­wicklerdaten sorgt für Kritik",
       "link": "https://www.computerbase.de/news/apps/google-play-weltweite-offenlegung-von-entwicklerdaten-sorgt-fuer-kritik.100553/",
       "pubDate": "26.11.2026 um 21:15 Uhr",
@@ -57,36 +113,12 @@
       "summary": "Für die anvisierten 20 Millionen IOPS hat es nicht ganz gereicht, doch auch die 18 Millionen IOPS der neuen „Super High IOPS SSD“ GP2 von Kioxia sind ..."
     },
     {
-      "title": "Solidigm zur ISSCC: PLC-NAND mit 2,5 Tbit und höchster Bitdichte pro Layer",
-      "link": "https://www.computerbase.de/news/storage/solidigm-zur-isscc-plc-nand-mit-2-5-tbit-und-hoechster-bitdichte-pro-layer.100547/",
-      "pubDate": "26.11.2026 um 18:44 Uhr",
-      "timestamp": 1795715040.0,
-      "source": "ComputerBase",
-      "summary": "Um PLC-NAND, also NAND-Flash mit 5 Bit pro Speicherzelle, ist es in letzter Zeit sehr ruhig geworden. Dennoch zeigt Solidigm, dass die Entwicklung wei..."
-    },
-    {
-      "title": "Phantom Blade Zero: Patch senkt RAM- und VRAM-Verbrauch",
-      "link": "https://www.computerbase.de/news/gaming/phantom-blade-zero-patch-senkt-ram-und-vram-verbrauch.100546/",
-      "pubDate": "26.11.2026 um 18:15 Uhr",
-      "timestamp": 1795713300.0,
-      "source": "ComputerBase",
-      "summary": "S-Game will am 28. November ein Update für Phantom Blade Zero auf PC und PlayStation 5 veröffentlichen. Der Patch verspricht einen geringeren Speicher..."
-    },
-    {
       "title": "Pokémon GO: Alle Events im Dezember 2026 – Welche Termine stehen an?",
       "link": "https://mein-mmo.de/pokemon-go-alle-events-liste/",
       "pubDate": "26.11.2026 um 17:00 Uhr",
       "timestamp": 1795712400.0,
       "source": "Mein-MMO",
       "summary": "Die Pokémon GO Events für den Dezember 2026 sind nun bekannt. Wir fassen sie euch hier in der Liste zusammen. Der Beitrag Pokémon GO: Alle Events im D..."
-    },
-    {
-      "title": "Berlin als Warnsignal: Bundesnetzagentur legt neue Resilienzstrategie vor",
-      "link": "https://www.computerbase.de/news/internet/rumpfnetz-notstrom-satelliten-wie-die-bundesnetzagentur-mobilfunk-krisenfest-machen-will.100548/",
-      "pubDate": "26.11.2026 um 17:59 Uhr",
-      "timestamp": 1795712340.0,
-      "source": "ComputerBase",
-      "summary": "Nach den Berliner Infrastruktur­angriffen von 2025 und 2026 richtet die Bundes­netz­agentur ihre Resilienz­strategie neu aus. Sie setzt auf ein krisen..."
     },
     {
       "title": "Diablo 4 Season 16: Start, Release & beste Klassen",
@@ -111,41 +143,129 @@
       "timestamp": 1795710524.0,
       "source": "PlayCentral",
       "summary": "Für The Witcher 4 zeichnet sich ein Start ohne Nintendo Switch 2 ab. CD Projekt RED hat PlayStation 5, Xbox und PC ausdrücklich als Plattformen genann..."
-    },
-    {
-      "title": "Mitarbeiter von Rockstar Games stimmen gegen gewerkschaftliche Anerkennung",
-      "link": "https://www.eurogamer.de/rockstar-games-mitarbeiter-stimmen-gegen-gewerkschaft",
-      "pubDate": "26.11.2026 um 16:20 Uhr",
-      "timestamp": 1795710000.0,
-      "source": "Eurogamer.de News",
-      "summary": "Die Belegschaft von Rockstar Games hat gegen die offizielle Anerkennung der Rockstar Game Workers Union gestimmt. Insgesamt nahmen 93,2 Prozent der An..."
-    },
-    {
-      "title": "Monopoly GO: Alle gratis Würfel im November 2026 – Die neuen Codes von heute",
-      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
-      "pubDate": "26.11.2026 um 15:57 Uhr",
-      "timestamp": 1795708655.0,
-      "source": "Mein-MMO",
-      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
-    },
-    {
-      "title": "Kabelloses Gaming-Headset von Razer um 45% reduziert: Tiefpreis zum Black Friday",
-      "link": "https://mein-mmo.de/kabelloses-gaming-headset-von-razer-um-45-reduziert-tiefpreis-zum-black-friday/",
-      "pubDate": "26.11.2026 um 15:37 Uhr",
-      "timestamp": 1795707425.0,
-      "source": "Mein-MMO",
-      "summary": "Wenn ihr auf der Suche nach einem günstigen und trotzdem guten Gaming-Headset ohne Kabel seid, schaut euch dieses Razer-Modell näher an. Der Beitrag K..."
-    },
-    {
-      "title": "The Witcher 3 Remastered: Über 40 neue Mods & großes Update verändern das Hexer-Abenteuer",
-      "link": "https://www.playcentral.de/the-witcher-3-remastered-40-neue-mods-update/",
-      "pubDate": "26.11.2026 um 15:14 Uhr",
-      "timestamp": 1795706068.0,
-      "source": "PlayCentral",
-      "summary": "Nachdem Ende September die Remastered-Version von The Witcher 3: Wild Hunt erschienen ist, legt CD Projekt RED nun mit frischen Community-Inhalten und..."
     }
   ],
   "int": [
+    {
+      "title": "Stephen King's Psychological Thriller Officially Says Goodbye to Streaming",
+      "link": "https://www.polygon.com/say-goodbye-to-stephen-kings-first-film-adaptation/",
+      "pubDate": "27.11.2026 um 05:00 Uhr",
+      "timestamp": 1795755618.0,
+      "source": "Polygon.com",
+      "summary": "Stephen King's first-ever film adaptation remains the best. Don't miss out; watch Brian De Palma's Carrie now."
+    },
+    {
+      "title": "LEGO Godzilla Is Now Available",
+      "link": "https://www.ign.com/articles/lego-godzilla-is-now-available",
+      "pubDate": "27.11.2026 um 05:00 Uhr",
+      "timestamp": 1795755600.0,
+      "source": "IGN All",
+      "summary": "LEGO Godzilla is now available, and if you buy soon, you'll also get a LEGO Godzilla Logo & Footprint set for free."
+    },
+    {
+      "title": "The 2026 LG Evo C6 4K OLED TV Drops to the Lowest Price of the Year for Black Friday",
+      "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-black-friday-sale-2026",
+      "pubDate": "27.11.2026 um 05:00 Uhr",
+      "timestamp": 1795755600.0,
+      "source": "IGN All",
+      "summary": "Amazon Prime cardholders can save a little bit extra."
+    },
+    {
+      "title": "8 Essential Thriller Books Everyone Should Read at Least Once",
+      "link": "https://www.polygon.com/essential-thriller-books-must-read/",
+      "pubDate": "27.11.2026 um 04:44 Uhr",
+      "timestamp": 1795754658.0,
+      "source": "Polygon.com",
+      "summary": "These must-read genre books offer a lot more than a thrilling distraction from reality."
+    },
+    {
+      "title": "Here Are the Top Black Friday 4K TV Deals You Don't Want to Miss, From Budget to Best",
+      "link": "https://www.ign.com/articles/best-black-friday-tv-deals-2026",
+      "pubDate": "27.11.2026 um 04:40 Uhr",
+      "timestamp": 1795754400.0,
+      "source": "IGN All",
+      "summary": "Deals start on Thanksgiving day."
+    },
+    {
+      "title": "The Best Black Friday Deals Worth Browsing on Thanksgiving Day",
+      "link": "https://www.ign.com/articles/black-friday-sales-2026-best-deals-live",
+      "pubDate": "27.11.2026 um 04:35 Uhr",
+      "timestamp": 1795754100.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
+      "link": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+      "pubDate": "27.11.2026 um 04:27 Uhr",
+      "timestamp": 1795753675.0,
+      "source": "PCGamer latest",
+      "summary": "Turns out they weren't meant to be that hard to kill after all."
+    },
+    {
+      "title": "Save $100 on a FlexiSpot Sentinel Pro Gaming Chair for Black Friday",
+      "link": "https://www.ign.com/articles/flexispot-sentinel-pro-gaming-chair-black-friday-deal",
+      "pubDate": "27.11.2026 um 04:25 Uhr",
+      "timestamp": 1795753500.0,
+      "source": "IGN All",
+      "summary": "Your back will thank you."
+    },
+    {
+      "title": "Save 33% Off the Shokz OpenRun Pro 2 Sport Headphone With Bone Conduction Tech for Black Friday",
+      "link": "https://www.ign.com/articles/shokz-openrun-pro-2-sport-headphone-deal-november-2026",
+      "pubDate": "27.11.2026 um 04:25 Uhr",
+      "timestamp": 1795753500.0,
+      "source": "IGN All",
+      "summary": "The best headphones for runners."
+    },
+    {
+      "title": "8 Funniest ‘Far Side’ Comics About Fruits and Vegetables",
+      "link": "https://www.polygon.com/8-funniest-far-side-fruits-and-veggies/",
+      "pubDate": "27.11.2026 um 03:00 Uhr",
+      "timestamp": 1795748427.0,
+      "source": "Polygon.com",
+      "summary": "Gary Larson’s comic strip The Far Side featured jokes about all kinds of things, including fruits and vegetables. Here are the 8 funniest."
+    },
+    {
+      "title": "DoorDash Is Offering Up to $40 Off a Best Buy Order with This Promo Code",
+      "link": "https://www.ign.com/articles/best-buy-doordash-promo-black-friday",
+      "pubDate": "27.11.2026 um 02:01 Uhr",
+      "timestamp": 1795744866.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
+      "link": "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/",
+      "pubDate": "27.11.2026 um 01:39 Uhr",
+      "timestamp": 1795743547.0,
+      "source": "PCGamer latest",
+      "summary": "Just think what you'll be able to do with those extra 156 KB they're freeing up."
+    },
+    {
+      "title": "PS1 and Xbox Hallmark Christmas Ornaments Are on Sale for Black Friday",
+      "link": "https://www.ign.com/articles/ps1-and-xbox-hallmark-christmas-ornaments-are-on-sale-for-black-friday",
+      "pubDate": "27.11.2026 um 01:32 Uhr",
+      "timestamp": 1795743120.0,
+      "source": "IGN All",
+      "summary": ""
+    },
+    {
+      "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
+      "link": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+      "pubDate": "27.11.2026 um 01:28 Uhr",
+      "timestamp": 1795742904.0,
+      "source": "PCGamer latest",
+      "summary": "Holy Sigmar, bless this ravaged body."
+    },
+    {
+      "title": "Walmart's Black Friday sales are live, and they include five gaming upgrades I'm far too tempted by",
+      "link": "https://www.gamesradar.com/hardware/tech/walmarts-black-friday-sales-are-live-and-they-include-five-gaming-upgrades-im-far-too-tempted-by/",
+      "pubDate": "27.11.2026 um 00:04 Uhr",
+      "timestamp": 1795737861.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Walmart's Black Friday sales are live and raring to go, but between controllers, headsets, and consoles we're in dangerous deals territory now."
+    },
     {
       "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
       "link": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
@@ -169,129 +289,17 @@
       "timestamp": 1795732259.0,
       "source": "PCGamer latest",
       "summary": "Dawn of War 4 writer John French lays out how it works."
-    },
-    {
-      "title": "Microsoft's Github posts message celebrating efforts to port PlayStation 5 version of Grand Theft Auto 6 to PC, then quickly deletes it",
-      "link": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/",
-      "pubDate": "26.11.2026 um 22:29 Uhr",
-      "timestamp": 1795732146.0,
-      "source": "PCGamer latest",
-      "summary": "Guess who just got yelled at?"
-    },
-    {
-      "title": "WoW: Forever min-maxers are upset that its 40-player PvP mode now actually requires PvP to win",
-      "link": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-min-maxers-are-upset-that-its-40-player-pvp-mode-now-actually-requires-pvp-to-win/",
-      "pubDate": "26.11.2026 um 22:05 Uhr",
-      "timestamp": 1795730700.0,
-      "source": "PCGamer latest",
-      "summary": "Blizzard's latest patch prevents Alterac Valley from being a glorified reputation farm."
-    },
-    {
-      "title": "Star Trek: Voyager Officially Revisits the Series' Best Two-Parter in a Brand-New Way",
-      "link": "https://www.polygon.com/star-trek-voyager-across-the-unknown-year-of-hell-dlc-announced/",
-      "pubDate": "26.11.2026 um 21:50 Uhr",
-      "timestamp": 1795729818.0,
-      "source": "Polygon.com",
-      "summary": "Star Trek: Voyager - Across the Unknown strategy game officially reveals Year of Hell DLC"
-    },
-    {
-      "title": "Your mothership is a giant pinball machine and your ball is its defence system in Appulse, a top-down roguelite shooter that's out now",
-      "link": "https://www.rockpapershotgun.com/your-mothership-is-a-giant-pinball-machine-and-your-ball-is-its-defence-system-in-appulse-a-top-down-roguelite-shooter-thats-out-now",
-      "pubDate": "26.11.2026 um 21:31 Uhr",
-      "timestamp": 1795728670.0,
-      "source": "Rock Paper Shotgun News",
-      "summary": "Pinball remains such an intoxicating game because it's one where you have to constantly be on your toes. As the tiny metal sphere bats about the place..."
-    },
-    {
-      "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
-      "link": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
-      "pubDate": "26.11.2026 um 21:02 Uhr",
-      "timestamp": 1795726941.0,
-      "source": "IGN All",
-      "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out."
-    },
-    {
-      "title": "GTA: Boston Would Go Wicked Hard, Kid",
-      "link": "https://www.polygon.com/gta-6-boston-massachussetts/",
-      "pubDate": "26.11.2026 um 21:00 Uhr",
-      "timestamp": 1795726818.0,
-      "source": "Polygon.com",
-      "summary": "Grand Theft Auto 6 is a perfect Florida satire, and now I'm dying to see Rockstar's take on Massachusetts."
-    },
-    {
-      "title": "Path of Exile co-creator says \"a shift back\" to games like Baldur’s Gate 3 would be better for the industry",
-      "link": "https://www.gamesradar.com/games/baldur-s-gate/path-of-exile-co-creator-says-a-shift-back-to-games-like-baldurs-gate-3-over-live-service-releases-would-be-better-for-the-industry/",
-      "pubDate": "26.11.2026 um 21:00 Uhr",
-      "timestamp": 1795726800.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "Larian has a purer relationship with the audience"
-    },
-    {
-      "title": "The Sims 4 Officially Makes 13 DLCs Free for a Limited Time",
-      "link": "https://www.polygon.com/the-sims-4-free-maker-pack-holiday-giveaway-2026/",
-      "pubDate": "26.11.2026 um 20:46 Uhr",
-      "timestamp": 1795726014.0,
-      "source": "Polygon.com",
-      "summary": "The Sims 4 is hosting a holiday giveaway that allows players to claim up to 13 free Maker Packs throughout the next eight weeks."
-    },
-    {
-      "title": "EA removes some live service fluff from Skate and ends seasonal structure \"in favour of regular, agile content updates\"",
-      "link": "https://www.eurogamer.net/ea-removes-live-service-skate-seasons",
-      "pubDate": "26.11.2026 um 20:35 Uhr",
-      "timestamp": 1795725320.0,
-      "source": "Eurogamer.net News",
-      "summary": "EA is ditching seasonal updates and shaving some of the live service fluff off Skate (for some reason stylised as skate.) going forward. Normally, suc..."
-    },
-    {
-      "title": "GTA 6 Fashion in the IGN Community",
-      "link": "https://www.ign.com/articles/gta-6-fashion-in-the-ign-community",
-      "pubDate": "26.11.2026 um 20:23 Uhr",
-      "timestamp": 1795724617.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Steam isn't doing 'an official Black Friday fest,' but it does have a page with hundreds of discounts and 'Black Friday' splashed across the top so you might want to check it out anyway",
-      "link": "https://www.pcgamer.com/games/steam-isnt-doing-an-official-black-friday-fest-but-it-does-have-a-page-with-hundreds-of-discounts-and-black-friday-splashed-across-the-top-so-you-might-want-to-check-it-out-anyway/",
-      "pubDate": "26.11.2026 um 20:20 Uhr",
-      "timestamp": 1795724402.0,
-      "source": "PCGamer latest",
-      "summary": "Updates to Steam's 'Discounts and Events' page are now live, and Valve wants to show them off."
-    },
-    {
-      "title": "The 12 Best Gifts For RPG Lovers In 2026",
-      "link": "https://kotaku.com/12-best-gifts-for-rpg-fans-2001000412",
-      "pubDate": "26.11.2026 um 20:00 Uhr",
-      "timestamp": 1795723242.0,
-      "source": "Kotaku",
-      "summary": "From games to goofs, we're here to inspire you"
-    },
-    {
-      "title": "32 Years Later, Disney's Most Notorious Cash-Grab Sequel Is Better Than You Remember",
-      "link": "https://www.polygon.com/in-defense-of-the-return-of-jafar/",
-      "pubDate": "26.11.2026 um 20:00 Uhr",
-      "timestamp": 1795723217.0,
-      "source": "Polygon.com",
-      "summary": "The Aladdin sequel The Return of Jafar is often derided as a bad, cheap sequel which started Disney's direct-to-video sequel trend, but I love it"
-    },
-    {
-      "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
-      "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-was-praying-that-gta-6s-early-plot-twist-wouldnt-leak-given-everything-that-weve-gone-through/",
-      "pubDate": "26.11.2026 um 20:00 Uhr",
-      "timestamp": 1795723200.0,
-      "source": "Latest from GamesRadar+",
-      "summary": "\"It's meant to shock,\" says Rob Nelson"
-    },
-    {
-      "title": "Eureka Ergonomic Has Black Friday Deals to Give Your Space the Upgrade It Needs",
-      "link": "https://www.ign.com/articles/eureka-ergonomic-has-black-friday-deals-to-give-your-space-the-upgrade-it-needs",
-      "pubDate": "26.11.2026 um 19:30 Uhr",
-      "timestamp": 1795721400.0,
-      "source": "IGN All",
-      "summary": "Professional office or gamer vibes? The choice is yours."
     }
   ],
   "sim": [
+    {
+      "title": "The 10 Best Black Friday Sim Racing Deals of 2026",
+      "link": "https://www.gtplanet.net/the-10-best-black-friday-sim-racing-deals-of-2026-20261126/",
+      "pubDate": "27.11.2026 um 02:28 Uhr",
+      "timestamp": 1795746512.0,
+      "source": "GTPlanet",
+      "summary": "Nearly every sim racing brand has a Black Friday sale running..."
+    },
     {
       "title": "Gran Turismo 7 Online Time Trial: Thanksgiving Horse d’Oeuvres",
       "link": "https://www.gtplanet.net/gran-turismo-7-online-time-trial-thanksgiving-horse-doeuvres-20261126/",
@@ -427,14 +435,6 @@
       "timestamp": 1795456800.0,
       "source": "iRacing.com",
       "summary": "Sánchez wins at Magny-Cours; Kadlečík takes finale at Bathurst as Moore&#8217;s title defense comes up short in final round With three victories in ei..."
-    },
-    {
-      "title": "Gran Turismo 7 Daily Races: Kyoto Protocol",
-      "link": "https://www.gtplanet.net/gran-turismo-7-daily-races-kyoto-protocol-20261123/",
-      "pubDate": "23.11.2026 um 16:55 Uhr",
-      "timestamp": 1795452951.0,
-      "source": "GTPlanet",
-      "summary": "Kyoto Driving Park hosts two of this week's three GT7 Daily Races, with karts back on Miyabi, Gr..."
     }
   ]
 }
