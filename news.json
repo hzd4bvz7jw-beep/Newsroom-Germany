@@ -1,297 +1,345 @@
 {
   "de": [
     {
-      "title": "Aion 2 verpasst Spielern Milliarden Kinah an Schulden und ich will das unbedingt in WoW Forever",
-      "link": "https://mein-mmo.de/aion-2-kinah-negativ-system-schulden/",
-      "pubDate": "27.11.2026 um 07:00 Uhr",
-      "timestamp": 1795762846.0,
-      "source": "Mein-MMO",
-      "summary": "Die NCSoft-Entwickler gehen gegen Echtgeldhandel in Aion 2 vor. Dabei verteilen sie aber nicht nur Bannstrafen. Der Beitrag Aion 2 verpasst Spielern M..."
-    },
-    {
-      "title": "Aktuelle Benchmarks: RX 9070 XT vs. RTX 5070 Ti mit neuen Treibern und Spielen",
-      "link": "https://www.computerbase.de/artikel/grafikkarten/radeon-rx-9070-xt-geforce-rtx-5070-ti-benchmark-2026.100412/",
-      "pubDate": "27.11.2026 um 08:00 Uhr",
-      "timestamp": 1795762800.0,
-      "source": "ComputerBase",
-      "summary": "Die Radeon RX 9070 XT ist die beliebteste Grafikkarte auf ComputerBase. Die GeForce RTX 5070 Ti ist Nvidias Konkurrenzmodell. Wir haben uns beide Graf..."
-    },
-    {
-      "title": "Tau-Scaling-CPUs: Huawei entwickelt eigene EDA-Werkzeuge",
-      "link": "https://www.computerbase.de/news/prozessoren/tau-scaling-cpus-huawei-entwickelt-eigene-eda-werkzeuge.100550/",
-      "pubDate": "27.11.2026 um 07:00 Uhr",
-      "timestamp": 1795759200.0,
-      "source": "ComputerBase",
-      "summary": "Während ASML sich dafür ausspricht, ältere Lithografie-Systeme nach China zu liefern, setzt Huawei mit eigenen EDA-Werkzeugen auf immer mehr Unabhängi..."
-    },
-    {
-      "title": "Final Fantasy XIV: Evercold Guide – Was sollte man zur optimalen Vorbereitung tun?",
-      "link": "https://mein-mmo.de/final-fantasy-xiv-evercold-vorbereitung/",
-      "pubDate": "27.11.2026 um 06:00 Uhr",
-      "timestamp": 1795759200.0,
-      "source": "Mein-MMO",
-      "summary": "Mit Evercold steht die nächste Erweiterung für FF14 an. Bevor ihr starten könnt, solltet ihr - ob Neuling, Wiederkehrer oder Veteran - einiges erledig..."
-    },
-    {
-      "title": "GPU Demo Gallery: Was einst High-End-GPUs brauchte, läuft heute im Browser",
-      "link": "https://www.computerbase.de/news/grafikkarten/gpu-demo-gallery-36-klassische-grafikkarten-demos-laufen-jetzt-im-browser.100554/",
-      "pubDate": "27.11.2026 um 06:00 Uhr",
-      "timestamp": 1795755600.0,
-      "source": "ComputerBase",
-      "summary": "Mit dem Werwolf Wolfman und der Elfe Dawn demonstrierte Nvidia einst die Fähigkeiten seiner neuesten Grafikkarten. Mehr als zwei Jahrzehnte später hat..."
-    },
-    {
-      "title": "Spieler findet ein Item in Diablo 4, das es gar nicht geben sollte, ist viel zu stark und gleichzeitig fast nutzlos",
-      "link": "https://mein-mmo.de/spieler-findet-kurioses-mythic-in-diablo-4/",
-      "pubDate": "27.11.2026 um 05:00 Uhr",
-      "timestamp": 1795755600.0,
-      "source": "Mein-MMO",
-      "summary": "Ein Spieler findet ein Mythic in Diablo 4, das irgendwie gar kein richtiges mythisches Item ist – dafür aber kuriose Eigenschaften besitzt. Der Beitra..."
-    },
-    {
-      "title": "WoW Forever: Die Langsamkeit funktioniert, erst 3% sind auf Level 60",
-      "link": "https://mein-mmo.de/wow-forver-die-langsamkeit-funktioniert-erst-3-sind-auf-level-60/",
-      "pubDate": "27.11.2026 um 04:30 Uhr",
-      "timestamp": 1795753800.0,
-      "source": "Mein-MMO",
-      "summary": "WoW Forever wollte Entschleunigung bieten. Das scheint zu funktionieren. Nur ein Bruchteil der Spieler ist bereits auf Stufe 60 angekommen. Der Beitra..."
-    },
-    {
-      "title": "Google Play: Weltweite Offenlegung von Ent­wicklerdaten sorgt für Kritik",
-      "link": "https://www.computerbase.de/news/apps/google-play-weltweite-offenlegung-von-entwicklerdaten-sorgt-fuer-kritik.100553/",
-      "pubDate": "26.11.2026 um 21:15 Uhr",
-      "timestamp": 1795724100.0,
-      "source": "ComputerBase",
-      "summary": "Anders als Apple will Google die Adressen und Telefonnummern von App-Entwicklern nicht nur in Europa, sondern weltweit öffentlich machen und erntet da..."
-    },
-    {
-      "title": "RansomwareHelp: Datenretter sollen heimlich Lösegeld an Hacker ge­zahlt haben",
-      "link": "https://www.computerbase.de/news/wirtschaft/ransomwarehelp-datenretter-sollen-heimlich-loesegeld-an-hacker-gezahlt-haben.100538/",
-      "pubDate": "26.11.2026 um 20:30 Uhr",
-      "timestamp": 1795721400.0,
-      "source": "ComputerBase",
-      "summary": "RansomwareHelp versprach seinen Kunden, verschlüsselte Daten ohne Lösegeldzahlung wiederherzustellen. Doch der Datenretter soll jahrelang heimlich mit..."
-    },
-    {
-      "title": "Fritz!OS 8.26: Fritz!Box 7530 erhält neue Stammzertifikate für mehr Sicherheit",
-      "link": "https://www.computerbase.de/news/internet/fritz-os-8-26-verbessertes-mesh-und-besserer-datendurchsatz-fuer-fritz-box-7530.100551/",
-      "pubDate": "26.11.2026 um 20:05 Uhr",
-      "timestamp": 1795719900.0,
-      "source": "ComputerBase",
-      "summary": "Während andere Fritz!-Router bereits bei Fritz!OS 8.51 angekommen sind, erhält die Fritz!Box 7530 nun Version 8.26. Neue Funktionen bringt das Update ..."
-    },
-    {
-      "title": "Unzählige Leute empfehlen Hänno ein RPG, das Dark Souls mit Elder Scrolls mischt – und verdammt, ich hab es mir jetzt auch gekauft",
-      "link": "https://mein-mmo.de/haenno-zockt-queens-domain/",
-      "pubDate": "26.11.2026 um 19:00 Uhr",
-      "timestamp": 1795719600.0,
-      "source": "Mein-MMO",
-      "summary": "In einem neuen YouTube-Video zockt Hänno ein Action-RPG, das aktuell gefeiert wird. Hat damit auch MeinMMO-Redakteur Niko überzeugt. Der Beitrag Unzäh..."
-    },
-    {
-      "title": "GTA 6: Inoffizielle PC-Por­tier­ung knackt erstmals rund 20 FPS",
-      "link": "https://www.computerbase.de/news/gaming/gta-6-inoffizielle-pc-portierung-knackt-erstmals-rund-20-fps.100549/",
-      "pubDate": "26.11.2026 um 19:40 Uhr",
-      "timestamp": 1795718400.0,
-      "source": "ComputerBase",
-      "summary": "Die Entwicklung inoffizieller PC-Portierungen von GTA 6 ist binnen weniger Tage deutlich vorangeschritten. Dank der Kompatibilitätsschicht VIctory wer..."
-    },
-    {
-      "title": "Fable: Der neue Teil soll mehr Dialoge als Fallout 4 bieten",
-      "link": "https://www.eurogamer.de/fable-mehr-dialoge-skyrim-mass-effect",
-      "pubDate": "26.11.2026 um 18:23 Uhr",
-      "timestamp": 1795717380.0,
+      "title": "Dass GTA irgendwann außerhalb der USA spielen wird ist leider sehr unwahrscheinlich",
+      "link": "https://www.eurogamer.de/gta-zukunft-schauplatz-usa-rockstar-interview",
+      "pubDate": "27.11.2026 um 17:51 Uhr",
+      "timestamp": 1795801860.0,
       "source": "Eurogamer.de News",
-      "summary": "Das neue Fable scheint eines der umfangreichsten Rollenspiele seiner Zeit zu werden - zumindest wenn man sich auf die F&uuml;lle an Dialogen bezieht. ..."
+      "summary": "W&uuml;rde Rockstar ein k&uuml;nftiges Grand Theft Auto tats&auml;chlich au&szlig;erhalb der USA ansiedeln? Zuletzt kam diese Idee immer wieder auf. A..."
     },
     {
-      "title": "Kioxia GP2: Neue High-End-SSD erreicht 18 Mio. IOPS mit XL Flash Gen 3",
-      "link": "https://www.computerbase.de/news/storage/kioxia-gp2-neue-high-end-ssd-erreicht-18-mio-iops-mit-xl-flash-gen-3.100552/",
-      "pubDate": "26.11.2026 um 19:09 Uhr",
-      "timestamp": 1795716540.0,
+      "title": "Ab 2027: Gmail beendet POP-Abruf und Versand über fremde Adressen",
+      "link": "https://www.computerbase.de/news/apps/ab-2027-gmail-beendet-pop-abruf-und-versand-ueber-fremde-adressen.100569/",
+      "pubDate": "27.11.2026 um 18:15 Uhr",
+      "timestamp": 1795799700.0,
       "source": "ComputerBase",
-      "summary": "Für die anvisierten 20 Millionen IOPS hat es nicht ganz gereicht, doch auch die 18 Millionen IOPS der neuen „Super High IOPS SSD“ GP2 von Kioxia sind ..."
+      "summary": "Ab Januar 2027 kann Gmail im Web keine E-Mails mehr per POP von anderen Anbietern abrufen. Auch der Versand über Adressen von Drittanbietern wird über..."
     },
     {
-      "title": "Pokémon GO: Alle Events im Dezember 2026 – Welche Termine stehen an?",
-      "link": "https://mein-mmo.de/pokemon-go-alle-events-liste/",
-      "pubDate": "26.11.2026 um 17:00 Uhr",
-      "timestamp": 1795712400.0,
-      "source": "Mein-MMO",
-      "summary": "Die Pokémon GO Events für den Dezember 2026 sind nun bekannt. Wir fassen sie euch hier in der Liste zusammen. Der Beitrag Pokémon GO: Alle Events im D..."
+      "title": "Marvel 1943: Rise of Hydra wird umwerfend und ist fast fertig, verspricht der Black Panther-Darsteller",
+      "link": "https://www.eurogamer.de/marvel-1943-rise-of-hydra-kein-one-button-game",
+      "pubDate": "27.11.2026 um 17:00 Uhr",
+      "timestamp": 1795798820.0,
+      "source": "Eurogamer.de News",
+      "summary": "Die Arbeit an Marvel 1943: Rise of Hydra geht weiter voran, doch wieder einmal scheint es, als m&uuml;sse mit Ger&uuml;chten aufger&auml;umt werden. U..."
     },
     {
-      "title": "Diablo 4 Season 16: Start, Release & beste Klassen",
-      "link": "https://mein-mmo.de/diablo-4-season-16-alle-infos-start-inhalte/",
-      "pubDate": "26.11.2026 um 16:47 Uhr",
-      "timestamp": 1795711664.0,
-      "source": "Mein-MMO",
-      "summary": "Season 16 von Diablo 4 startet am 1. Dezember, bringt neuen Content und einige Änderungen ins ARPG. Alle Infos erfahrt ihr hier auf MeinMMO. Der Beitr..."
+      "title": "Black Friday: Steam rahmt Sonder­angebote in einer neuen Übersichts­seite",
+      "link": "https://www.computerbase.de/news/gaming/black-friday-steam-rahmt-sonderangebote-in-einer-neuen-uebersichtsseite.100564/",
+      "pubDate": "27.11.2026 um 17:45 Uhr",
+      "timestamp": 1795797900.0,
+      "source": "ComputerBase",
+      "summary": "Immer wieder hält Valve auf Steam abseits der vier großen jährlichen Steam Sales auch kleinere Rabattaktionen mit klarem Genre- oder Themenbezug ab. „..."
     },
     {
-      "title": "Skull and Bones – Ubisoft nennt AAAA vor Gericht bloße Werbeübertreibung",
-      "link": "https://www.playcentral.de/skull-and-bones-aaaa-werbeuebertreibung-ubisoft/",
-      "pubDate": "26.11.2026 um 16:35 Uhr",
-      "timestamp": 1795710907.0,
+      "title": "Elden Ring: 418 kartierte Orte der Gnade im Hauptspiel und DLC",
+      "link": "https://www.playcentral.de/elden-ring-alle-orte-der-gnade-hauptspiel-dlc/",
+      "pubDate": "27.11.2026 um 16:43 Uhr",
+      "timestamp": 1795797814.0,
       "source": "PlayCentral",
-      "summary": "Ubisofts berühmte AAAA-Einstufung von Skull and Bones war nach Darstellung der eigenen Anwälte keine überprüfbare Zusage zur Qualität des Piratenspiel..."
+      "summary": "Orte der Gnade sind eure Schnellreisepunkte und Rastplätze in Elden Ring. Auf unseren Karten könnt ihr zwischen Zwischenland, Unterwelt und Reich der ..."
     },
     {
-      "title": "The Witcher 4 soll 2028 für PS5, Xbox und PC kommen – Switch 2 fehlt",
-      "link": "https://www.playcentral.de/the-witcher-4-ps5-xbox-2/",
-      "pubDate": "26.11.2026 um 16:28 Uhr",
-      "timestamp": 1795710524.0,
+      "title": "Shadow of the Erdtree: 42 kartierte Bosse und ihre Fundorte",
+      "link": "https://www.playcentral.de/shadow-of-the-erdtree-alle-bosse-fundorte/",
+      "pubDate": "27.11.2026 um 16:42 Uhr",
+      "timestamp": 1795797761.0,
       "source": "PlayCentral",
-      "summary": "Für The Witcher 4 zeichnet sich ein Start ohne Nintendo Switch 2 ab. CD Projekt RED hat PlayStation 5, Xbox und PC ausdrücklich als Plattformen genann..."
+      "summary": "Die großen Hauptgegner sind nur ein Teil der Kämpfe im Reich der Schatten. Auch in Katakomben, abgelegenen Ruinen und auf dem Klingengipfel warten opt..."
+    },
+    {
+      "title": "Elden Ring Tarnished Pack: Neue Waffen und Rüstungen finden",
+      "link": "https://www.playcentral.de/elden-ring-tarnished-pack-waffen-ruestungen-fundorte/",
+      "pubDate": "27.11.2026 um 16:39 Uhr",
+      "timestamp": 1795797554.0,
+      "source": "PlayCentral",
+      "summary": "Mit dem Tarnished Pack findet ihr in Elden Ring neue Ausrüstung auch auf bestehenden Spielständen. Zwei Startklassen bringen eigene Waffen und Rüstung..."
+    },
+    {
+      "title": "Shadow of the Erdtree: Alle fünf Kartenfragmente und wie ihr sie erreicht",
+      "link": "https://www.playcentral.de/shadow-of-the-erdtree-alle-fuenf-kartenfragmente/",
+      "pubDate": "27.11.2026 um 16:36 Uhr",
+      "timestamp": 1795797414.0,
+      "source": "PlayCentral",
+      "summary": "Fünf Kartenfragmente decken das Reich der Schatten in Shadow of the Erdtree auf. Zwei davon wirken auf der noch grauen Karte näher beieinander, als ih..."
+    },
+    {
+      "title": "WoW Forever: Jäger-Begleiter können nach Hotfix wieder kritisch treffen",
+      "link": "https://www.playcentral.de/wow-forever-jaeger-begleiter-kritische-treffer-hotfix/",
+      "pubDate": "27.11.2026 um 16:31 Uhr",
+      "timestamp": 1795797091.0,
+      "source": "PlayCentral",
+      "summary": "Jäger in World of Warcraft: Forever profitieren von einem Hotfix: Ihre Begleiter können mit einfachen Nahkampfangriffen wieder kritische Treffer erzie..."
+    },
+    {
+      "title": "Taichi Aqua 360 LCD: ASRock öffnet den Wasserkreislauf beim AiO-Kühler",
+      "link": "https://www.computerbase.de/news/kuehlung/taichi-aqua-360-lcd-asrock-oeffnet-den-wasserkreislauf-beim-aio-kuehler.100567/",
+      "pubDate": "27.11.2026 um 17:20 Uhr",
+      "timestamp": 1795796400.0,
+      "source": "ComputerBase",
+      "summary": "Ein wesentliches Merkmal der sogenannten All-in-One-Wasserkühler für CPUs ist ein in sich geschlossenes System. ASRock präsentiert jetzt aber ein Mode..."
+    },
+    {
+      "title": "Hollow Knight Silksong: Kostenlose Erweiterung Sea of Sorrow erscheint am 11. Dezember 2026",
+      "link": "https://www.eurogamer.de/hollow-knight-silksong-sea-of-sorrow-release-11-dezember-2026",
+      "pubDate": "27.11.2026 um 16:16 Uhr",
+      "timestamp": 1795796200.0,
+      "source": "Eurogamer.de News",
+      "summary": "Hollow Knight: Silksong war einer der gro&szlig;en Titel des letzten Jahres und hat selbst Steam zum Launch gecrasht. Es ist wohl nicht &uuml;bertrieb..."
+    },
+    {
+      "title": "Square Enix: Starke Finanzergebnisse dank Switch-2-Releases",
+      "link": "https://www.eurogamer.de/square-enix-starke-finanzergebnisse-dank-switch-2-releases",
+      "pubDate": "27.11.2026 um 15:30 Uhr",
+      "timestamp": 1795793420.0,
+      "source": "Eurogamer.de News",
+      "summary": "Bei den Third-Party-Studios ist Square Enix f&uuml;r Nintendo sicherlich eines der wichtigsten. F&uuml;r die Switch 2 hat der Entwickler viele Spiele ..."
+    },
+    {
+      "title": "Fable: Wie The Witcher 3 und Assassin’s Creed das Reboot maßgeblich beeinflussten",
+      "link": "https://www.playcentral.de/fable-witcher-3-assassins-creed-einfluss-reboot/",
+      "pubDate": "27.11.2026 um 15:22 Uhr",
+      "timestamp": 1795792926.0,
+      "source": "PlayCentral",
+      "summary": "Mit dem neuen Fable möchte Playground Games die Stärken der ursprünglichen Trilogie mit den Ansprüchen an moderne Open World-Rollenspiele vereinen. Wi..."
+    },
+    {
+      "title": "Ex-Profi in LoL meldet sich nach über 2 Jahren Funkstille zurück, kloppt sich in einem echten Boxring",
+      "link": "https://mein-mmo.de/ex-lol-profi-jetzt-boxer/",
+      "pubDate": "27.11.2026 um 15:18 Uhr",
+      "timestamp": 1795792739.0,
+      "source": "Mein-MMO",
+      "summary": "Ein ehemaliger LoL-Profi hat sich von der Kluft der Beschwörer in einen echten Ring geboxt, nennt sich jetzt John Cena. Der Beitrag Ex-Profi in LoL me..."
+    },
+    {
+      "title": "Vodafone verliert vor OLG: Einseitige AGB-Änderungen für unwirksam erklärt",
+      "link": "https://www.computerbase.de/news/wirtschaft/vodafone-verliert-vor-olg-einseitige-agb-aenderungen-fuer-unwirksam-erklaert.100566/",
+      "pubDate": "27.11.2026 um 15:45 Uhr",
+      "timestamp": 1795790700.0,
+      "source": "ComputerBase",
+      "summary": "Das OLG Düsseldorf hat eine Klausel in Vodafones AGB für unwirksam erklärt, die einseitige Änderungen von Vertragsbedingungen erlaubte. Die Verbrauche..."
+    },
+    {
+      "title": "Ringe der Macht kehrt endlich zur Vorlage von Tolkien zurück – Aber dafür muss mehr als nur ein Plot dran glauben",
+      "link": "https://mein-mmo.de/ringe-der-macht-staffel-drei-opfert-sich-fur-lore/",
+      "pubDate": "27.11.2026 um 14:39 Uhr",
+      "timestamp": 1795790397.0,
+      "source": "Mein-MMO",
+      "summary": "Die Tolkien-Fans haben gewonnen und Ringe der Macht zerstört den eigenen Plot, um endlich der Vorlage gerecht zu werden. Der Beitrag Ringe der Macht k..."
+    },
+    {
+      "title": "Simpsons Hit & Run: Remake könnte nach gecanceltem Projekt des Studios auf der Kippe stehen",
+      "link": "https://www.eurogamer.de/simpsons-hit-run-remake-geruecht-eingestellt",
+      "pubDate": "27.11.2026 um 14:36 Uhr",
+      "timestamp": 1795790170.0,
+      "source": "Eurogamer.de News",
+      "summary": "Ein bislang unangek&uuml;ndigtes Projekt vom Entwickler New Radical Games wurde Berichten zufolge eingestellt. Das Studio soll angeblich auch an einem..."
+    },
+    {
+      "title": "Monopoly GO: Alle gratis Würfel im November 2026 – Die neuen Codes von heute",
+      "link": "https://mein-mmo.de/monopoly-go-kostenlose-wuerfel-bekommen/",
+      "pubDate": "27.11.2026 um 14:32 Uhr",
+      "timestamp": 1795789967.0,
+      "source": "Mein-MMO",
+      "summary": "In Monopoly GO! kostenlose Würfel bekommen, ist nicht schwer. In unserem Guide zeigen wir euch, wie ihr ganz einfach an Würfel kommt. Der Beitrag Mono..."
     }
   ],
   "int": [
     {
-      "title": "Stephen King's Psychological Thriller Officially Says Goodbye to Streaming",
-      "link": "https://www.polygon.com/say-goodbye-to-stephen-kings-first-film-adaptation/",
-      "pubDate": "27.11.2026 um 05:00 Uhr",
-      "timestamp": 1795755618.0,
+      "title": "6 Upcoming Steam Games To Wishlist For Life After GTA 6",
+      "link": "https://www.polygon.com/wishlister-nov-27/",
+      "pubDate": "27.11.2026 um 17:45 Uhr",
+      "timestamp": 1795801536.0,
       "source": "Polygon.com",
-      "summary": "Stephen King's first-ever film adaptation remains the best. Don't miss out; watch Brian De Palma's Carrie now."
+      "summary": "Grand Theft Auto 6 is obviously dominated playtime right now, but there are plenty of upcoming Steam games to wishlist for when you're done."
     },
     {
-      "title": "LEGO Godzilla Is Now Available",
-      "link": "https://www.ign.com/articles/lego-godzilla-is-now-available",
-      "pubDate": "27.11.2026 um 05:00 Uhr",
-      "timestamp": 1795755600.0,
-      "source": "IGN All",
-      "summary": "LEGO Godzilla is now available, and if you buy soon, you'll also get a LEGO Godzilla Logo & Footprint set for free."
-    },
-    {
-      "title": "The 2026 LG Evo C6 4K OLED TV Drops to the Lowest Price of the Year for Black Friday",
-      "link": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-black-friday-sale-2026",
-      "pubDate": "27.11.2026 um 05:00 Uhr",
-      "timestamp": 1795755600.0,
-      "source": "IGN All",
-      "summary": "Amazon Prime cardholders can save a little bit extra."
-    },
-    {
-      "title": "8 Essential Thriller Books Everyone Should Read at Least Once",
-      "link": "https://www.polygon.com/essential-thriller-books-must-read/",
-      "pubDate": "27.11.2026 um 04:44 Uhr",
-      "timestamp": 1795754658.0,
+      "title": "GTA 6 PC Port Takes a Massive Leap Forward in Just Days",
+      "link": "https://www.polygon.com/gta-6-pc-port-update-progress-unofficial-cyberleek-leak/",
+      "pubDate": "27.11.2026 um 17:44 Uhr",
+      "timestamp": 1795801473.0,
       "source": "Polygon.com",
-      "summary": "These must-read genre books offer a lot more than a thrilling distraction from reality."
+      "summary": "GTA 6's ongoing PC port progress is unrecognizable after just a few days, with some builds including working multiplayer"
     },
     {
-      "title": "Here Are the Top Black Friday 4K TV Deals You Don't Want to Miss, From Budget to Best",
-      "link": "https://www.ign.com/articles/best-black-friday-tv-deals-2026",
-      "pubDate": "27.11.2026 um 04:40 Uhr",
-      "timestamp": 1795754400.0,
-      "source": "IGN All",
-      "summary": "Deals start on Thanksgiving day."
-    },
-    {
-      "title": "The Best Black Friday Deals Worth Browsing on Thanksgiving Day",
-      "link": "https://www.ign.com/articles/black-friday-sales-2026-best-deals-live",
-      "pubDate": "27.11.2026 um 04:35 Uhr",
-      "timestamp": 1795754100.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
-      "link": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
-      "pubDate": "27.11.2026 um 04:27 Uhr",
-      "timestamp": 1795753675.0,
-      "source": "PCGamer latest",
-      "summary": "Turns out they weren't meant to be that hard to kill after all."
-    },
-    {
-      "title": "Save $100 on a FlexiSpot Sentinel Pro Gaming Chair for Black Friday",
-      "link": "https://www.ign.com/articles/flexispot-sentinel-pro-gaming-chair-black-friday-deal",
-      "pubDate": "27.11.2026 um 04:25 Uhr",
-      "timestamp": 1795753500.0,
-      "source": "IGN All",
-      "summary": "Your back will thank you."
-    },
-    {
-      "title": "Save 33% Off the Shokz OpenRun Pro 2 Sport Headphone With Bone Conduction Tech for Black Friday",
-      "link": "https://www.ign.com/articles/shokz-openrun-pro-2-sport-headphone-deal-november-2026",
-      "pubDate": "27.11.2026 um 04:25 Uhr",
-      "timestamp": 1795753500.0,
-      "source": "IGN All",
-      "summary": "The best headphones for runners."
-    },
-    {
-      "title": "8 Funniest ‘Far Side’ Comics About Fruits and Vegetables",
-      "link": "https://www.polygon.com/8-funniest-far-side-fruits-and-veggies/",
-      "pubDate": "27.11.2026 um 03:00 Uhr",
-      "timestamp": 1795748427.0,
+      "title": "Gold treasure hours schedule in the Fortnite Chapter 7 mini season",
+      "link": "https://www.polygon.com/fornite-treasure-hours-chapter-7-mini-season-c7ms/",
+      "pubDate": "27.11.2026 um 17:42 Uhr",
+      "timestamp": 1795801374.0,
       "source": "Polygon.com",
-      "summary": "Gary Larson’s comic strip The Far Side featured jokes about all kinds of things, including fruits and vegetables. Here are the 8 funniest."
+      "summary": "Here's what time you can expect the next batch of Fortnite treasure hours, as well as what bonuses are coming with them."
     },
     {
-      "title": "DoorDash Is Offering Up to $40 Off a Best Buy Order with This Promo Code",
-      "link": "https://www.ign.com/articles/best-buy-doordash-promo-black-friday",
-      "pubDate": "27.11.2026 um 02:01 Uhr",
-      "timestamp": 1795744866.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Microsoft announces it's deprecating the Telnet client in Windows, giving me a sudden flashback to when I used to use Telnet",
-      "link": "https://www.pcgamer.com/software/windows/microsoft-announces-its-deprecating-the-telnet-client-in-windows-giving-me-a-sudden-flashback-to-when-i-used-to-use-telnet/",
-      "pubDate": "27.11.2026 um 01:39 Uhr",
-      "timestamp": 1795743547.0,
-      "source": "PCGamer latest",
-      "summary": "Just think what you'll be able to do with those extra 156 KB they're freeing up."
-    },
-    {
-      "title": "PS1 and Xbox Hallmark Christmas Ornaments Are on Sale for Black Friday",
-      "link": "https://www.ign.com/articles/ps1-and-xbox-hallmark-christmas-ornaments-are-on-sale-for-black-friday",
-      "pubDate": "27.11.2026 um 01:32 Uhr",
-      "timestamp": 1795743120.0,
-      "source": "IGN All",
-      "summary": ""
-    },
-    {
-      "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
-      "link": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
-      "pubDate": "27.11.2026 um 01:28 Uhr",
-      "timestamp": 1795742904.0,
-      "source": "PCGamer latest",
-      "summary": "Holy Sigmar, bless this ravaged body."
-    },
-    {
-      "title": "Walmart's Black Friday sales are live, and they include five gaming upgrades I'm far too tempted by",
-      "link": "https://www.gamesradar.com/hardware/tech/walmarts-black-friday-sales-are-live-and-they-include-five-gaming-upgrades-im-far-too-tempted-by/",
-      "pubDate": "27.11.2026 um 00:04 Uhr",
-      "timestamp": 1795737861.0,
+      "title": "EA's Iron Man game may finally resurface at The Game Awards, internet sleuths think",
+      "link": "https://www.gamesradar.com/games/action/eas-iron-man-game-may-finally-resurface-at-the-game-awards-after-4-years-of-silence-internet-sleuths-believe/",
+      "pubDate": "27.11.2026 um 17:39 Uhr",
+      "timestamp": 1795801153.0,
       "source": "Latest from GamesRadar+",
-      "summary": "Walmart's Black Friday sales are live and raring to go, but between controllers, headsets, and consoles we're in dangerous deals territory now."
+      "summary": "Motive Studio's been working on the release since 2022"
     },
     {
-      "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
-      "link": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
-      "pubDate": "26.11.2026 um 23:00 Uhr",
-      "timestamp": 1795734000.0,
-      "source": "PCGamer latest",
-      "summary": "Grinding Gear Games' Jonathan Rogers urges devs to lead with their best stuff."
+      "title": "GTA 6 Lucia actor \"dedicated almost a decade\" to bringing Rockstar's new protagonist to life",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lucia-actor-dedicated-almost-a-decade-to-bringing-rockstars-new-protagonist-to-life-and-its-been-a-whirlwind-for-her-since-launch/",
+      "pubDate": "27.11.2026 um 17:36 Uhr",
+      "timestamp": 1795800964.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "\"I am beyond grateful\""
     },
     {
-      "title": "Dark fantasy and sudoku fuse together in unholy matrimony in Dungoku, a dungeon crawling twist on the classic puzzle game",
-      "link": "https://www.rockpapershotgun.com/dark-fantasy-and-sudoku-fuse-together-in-unholy-matrimony-in-dungoku-a-dungeon-crawling-twist-on-the-classic-puzzle-game",
-      "pubDate": "26.11.2026 um 22:50 Uhr",
-      "timestamp": 1795733440.0,
+      "title": "The PC specs for Mass Effect-like RPG Exodus are basically bearable for a blockbuster space opera in 2026",
+      "link": "https://www.rockpapershotgun.com/the-pc-specs-for-mass-effect-like-rpg-exodus-are-basically-bearable-for-a-blockbuster-space-opera-in-2026",
+      "pubDate": "27.11.2026 um 17:30 Uhr",
+      "timestamp": 1795800600.0,
       "source": "Rock Paper Shotgun News",
-      "summary": "Maths is not my strong suit, I make no secret of this, so when I come face to face with something like sudoku I will admit to recoiling in fear at hav..."
+      "summary": "Between Matthew McConaughey, the flesh cathedrals, the space bears, FemJun and the tragedy of Biggs \"The Bolt\" Keil, the pre-release reveals for Mass ..."
     },
     {
-      "title": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
-      "link": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-campaigns-differ-based-on-your-choices-which-character-you-choose-and-what-decisions-you-make-with-them-lead-down-different-experiences-of-an-overlapping-story/",
-      "pubDate": "26.11.2026 um 22:30 Uhr",
-      "timestamp": 1795732259.0,
+      "title": "GTA 6 sales estimates place it as the 13th best-selling game ever",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+      "pubDate": "27.11.2026 um 17:17 Uhr",
+      "timestamp": 1795799866.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "53 million puts it above any Call of Duty game"
+    },
+    {
+      "title": "The Currys Black Friday sale offers reliable gaming headsets under £50",
+      "link": "https://www.gamesradar.com/hardware/headsets-headphones/currys-black-friday-sales-has-brought-some-solid-gaming-headsets-below-gbp50-with-some-extra-perks-thrown-in-too/",
+      "pubDate": "27.11.2026 um 17:15 Uhr",
+      "timestamp": 1795799704.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "There are various pairs of gaming headsets reduced in the Currys Black Friday sales, including some affordable sets now under £50."
+    },
+    {
+      "title": "UFO location and alien encounter walkthrough in GTA 6",
+      "link": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
+      "pubDate": "27.11.2026 um 17:01 Uhr",
+      "timestamp": 1795798879.0,
+      "source": "Polygon.com",
+      "summary": "Here's how to start the UFO encounter event in GTA 6, how to have the alien dream, and where to find the dream's warehouse."
+    },
+    {
+      "title": "'Buffy the Vampire Slayer' Star Reveals His 5 Favorite Episodes",
+      "link": "https://www.polygon.com/best-buffy-vampire-slayer-episodes-ranking-james-marsters/",
+      "pubDate": "27.11.2026 um 17:00 Uhr",
+      "timestamp": 1795798819.0,
+      "source": "Polygon.com",
+      "summary": "Can you guess all five?"
+    },
+    {
+      "title": "Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled",
+      "link": "https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled",
+      "pubDate": "27.11.2026 um 17:00 Uhr",
+      "timestamp": 1795798800.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "Earlier this year, New Radical Games rocked up on the scene. A successor to Simpsons: Hit & Run and Prototype studio Radical Entertainment, with origi..."
+    },
+    {
+      "title": "Steam's Black Friday Sale Is Here With Some Great PC Gaming Steals",
+      "link": "https://www.polygon.com/steam-sale-actual-black-friday-2026-gaming-deals-pc-discount-best/",
+      "pubDate": "27.11.2026 um 16:54 Uhr",
+      "timestamp": 1795798444.0,
+      "source": "Polygon.com",
+      "summary": "Valve comes through with some actual Black Friday video sales on games rated Overwhelmingly Positive and some titles on sale for the first time ever"
+    },
+    {
+      "title": "Our favorite GTA 6 outfits and where to find them",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-outfits/",
+      "pubDate": "27.11.2026 um 16:51 Uhr",
+      "timestamp": 1795798312.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "From the coolest couples tattoos to the best of Lucia's hair in GTA 6, these are our fave fits"
+    },
+    {
+      "title": "Ex-Rockstar dev says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
+      "pubDate": "27.11.2026 um 16:46 Uhr",
+      "timestamp": 1795797961.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "The natural world is just that much livelier"
+    },
+    {
+      "title": "Don't expect a GTA set outside the USA anytime soon, as Rockstar has \"not had a lot of conversations over doing it anywhere else\"",
+      "link": "https://www.eurogamer.net/gta-outside-usa-unlikely-rockstar-not-had-conversations-over-anywhere-else",
+      "pubDate": "27.11.2026 um 16:46 Uhr",
+      "timestamp": 1795797960.0,
+      "source": "Eurogamer.net News",
+      "summary": "Would Rockstar really set a future Grand Theft Auto game outside of the United States? The concept's been mooted recently, particularly in reporting o..."
+    },
+    {
+      "title": "All 11 GTA 6 meditation spots and where to find them",
+      "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-meditation-spots/",
+      "pubDate": "27.11.2026 um 16:33 Uhr",
+      "timestamp": 1795797188.0,
+      "source": "Latest from GamesRadar+",
+      "summary": "Finding meditation spots in GTA 6 will give you a permanent Focus boost"
+    },
+    {
+      "title": "Silksong is getting a free expansion in 2 weeks",
+      "link": "https://www.pcgamer.com/games/action/silksong-is-getting-a-free-expansion-its-first-content-update-since-launch-in-2-weeks/",
+      "pubDate": "27.11.2026 um 16:31 Uhr",
+      "timestamp": 1795797113.0,
       "source": "PCGamer latest",
-      "summary": "Dawn of War 4 writer John French lays out how it works."
+      "summary": "Sea of Sorrow looks rad."
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield",
+      "link": "https://www.rockpapershotgun.com/warhammer-40000-dawn-of-war-4-gets-a-model-painter-demo-so-you-can-make-a-mess-of-your-orks-necrons-space-marines-and-admech-before-they-even-hit-the-battlefield",
+      "pubDate": "27.11.2026 um 16:31 Uhr",
+      "timestamp": 1795797060.0,
+      "source": "Rock Paper Shotgun News",
+      "summary": "In the grim darkness of the week before the release of Warhammer 40,000: Dawn of War 4, developers King Art and publishers Deep Silver have released a..."
     }
   ],
   "sim": [
+    {
+      "title": "Trak Racer’s PS5 sim racing rig bundle is reduced for Black Friday",
+      "link": "https://traxion.gg/trak-racers-ps5-compatible-sim-racing-rig-bundle-is-reduced-for-black-friday/",
+      "pubDate": "27.11.2026 um 15:40 Uhr",
+      "timestamp": 1795794042.0,
+      "source": "Traxion.GG",
+      "summary": "Trak Racer's PlayStation-compatible bundle pairs the TR40S cockpit with the RE2 seat and Fanatec Gran Turismo DD Pro.  The post Trak Racer’s PS5 sim r..."
+    },
+    {
+      "title": "Gran Turismo 7’s Spec IV Part 2 update will be playable at ‘Inspire Tokyo’ festival",
+      "link": "https://traxion.gg/gran-turismo-7s-spec-iv-part-2-update-will-be-playable-at-inspire-tokyo-festival/",
+      "pubDate": "27.11.2026 um 13:11 Uhr",
+      "timestamp": 1795785070.0,
+      "source": "Traxion.GG",
+      "summary": "Part 2 of Gran Turismo 7's upcoming Spec IV update will be playable at the 'Inspire Tokyo'  festival, with Super GT and Super Formula star Igor Fraga ..."
+    },
+    {
+      "title": "Alpine Sim Racing Series: Jarschel wins again at Zandvoort",
+      "link": "https://traxion.gg/alpine-sim-racing-series-jarschel-wins-again-at-zandvoort/",
+      "pubDate": "27.11.2026 um 12:44 Uhr",
+      "timestamp": 1795783440.0,
+      "source": "Traxion.GG",
+      "summary": "The famous Dutch Grand Prix circuit, well-known for its difficulty in overtaking, was overcome by Jarschel’s aggressive driving style as he made three..."
+    },
+    {
+      "title": "Forza Horizon 6 Photo Challenge: Where to find Tokyo Tower",
+      "link": "https://traxion.gg/forza-horizon-6-photo-challenge-where-to-find-tokyo-tower/",
+      "pubDate": "27.11.2026 um 12:21 Uhr",
+      "timestamp": 1795782081.0,
+      "source": "Traxion.GG",
+      "summary": "Here’s where to find Tokyo Tower for the #RadioCarCar Photo Challenge, part of Forza Horizon 6's Series 7 Week 4 Playlist. The post Forza Horizon 6 Ph..."
+    },
+    {
+      "title": "The 5 best CONSPIT Black Friday Sim Racing Deals",
+      "link": "https://traxion.gg/the-5-best-conspit-black-friday-deals/",
+      "pubDate": "27.11.2026 um 11:18 Uhr",
+      "timestamp": 1795778280.0,
+      "source": "Traxion.GG",
+      "summary": "Sponsored Content: Check out CONSPIT’s five best Black Friday sim racing deals running until 10th January 2027.  The post The 5 best CONSPIT Black Fri..."
+    },
+    {
+      "title": "Best Black Friday sim racing deals, 2026 (Updated)",
+      "link": "https://traxion.gg/best-black-friday-sim-racing-deals-2026/",
+      "pubDate": "27.11.2026 um 09:14 Uhr",
+      "timestamp": 1795770887.0,
+      "source": "Traxion.GG",
+      "summary": "We've rounded up the best Black Friday sim racing equipment and software deals for 2026. The post Best Black Friday sim racing deals, 2026 (Updated) a..."
+    },
     {
       "title": "The 10 Best Black Friday Sim Racing Deals of 2026",
       "link": "https://www.gtplanet.net/the-10-best-black-friday-sim-racing-deals-of-2026-20261126/",
@@ -333,30 +381,6 @@
       "summary": "Sponsored Content: When it comes to sim racing equipment, Scan UK can offer not only a wide range of products from trusted brands, but also comprehens..."
     },
     {
-      "title": "How to complete the Series 7 Week 4 ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6",
-      "link": "https://traxion.gg/how-to-complete-the-series-7-week-4-tokyo-city-region-treasure-hunt-in-forza-horizon-6/",
-      "pubDate": "26.11.2026 um 17:47 Uhr",
-      "timestamp": 1795715254.0,
-      "source": "Traxion.GG",
-      "summary": "Follow our trusty guide to help you complete the ‘Tokyo City Region’ Treasure Hunt in Forza Horizon 6, featured in the Series 7 Week 4 Festival Playli..."
-    },
-    {
-      "title": "Moza partners with FIA’s Assetto Corsa Rally esports competition",
-      "link": "https://traxion.gg/moza-partners-with-fias-assetto-corsa-rally-esports-competition/",
-      "pubDate": "26.11.2026 um 16:17 Uhr",
-      "timestamp": 1795709840.0,
-      "source": "Traxion.GG",
-      "summary": "Moza will supply hardware for the FIA’s Esports Global Rally Tour Finals in Shanghai next month. The post Moza partners with FIA’s Assetto Corsa Rally..."
-    },
-    {
-      "title": "Ascher Racing’s Black Friday sale offers up to 30% off sim racing accessories",
-      "link": "https://traxion.gg/ascher-racings-black-friday-sale-offers-up-to-30-off-sim-racing-accessories/",
-      "pubDate": "26.11.2026 um 11:32 Uhr",
-      "timestamp": 1795692770.0,
-      "source": "Traxion.GG",
-      "summary": "Ascher Racing’s Black Friday sale runs until 7 December. The post Ascher Racing’s Black Friday sale offers up to 30% off sim racing accessories appear..."
-    },
-    {
       "title": "Rockstar Hired a Gran Turismo World Finalist to Work on GTA 6’s Car Physics",
       "link": "https://www.gtplanet.net/rockstar-hired-a-gran-turismo-world-finalist-to-work-on-gta-6s-car-physics-20261125/",
       "pubDate": "25.11.2026 um 22:15 Uhr",
@@ -371,30 +395,6 @@
       "timestamp": 1795644051.0,
       "source": "iRacing.com",
       "summary": "Welcome to the iRacing Weekly Tune-in, your guide to what is available to watch this week on the official iRacing broadcast channels, as well as some ..."
-    },
-    {
-      "title": "Mario Kart World adds eight new tracks and replay mode in free update",
-      "link": "https://traxion.gg/mario-kart-world-adds-eight-new-tracks-and-replay-mode-in-free-update/",
-      "pubDate": "25.11.2026 um 12:46 Uhr",
-      "timestamp": 1795610770.0,
-      "source": "Traxion.GG",
-      "summary": "Mario Kart World’s latest update also adds two new Knockout Tour routes. The post Mario Kart World adds eight new tracks and replay mode in free updat..."
-    },
-    {
-      "title": "GTA 6: Where to find Brian O’Conner’s Mitsubishi Eclipse clone",
-      "link": "https://traxion.gg/grand-theft-auto-vi-where-to-find-brian-oconners-the-fast-and-the-furious-mitsubishi-eclipse-clone/",
-      "pubDate": "25.11.2026 um 12:15 Uhr",
-      "timestamp": 1795608953.0,
-      "source": "Traxion.GG",
-      "summary": "Find out where to locate Brian O'Conner's iconic Mitsubishi Eclipse clone in GTA 6. The post GTA 6: Where to find Brian O&#8217;Conner’s Mitsubishi Ec..."
-    },
-    {
-      "title": "Best Black Friday sim racing deals, 2026 (Updated)",
-      "link": "https://traxion.gg/best-black-friday-sim-racing-deals-2026/",
-      "pubDate": "25.11.2026 um 12:05 Uhr",
-      "timestamp": 1795608348.0,
-      "source": "Traxion.GG",
-      "summary": "We've rounded up the best Black Friday sim racing equipment and software deals for 2026. The post Best Black Friday sim racing deals, 2026 (Updated) a..."
     },
     {
       "title": "Igor Fraga’s Wild 2026 Brings Third in Super Formula and First GT500 Podium",
